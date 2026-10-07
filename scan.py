@@ -8,11 +8,16 @@ Usage:
   python scan.py            normal run (alerts on new roles)
   python scan.py --test     send one test notification and exit
 
-Env:
-  NTFY_TOPIC   your private ntfy topic name (if empty, it just prints what it would send)
+Env (set any or all; channels without settings are skipped):
+  NTFY_TOPIC            ntfy topic name
+  TELEGRAM_BOT_TOKEN    token from @BotFather
+  TELEGRAM_CHAT_ID      your chat id (from @userinfobot)
+  DISCORD_WEBHOOK_URL   webhook URL from your Discord channel's Integrations settings
+If none are set, it just prints what it would send.
 """
 import concurrent.futures as cf
 import datetime as dt
+import html
 import json
 import os
 import re
@@ -24,6 +29,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STATE_FILE = os.path.join(HERE, "seen.json")
 BOARDS = json.load(open(os.path.join(HERE, "boards.json")))
 TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
+TG_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
+TG_CHAT = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+DISCORD = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+TG_API = os.environ.get("TELEGRAM_API", "https://api.telegram.org")  # override only for testing
+PUSH_ERRORS = []
 
 UA = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36",
@@ -219,16 +229,43 @@ def build_tasks():
 
 
 # ---------------- notifications ----------------
+def _post(url, payload, headers=None):
+    h = {"Content-Type": "application/json", "User-Agent": "job-alerts (github actions, 1.0)"}
+    h.update(headers or {})
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(), headers=h)
+    return urllib.request.urlopen(req, timeout=20).read()
+
+
 def push(title, message, click=None, priority=4, tags=None):
-    if not TOPIC:
+    """Send one alert to every configured channel. A failing channel never blocks the others."""
+    channels = []
+    if TOPIC:
+        body = {"topic": TOPIC, "title": title, "message": message, "priority": priority, "tags": tags or ["shield"]}
+        if click:
+            body["click"] = click
+            body["actions"] = [{"action": "view", "label": "Apply", "url": click}]
+        channels.append(("ntfy", lambda: _post("https://ntfy.sh", body)))
+    if TG_TOKEN and TG_CHAT:
+        text = f"<b>{html.escape(title, quote=False)}</b>\n{html.escape(message, quote=False)}"
+        if click:
+            text += f'\n<a href="{html.escape(click, quote=True)}">Open posting</a>'
+        tg = {"chat_id": TG_CHAT, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True}
+        if click:
+            tg["reply_markup"] = {"inline_keyboard": [[{"text": "Apply", "url": click}]]}
+        channels.append(("telegram", lambda: _post(f"{TG_API}/bot{TG_TOKEN}/sendMessage", tg)))
+    if DISCORD:
+        content = f"\U0001F6A8 **{title}**\n{message}" + (f"\n<{click}>" if click else "")
+        channels.append(("discord", lambda: _post(DISCORD, {"content": content[:1900], "username": "Job Alerts"})))
+    if not channels:
         print(f"[dry run] PUSH: {title} | {message} | {click}")
         return
-    body = {"topic": TOPIC, "title": title, "message": message, "priority": priority, "tags": tags or ["shield"]}
-    if click:
-        body["click"] = click
-        body["actions"] = [{"action": "view", "label": "Apply", "url": click}]
-    req = urllib.request.Request("https://ntfy.sh", data=json.dumps(body).encode(), headers={"Content-Type": "application/json"})
-    urllib.request.urlopen(req, timeout=20).read()
+    for name, send in channels:
+        try:
+            send()
+        except Exception as e:
+            err = f"{name}: {str(e)[:80]}"
+            PUSH_ERRORS.append(err)
+            print("  push failed ->", err)
 
 
 def describe(j):
@@ -240,9 +277,12 @@ def describe(j):
 
 def main():
     if "--test" in sys.argv:
-        push("Job alerts test", "If you see this, your phone is connected.", priority=3)
-        print("test sent" if TOPIC else "no NTFY_TOPIC set, nothing sent")
-        return 0
+        push("Job alerts test", "If you see this, this channel is connected.", priority=3)
+        on = [n for n, v in (("ntfy", TOPIC), ("telegram", TG_TOKEN and TG_CHAT), ("discord", DISCORD)) if v]
+        print("test sent to:", ", ".join(on) if on else "nothing (no channels set)")
+        if PUSH_ERRORS:
+            print("errors:", PUSH_ERRORS)
+        return 1 if PUSH_ERRORS else 0
 
     first_run = not os.path.exists(STATE_FILE)
     state = {} if first_run else json.load(open(STATE_FILE))
@@ -280,7 +320,7 @@ def main():
         print("  unreachable:", f)
 
     if first_run:
-        push("Job alerts are live", f"Watching {len(results)} job boards. Tracking {total} open security roles. You'll get a push the moment a new one appears.", priority=3, tags=["white_check_mark"])
+        push("Job alerts are live", f"Watching {len(results)} job boards. Tracking {total} open security roles. You'll get an alert the moment a new one appears.", priority=3, tags=["white_check_mark"])
     else:
         for j in new_jobs[:10]:
             t, m = describe(j)
@@ -288,8 +328,10 @@ def main():
         if len(new_jobs) > 10:
             push(f"+{len(new_jobs) - 10} more new roles", "Check the Actions log in your job-alerts repo for the full list.", priority=3)
 
-    # if most boards failed, make the GitHub run show as failed so you get an email
-    return 1 if len(results) < len(tasks) * 0.5 else 0
+    # mark the GitHub run failed (so you get an email) if most boards failed or a channel couldn't send
+    if PUSH_ERRORS:
+        print("push errors:", PUSH_ERRORS)
+    return 1 if (len(results) < len(tasks) * 0.5 or PUSH_ERRORS) else 0
 
 
 if __name__ == "__main__":
