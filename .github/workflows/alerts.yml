@@ -2,8 +2,13 @@ name: job-alerts
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # every 10 min (GitHub often delays this by 5-15 min)
-  workflow_dispatch:         # lets you run it by hand from the Actions tab
+    - cron: '*/10 * * * *'   # backup timer; cron-job.org triggers it faster (see README)
+  workflow_dispatch:         # run by hand, or by cron-job.org every 5 min
+    inputs:
+      test:
+        description: 'Only send a test alert to all channels (no scan)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,10 +28,13 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Scan job boards and push new roles to your phone
-        run: python scan.py
+      - name: Scan job boards and send new roles to your phone
+        run: python scan.py ${{ inputs.test && '--test' || '' }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
       - name: Save what we've already seen
         if: always()
