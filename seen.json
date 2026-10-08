@@ -11,6 +11,7 @@
   "gh:6116398004": "2026-10-08",
   "gh:6148707004": "2026-10-08",
   "gh:6163325004": "2026-10-08",
+  "gh:6212490004": "2026-10-08",
   "gh:6218639004": "2026-10-08",
   "gh:7824766003": "2026-10-08",
   "gh:7977819003": "2026-10-08",
@@ -688,6 +689,7 @@
   "t:guardian|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-08",
   "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-08",
+  "t:guidepoi|gpsuinternapplicationsecurity": "2026-10-08",
   "t:gulfstreamae|spring2027iefelectronicsystemengineeringcybersecuritycollegiateintern": "2026-10-08",
   "t:harbingermot|interncybersecurity": "2026-10-08",
   "t:harbinge|interncybersecurity": "2026-10-08",
@@ -2153,6 +2155,7 @@
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004",
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
   ],
   "gh:gusto": [],
@@ -3174,7 +3177,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=925627&cid=8077&locvalue=1013",
-   "https://applebank.wd5.myworkdayjobs.com/en-US/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
    "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-sentinel.icims.com/jobs/5130/job",
    "https://careers.mitre.org/us/en/job/MITRUSR117737EXTERNALENUS/Cybersecurity-Engineer-Intern",
@@ -6741,6 +6743,10 @@
   [
    1791499713.8307867,
    "TRIAEM LLC - Cybersecurity - Intern"
+  ],
+  [
+   1791500624.896276,
+   "GuidePoint Security - GPSU Intern - Application Security"
   ]
  ]
 }
