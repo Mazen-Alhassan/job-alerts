@@ -37,6 +37,7 @@
   "gh:affirm": [],
   "gh:airbnb": [],
   "gh:alloy": [],
+  "gh:andurilindustries": [],
   "gh:anthropic": [],
   "gh:asana": [],
   "gh:astranis": [],
@@ -101,14 +102,14 @@
   ],
   "gh:roblox": [],
   "gh:rocketlab": [
-   "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+   "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
    "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
    "https://job-boards.greenhouse.io/rocketlab/jobs/7986959003",
-   "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+   "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
    "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
-   "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+   "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
    "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-   "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003"
+   "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003"
   ],
   "gh:rubrik": [],
   "gh:samsara": [],
@@ -120,10 +121,10 @@
   "gh:spacex": [
    "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
    "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
-   "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002",
    "https://boards.greenhouse.io/spacex/jobs/8724316002?gh_jid=8724316002",
+   "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002",
    "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002",
-   "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
+   "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
   ],
   "gh:stripe": [],
   "gh:tailscale": [],
@@ -146,7 +147,9 @@
    "https://careers.withwaymo.com/jobs?gh_jid=8234670"
   ],
   "gh:wizinc": [],
-  "kinaxis": [],
+  "kinaxis": [
+   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job"
+  ],
   "lever:kraken": [],
   "lever:magnetforensics": [],
   "lever:palantir": [
@@ -274,5 +277,5 @@
   "wd:usbank/US_Bank_Careers": [],
   "wd:workday/Workday": []
  },
- "updated": "2026-10-07T21:39:31.247896+00:00"
+ "updated": "2026-10-08T00:46:56.190634+00:00"
 }
