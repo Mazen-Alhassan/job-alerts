@@ -229,6 +229,7 @@
   "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/identity-analyst-it-internship_r-57499-1": "2026-10-08",
   "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/united-states---california---foster-city/intern---cfo---it--security--risk--and-compliance-_r0054791": "2026-10-08",
   "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ma-cambridge-bbn05--10--50-moulton-st--moulton-b5/summer-2027-cyber-intern---onsite_01879253": "2026-10-08",
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-fullerton-675--1801-hughes-dr--bldg-675/systems-security-engineering-intern---summer-2027-_01878922": "2026-10-08",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-08",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-08",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-08",
@@ -835,6 +836,7 @@
   "t:rsm|cybertestinginternsummer2027": "2026-10-08",
   "t:rtxcolli|cyberresearchinternshipsummer2027onsite": "2026-10-08",
   "t:rtx|summer2027cyberinternonsite": "2026-10-08",
+  "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-08",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-08",
@@ -6466,7 +6468,9 @@
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
-  "wd:globalhr/REC_RTX_Ext_Gateway": [],
+  "wd:globalhr/REC_RTX_Ext_Gateway": [
+   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922"
+  ],
   "wd:hp/ExternalCareerSite": [],
   "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [],
