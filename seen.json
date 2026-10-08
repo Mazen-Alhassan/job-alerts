@@ -3585,11 +3585,9 @@
    "https://www.linkedin.com/jobs/view/4448869906",
    "https://www.linkedin.com/jobs/view/4458365956",
    "https://www.linkedin.com/jobs/view/4466253153",
-   "https://www.linkedin.com/jobs/view/4467915763",
    "https://www.linkedin.com/jobs/view/4468290890",
    "https://www.linkedin.com/jobs/view/4468297828",
    "https://www.linkedin.com/jobs/view/4468321989",
-   "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474821199",
    "https://www.linkedin.com/jobs/view/4475032385",
@@ -5275,7 +5273,9 @@
   "wd+:globalhr/Private_Posting_No_TMP": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253"
   ],
-  "wd+:globalhr/rec_rtx_ext_gateway": [],
+  "wd+:globalhr/rec_rtx_ext_gateway": [
+   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922"
+  ],
   "wd+:globe/GLB_Careers": [],
   "wd+:globusmedical/GMED_Careers": [],
   "wd+:gnw/GNW": [],
@@ -6431,9 +6431,7 @@
   "wd:adobe/external_experienced": [],
   "wd:aero/external": [],
   "wd:aig/aig": [],
-  "wd:archgroup/careers": [
-   "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"
-  ],
+  "wd:archgroup/careers": [],
   "wd:arcticwolf/External": [],
   "wd:atcllc/atcllc": [
    "https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
