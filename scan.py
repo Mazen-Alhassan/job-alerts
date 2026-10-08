@@ -831,6 +831,37 @@ def scan(state, only=None, cycle=None):
     return new_jobs, failed, len(results), len(tasks), changed
 
 
+def eastern_now():
+    try:
+        from zoneinfo import ZoneInfo
+        return dt.datetime.now(ZoneInfo("America/Toronto"))
+    except Exception:
+        return dt.datetime.now(dt.timezone(dt.timedelta(hours=-4)))
+
+
+def heartbeat(state, ran, took, failed):
+    """Every 2 hours (on even Eastern hours), post a silent 'still running' status to Discord."""
+    now = eastern_now()
+    slot = now.strftime("%Y-%m-%d ") + f"{now.hour // 2 * 2:02d}"
+    if state.get("heartbeat") == slot:
+        return
+    state["heartbeat"] = slot
+    cutoff = time.time() - 2 * 3600
+    midnight = now.replace(hour=0, minute=0, second=0, microsecond=0).timestamp()
+    last2 = [r for r in state.get("recent", []) if r[0] >= cutoff]
+    today = [r for r in state.get("recent", []) if r[0] >= midnight]
+    lines = [f"\U0001F49A **Scanner running** \u00b7 {now.strftime('%-I:%M %p')} ET",
+             f"Last 2h: **{len(last2)}** new role{'s' * (len(last2) != 1)}" + (": " + "; ".join(r[1] for r in last2[:8]) if last2 else ""),
+             f"Today: **{len(today)}** new \u00b7 watching {len(build_tasks()):,} sources \u00b7 "
+             f"last cycle checked {ran:,} in {took:.0f}s, {len(failed)} unreachable"]
+    print("  heartbeat:", " | ".join(lines), flush=True)
+    if DISCORD:
+        try:  # flags 4096 = silent message: shows up in the channel without a push notification
+            _post(DISCORD, {"content": "\n".join(lines)[:1900], "username": "Job Alerts", "flags": 4096})
+        except Exception as e:
+            print("  heartbeat failed:", str(e)[:80])
+
+
 def git_commit(msg):
     cmds = [["git", "add", "seen.json"], ["git", "commit", "-q", "-m", msg], ["git", "pull", "--rebase", "-q"], ["git", "push", "-q"]]
     if subprocess.run(["git", "diff", "--quiet", "--", "seen.json"], cwd=HERE).returncode == 0:
@@ -969,6 +1000,11 @@ def main():
         start = time.time()
         new_jobs, failed, ok, ran, changed = scan(state, cycle=cycle)
         health.append(ok >= ran * 0.5)
+        if new_jobs:  # rolling 26h log of what was alerted, for the heartbeat
+            state["recent"] = [r for r in state.get("recent", []) if r[0] > time.time() - 26 * 3600] + \
+                [[time.time(), f"{j['company']} - {j['title']}"[:90]] for j in new_jobs]
+        if minutes:
+            heartbeat(state, ran, time.time() - start, failed)
         cycle = None if cycle is None else cycle + 1
         if first_run:
             n = sum(len(v) for v in state["boards"].values())
