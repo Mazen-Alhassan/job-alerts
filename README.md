@@ -33,8 +33,3 @@ Tap the notification and it opens the application page.
   `boards.greenhouse.io/COMPANY`, `jobs.lever.co/COMPANY`, `jobs.ashbyhq.com/COMPANY`).
 - Change what counts as a match: edit the `SEC` / `INT` patterns near the top of `scan.py`.
 - Test your phone any time: add `NTFY_TOPIC` in your terminal and run `python scan.py --test`.
-
-## What it can NOT see directly
-
-Tesla and Meta block automated checks. Tesla and Meta internships usually still show up through
-the Simplify feed or LinkedIn, just later. It also can't see your Carleton co-op portal.
