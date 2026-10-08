@@ -41,6 +41,7 @@
   "gh:8802897002": "2026-10-08",
   "gh:8842752002": "2026-10-08",
   "gh:8846143002": "2026-10-08",
+  "https:/.appone.com/job/6ac7ce952c25d93763dbd4e9": "2026-10-08",
   "https:/.careers.microsoft.com/careers/job/1970393556922930": "2026-10-08",
   "https:/.careers.microsoft.com/careers/job/1970393556988203": "2026-10-08",
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-08",
@@ -647,6 +648,7 @@
   "t:fifththi|informationsecuritycoopcodesecurityspring2027": "2026-10-08",
   "t:fifththi|informationsecuritycoopidentityaccessmanagementspring2027": "2026-10-08",
   "t:figureai|securityengineerinternwinter2027": "2026-10-08",
+  "t:firehawk|itcybersecurityinternshipsummer2027": "2026-10-08",
   "t:fis|internriskandcybersecurityfisuniversityprogram": "2026-10-08",
   "t:fortunebrand|productmanagementinternb2bsecurity": "2026-10-08",
   "t:fortuneb|productmanagementinternb2bsecurity": "2026-10-08",
@@ -3152,6 +3154,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://applebank.wd5.myworkdayjobs.com/en-US/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+   "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-sentinel.icims.com/jobs/5130/job",
    "https://careers.jacobs.com/en_US/careers/JobDetail/VDS-Voice-Data-Security-Engineering-Intern-Summer-2027/46462",
    "https://click.appcast.io/t/epd_TcbHa7T2Ql54_icByn8UXeCKpnXy0U8Dtmvb56k=",
@@ -6683,5 +6686,11 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-08 14"
+ "heartbeat": "2026-10-08 14",
+ "recent": [
+  [
+   1791487114.6532326,
+   "Firehawk Aerospace - IT/Cybersecurity Internship - Summer 2027"
+  ]
+ ]
 }
