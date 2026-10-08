@@ -79,6 +79,7 @@
   "https://amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa": "2026-10-08",
   "https://amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa": "2026-10-08",
   "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa": "2026-10-08",
+  "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027": "2026-10-08",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-08",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-08",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-08",
@@ -166,6 +167,7 @@
   "https://careers.mitre.org/us/en/job/r117737": "2026-10-08",
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-08",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-08",
+  "https://careers.rtx.com/global/en/job/01878922": "2026-10-08",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-08",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-08",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-08",
@@ -472,6 +474,7 @@
   "t:amazon|softwaredevelopmentengineerinternsummer2027usa": "2026-10-08",
   "t:amazon|softwaredevelopmentengineerinternsummer2027usaamazondedicatedcloudadc": "2026-10-08",
   "t:amazon|softwaredevelopmentengineerroboticsearlycareer2027": "2026-10-08",
+  "t:amazon|systemsdevelopmentengineerinternus2027": "2026-10-08",
   "t:americanbank|interncybersecuritypolicyanalyst": "2026-10-08",
   "t:americancent|cybersecurityintern": "2026-10-08",
   "t:americanfami|summer2027interncybersecurity": "2026-10-08",
@@ -839,6 +842,7 @@
   "t:rockwell|interncyberprofessionalserviceslcs": "2026-10-08",
   "t:rsm|cybertestinginternsummer2027": "2026-10-08",
   "t:rtxcolli|cyberresearchinternshipsummer2027onsite": "2026-10-08",
+  "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:rtx|summer2027cyberinternonsite": "2026-10-08",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
@@ -951,6 +955,7 @@
    "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+   "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -3159,7 +3164,6 @@
    "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-sentinel.icims.com/jobs/5130/job",
    "https://careers.jacobs.com/en_US/careers/JobDetail/VDS-Voice-Data-Security-Engineering-Intern-Summer-2027/46462",
-   "https://click.appcast.io/t/epd_TcbHa7T2Ql54_icByn8UXeCKpnXy0U8Dtmvb56k=",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
    "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed",
@@ -3904,7 +3908,8 @@
   "phenom:careers.rbi.com": [],
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
-   "https://careers.rtx.com/global/en/job/01872177"
+   "https://careers.rtx.com/global/en/job/01872177",
+   "https://careers.rtx.com/global/en/job/01878922"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -6697,6 +6702,14 @@
   [
    1791487561.511845,
    "Upbound Group - Cybersecurity Intern"
+  ],
+  [
+   1791490898.2847757,
+   "Amazon - Systems Development Engineer Intern, (US) 2027"
+  ],
+  [
+   1791490898.2847784,
+   "RTX (Collins, Pratt & Whitney, Raytheon) - Systems Security Engineering Intern  (Summer 20"
   ]
  ]
 }
