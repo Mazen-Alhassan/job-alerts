@@ -1,5 +1,3 @@
-# Job alerts: security internships straight to your phone
-
 Around the clock, every ~90 seconds, this checks ~5,100 company job boards across 15 hiring systems (Greenhouse,
 Lever, Ashby, Workday, Oracle, Phenom, Eightfold, iCIMS, SuccessFactors, SmartRecruiters, Workable, Rippling,
 Jobvite, Jibe, Radancy), custom fetchers for Microsoft, Google, Apple, Amazon, Netflix, TikTok, Cisco, Kinaxis,
