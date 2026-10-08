@@ -102,6 +102,7 @@ NAMES.update({
 # In --loop mode a scan cycle starts every CYCLE seconds. Cheap single-request boards run every cycle;
 # heavier or rate-limited sources run every Nth cycle (by task-key prefix), staggered so each cycle gets a slice.
 CYCLE = 90
+LOOKBACK_DAYS = 7  # Simplify listings older than this are ignored; LinkedIn searches the last day (sweep widens both)
 EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "linkedin": 5}
 WD_SLOTS = threading.BoundedSemaphore(16)  # Workday rate-limits per IP across all its tenants
 
@@ -134,9 +135,27 @@ def getj(url, data=None, headers=None, opener=None):
     return json.loads(http(url, data, headers, opener=opener))
 
 
+def norm_date(d):
+    """ISO date from whatever a board gives us: ISO, 'October 1, 2026', or Workday's 'Posted 3 Days Ago'."""
+    d = (d or "").strip()
+    if re.match(r"\d{4}-\d{2}-\d{2}", d):
+        return d[:10]
+    today = dt.date.today()
+    m = re.search(r"Posted (Today|Yesterday|(\d+)\+? Days? Ago)", d, re.I)
+    if m:
+        n = 0 if m.group(1).lower() == "today" else 1 if m.group(1).lower() == "yesterday" else int(m.group(2))
+        return str(today - dt.timedelta(days=n))
+    for fmt in ("%B %d, %Y", "%b %d, %Y"):
+        try:
+            return str(dt.datetime.strptime(d, fmt).date())
+        except ValueError:
+            pass
+    return ""
+
+
 def job(url, company, title, loc="", date="", note="", raw_company=False):
     return {"url": url.split("?utm")[0], "company": company if raw_company else nice(company), "title": title.strip(),
-            "loc": loc or "", "date": date or "", "note": note}
+            "loc": loc or "", "date": norm_date(date), "note": note}
 
 
 def day(ts):
@@ -390,7 +409,7 @@ SIMPLIFY_FEEDS = {
 
 def simplify(feed):
     """Community-maintained internship lists (thousands of companies, incl. ones we can't scan directly)."""
-    cutoff = time.time() - 7 * 86400  # ignore old listings that just got re-activated
+    cutoff = time.time() - LOOKBACK_DAYS * 86400  # ignore old listings that just got re-activated
     out = []
     for x in json.loads(http(SIMPLIFY_FEEDS[feed], headers={"Accept": "*/*"})):
         if not x.get("active") or not x.get("is_visible", True) or (x.get("date_posted") or 0) < cutoff:
@@ -416,7 +435,7 @@ def linkedin(_):
     for kw, loc in LI_QUERIES:
         try:
             t = http("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-                     + urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": "r86400", "sortBy": "DD", "start": 0}),
+                     + urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": f"r{86400 * (1 if LOOKBACK_DAYS <= 7 else LOOKBACK_DAYS)}", "sortBy": "DD", "start": 0}),
                      headers={"Accept": "text/html"})
             ok = True
         except Exception:
@@ -601,6 +620,94 @@ def git_commit(msg):
             return
 
 
+def ashby_dates(t):
+    """Posted dates for one Ashby board (the hosted page we scan has none; the public API does)."""
+    return {j["id"]: (j.get("publishedAt") or "")[:10] for j in getj(f"https://api.ashbyhq.com/posting-api/job-board/{t}").get("jobs", [])}
+
+
+def send_digest(header, lines):
+    """Post a long list as a few chunked messages instead of one ping per role."""
+    def chunks(limit):
+        cur = header
+        for ln in lines:
+            if len(cur) + len(ln) + 1 > limit:
+                yield cur
+                cur = ""
+            cur += ("\n" if cur else "") + ln
+        if cur:
+            yield cur
+    if not (TOPIC or DISCORD or (TG_TOKEN and TG_CHAT)):
+        print(header)
+        print("\n".join(lines))
+        return
+    for n, c in enumerate(chunks(1900)):
+        if DISCORD:
+            try:
+                _post(DISCORD, {"content": c, "username": "Job Alerts"})
+            except Exception as e:
+                PUSH_ERRORS.append(f"discord: {str(e)[:80]}")
+            time.sleep(1)  # Discord webhooks allow ~30 messages/min
+    for n, c in enumerate(chunks(3800)):
+        if TOPIC:
+            try:
+                _post("https://ntfy.sh", {"topic": TOPIC, "title": f"{header.splitlines()[0]} ({n + 1})"[:120],
+                                          "message": re.sub(r"[*<>]", "", c), "priority": 3, "tags": ["clipboard"]})
+            except Exception as e:
+                PUSH_ERRORS.append(f"ntfy: {str(e)[:80]}")
+
+
+def sweep(days):
+    """Everything matching that was posted in the last N days, sent as one digest. Doesn't touch seen.json."""
+    global LOOKBACK_DAYS
+    LOOKBACK_DAYS = days
+    tasks = [t for t in build_tasks() if t[0] != "shopify-page"]  # that one alerts on non-security roles
+    jobs, failed = [], []
+    with cf.ThreadPoolExecutor(64) as ex:
+        futs = {ex.submit(fn, arg): key for key, fn, arg in tasks}
+        for f in cf.as_completed(futs):
+            try:
+                jobs += [dict(j, src=futs[f]) for j in f.result()]
+            except Exception as e:
+                failed.append(f"{futs[f]} ({str(e)[:40]})")
+    for t in {j["src"].split(":", 1)[1] for j in jobs if j["src"].startswith("ashby:")}:
+        try:
+            dates = ashby_dates(t)
+            for j in jobs:
+                if j["src"] == f"ashby:{t}":
+                    j["date"] = dates.get(j["url"].rstrip("/").split("/")[-1], "")
+        except Exception:
+            pass
+    cutoff = str(dt.date.today() - dt.timedelta(days=days))
+    seen, recent, undated = set(), [], []
+    # employer's own listing wins over a LinkedIn copy of the same role (direct link, real posted date)
+    for j in sorted(sorted(jobs, key=lambda j: j["date"], reverse=True), key=lambda j: j["src"] == "linkedin"):
+        keys = (url_key(j["url"]), title_key(j))
+        if any(k in seen for k in keys):
+            continue
+        seen.update(keys)
+        if j["date"] >= cutoff:
+            recent.append(j)
+        elif not j["date"]:
+            undated.append(j)
+    print(f"sweep: {len(tasks) - len(failed)}/{len(tasks)} sources ok | {len(recent)} posted since {cutoff} | {len(undated)} undated")
+    for f in failed[:15]:
+        print("  unreachable:", f)
+
+    def line(j):
+        flag = "\U0001F341 " if CANADA.search(j["loc"]) else ""
+        bits = ", ".join(b for b in (j["loc"][:60], j.get("note", "")) if b)
+        return f"{flag}`{j['date'] or '?'}` **{j['company']}** - {j['title']}" + (f" ({bits})" if bits else "") + f"\n<{j['url']}>"
+    recent.sort(key=lambda j: j["date"], reverse=True)
+    ca = [j for j in recent if CANADA.search(j["loc"])]
+    rest = [j for j in recent if not CANADA.search(j["loc"])]
+    lines = ([f"__**Canada ({len(ca)})**__"] + [line(j) for j in ca] + [f"__**US / other ({len(rest)})**__"] + [line(j) for j in rest]
+             + ([f"__**No posted date listed ({len(undated)})**__"] + [line(j) for j in undated] if undated else []))
+    send_digest(f"\U0001F4CB **Security internship sweep: last {days} days** ({len(recent)} roles)", lines)
+    if PUSH_ERRORS:
+        print("push errors:", PUSH_ERRORS)
+    return 1 if PUSH_ERRORS else 0
+
+
 def main():
     if "--test" in sys.argv:
         push("Job alerts test", "If you see this, this channel is connected.", priority=3)
@@ -609,6 +716,9 @@ def main():
         if PUSH_ERRORS:
             print("errors:", PUSH_ERRORS)
         return 1 if PUSH_ERRORS else 0
+
+    if "--sweep" in sys.argv:
+        return sweep(int(sys.argv[sys.argv.index("--sweep") + 1]))
 
     if "--only" in sys.argv:
         scan(load_state(), sys.argv[sys.argv.index("--only") + 1])

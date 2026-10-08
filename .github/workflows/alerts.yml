@@ -14,6 +14,9 @@ on:
       minutes:
         description: 'How many minutes this run keeps scanning'
         default: '340'
+      sweep_days:
+        description: 'Only send a digest of every match posted in the last N days (no scan loop)'
+        default: ''
 
 permissions:
   contents: write   # commit seen.json
@@ -33,8 +36,21 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
 
+  sweep:
+    if: inputs.sweep_days != ''
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send a digest of recent matches
+        run: python3 scan.py --sweep ${{ inputs.sweep_days }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
   gate:
-    if: ${{ !inputs.test }}
+    if: ${{ !inputs.test && !inputs.sweep_days }}
     runs-on: ubuntu-latest
     outputs:
       go: ${{ steps.check.outputs.go }}
