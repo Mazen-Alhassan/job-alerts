@@ -161,6 +161,7 @@
   "https://careers.mastercard.com/us/en/job/r-284927": "2026-10-08",
   "https://careers.mitre.org/us/en/job/r117314": "2026-10-08",
   "https://careers.mitre.org/us/en/job/r117380": "2026-10-08",
+  "https://careers.mitre.org/us/en/job/r117737": "2026-10-08",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-08",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-08",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-08",
@@ -755,6 +756,7 @@
   "t:microsof|securityoperationsengineeringintern": "2026-10-08",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-08",
+  "t:mitre|cybersecurityengineerintern": "2026-10-08",
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-10-08",
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-10-08",
   "t:monolithicpo|securityanalystintern": "2026-10-08",
@@ -3878,7 +3880,8 @@
   ],
   "phenom:careers.mitre.org": [
    "https://careers.mitre.org/us/en/job/R117314",
-   "https://careers.mitre.org/us/en/job/R117380"
+   "https://careers.mitre.org/us/en/job/R117380",
+   "https://careers.mitre.org/us/en/job/R117737"
   ],
   "phenom:careers.omers.com": [],
   "phenom:careers.opentext.com": [],
