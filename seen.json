@@ -343,8 +343,10 @@
   "https://linkedin.com/jobs/view/4475441187": "2026-10-08",
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
   "https://linkedin.com/jobs/view/4475702474": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475963978": "2026-10-08",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
+  "https://linkedin.com/jobs/view/4477415557": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-08",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-08",
@@ -693,6 +695,7 @@
   "t:irvingco|securityanalyststudentwinter2027": "2026-10-08",
   "t:jabil|interncybersecurity": "2026-10-08",
   "t:jacobs|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-08",
+  "t:jefferso|cybersecuritystudentintern": "2026-10-08",
   "t:johnshopkins|cyberphysicalsystemsintern": "2026-10-08",
   "t:johnshop|2027internshipcyberphysicalsystems": "2026-10-08",
   "t:johnshop|2027internshipcybersecuritycyberdominance": "2026-10-08",
@@ -742,6 +745,7 @@
   "t:masterca|securityinfrastructureengineeringarchitectureinternsummer2027arlingtonvaus": "2026-10-08",
   "t:meijer|informationsecurityinternsummer2027": "2026-10-08",
   "t:memx|informationsecurityinternsummer2027hybrid": "2026-10-08",
+  "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-08",
   "t:merck|2027futuretalentprogramforensicserviceslaboratoryintern": "2026-10-08",
   "t:merck|2027futuretalentprogramglobalsecurityresiliencycenterintern": "2026-10-08",
   "t:merck|2027futuretalentprogramnorthamericaregionalsecurityteamintern": "2026-10-08",
@@ -3146,6 +3150,7 @@
    "https://click.appcast.io/t/epd_TcbHa7T2Ql54_icByn8UXeCKpnXy0U8Dtmvb56k=",
    "https://jobs.dayforcehcm.com/en-US/cna/CANDIDATEPORTAL/jobs/7148",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
+   "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
    "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed"
   ],
   "jobvite:aarete": [],
@@ -3587,7 +3592,9 @@
    "https://www.linkedin.com/jobs/view/4475032385",
    "https://www.linkedin.com/jobs/view/4475041044",
    "https://www.linkedin.com/jobs/view/4475594002",
-   "https://www.linkedin.com/jobs/view/4475702474"
+   "https://www.linkedin.com/jobs/view/4475702474",
+   "https://www.linkedin.com/jobs/view/4475963978",
+   "https://www.linkedin.com/jobs/view/4477415557"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4817,8 +4824,7 @@
   "wd+:caa/Careers": [],
   "wd+:cableone/Cable_One_External_Careers": [],
   "wd+:caci/external": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
-   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
+   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161"
   ],
   "wd+:cadence/External_Careers": [],
   "wd+:cadence/OpenEye_Careers": [],
@@ -6435,8 +6441,7 @@
    "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   ],
   "wd:caci/External": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
-   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
+   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161"
   ],
   "wd:cai/Computer_Aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
