@@ -20,7 +20,21 @@ permissions:
   actions: write    # start the next run
 
 jobs:
+  test:
+    if: inputs.test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send a test alert
+        run: python3 scan.py --test
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
   gate:
+    if: ${{ !inputs.test }}
     runs-on: ubuntu-latest
     outputs:
       go: ${{ steps.check.outputs.go }}
@@ -58,19 +72,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Send a test alert
-        if: inputs.test
-        run: python scan.py --test
-
       - name: Scan job boards and send new roles to your phone
-        if: ${{ !inputs.test }}
         run: |
           git config user.name "job-alerts"
           git config user.email "job-alerts@users.noreply.github.com"
           python scan.py --loop ${{ inputs.minutes || '340' }} --commit
 
       - name: Start the next run
-        if: ${{ !inputs.test && !cancelled() }}
+        if: ${{ !cancelled() }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run alerts.yml --ref main -R ${{ github.repository }}
