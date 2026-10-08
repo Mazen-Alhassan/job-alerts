@@ -1,6 +1,6 @@
 # job-alerts
 
-Scans ~2,400 sources for NEW security internships / co-ops (US + Canada) and pushes each one to the owner's
+Scans ~5,100 job boards plus ~15 custom sources for NEW security internships / co-ops (US + Canada) and pushes each one to the owner's
 phone with an apply link. The point is to apply within minutes of a posting going live.
 
 ## How it works
@@ -10,11 +10,19 @@ phone with an apply link. The point is to apply within minutes of a posting goin
   A source seen for the first time is recorded silently (no alert flood).
 - Dedupe: `seen.json` `alerted` holds a URL key (120 days) and a company+title key (21 days) for every role
   ever seen, so the same role found via two sources (e.g. Greenhouse and Simplify) only alerts once.
-- `boards.json`: `gh` Greenhouse, `lev` Lever, `ash` Ashby, `sr` SmartRecruiters, `wd` core Workday
-  `[host, tenant, site]` (checked every 2nd cycle), `wd_more` Workday boards discovered from Simplify (every 7th
-  cycle), `names` readable company names. Most of these were mined from Simplify listing URLs and validated
-  against each ATS API on Oct 7, 2026.
-- Custom fetchers in scan.py: Amazon, Cisco, Kinaxis (iCIMS), Shopify internship page (alerts on ANY new posting),
+- `boards.json` (key = ATS, how often it's checked is `EVERY` in scan.py):
+  `gh` Greenhouse, `lev` Lever, `ash` Ashby, `sr` SmartRecruiters, `workable`, `rippling`, `jobvite` (slugs);
+  `icims` (hosts), `sf` SuccessFactors career sites (hosts, e.g. Scotiabank/Rogers/Bombardier/Telus);
+  `eightfold` `[host, domain]` (Ericsson, Lockheed, Qualcomm, Morgan Stanley...), `phenom` `[host, "us/en"]`
+  (WBD, Bell, RTX, BAE, Thales, OpenText, HPE, MITRE...), `oracle` `[host, siteNumber]` (JPMorgan, Honeywell,
+  AmEx, Nokia, TI, Fortinet...), `jibe` `[host, job path]` (AMD, Viasat, KPMG Canada, JHU APL), `radancy`
+  `[host, search path]` (L3Harris, Intuit); `wd` core Workday `[host, tenant, site]` (every 2nd cycle) and
+  `wd_more` (every 7th; includes `wdN.myworkdaysite.com` hosts); `names` readable company names keyed by slug/host.
+  Mined on Oct 7-8, 2026 from the URLs in ~17 community internship/new-grad lists (Simplify, vanshb03, zapplyjobs,
+  negarprh, dreamworkhq...) and validated against each ATS, plus hand-resolved big names.
+- Custom fetchers in scan.py: Amazon and Netflix (any new US/CA tech internship, since their security interns sit
+  in generic SDE postings; Amazon's task key is `amazon-tech`), CSE (Ottawa; any student posting), Indeed via
+  `python-jobspy` (`jobspy` task; Glassdoor left out on purpose, it duplicates Indeed behind a login wall), Cisco, Kinaxis (iCIMS), Shopify internship page (alerts on ANY new posting),
   Microsoft (Eightfold, needs the careers-page cookie first), Google (parses `ds:1` page data), Apple (CSRF token;
   alerts on any new US/CA Students-team internship since Apple's security interns sit inside generic SWE postings),
   TikTok, Simplify feeds (SimplifyJobs + vanshb03 Summer2027 `listings.json`, last 7 days only), LinkedIn guest
@@ -50,7 +58,7 @@ Verify before adding: `https://boards-api.greenhouse.io/v1/boards/NAME/jobs`, `h
 `https://api.ashbyhq.com/posting-api/job-board/NAME` (404 = wrong name). Add a readable name to `names`.
 
 ## Blind spots
-Tesla and Meta block automated checks (their roles usually still arrive via Simplify/LinkedIn, later), PwC, CSIS,
+Tesla (403 from Akamai) and Meta (results come from a lazily loaded GraphQL query) block automated checks (their roles usually still arrive via Simplify/LinkedIn, later), PwC, CSIS,
 Oracle HCM boards (JPMorgan, Goldman) and iCIMS boards other than Kinaxis are only covered via Simplify/LinkedIn,
 and the Carleton co-op portal. `research/jobspy_search.py` covers LinkedIn/Indeed/Glassdoor when run from home.
 

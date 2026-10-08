@@ -1,9 +1,10 @@
 # Job alerts: security internships straight to your phone
 
-Around the clock, every ~90 seconds, this checks ~2,400 sources and pushes any NEW security internship / co-op
-to your phone: ~2,350 company job boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workday), custom fetchers
-for Microsoft, Google, Apple, Amazon, TikTok, Cisco, Kinaxis and Shopify, the Simplify internship feeds
-(thousands more companies), and LinkedIn's public job search.
+Around the clock, every ~90 seconds, this checks ~5,100 company job boards across 15 hiring systems (Greenhouse,
+Lever, Ashby, Workday, Oracle, Phenom, Eightfold, iCIMS, SuccessFactors, SmartRecruiters, Workable, Rippling,
+Jobvite, Jibe, Radancy), custom fetchers for Microsoft, Google, Apple, Amazon, Netflix, TikTok, Cisco, Kinaxis,
+Shopify and CSE, the Simplify internship feeds, LinkedIn's public job search and Indeed, and pushes any NEW
+security internship / co-op to your phone.
 Tap the notification and it opens the application page.
 
 ## Setup (about 10 minutes)
@@ -35,5 +36,5 @@ Tap the notification and it opens the application page.
 
 ## What it can NOT see directly
 
-Tesla, Meta, PwC and CSIS block automated checks. Tesla and Meta internships usually still show up through
+Tesla and Meta block automated checks. Tesla and Meta internships usually still show up through
 the Simplify feed or LinkedIn, just later. It also can't see your Carleton co-op portal.

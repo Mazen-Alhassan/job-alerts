@@ -106,7 +106,8 @@ NAMES.update({
 # heavier or rate-limited sources run every Nth cycle (by task-key prefix), staggered so each cycle gets a slice.
 CYCLE = 90
 LOOKBACK_DAYS = 7  # Simplify listings older than this are ignored; LinkedIn searches the last day (sweep widens both)
-EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "linkedin": 5}
+EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "linkedin": 5, "jobspy": 5, "icims:": 4, "oracle:": 3, "workable:": 5,
+         "rippling:": 3, "phenom:": 2, "eightfold:": 2, "sf:": 3, "jibe:": 2, "radancy:": 2}
 WD_SLOTS = threading.BoundedSemaphore(16)  # Workday rate-limits per IP across all its tenants
 
 
@@ -266,22 +267,189 @@ def workday(spec):
                 loc = j.get("locationsText") or ""
                 title = j.get("title") or ""
                 if title and j.get("externalPath") and want(title, loc):
-                    found[j["externalPath"]] = job(
-                        f"https://{host}/en-US/{site}{j['externalPath']}", tenant, title, loc, j.get("postedOn", "")
-                    )
+                    base = f"https://{host}/en-US/recruiting/{tenant}/{site}" if "myworkdaysite" in host else f"https://{host}/en-US/{site}"
+                    found[j["externalPath"]] = job(base + j["externalPath"], tenant, title, loc, j.get("postedOn", ""))
             if len(posts) < 20 or off + 20 >= d.get("total", 0):
                 break
     return list(found.values())
 
 
+def oracle(spec):
+    """Oracle Recruiting Cloud (JPMorgan and many banks/enterprises)."""
+    host, site = spec
+    found = {}
+    for q in ("security intern", "cyber", "security co-op"):
+        d = getj(f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true"
+                 f"&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber={site},"
+                 f"keyword={urllib.parse.quote(q)},limit=50,sortBy=POSTING_DATES_DESC")
+        for r in ((d.get("items") or [{}])[0].get("requisitionList") or []):
+            loc = "; ".join([r.get("PrimaryLocation") or ""] + [x.get("Name", "") for x in r.get("secondaryLocations") or []])
+            if want(r.get("Title", ""), loc):
+                found[r["Id"]] = job(f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{r['Id']}",
+                                     host, r["Title"], loc, r.get("PostedDate", ""))
+    return list(found.values())
+
+
+def phenom(spec):
+    """Phenom career sites (the /widgets search behind many big-company career pages, e.g. careers.X.com/us/en)."""
+    host, path = spec
+    region, lang = path.split("/")
+    found = {}
+    for kw in ("security intern", "cyber intern", "security co-op"):
+        body = {"lang": f"{lang}_{region}", "deviceType": "desktop", "country": region, "pageName": "search-results",
+                "ddoKey": "refineSearch", "sortBy": "Most recent", "subsearch": "", "from": 0, "jobs": True, "counts": True,
+                "all_fields": ["category", "country", "state", "city", "type"], "size": 50, "clearAll": False,
+                "jdsource": "facets", "isSliderEnable": False, "pageId": "page20", "siteType": "external",
+                "keywords": kw, "global": True, "locationData": {}}
+        d = getj(f"https://{host}/widgets", json.dumps(body).encode())
+        for j in (((d.get("refineSearch") or {}).get("data") or {}).get("jobs") or []):
+            loc = j.get("location") or ", ".join(x for x in (j.get("city"), j.get("country")) if x)
+            if want(j.get("title", ""), loc):
+                found[j["jobId"]] = job(f"https://{host}/{path}/job/{j['jobId']}", host, j["title"], loc, (j.get("postedDate") or "")[:10])
+    return list(found.values())
+
+
+def eightfold(spec):
+    """Eightfold career sites (Qualcomm, PayPal, AmEx, NetApp...); the API needs the career page's session cookie."""
+    host, domain = spec
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(CookieJar()))
+    http(f"https://{host}/careers", headers={"Accept": "text/html"}, opener=op)
+    found = {}
+    for q in ("security intern", "intern"):
+        for start in (0, 10, 20):
+            d = getj(f"https://{host}/api/pcsx/search?domain={domain}&query={urllib.parse.quote(q)}&location=&start={start}&sort_by=timestamp",
+                     opener=op, headers={"Referer": f"https://{host}/careers"})
+            for p in (d.get("data") or {}).get("positions") or []:
+                loc = "; ".join(p.get("locations") or [])
+                if want(p.get("name", ""), loc):
+                    found[p["id"]] = job(f"https://{host}/careers/job/{p['id']}", host, p["name"], loc, day(p.get("postedTs")))
+    return list(found.values())
+
+
+def icims(host):
+    found = {}
+    for q in ("security", "cyber"):
+        t = http(f"https://{host}/jobs/search?ss=1&searchKeyword={q}&in_iframe=1", headers={"Accept": "text/html"})
+        for jid, slug in re.findall(r"/jobs/(\d+)/([a-z0-9%\-\.]+)/job", t):
+            title = urllib.parse.unquote(slug).replace("--", " / ").replace("-", " ").replace("co op", "co-op")
+            if want(title):
+                found[jid] = job(f"https://{host}/jobs/{jid}/{slug}/job", host, title.title().replace("Co-Op", "Co-op"))
+    return list(found.values())
+
+
+def workable(t):
+    out = []
+    d = getj(f"https://apply.workable.com/api/v3/accounts/{t}/jobs",
+             json.dumps({"query": "", "location": [], "department": [], "worktype": [], "remote": []}).encode())
+    for j in d.get("results", []):
+        loc = "; ".join(", ".join(x for x in (l.get("city"), l.get("region"), l.get("country")) if x) for l in j.get("locations") or [])
+        if want(j["title"], loc):
+            out.append(job(f"https://apply.workable.com/{t}/j/{j['shortcode']}/", t, j["title"], loc, (j.get("published") or "")[:10]))
+    return out
+
+
+def rippling(t):
+    out = []
+    for page in range(5):
+        d = getj(f"https://ats.rippling.com/api/v2/board/{t}/jobs?page={page}&pageSize=100")
+        for j in d.get("items", []):
+            loc = "; ".join(l.get("name", "") for l in j.get("locations") or [])
+            if want(j["name"], loc):
+                out.append(job(j["url"], t, j["name"], loc))
+        if len(d.get("items", [])) < 100:
+            break
+    return out
+
+
+def jobvite(t):
+    out = []
+    page = http(f"https://jobs.jobvite.com/{t}/jobs", headers={"Accept": "text/html"})
+    for path, title, loc in re.findall(r'<td class="jv-job-list-name">\s*<a href="(/[^"]+/job/[A-Za-z0-9]+)"[^>]*>\s*(.*?)\s*</a>.*?'
+                                       r'<td class="jv-job-list-location">\s*(.*?)\s*</td>', page, re.S):
+        title, loc = html.unescape(title), re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", loc))).strip()
+        if want(title, loc):
+            out.append(job("https://jobs.jobvite.com" + path, t, title, loc))
+    return out
+
+
+def jibe(spec):
+    """iCIMS Jibe career sites (AMD, Viasat, KPMG Canada, Johns Hopkins APL...)."""
+    host, base = spec
+    found = {}
+    for q in ("security", "cyber"):
+        d = getj(f"https://{host}/api/jobs?keywords={q}&page=1&limit=100&sortBy=posted_date&descending=true&internal=false")
+        for j in d.get("jobs", []):
+            j = j.get("data", {})
+            loc = j.get("full_location") or j.get("location_name") or ""
+            if want(j.get("title", ""), loc):
+                found[j["slug"]] = job(f"https://{host}/{base}/{j['slug']}", host, j["title"], loc, j.get("posted_date", ""))
+    return list(found.values())
+
+
+def radancy(spec):
+    """Radancy/TalentBrew career sites (L3Harris, Lockheed Martin, Intuit...)."""
+    host, path = spec
+    found = {}
+    for q in ("security intern", "cyber intern", "security co-op"):
+        d = getj(f"https://{host}{path}/results?ActiveFacetID=0&CurrentPage=1&RecordsPerPage=100&Keywords={urllib.parse.quote(q)}"
+                 "&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters&SortCriteria=0&SortDirection=0&SearchType=5",
+                 headers={"X-Requested-With": "XMLHttpRequest"})
+        for href, title, loc in re.findall(r'<a href="(/[^"]*job/[^"]+)"[^>]*>\s*<h2>(.*?)</h2>.*?job-location[^"]*">(.*?)</span>',
+                                           d.get("results", ""), re.S):
+            title, loc = html.unescape(title).strip(), html.unescape(loc).strip()
+            if want(title, loc):
+                found[href] = job(f"https://{host}{href}", host, title, loc)
+    return list(found.values())
+
+
+def successfactors(host):
+    """SAP SuccessFactors career sites (Scotiabank, Rogers, Bombardier, Telus, Paramount...)."""
+    found = {}
+    for q in ("security", "cyber"):
+        for start in (0, 25):
+            t = http(f"https://{host}/search/?q={q}&sortColumn=referencedate&sortDirection=desc&startrow={start}", headers={"Accept": "text/html"})
+            for row in re.split(r'<tr class="data-row', t)[1:]:
+                a = re.search(r'<a href="(/job/[^"]+)" class="jobTitle-link"[^>]*>(.*?)</a>', row)
+                if not a:
+                    continue
+                loc = re.search(r'class="jobLocation"[^>]*>\s*(.*?)\s*<', row)
+                date = re.search(r'class="jobDate"[^>]*>\s*(.*?)\s*<', row)
+                title, loc = html.unescape(a.group(2)).strip(), html.unescape(loc.group(1)) if loc else ""
+                if want(title, loc):
+                    found[a.group(1)] = job(f"https://{host}{a.group(1)}", host, title, loc, date.group(1) if date else "")
+    return list(found.values())
+
+
+# For a few giants whose security interns hide inside generic intern postings, alert on any new US/CA tech internship.
+TECH = re.compile(r"software|engineer|developer|\bSDE\b|cloud|network|systems|infrastructure|\bIT\b|data|security|cyber", re.I)
+
+
+def big_tech_intern(title, loc, home=True):
+    return want(title, loc) or bool(home and INT.search(title) and TECH.search(title) and not foreign(loc) and not BAD.search(title))
+
+
 def amazon(_):
     found = {}
-    for q in ("security intern", "security co-op", "cyber intern"):
-        d = getj(f"https://www.amazon.jobs/en/search.json?base_query={urllib.parse.quote(q)}&result_limit=50&sort=recent")
+    for q in ("intern", "internship", "security intern"):
+        d = getj(f"https://www.amazon.jobs/en/search.json?base_query={urllib.parse.quote(q)}&result_limit=100&sort=recent"
+                 "&normalized_country_code[]=USA&normalized_country_code[]=CAN")
         for j in d.get("jobs", []):
             loc = j.get("location", "")
-            if want(j["title"], loc):
+            if big_tech_intern(j["title"], loc):
                 found[j["job_path"]] = job("https://www.amazon.jobs" + j["job_path"], "Amazon", j["title"], loc, j.get("posted_date", ""))
+    return list(found.values())
+
+
+def netflix(_):
+    found = {}
+    for q in ("intern", "security"):
+        d = getj(f"https://explore.jobs.netflix.net/api/apply/v2/jobs?domain=netflix.com&query={q}&start=0&num=100&sort_by=relevance")
+        for p in d.get("positions", []):
+            loc = p.get("location") or ""
+            home = bool(re.search(r"United States|Canada", loc))
+            if big_tech_intern(p.get("name", ""), loc, home):
+                found[p["id"]] = job(p.get("canonicalPositionUrl") or f"https://explore.jobs.netflix.net/careers/job/{p['id']}",
+                                     "Netflix", p["name"], loc, day(p.get("t_create")))
     return list(found.values())
 
 
@@ -427,6 +595,45 @@ def simplify(feed):
     return out
 
 
+def cse(_):
+    """Communications Security Establishment (Ottawa): any student posting, plus intern/co-op security roles elsewhere."""
+    found = {}
+    for kind in ("students-etudiants", "professionals-professionnels"):
+        t = http(f"https://careers.cse-cst.gc.ca/en/careers-carrieres/{kind}/opportunities/", headers={"Accept": "text/html"})
+        for href, title in re.findall(r'<a[^>]+href="(/en/careers/[^"]+-CA-\d+-en)"[^>]*>\s*([^<]+?)\s*</a>', t):
+            title = html.unescape(title)
+            if kind.startswith("students") or want(title, "Ottawa, ON"):
+                found[href] = job("https://careers.cse-cst.gc.ca" + href, "CSE", title, "Ottawa, ON")
+    return list(found.values())
+
+
+JOBSPY_QUERIES = [
+    ("cybersecurity intern", "Canada", "Canada"), ("security co-op", "Canada", "Canada"), ("cyber security student", "Canada", "Canada"),
+    ("cybersecurity intern", "United States", "USA"), ("security engineer intern", "United States", "USA"),
+    ("information security intern", "United States", "USA"),
+]
+
+
+def jobspy_sites(_):
+    """Indeed through the python-jobspy package (installed by the workflow; skipped if missing).
+    Glassdoor is left out on purpose: it duplicates Indeed and links to its own login-walled pages."""
+    from jobspy import scrape_jobs
+    found = {}
+    for term, loc, country in JOBSPY_QUERIES:
+        df = scrape_jobs(site_name=["indeed"], search_term=term, location=loc, results_wanted=50,
+                         hours_old=24 * max(1, LOOKBACK_DAYS if LOOKBACK_DAYS > 7 else 1), country_indeed=country, verbose=0)
+        for r in df.to_dict("records"):
+            title, where = str(r.get("title") or ""), str(r.get("location") or "")
+            if not want(title, where):
+                continue
+            direct = r.get("job_url_direct")
+            url = direct if isinstance(direct, str) and direct.startswith("http") else r.get("job_url")
+            date = r.get("date_posted")
+            found[url] = job(url, str(r.get("company") or "?"), title, where, str(date) if date is not None else "",
+                             f"via {str(r.get('site')).title()}", raw_company=True)
+    return list(found.values())
+
+
 LI_QUERIES = [
     ("security intern", "Canada"), ("cybersecurity co-op", "Canada"), ("security intern", "United States"),
     ("cybersecurity intern", "United States"), ("security engineer intern", "United States"),
@@ -471,9 +678,19 @@ def build_tasks():
     tasks += [(f"sr:{t}", smartrecruiters, t) for t in BOARDS.get("sr", [])]
     tasks += [(f"wd:{s[1]}/{s[2]}", workday, tuple(s)) for s in BOARDS["wd"]]
     tasks += [(f"wd+:{s[1]}/{s[2]}", workday, tuple(s)) for s in BOARDS.get("wd_more", [])]
+    tasks += [(f"oracle:{h}/{s}", oracle, (h, s)) for h, s in BOARDS.get("oracle", [])]
+    tasks += [(f"phenom:{h}", phenom, (h, p)) for h, p in BOARDS.get("phenom", [])]
+    tasks += [(f"eightfold:{h}", eightfold, (h, d)) for h, d in BOARDS.get("eightfold", [])]
+    tasks += [(f"icims:{h}", icims, h) for h in BOARDS.get("icims", [])]
+    tasks += [(f"workable:{t}", workable, t) for t in BOARDS.get("workable", [])]
+    tasks += [(f"rippling:{t}", rippling, t) for t in BOARDS.get("rippling", [])]
+    tasks += [(f"jobvite:{t}", jobvite, t) for t in BOARDS.get("jobvite", [])]
+    tasks += [(f"jibe:{h}", jibe, (h, b)) for h, b in BOARDS.get("jibe", [])]
+    tasks += [(f"radancy:{h}", radancy, (h, p)) for h, p in BOARDS.get("radancy", [])]
+    tasks += [(f"sf:{h}", successfactors, h) for h in BOARDS.get("sf", [])]
     tasks += [(k, simplify, k) for k in SIMPLIFY_FEEDS]
-    tasks += [(n, f, None) for n, f in (("amazon", amazon), ("cisco", cisco), ("kinaxis", kinaxis), ("shopify-page", shopify),
-                                         ("microsoft", microsoft), ("google", google), ("apple", apple), ("tiktok", tiktok),
+    tasks += [(n, f, None) for n, f in (("amazon-tech", amazon), ("cisco", cisco), ("kinaxis", kinaxis), ("shopify-page", shopify),
+                                         ("microsoft", microsoft), ("netflix", netflix), ("google", google), ("apple", apple), ("tiktok", tiktok), ("cse", cse), ("jobspy", jobspy_sites),
                                          ("linkedin", linkedin))]
     return tasks
 
@@ -497,7 +714,7 @@ def url_key(u):
 
 def title_key(j):
     norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
-    return "t:" + norm(j["company"])[:12] + "|" + norm(j["title"])
+    return "t:" + norm(j["company"])[:8] + "|" + norm(j["title"])
 
 
 # ---------------- notifications ----------------
@@ -693,7 +910,7 @@ def sweep(days, only="", label=""):
     cutoff = str(dt.date.today() - dt.timedelta(days=days))
     seen, recent, undated = set(), [], []
     # employer's own listing wins over a LinkedIn copy of the same role (direct link, real posted date)
-    for j in sorted(sorted(jobs, key=lambda j: j["date"], reverse=True), key=lambda j: j["src"] == "linkedin"):
+    for j in sorted(sorted(jobs, key=lambda j: j["date"], reverse=True), key=lambda j: j["src"] in ("linkedin", "jobspy")):
         keys = (url_key(j["url"]), title_key(j))
         if any(k in seen for k in keys):
             continue
