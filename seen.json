@@ -323,6 +323,7 @@
   "https://lifeattiktok.com/search/7667935739300317493": "2026-10-08",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-10-08",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
+  "https://linkedin.com/jobs/view/4448869906": "2026-10-08",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-08",
   "https://linkedin.com/jobs/view/4466253153": "2026-10-08",
   "https://linkedin.com/jobs/view/4467288333": "2026-10-08",
@@ -347,7 +348,9 @@
   "https://linkedin.com/jobs/view/4475963978": "2026-10-08",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
+  "https://linkedin.com/jobs/view/4477406995": "2026-10-08",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-08",
+  "https://linkedin.com/jobs/view/4477426178": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-08",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-08",
@@ -1712,9 +1715,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3151,7 +3152,6 @@
    "https://careers-sentinel.icims.com/jobs/5130/job",
    "https://careers.jacobs.com/en_US/careers/JobDetail/VDS-Voice-Data-Security-Engineering-Intern-Summer-2027/46462",
    "https://click.appcast.io/t/epd_TcbHa7T2Ql54_icByn8UXeCKpnXy0U8Dtmvb56k=",
-   "https://jobs.dayforcehcm.com/en-US/cna/CANDIDATEPORTAL/jobs/7148",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
    "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed"
@@ -3580,15 +3580,13 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4448869906",
    "https://www.linkedin.com/jobs/view/4458365956",
    "https://www.linkedin.com/jobs/view/4466253153",
-   "https://www.linkedin.com/jobs/view/4467288333",
-   "https://www.linkedin.com/jobs/view/4467903026",
    "https://www.linkedin.com/jobs/view/4467915763",
    "https://www.linkedin.com/jobs/view/4468290890",
    "https://www.linkedin.com/jobs/view/4468297828",
    "https://www.linkedin.com/jobs/view/4468321989",
-   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474821199",
@@ -3597,7 +3595,9 @@
    "https://www.linkedin.com/jobs/view/4475594002",
    "https://www.linkedin.com/jobs/view/4475702474",
    "https://www.linkedin.com/jobs/view/4475963978",
-   "https://www.linkedin.com/jobs/view/4477415557"
+   "https://www.linkedin.com/jobs/view/4477406995",
+   "https://www.linkedin.com/jobs/view/4477415557",
+   "https://www.linkedin.com/jobs/view/4477426178"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
