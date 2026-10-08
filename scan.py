@@ -656,19 +656,28 @@ def send_digest(header, lines):
                 PUSH_ERRORS.append(f"ntfy: {str(e)[:80]}")
 
 
-def sweep(days):
+def sweep(days, only="", label=""):
     """Everything matching that was posted in the last N days, sent as one digest. Doesn't touch seen.json."""
     global LOOKBACK_DAYS
     LOOKBACK_DAYS = days
-    tasks = [t for t in build_tasks() if t[0] != "shopify-page"]  # that one alerts on non-security roles
-    jobs, failed = [], []
-    with cf.ThreadPoolExecutor(64) as ex:
-        futs = {ex.submit(fn, arg): key for key, fn, arg in tasks}
-        for f in cf.as_completed(futs):
-            try:
-                jobs += [dict(j, src=futs[f]) for j in f.result()]
-            except Exception as e:
-                failed.append(f"{futs[f]} ({str(e)[:40]})")
+    # shopify-page alerts on non-security roles; `only` is comma-separated task-key prefixes
+    tasks = [t for t in build_tasks() if t[0] != "shopify-page" and (not only or t[0].startswith(tuple(only.split(","))))]
+    jobs, todo, failed = [], tasks, []
+    for rnd in range(4):  # a one-shot sweep bursts every Workday tenant at once, so retry the rate-limited ones slower
+        failed = []
+        with cf.ThreadPoolExecutor(64 if rnd == 0 else 8) as ex:
+            futs = {ex.submit(fn, arg): (key, fn, arg) for key, fn, arg in todo}
+            for f in cf.as_completed(futs):
+                try:
+                    jobs += [dict(j, src=futs[f][0]) for j in f.result()]
+                except Exception as e:
+                    failed.append((futs[f], str(e)[:40]))
+        todo = [t for t, _ in failed]
+        if not todo:
+            break
+        print(f"  round {rnd + 1}: {len(todo)} sources failed, retrying", flush=True)
+        time.sleep(30)
+    failed = [f"{t[0]} ({e})" for t, e in failed]
     for t in {j["src"].split(":", 1)[1] for j in jobs if j["src"].startswith("ashby:")}:
         try:
             dates = ashby_dates(t)
@@ -702,7 +711,9 @@ def sweep(days):
     rest = [j for j in recent if not CANADA.search(j["loc"])]
     lines = ([f"__**Canada ({len(ca)})**__"] + [line(j) for j in ca] + [f"__**US / other ({len(rest)})**__"] + [line(j) for j in rest]
              + ([f"__**No posted date listed ({len(undated)})**__"] + [line(j) for j in undated] if undated else []))
-    send_digest(f"\U0001F4CB **Security internship sweep: last {days} days** ({len(recent)} roles)", lines)
+    for j in recent + undated:
+        print(f"  {j['date'] or '?'} | {j['company']} | {j['title']} | {j['loc'][:50]} | {j['url']}")
+    send_digest(f"\U0001F4CB **Security internship sweep{label}: last {days} days** ({len(recent)} roles)", lines)
     if PUSH_ERRORS:
         print("push errors:", PUSH_ERRORS)
     return 1 if PUSH_ERRORS else 0
@@ -718,7 +729,8 @@ def main():
         return 1 if PUSH_ERRORS else 0
 
     if "--sweep" in sys.argv:
-        return sweep(int(sys.argv[sys.argv.index("--sweep") + 1]))
+        only = sys.argv[sys.argv.index("--only") + 1] if "--only" in sys.argv else ""
+        return sweep(int(sys.argv[sys.argv.index("--sweep") + 1]), only, f" ({only} only)" if only else "")
 
     if "--only" in sys.argv:
         scan(load_state(), sys.argv[sys.argv.index("--only") + 1])

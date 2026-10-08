@@ -17,6 +17,9 @@ on:
       sweep_days:
         description: 'Only send a digest of every match posted in the last N days (no scan loop)'
         default: ''
+      sweep_only:
+        description: 'Sweep only sources whose key starts with these comma-separated prefixes (e.g. wd)'
+        default: ''
 
 permissions:
   contents: write   # commit seen.json
@@ -42,7 +45,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Send a digest of recent matches
-        run: python3 scan.py --sweep ${{ inputs.sweep_days }}
+        run: python3 scan.py --sweep ${{ inputs.sweep_days }} ${{ inputs.sweep_only && format('--only {0}', inputs.sweep_only) || '' }}
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
