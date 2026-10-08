@@ -502,7 +502,6 @@
    "https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship"
   ],
   "apple": [
-   "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
@@ -940,9 +939,7 @@
   "gh:atlassand": [],
   "gh:atoms": [],
   "gh:attentive": [],
-  "gh:auctane": [
-   "https://job-boards.greenhouse.io/auctane/jobs/7977819003"
-  ],
+  "gh:auctane": [],
   "gh:audaxgroup": [],
   "gh:authenticbrandsgroup": [],
   "gh:avepoint": [],
@@ -1678,7 +1675,6 @@
    "https://www.linkedin.com/jobs/view/4475441187",
    "https://www.linkedin.com/jobs/view/4475594002",
    "https://www.linkedin.com/jobs/view/4475702474",
-   "https://www.linkedin.com/jobs/view/4476520484",
    "https://www.linkedin.com/jobs/view/4476747951"
   ],
   "microsoft": [
@@ -1881,9 +1877,7 @@
   "wd+:aes/aes_clean_energy": [],
   "wd+:ag/Airbus": [],
   "wd+:agilent/Agilent_Student_Careers": [],
-  "wd+:aig/early_careers": [
-   "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/IL-Chicago/XMLNAME-2027-Early-Careers--Summer-Intern--Forensic-Accounting---United-States--Dallas--TX---Chicago--IL_JR2603648"
-  ],
+  "wd+:aig/early_careers": [],
   "wd+:aimco/AIMCoCareers": [],
   "wd+:airliquidehr/AirLiquideExternalCareer": [],
   "wd+:airliquidehr/airgasexternalcareer": [],
@@ -1932,11 +1926,7 @@
   "wd+:ancestry/Careers": [],
   "wd+:andersen/Andersen_External_Career_Site": [],
   "wd+:andersonsinc/TheAndersonsCareers": [],
-  "wd+:ankura/ankura": [
-   "https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Atlanta-GA/University-Intern--Construction-Disputes---Advisory--Forensic-Accounting---Claims-Consulting-_R104957",
-   "https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Dallas-TX/University-Intern--Construction-Disputes---Advisory--Forensic-Accounting---Claims-Consulting-_R104970",
-   "https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Houston-TX/University-Intern--Forensic-Accounting---Claims-Consulting_R104971"
-  ],
+  "wd+:ankura/ankura": [],
   "wd+:aoins/AutoOwners": [
    "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477"
   ],
@@ -2026,9 +2016,7 @@
   "wd+:baltimorecity/External": [],
   "wd+:bankeasy/bank-easy-job-openings": [],
   "wd+:bannerhealth/Careers": [],
-  "wd+:barclays/External_Career_Site_Barclays": [
-   "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173"
-  ],
+  "wd+:barclays/External_Career_Site_Barclays": [],
   "wd+:barr/barrcareers": [],
   "wd+:barrywehmiller/BWCareers": [],
   "wd+:basspro/careers": [
@@ -2136,9 +2124,7 @@
   ],
   "wd+:cat/solarturbines": [],
   "wd+:cboe/External_Career_CBOE": [],
-  "wd+:cc/ChanelCareers": [
-   "https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/Geneve/Cyber-Security-Intern_JOBREQ00117316"
-  ],
+  "wd+:cc/ChanelCareers": [],
   "wd+:cccis/broadbean_external": [],
   "wd+:ccf/ClevelandClinicCareers": [],
   "wd+:cdw/careers": [],
@@ -2550,12 +2536,8 @@
   "wd+:itron/Early_Careers": [],
   "wd+:itron/Itron": [],
   "wd+:ivytech/ivy_tech_careers": [],
-  "wd+:jabil/Jabil_Careers": [
-   "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Penang/Intern---Cybersecurity_J2417955"
-  ],
-  "wd+:jabil/jabil_careers": [
-   "https://jabil.wd5.myworkdayjobs.com/en-US/jabil_careers/job/Penang/Intern---Cybersecurity_J2417955"
-  ],
+  "wd+:jabil/Jabil_Careers": [],
+  "wd+:jabil/jabil_careers": [],
   "wd+:jackson/Jackson_Careers": [],
   "wd+:jackson/jackson_campus": [],
   "wd+:jadeglobal/jade_careers": [],
@@ -2771,8 +2753,7 @@
    "https://nwis.wd12.myworkdayjobs.com/en-US/NW/job/Indialantic-FL/Vulnerability-Researcher-Intern---2026_JR101101"
   ],
   "wd+:nxp/careers": [
-   "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/Embedded-SW-Developer-Intern---Security_R-10066538-1",
-   "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Hamburg/Working-Student--f-m-d--NPU-Physical-Security-Testing_R-10066891"
+   "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/Embedded-SW-Developer-Intern---Security_R-10066538-1"
   ],
   "wd+:nyp/nypcareers": [],
   "wd+:oceanspray/OceanSprayJobs": [],
@@ -2842,9 +2823,7 @@
    "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Cybersecurity-Assurance-Intern_REQ_0000081843-1"
   ],
   "wd+:ptc/ptc": [],
-  "wd+:pwc/Global_Campus_Careers": [
-   "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD"
-  ],
+  "wd+:pwc/Global_Campus_Careers": [],
   "wd+:pwc/Global_Experienced_Careers": [],
   "wd+:pwc/US_Entry_Level_Careers": [],
   "wd+:q2ebanking/Q2": [],
@@ -2864,9 +2843,7 @@
   "wd+:rbs/rbs": [],
   "wd+:realtyincome/realty_income_careers": [],
   "wd+:recar/SLATEcareers": [],
-  "wd+:redhat/jobs": [
-   "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Brno---Tech-Park-Brno---C/Software-Engineering-Intern---Developer-Hub-Security-team--Brno--Czech-Republic-_R-059219"
-  ],
+  "wd+:redhat/jobs": [],
   "wd+:regalrexnord/careers": [],
   "wd+:regeneron/Careers": [],
   "wd+:regions/regions_careers": [],
@@ -2883,9 +2860,7 @@
   "wd+:rfcuny/RFCUNY": [],
   "wd+:rgare/Careers": [],
   "wd+:rhsc/delta_dental_of_michigan": [],
-  "wd+:richemont/richemont": [
-   "https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/LE-SENTIER/Stagiaire-ingnieur-Cyberscurit_JR133458-1"
-  ],
+  "wd+:richemont/richemont": [],
   "wd+:risepoint/Risepoint": [],
   "wd+:ritehite/RHH": [],
   "wd+:rjet/External_Career_Site": [],
