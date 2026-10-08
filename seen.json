@@ -132,7 +132,9 @@
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-08",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-08",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--intern_r0059510": "2026-10-08",
+  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--senior-intern_r0059511": "2026-10-08",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---security-program-management-senior-intern_r0059515": "2026-10-08",
+  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---security-engineering-senior-intern_r0059512": "2026-10-08",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-08",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-08",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-08",
@@ -382,6 +384,8 @@
   "t:harbingermot|interncybersecurity": "2026-10-08",
   "t:haworth|informationsecuritysystemsintern": "2026-10-08",
   "t:hcsc|earlycareersidentifyaccessmanagementiamintern": "2026-10-08",
+  "t:hcsc|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-08",
+  "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-08",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-08",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-08",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
@@ -2465,7 +2469,9 @@
   ],
   "wd+:hcsc/HCSC_External": [
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Intern_R0059510",
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514"
   ],
   "wd+:hdsupply/External": [],
