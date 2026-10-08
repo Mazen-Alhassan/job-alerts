@@ -688,6 +688,7 @@
   "t:guardianlife|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guardian|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-08",
+  "t:guidepoi|gpsucybersecurityinternapplicationsecurity": "2026-10-08",
   "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-08",
   "t:guidepoi|gpsuinternapplicationsecurity": "2026-10-08",
   "t:gulfstreamae|spring2027iefelectronicsystemengineeringcybersecuritycollegiateintern": "2026-10-08",
@@ -3623,7 +3624,6 @@
    "https://www.linkedin.com/jobs/view/4474821199",
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4475965878",
-   "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477426178",
@@ -6028,9 +6028,7 @@
   "wd+:rockwellautomation/External-Rockwell-Automation-Early-Careers": [
    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-1"
   ],
-  "wd+:rockwellautomation/External_Rockwell_Automation": [
-   "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"
-  ],
+  "wd+:rockwellautomation/External_Rockwell_Automation": [],
   "wd+:rockwoolgroup/ROCKWOOL": [],
   "wd+:rogersbh/rbhcareer": [],
   "wd+:roguefitness/RogueFitness_External_Careers": [],
