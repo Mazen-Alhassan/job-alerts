@@ -425,7 +425,8 @@ TECH = re.compile(r"software|engineer|developer|\bSDE\b|cloud|network|systems|in
 
 
 def big_tech_intern(title, loc, home=True):
-    return want(title, loc) or bool(home and INT.search(title) and TECH.search(title) and not foreign(loc) and not BAD.search(title))
+    return want(title, loc) or bool(home and INT.search(title) and TECH.search(title) and not foreign(loc) and not BAD.search(title)
+                                    and not re.search(r"PhD|Applied Scien|Early Career|Senior|Sr\.", title))
 
 
 def amazon(_):
