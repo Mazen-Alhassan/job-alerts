@@ -163,6 +163,7 @@
   "https://careers.mitre.org/us/en/job/r117314": "2026-10-08",
   "https://careers.mitre.org/us/en/job/r117380": "2026-10-08",
   "https://careers.mitre.org/us/en/job/r117737": "2026-10-08",
+  "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-08",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-08",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-08",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-08",
@@ -950,10 +951,12 @@
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
+   "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
+   "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
@@ -1713,7 +1716,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3152,7 +3157,8 @@
    "https://click.appcast.io/t/epd_TcbHa7T2Ql54_icByn8UXeCKpnXy0U8Dtmvb56k=",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
-   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed"
+   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed",
+   "https://www.careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
