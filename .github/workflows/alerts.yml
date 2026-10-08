@@ -1,26 +1,56 @@
 name: job-alerts
 
+# One run scans in a loop for ~5.7 hours (a new cycle every ~90s), then starts the next run itself,
+# so the scanner is always on. The schedule is only a watchdog that restarts the chain if it ever breaks.
 on:
   schedule:
-    - cron: '*/10 * * * *'   # backup timer; cron-job.org triggers it faster (see README)
-  workflow_dispatch:         # run by hand, or by cron-job.org every 5 min
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
     inputs:
       test:
         description: 'Only send a test alert to all channels (no scan)'
         type: boolean
         default: false
+      minutes:
+        description: 'How many minutes this run keeps scanning'
+        default: '340'
 
 permissions:
-  contents: write
-
-concurrency:
-  group: job-alerts
-  cancel-in-progress: false
+  contents: write   # commit seen.json
+  actions: write    # start the next run
 
 jobs:
-  scan:
+  gate:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+    steps:
+      - id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # a watchdog run only starts a scanner if none is running or waiting
+          go=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            n=$(gh api "repos/${{ github.repository }}/actions/workflows/alerts.yml/runs?per_page=30" \
+              --jq '[.workflow_runs[] | select(.id != ${{ github.run_id }}) | select(.status != "completed")] | length')
+            [ "$n" -gt 0 ] && go=false
+          fi
+          echo "go=$go" >> "$GITHUB_OUTPUT"
+
+  scan:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    concurrency:
+      group: job-alerts
+      cancel-in-progress: false
+    env:
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v4
 
@@ -28,18 +58,19 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Scan job boards and send new roles to your phone
-        run: python scan.py ${{ inputs.test && '--test' || '' }}
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      - name: Send a test alert
+        if: inputs.test
+        run: python scan.py --test
 
-      - name: Save what we've already seen
-        if: always()
+      - name: Scan job boards and send new roles to your phone
+        if: ${{ !inputs.test }}
         run: |
           git config user.name "job-alerts"
           git config user.email "job-alerts@users.noreply.github.com"
-          git add seen.json
-          git diff --staged --quiet || (git commit -m "update seen" && git pull --rebase -q && git push)
+          python scan.py --loop ${{ inputs.minutes || '340' }} --commit
+
+      - name: Start the next run
+        if: ${{ !inputs.test && !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run alerts.yml --ref main -R ${{ github.repository }}

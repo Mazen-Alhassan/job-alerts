@@ -1,8 +1,10 @@
 # Job alerts: security internships straight to your phone
 
-Every ~10 minutes this checks ~170 company job boards (Greenhouse, Lever, Ashby, Workday, Amazon,
-Cisco, Kinaxis, and Shopify's internship page) and pushes any NEW security internship / co-op to your phone.
-Tap the notification and it opens the company's own application page.
+Around the clock, every ~90 seconds, this checks ~2,400 sources and pushes any NEW security internship / co-op
+to your phone: ~2,350 company job boards (Greenhouse, Lever, Ashby, SmartRecruiters, Workday), custom fetchers
+for Microsoft, Google, Apple, Amazon, TikTok, Cisco, Kinaxis and Shopify, the Simplify internship feeds
+(thousands more companies), and LinkedIn's public job search.
+Tap the notification and it opens the application page.
 
 ## Setup (about 10 minutes)
 
@@ -20,16 +22,18 @@ Tap the notification and it opens the company's own application page.
 
 ## Good to know
 
-- GitHub's scheduler isn't exact: expect alerts roughly 10-30 minutes after a role goes up.
-- GitHub pauses scheduled runs on repos with no activity for 60 days. If alerts stop, click "Enable" on the Actions tab.
-- If most boards fail to load in a run, GitHub marks the run failed and emails you.
+- Each run scans in a loop for ~5.7 hours and then starts the next run itself, so it's always on.
+  Workday boards are checked every ~3 min (your core list) or ~10 min (the big discovered list), LinkedIn every ~7 min,
+  everything else every ~90s. A schedule every 30 min restarts the chain if it ever breaks.
+- Stop it: `gh workflow disable alerts.yml`. Start again: `gh workflow enable alerts.yml && gh workflow run alerts.yml`.
+- Code changes take effect on the next run (within ~6h). To apply now: cancel the running run, then `gh workflow run alerts.yml`.
+- If most boards fail to load, or a notification can't be sent, GitHub marks the run failed and emails you.
 - Add a company: add its board name to `boards.json` (find it in the company's careers URL, e.g.
   `boards.greenhouse.io/COMPANY`, `jobs.lever.co/COMPANY`, `jobs.ashbyhq.com/COMPANY`).
 - Change what counts as a match: edit the `SEC` / `INT` patterns near the top of `scan.py`.
 - Test your phone any time: add `NTFY_TOPIC` in your terminal and run `python scan.py --test`.
 
-## What it can NOT see
+## What it can NOT see directly
 
-Tesla, Microsoft, Google, Meta, Apple, PwC and CSIS block automated checks, and LinkedIn-only postings
-have no public company page. Cover those with phone alerts: LinkedIn saved searches (bell on), and an
-Indeed alert for "Tesla security intern". It also can't see your Carleton co-op portal.
+Tesla, Meta, PwC and CSIS block automated checks. Tesla and Meta internships usually still show up through
+the Simplify feed or LinkedIn, just later. It also can't see your Carleton co-op portal.
