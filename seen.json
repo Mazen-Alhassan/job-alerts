@@ -80,6 +80,7 @@
   "https://amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa": "2026-10-08",
   "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa": "2026-10-08",
   "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027": "2026-10-08",
+  "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027": "2026-10-08",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-08",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-08",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-08",
@@ -474,6 +475,7 @@
   "t:amazon|softwaredevelopmentengineerinternsummer2027usa": "2026-10-08",
   "t:amazon|softwaredevelopmentengineerinternsummer2027usaamazondedicatedcloudadc": "2026-10-08",
   "t:amazon|softwaredevelopmentengineerroboticsearlycareer2027": "2026-10-08",
+  "t:amazon|systemsdevelopmentengineerinterncanada2027": "2026-10-08",
   "t:amazon|systemsdevelopmentengineerinternus2027": "2026-10-08",
   "t:americanbank|interncybersecuritypolicyanalyst": "2026-10-08",
   "t:americancent|cybersecurityintern": "2026-10-08",
@@ -956,6 +958,7 @@
    "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+   "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -6710,6 +6713,10 @@
   [
    1791490898.2847784,
    "RTX (Collins, Pratt & Whitney, Raytheon) - Systems Security Engineering Intern  (Summer 20"
+  ],
+  [
+   1791491897.3822796,
+   "Amazon - Systems Development Engineer Intern, Canada 2027"
   ]
  ]
 }
