@@ -872,7 +872,7 @@ def send_digest(header, lines):
     for n, c in enumerate(chunks(3800)):
         if TOPIC:
             try:
-                _post("https://ntfy.sh", {"topic": TOPIC, "title": f"{header.splitlines()[0]} ({n + 1})"[:120],
+                _post("https://ntfy.sh", {"topic": TOPIC, "title": re.sub(r"[*_]", "", f"{header.splitlines()[0]} ({n + 1})")[:120],
                                           "message": re.sub(r"[*<>]", "", c), "priority": 3, "tags": ["clipboard"]})
             except Exception as e:
                 PUSH_ERRORS.append(f"ntfy: {str(e)[:80]}")
