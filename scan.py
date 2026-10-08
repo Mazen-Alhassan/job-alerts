@@ -59,7 +59,7 @@ INT = re.compile(
     re.I,
 )
 BAD = re.compile(
-    r"(?i:securities|system on chip|security guard|security officer|ASIC|silicon|tegra|GPU and SOC|"
+    r"(?i:securities|system on chip|security guard|security officer|forensic accounting|ASIC|silicon|tegra|GPU and SOC|"
     r"SOC design|SOC verification|custom SOC)|\bSoC\b"
 )
 FOREIGN = re.compile(
@@ -72,7 +72,10 @@ FOREIGN = re.compile(
     r"Belgium|Switzerland|Zurich|Austria|Vienna|Sweden|Stockholm|Denmark|Copenhagen|Norway|Finland|Hong Kong|"
     r"Dubai|United Arab Emirates|\bUAE\b|Saudi|Riyadh|Qatar|Doha|Egypt|Cairo|South Africa|Nigeria|Kenya|"
     r"Vietnam|Indonesia|Jakarta|Thailand|Bangkok|Argentina|Colombia|Chile|Peru|Turkey|Istanbul|Ukraine|"
-    r"Pakistan|Serbia|Greece|Luxembourg|EMEA|APAC|LATAM",
+    r"Pakistan|Serbia|Greece|Luxembourg|EMEA|APAC|LATAM|Brno|Hamburg|Frankfurt|Stuttgart|Cologne|D[uü]sseldorf|"
+    r"Gen[eè]v[ea]|Lausanne|Basel|Le Sentier|Brussels|Antwerp|Assago|Rome|Turin|Lyon|Toulouse|Rotterdam|Eindhoven|"
+    r"Knutsford|Leeds|Glasgow|Ho Chi Minh|Hanoi|Kuala|Penang|Cebu|Bogot[aá]|Medell[ií]n|Buenos Aires|Santiago de|"
+    r"Krak[oó]w|Wroc[lł]aw|Gda[nń]sk|Cluj|Ia[sș]i|Sofia|Belgrade|Zagreb|Bratislava|Tallinn|Vilnius|Riga|Kyiv|Haifa",
     re.I,
 )
 CANADA = re.compile(r"Canada|Ottawa|Toronto|Kanata|Montreal|Vancouver|Calgary|Waterloo|, (ON|QC|BC|AB)\b", re.I)
@@ -118,7 +121,8 @@ def foreign(loc):
 
 
 def want(title, loc=""):
-    return bool(SEC.search(title) and INT.search(title) and not BAD.search(title) and not foreign(loc))
+    return bool(SEC.search(title) and INT.search(title) and not BAD.search(title) and not foreign(loc)
+                and not re.search(r"\([mfwd]/[mfwd]/[mfwd]\)|Werkstudent|Praktikum|Stagiaire ing", title, re.I))
 
 
 def http(url, data=None, headers=None, timeout=25, opener=None):
