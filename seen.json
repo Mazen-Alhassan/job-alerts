@@ -352,11 +352,14 @@
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
   "https://linkedin.com/jobs/view/4475702474": "2026-10-08",
   "https://linkedin.com/jobs/view/4475963978": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475965878": "2026-10-08",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-08",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-08",
   "https://linkedin.com/jobs/view/4477426178": "2026-10-08",
+  "https://linkedin.com/jobs/view/4477458704": "2026-10-08",
+  "https://linkedin.com/jobs/view/4477477163": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-08",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-08",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-08",
@@ -830,6 +833,7 @@
   "t:procterg|itsecurityinternship": "2026-10-08",
   "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-08",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
+  "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
   "t:richemont|stagiaireingnieurcyberscurit": "2026-10-08",
   "t:robinhood|securityriskmanagementinternsummer2027": "2026-10-08",
@@ -3606,12 +3610,14 @@
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474821199",
    "https://www.linkedin.com/jobs/view/4475032385",
-   "https://www.linkedin.com/jobs/view/4475041044",
    "https://www.linkedin.com/jobs/view/4475702474",
    "https://www.linkedin.com/jobs/view/4475963978",
+   "https://www.linkedin.com/jobs/view/4475965878",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477415557",
-   "https://www.linkedin.com/jobs/view/4477426178"
+   "https://www.linkedin.com/jobs/view/4477426178",
+   "https://www.linkedin.com/jobs/view/4477458704",
+   "https://www.linkedin.com/jobs/view/4477477163"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6717,6 +6723,10 @@
   [
    1791491897.3822796,
    "Amazon - Systems Development Engineer Intern, Canada 2027"
+  ],
+  [
+   1791495038.9405482,
+   "Raytheon - Systems Security Engineering Intern  (Summer 2027)"
   ]
  ]
 }
