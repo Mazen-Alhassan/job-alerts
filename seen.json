@@ -167,6 +167,7 @@
   "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a": "2026-10-08",
   "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76": "2026-10-08",
   "https://jobs.smartrecruiters.com/abbvie/3743990015679246": "2026-10-08",
+  "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-08",
   "https://jobs.smartrecruiters.com/fortunebrands/744000149058098": "2026-10-08",
   "https://jobs.smartrecruiters.com/llnl/3743990014731646": "2026-10-08",
   "https://jobs.smartrecruiters.com/llnl/3743990014731656": "2026-10-08",
@@ -321,6 +322,7 @@
   "t:boozallen|universitysummer27enterprisecybersecuritydatalosspreventionintern": "2026-10-08",
   "t:boozallen|universitysummer27enterprisecybersecurityitpolicyintern": "2026-10-08",
   "t:boozallen|universitysummer27enterprisecybersecurityvulnerabilityintern": "2026-10-08",
+  "t:boschhomecom|itinterncybersecurityaifm": "2026-10-08",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caci|cyberanalystinternsummer2027": "2026-10-08",
@@ -1723,7 +1725,9 @@
   "sr:AxleInformaticsLLC": [],
   "sr:BCforward3": [],
   "sr:Blinqlabs": [],
-  "sr:BoschGroup": [],
+  "sr:BoschGroup": [
+   "https://jobs.smartrecruiters.com/BoschGroup/744000154435119"
+  ],
   "sr:Canva": [],
   "sr:CityofPhiladelphia": [],
   "sr:ClinicalInk": [],
