@@ -376,6 +376,8 @@
   "https://linkedin.com/jobs/view/4475983653": "2026-10-09",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
+  "https://linkedin.com/jobs/view/4476806711": "2026-10-09",
+  "https://linkedin.com/jobs/view/4476818365": "2026-10-09",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-09",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-09",
   "https://linkedin.com/jobs/view/4477426178": "2026-10-09",
@@ -614,6 +616,8 @@
   "t:caci|cybersecurityinternsummer2027": "2026-10-09",
   "t:caci|networkcybersecurityinternsummer2027": "2026-10-08",
   "t:cai|cybersecurityanalystintern": "2026-10-09",
+  "t:carnegie|aisecurityresearchinternsummer2027": "2026-10-09",
+  "t:carnegie|aisecuritysoftwareengineerinternsummer2027": "2026-10-09",
   "t:caterpillar|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-08",
   "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-09",
   "t:centrus|securityintern": "2026-10-09",
@@ -3650,7 +3654,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4448869906",
-   "https://www.linkedin.com/jobs/view/4458365956",
    "https://www.linkedin.com/jobs/view/4459889831",
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4466253153",
@@ -3659,13 +3662,14 @@
    "https://www.linkedin.com/jobs/view/4474858025",
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4475965878",
+   "https://www.linkedin.com/jobs/view/4476806711",
+   "https://www.linkedin.com/jobs/view/4476818365",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4477458704",
    "https://www.linkedin.com/jobs/view/4477477163",
-   "https://www.linkedin.com/jobs/view/4477618487",
-   "https://www.linkedin.com/jobs/view/4477810555"
+   "https://www.linkedin.com/jobs/view/4477618487"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6816,6 +6820,14 @@
   [
    1791559559.8925023,
    "Georgia Tech Research Institute - General Cybersecurity Graduate Intern - CIPHER- Spring 2"
+  ],
+  [
+   1791560030.6618547,
+   "Carnegie Mellon University - AI Security Software Engineer Intern \u2013 Summer 2027"
+  ],
+  [
+   1791560030.6618574,
+   "Carnegie Mellon University - AI Security Research Intern \u2013 Summer 2027"
   ]
  ]
 }
