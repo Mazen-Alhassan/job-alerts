@@ -356,6 +356,7 @@
   "https://linkedin.com/jobs/view/4468290890": "2026-10-09",
   "https://linkedin.com/jobs/view/4468297828": "2026-10-09",
   "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-08",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
@@ -515,6 +516,7 @@
   "t:american|cybersecurityintern": "2026-10-09",
   "t:american|interncybersecuritypolicyanalyst": "2026-10-09",
   "t:american|interncybersecuritysummer2027": "2026-10-09",
+  "t:american|itinterninformationsecurity": "2026-10-09",
   "t:american|skillbridgecybersecurityinterntransitioningmilitary": "2026-10-09",
   "t:american|springinternasiansecurityandtechnology": "2026-10-09",
   "t:american|springinterncriticalthreatsprojectafrica": "2026-10-09",
@@ -3647,6 +3649,7 @@
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4466253153",
    "https://www.linkedin.com/jobs/view/4468321989",
+   "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4474821199",
    "https://www.linkedin.com/jobs/view/4474858025",
    "https://www.linkedin.com/jobs/view/4475963978",
@@ -6795,6 +6798,10 @@
   [
    1791547555.290786,
    "Seminole County - Cybersecurity Analyst/Intern"
+  ],
+  [
+   1791550535.2415206,
+   "American Equity - IT Intern, Information Security"
   ]
  ]
 }
