@@ -383,6 +383,7 @@
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-09",
+  "https://linkedin.com/jobs/view/4475278026": "2026-10-09",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
   "https://linkedin.com/jobs/view/4475441187": "2026-10-08",
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
@@ -397,6 +398,7 @@
   "https://linkedin.com/jobs/view/4476831989": "2026-10-09",
   "https://linkedin.com/jobs/view/4476836838": "2026-10-09",
   "https://linkedin.com/jobs/view/4476838100": "2026-10-09",
+  "https://linkedin.com/jobs/view/4476848862": "2026-10-09",
   "https://linkedin.com/jobs/view/4476855092": "2026-10-09",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-09",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-09",
@@ -894,6 +896,7 @@
   "t:oneok|cybersecurityinterntulsaok": "2026-10-09",
   "t:oshkosh|cybersecurityintern": "2026-10-09",
   "t:palantir|informationsecurityengineerinternship": "2026-10-09",
+  "t:panasoni|securityriskintern": "2026-10-09",
   "t:pennsylvania|collegeofistcyber100genaiimpactevaluationstudentassistant": "2026-10-08",
   "t:pennsylvania|cybersecurityengineerintern": "2026-10-08",
   "t:pennsylv|collegeofistcyber100genaiimpactevaluationstudentassistant": "2026-10-09",
@@ -3701,12 +3704,13 @@
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4468826267",
-   "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4475227979",
+   "https://www.linkedin.com/jobs/view/4475278026",
    "https://www.linkedin.com/jobs/view/4476806711",
    "https://www.linkedin.com/jobs/view/4476818365",
    "https://www.linkedin.com/jobs/view/4476831989",
    "https://www.linkedin.com/jobs/view/4476838100",
+   "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4476855092",
    "https://www.linkedin.com/jobs/view/4477618487",
    "https://www.linkedin.com/jobs/view/4477810555",
@@ -6777,22 +6781,6 @@
  "heartbeat": "2026-10-09 18",
  "recent": [
   [
-   1791487114.6532326,
-   "Firehawk Aerospace - IT/Cybersecurity Internship - Summer 2027"
-  ],
-  [
-   1791487561.511845,
-   "Upbound Group - Cybersecurity Intern"
-  ],
-  [
-   1791490898.2847757,
-   "Amazon - Systems Development Engineer Intern, (US) 2027"
-  ],
-  [
-   1791490898.2847784,
-   "RTX (Collins, Pratt & Whitney, Raytheon) - Systems Security Engineering Intern  (Summer 20"
-  ],
-  [
    1791491897.3822796,
    "Amazon - Systems Development Engineer Intern, Canada 2027"
   ],
@@ -6915,6 +6903,10 @@
   [
    1791578259.3935935,
    "CohnReznick - Winter 2027 Internship- Cybersecurity and Digital Trust"
+  ],
+  [
+   1791585275.4774363,
+   "Panasonic Energy Corporation of North America - Security & Risk Intern"
   ]
  ]
 }
