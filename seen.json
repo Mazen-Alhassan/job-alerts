@@ -329,6 +329,7 @@
   "https://jobs.smartrecruiters.com/abbvie/3743990015679246": "2026-10-09",
   "https://jobs.smartrecruiters.com/beumergroup1/744000154188459": "2026-10-09",
   "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-09",
+  "https://jobs.smartrecruiters.com/boschgroup/744000154756439-information-security-and-privacy-intern": "2026-10-09",
   "https://jobs.smartrecruiters.com/boschgroup/744000154757409": "2026-10-09",
   "https://jobs.smartrecruiters.com/fortunebrands/744000149058098": "2026-10-09",
   "https://jobs.smartrecruiters.com/jsheldllc/744000146261287": "2026-10-09",
@@ -619,6 +620,7 @@
   "t:boschhomecom|itinterncybersecurityaifm": "2026-10-08",
   "t:boschhom|informationsecurityandprivacyintern": "2026-10-09",
   "t:boschhom|itinterncybersecurityaifm": "2026-10-09",
+  "t:bosch|informationsecurityandprivacyintern": "2026-10-09",
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-09",
   "t:bracco|productsecurityengineeringintern": "2026-10-09",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
@@ -3241,6 +3243,7 @@
    "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1",
    "https://jobs.dayforcehcm.com/en-US/ibcp/CANDIDATEPORTAL/jobs/481",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
+   "https://jobs.smartrecruiters.com/BoschGroup/744000154756439-information-security-and-privacy-intern",
    "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78839ea0f4259801a11d43f8333181&source=Indeed+Free",
    "https://upboundcareers.com/cybersecurity-intern/job/8EE414AB38BFC41E6A28474463CAA885",
    "https://us-careers-rivian.icims.com/jobs/34316/job",
@@ -6866,6 +6869,10 @@
   [
    1791568907.3555777,
    "Bosch Home Comfort - Information Security and Privacy Intern"
+  ],
+  [
+   1791570599.0437312,
+   "Bosch - Information Security and Privacy Intern"
   ]
  ]
 }
