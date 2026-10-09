@@ -366,6 +366,7 @@
   "https://linkedin.com/jobs/view/4468297828": "2026-10-09",
   "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
   "https://linkedin.com/jobs/view/4468664815": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468811301": "2026-10-09",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-09",
@@ -397,6 +398,8 @@
   "https://linkedin.com/jobs/view/4477810555": "2026-10-09",
   "https://linkedin.com/jobs/view/4477827635": "2026-10-09",
   "https://linkedin.com/jobs/view/4477836279": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477841517": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477854009": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-09",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-09",
@@ -957,6 +960,7 @@
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-09",
   "t:themanitowoc|summer2027interncybersecurity": "2026-10-08",
+  "t:theoptio|yearroundinterncyberoperations": "2026-10-09",
   "t:thrivent|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-09",
   "t:tiktok|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-10-09",
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-09",
@@ -3677,11 +3681,11 @@
    "https://www.linkedin.com/jobs/view/4459889831",
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4466253153",
+   "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4474858025",
    "https://www.linkedin.com/jobs/view/4475227979",
-   "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4476806711",
    "https://www.linkedin.com/jobs/view/4476818365",
    "https://www.linkedin.com/jobs/view/4476838100",
@@ -3689,8 +3693,9 @@
    "https://www.linkedin.com/jobs/view/4477477163",
    "https://www.linkedin.com/jobs/view/4477618487",
    "https://www.linkedin.com/jobs/view/4477810555",
-   "https://www.linkedin.com/jobs/view/4477827635",
-   "https://www.linkedin.com/jobs/view/4477836279"
+   "https://www.linkedin.com/jobs/view/4477836279",
+   "https://www.linkedin.com/jobs/view/4477841517",
+   "https://www.linkedin.com/jobs/view/4477854009"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6873,6 +6878,10 @@
   [
    1791570599.0437312,
    "Bosch - Information Security and Privacy Intern"
+  ],
+  [
+   1791570878.1696446,
+   "The Options Clearing Corporation (OCC) - Year-Round Intern - Cyber Operations"
   ]
  ]
 }
