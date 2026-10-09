@@ -56,6 +56,7 @@
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-09",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
   "https://airproducts.wd5.myworkdayjobs.com/ap0001/job/allentown-pennsylvania/summer-intern--it---cyber-audit--2027-_jr-2026-21954": "2026-10-09",
+  "https://allisontransmission.wd1.myworkdayjobs.com/ati-external/job/indianapolis-in/it-security-analyst-internship---summer-2027_r008295": "2026-10-09",
   "https://amadeus.wd502.myworkdayjobs.com/jobs/job/nice/internship---security-engineer_r37336": "2026-10-09",
   "https://amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027": "2026-10-09",
   "https://amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026": "2026-10-09",
@@ -468,6 +469,7 @@
   "t:aig|2027earlycareerssummerinternforensicaccountingunitedstatesdallastxchicagoil": "2026-10-08",
   "t:airproducts|summerinternitcyberaudit2027": "2026-10-08",
   "t:airprodu|summerinternitcyberaudit2027": "2026-10-09",
+  "t:allisont|itsecurityanalystinternshipsummer2027": "2026-10-09",
   "t:altardstate|spring2027itsecurityanalystintern": "2026-10-08",
   "t:altardst|spring2027itsecurityanalystintern": "2026-10-09",
   "t:amadeus|internshipsecurityengineer": "2026-10-09",
@@ -4580,7 +4582,9 @@
   "wd+:alliantenergy/alliant": [],
   "wd+:alliedsolutions/Allied_External": [],
   "wd+:allina/external": [],
-  "wd+:allisontransmission/ATI-External": [],
+  "wd+:allisontransmission/ATI-External": [
+   "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295"
+  ],
   "wd+:allstate/allstate_careers": [],
   "wd+:allstate/sourcing_event": [],
   "wd+:alston/ExternalCareer": [],
@@ -6781,6 +6785,10 @@
   [
    1791539690.5988784,
    "Independent Bank - Cyber Security Intern - Summer 2027"
+  ],
+  [
+   1791545286.1707225,
+   "Allison Transmission - IT Security Analyst Internship - Summer 2027"
   ]
  ]
 }
