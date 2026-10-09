@@ -1729,9 +1729,7 @@
   "ashby:zip": [],
   "ashby:zuru": [],
   "cisco": [
-   "https://careers.cisco.com/global/en/job/2024817",
-   "https://careers.cisco.com/global/en/job/2025885",
-   "https://careers.cisco.com/global/en/job/2025886"
+   "https://careers.cisco.com/global/en/job/2024817"
   ],
   "cse": [],
   "eightfold:bostonscientific.eightfold.ai": [],
@@ -6702,7 +6700,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 00",
+ "heartbeat": "2026-10-09 02",
  "recent": [
   [
    1791487114.6532326,
