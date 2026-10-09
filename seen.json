@@ -44,6 +44,7 @@
   "gh:8846143002": "2026-10-09",
   "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx": "2026-10-09",
   "https:/.appone.com/job/6ac7ce952c25d93763dbd4e9": "2026-10-09",
+  "https:/.appone.com:443/job/6ac7ce952c25d93763dbd4e9": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393556922930": "2026-10-08",
   "https:/.careers.microsoft.com/careers/job/1970393556988203": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-09",
@@ -3191,7 +3192,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=925627&cid=8077&locvalue=1013",
-   "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
+   "https://apply.appone.com:443/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-gdms.icims.com/jobs/75132/job",
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112",
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
@@ -6713,7 +6714,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 02",
+ "heartbeat": "2026-10-09 04",
  "recent": [
   [
    1791487114.6532326,
