@@ -5776,9 +5776,7 @@
   "wd+:myview/pc_financial": [],
   "wd+:nabancard/nab": [],
   "wd+:namsa/NAMSA": [],
-  "wd+:nasdaq/Global_External_Site": [
-   "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Information-Security-Student--January-2027-_R0027086"
-  ],
+  "wd+:nasdaq/Global_External_Site": [],
   "wd+:nationwide/Nationwide_Career": [],
   "wd+:nationwidechildrens/NCHCareers": [],
   "wd+:navcanada/NAV_Careers": [],
@@ -6495,9 +6493,7 @@
    "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Stage-au-Bureau-de-la-Scurit-Desjardins--Hiver-2027_R2610591-1"
   ],
   "wd:disney/disneycareer": [],
-  "wd:dukeenergy/search": [
-   "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Lake-Mary-FL/PGO-Cybersecurity-Spring-2027-Co-op_R41837"
-  ],
+  "wd:dukeenergy/search": [],
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
@@ -6718,7 +6714,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-08 22",
+ "heartbeat": "2026-10-09 00",
  "recent": [
   [
    1791487114.6532326,
