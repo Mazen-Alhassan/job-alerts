@@ -329,6 +329,7 @@
   "https://jobs.smartrecruiters.com/abbvie/3743990015679246": "2026-10-09",
   "https://jobs.smartrecruiters.com/beumergroup1/744000154188459": "2026-10-09",
   "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-09",
+  "https://jobs.smartrecruiters.com/boschgroup/744000154757409": "2026-10-09",
   "https://jobs.smartrecruiters.com/fortunebrands/744000149058098": "2026-10-09",
   "https://jobs.smartrecruiters.com/jsheldllc/744000146261287": "2026-10-09",
   "https://jobs.smartrecruiters.com/llnl/3743990014731646": "2026-10-09",
@@ -616,6 +617,7 @@
   "t:boozalle|universitysummer27enterprisecybersecurityitpolicyintern": "2026-10-09",
   "t:boozalle|universitysummer27enterprisecybersecurityvulnerabilityintern": "2026-10-09",
   "t:boschhomecom|itinterncybersecurityaifm": "2026-10-08",
+  "t:boschhom|informationsecurityandprivacyintern": "2026-10-09",
   "t:boschhom|itinterncybersecurityaifm": "2026-10-09",
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-09",
   "t:bracco|productsecurityengineeringintern": "2026-10-09",
@@ -4259,7 +4261,8 @@
   "sr:Blend360": [],
   "sr:Blinqlabs": [],
   "sr:BoschGroup": [
-   "https://jobs.smartrecruiters.com/BoschGroup/744000154435119"
+   "https://jobs.smartrecruiters.com/BoschGroup/744000154435119",
+   "https://jobs.smartrecruiters.com/BoschGroup/744000154757409"
   ],
   "sr:BostonEngineeringCorporation": [],
   "sr:BoydGaming": [],
@@ -6547,9 +6550,7 @@
   ],
   "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [],
-  "wd:leidos/External": [
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
-  ],
+  "wd:leidos/External": [],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [
    "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
@@ -6758,7 +6759,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 12",
+ "heartbeat": "2026-10-09 14",
  "recent": [
   [
    1791487114.6532326,
@@ -6863,6 +6864,10 @@
   [
    1791568387.9036808,
    "Rivian - Cybersecurity - Summer 2027 Internships"
+  ],
+  [
+   1791568907.3555777,
+   "Bosch Home Comfort - Information Security and Privacy Intern"
   ]
  ]
 }
