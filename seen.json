@@ -129,7 +129,7 @@
   "https://burlington.wd5.myworkdayjobs.com/burlingtoncareers/job/00000---burlington-corporate-office/security-operations-intern---summer-2027_r104533-1": "2026-10-09",
   "https://caci.wd1.myworkdayjobs.com/external/job/ashburn-va-us/cyber-analyst-intern---summer-2027_333161": "2026-10-09",
   "https://caci.wd1.myworkdayjobs.com/external/job/high-point-nc-us/network---cybersecurity-intern---summer-2027_333001": "2026-10-08",
-  "https://caci.wd1.myworkdayjobs.com/external/job/springfield-va-us/cyber-security-intern---summer-2027_333046": "2026-10-08",
+  "https://caci.wd1.myworkdayjobs.com/external/job/springfield-va-us/cyber-security-intern---summer-2027_333046": "2026-10-09",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-10-09",
   "https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job": "2026-10-09",
   "https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job": "2026-10-09",
@@ -608,7 +608,7 @@
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-08",
   "t:caci|cyberanalystinternsummer2027": "2026-10-09",
-  "t:caci|cybersecurityinternsummer2027": "2026-10-08",
+  "t:caci|cybersecurityinternsummer2027": "2026-10-09",
   "t:caci|networkcybersecurityinternsummer2027": "2026-10-08",
   "t:cai|cybersecurityanalystintern": "2026-10-09",
   "t:caterpillar|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-08",
@@ -4883,7 +4883,8 @@
   "wd+:caa/Careers": [],
   "wd+:cableone/Cable_One_External_Careers": [],
   "wd+:caci/external": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161"
+   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
+   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
   ],
   "wd+:cadence/External_Careers": [],
   "wd+:cadence/OpenEye_Careers": [],
@@ -6490,7 +6491,8 @@
    "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   ],
   "wd:caci/External": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161"
+   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
+   "https://caci.wd1.myworkdayjobs.com/en-US/External/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
   ],
   "wd:cai/Computer_Aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
@@ -6729,7 +6731,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 08",
+ "heartbeat": "2026-10-09 10",
  "recent": [
   [
    1791487114.6532326,
