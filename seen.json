@@ -138,6 +138,7 @@
   "https://careers-gdeb.icims.com/jobs/20338/cybersecurity---2027-summer-internship/job": "2026-10-09",
   "https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job": "2026-10-09",
   "https://careers-gdms.icims.com/jobs/75132/intern-engineer-%28cyber%29/job": "2026-10-09",
+  "https://careers-gdms.icims.com/jobs/75132/job": "2026-10-09",
   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job": "2026-10-09",
   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-09",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-09",
@@ -442,6 +443,7 @@
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-10-09",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-09",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-09",
+  "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-09",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-09",
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-09",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
@@ -943,6 +945,7 @@
   "t:westbend|summer2027internshipinformationsecurity": "2026-10-09",
   "t:westerna|summer2027internshipphoenixazitsecurity": "2026-10-09",
   "t:wex|backendsoftwareengineerinternccloudsecurityaiundergraduate": "2026-10-09",
+  "t:wilcoxfl|cybersecuritycomplianceintern": "2026-10-09",
   "t:wipfli|socsecurityinternshipsummer2027": "2026-10-09",
   "t:zachrygr|cybersecurityspecialistiintern": "2026-10-09"
  },
@@ -3182,6 +3185,7 @@
   "jobspy": [
    "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=925627&cid=8077&locvalue=1013",
    "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
+   "https://careers-gdms.icims.com/jobs/75132/job",
    "https://careers.mitre.org/us/en/job/MITRUSR117737EXTERNALENUS/Cybersecurity-Engineer-Intern",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
    "https://jobs.jlab.org/job/Newport-News-Cybersecurity-Student-Intern-Virg-23606/1438243000/",
@@ -3190,6 +3194,7 @@
    "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed",
    "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78839ea0f4259801a11d43f8333181&source=Indeed+Free",
    "https://upboundcareers.com/cybersecurity-intern/job/8EE414AB38BFC41E6A28474463CAA885",
+   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern?source=Indeed",
    "https://www.careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--"
   ],
   "jobvite:aarete": [],
@@ -6751,6 +6756,10 @@
   [
    1791507084.5261276,
    "Koniag Cyber Solutions LLC - Cybersecurity Intern"
+  ],
+  [
+   1791509325.3822117,
+   "Wilcox + Flegel - Cybersecurity Compliance Intern"
   ]
  ]
 }
