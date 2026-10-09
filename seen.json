@@ -49,7 +49,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557019490": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-09",
-  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-08",
+  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-09",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-09",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-09",
@@ -405,6 +405,7 @@
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-09",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-09",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-09",
+  "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-09",
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
   "https://richemont.wd3.myworkdayjobs.com/richemont/job/le-sentier/stagiaire-ingnieur-cyberscurit_jr133458-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
@@ -739,6 +740,7 @@
   "t:kinaxis|coopinternapplicationsecurityanalyst": "2026-10-09",
   "t:kodiakroboti|winter2027internsecurity": "2026-10-08",
   "t:kodiakro|winter2027internsecurity": "2026-10-09",
+  "t:koniagcy|cybersecurityintern": "2026-10-09",
   "t:kyndryl|earlycareerconsultprogramcybersecuritydefenseassociate": "2026-10-09",
   "t:kyndryl|earlycareerconsultprogramcybersecurityengineer": "2026-10-09",
   "t:kyndryl|earlycareerconsultprogramcybersecurityinfrastructureassociate": "2026-10-09",
@@ -863,7 +865,7 @@
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-09",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-09",
-  "t:security|cybersoccoop2027usgreenshift": "2026-10-08",
+  "t:security|cybersoccoop2027usgreenshift": "2026-10-09",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-09",
   "t:shopify|usappliedmachinelearningengineeringinternshipssummer2027": "2026-10-09",
@@ -3187,6 +3189,7 @@
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
    "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1?locale=en&source=indeed",
+   "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78839ea0f4259801a11d43f8333181&source=Indeed+Free",
    "https://upboundcareers.com/cybersecurity-intern/job/8EE414AB38BFC41E6A28474463CAA885",
    "https://www.careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--"
   ],
@@ -6744,6 +6747,10 @@
   [
    1791500624.896276,
    "GuidePoint Security - GPSU Intern - Application Security"
+  ],
+  [
+   1791507084.5261276,
+   "Koniag Cyber Solutions LLC - Cybersecurity Intern"
   ]
  ]
 }
