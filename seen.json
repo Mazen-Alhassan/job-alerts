@@ -355,6 +355,7 @@
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
+  "https://linkedin.com/jobs/view/4474858025": "2026-10-09",
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
@@ -457,6 +458,7 @@
   "t:aclukent|summer2027legalinternnationalsecurityproject": "2026-10-09",
   "t:aclukent|summer2027undergraduateinternnationalsecurityproject": "2026-10-09",
   "t:activisi|activision2027summerinternshipsinformationsecurity": "2026-10-09",
+  "t:aeravoxd|cyberprofessionalservicesintern": "2026-10-09",
   "t:aerospac|cybersecurityinternsummer2027": "2026-10-09",
   "t:aig|2027earlycareerssummerinternforensicaccountingunitedstatesdallastxchicagoil": "2026-10-08",
   "t:airproducts|summerinternitcyberaudit2027": "2026-10-08",
@@ -3636,9 +3638,9 @@
    "https://www.linkedin.com/jobs/view/4468297828",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4474821199",
+   "https://www.linkedin.com/jobs/view/4474858025",
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4475965878",
-   "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477426178",
@@ -6764,6 +6766,10 @@
   [
    1791529353.695912,
    "Health Care Service Corporation - Early Careers - Security Engineering Senior Intern"
+  ],
+  [
+   1791532762.1505046,
+   "Aeravox Dynamics - Cyber Professional Services Intern"
   ]
  ]
 }
