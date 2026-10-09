@@ -296,6 +296,7 @@
   "https://jobs.battelle.org/us/en/job/76529": "2026-10-09",
   "https://jobs.battelle.org/us/en/job/76543": "2026-10-09",
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
+  "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-09",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-10-09",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": "2026-10-09",
   "https://jobs.jlab.org/job/newport-news-cybersecurity-student-intern-virg-23606/1438243000": "2026-10-09",
@@ -730,6 +731,7 @@
   "t:idemia|cybersecurityinternship": "2026-10-09",
   "t:idrinc|incidentresponseintern": "2026-10-08",
   "t:iex|cybersecurityanalystintern": "2026-10-09",
+  "t:independ|cybersecurityinternsummer2027": "2026-10-09",
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-09",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-09",
@@ -3200,6 +3202,7 @@
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
    "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400",
    "https://careers.mitre.org/us/en/job/MITRUSR117737EXTERNALENUS/Cybersecurity-Engineer-Intern",
+   "https://jobs.dayforcehcm.com/en-US/ibcp/CANDIDATEPORTAL/jobs/481",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
    "https://jobs.jlab.org/job/Newport-News-Cybersecurity-Student-Intern-Virg-23606/1438243000/",
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
@@ -6774,6 +6777,10 @@
   [
    1791532762.1505046,
    "Aeravox Dynamics - Cyber Professional Services Intern"
+  ],
+  [
+   1791539690.5988784,
+   "Independent Bank - Cyber Security Intern - Summer 2027"
   ]
  ]
 }
