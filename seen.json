@@ -3964,11 +3964,7 @@
   ],
   "phenom:jobs.bell.ca": [],
   "phenom:jobs.cvshealth.com": [],
-  "phenom:jobs.merck.com": [
-   "https://jobs.merck.com/us/en/job/R413043",
-   "https://jobs.merck.com/us/en/job/R413091",
-   "https://jobs.merck.com/us/en/job/R413882"
-  ],
+  "phenom:jobs.merck.com": [],
   "phenom:jobs.newmont.com": [],
   "phenom:jobs.rbc.com": [],
   "phenom:jobs.thermofisher.com": [],
@@ -5213,10 +5209,7 @@
   "wd+:fhlbi/FHLBI_Careers": [],
   "wd+:fhlbny/FHLBNY": [],
   "wd+:fhlbtopeka/FHLBT": [],
-  "wd+:fifththird/53careers": [
-   "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Code-Security---Spring-2027_R71575",
-   "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Spring-2027_R71590"
-  ],
+  "wd+:fifththird/53careers": [],
   "wd+:fil/001": [],
   "wd+:fil/fidelitycanada": [],
   "wd+:financialombudsman/FinancialOmbudsmanService": [],
