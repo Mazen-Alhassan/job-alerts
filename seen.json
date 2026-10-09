@@ -357,6 +357,7 @@
   "https://linkedin.com/jobs/view/4468290890": "2026-10-09",
   "https://linkedin.com/jobs/view/4468297828": "2026-10-09",
   "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468664815": "2026-10-09",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-08",
@@ -381,6 +382,7 @@
   "https://linkedin.com/jobs/view/4477458704": "2026-10-09",
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
   "https://linkedin.com/jobs/view/4477618487": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477810555": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-09",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-09",
@@ -697,6 +699,7 @@
   "t:genuinep|grccybersecurityanalystintern": "2026-10-09",
   "t:geocomply|browsersecurityengineerinternwinter2026": "2026-10-08",
   "t:geocompl|browsersecurityengineerinternwinter2026": "2026-10-09",
+  "t:georgiat|generalcybersecuritygraduateinterncipherspring2027": "2026-10-09",
   "t:gileadscienc|interncfoitsecurityriskandcompliance": "2026-10-08",
   "t:gileadsc|interncfoitsecurityriskandcompliance": "2026-10-09",
   "t:gmfinanc|interncybersecurity": "2026-10-09",
@@ -3651,6 +3654,7 @@
    "https://www.linkedin.com/jobs/view/4459889831",
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4466253153",
+   "https://www.linkedin.com/jobs/view/4468664815",
    "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4474858025",
    "https://www.linkedin.com/jobs/view/4475963978",
@@ -3660,7 +3664,8 @@
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4477458704",
    "https://www.linkedin.com/jobs/view/4477477163",
-   "https://www.linkedin.com/jobs/view/4477618487"
+   "https://www.linkedin.com/jobs/view/4477618487",
+   "https://www.linkedin.com/jobs/view/4477810555"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6807,6 +6812,10 @@
   [
    1791555853.7859228,
    "MITRE - Cyber Operations Intern"
+  ],
+  [
+   1791559559.8925023,
+   "Georgia Tech Research Institute - General Cybersecurity Graduate Intern - CIPHER- Spring 2"
   ]
  ]
 }
