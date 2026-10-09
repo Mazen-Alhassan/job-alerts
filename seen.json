@@ -153,6 +153,9 @@
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
   "https://careers.fisglobal.com/us/en/job/jr0309680": "2026-10-09",
+  "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-09",
+  "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-09",
+  "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-09",
   "https://careers.jacobs.com/en_us/careers/jobdetail/vds-voice-data-security-engineering-intern-summer-2027/46462": "2026-10-08",
   "https://careers.jhuapl.edu/jobs/59642": "2026-10-09",
   "https://careers.jhuapl.edu/jobs/59759": "2026-10-09",
@@ -257,7 +260,7 @@
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-10-09",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-09",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-09",
-  "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-08",
+  "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-09",
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/cyber-security-intern--summer-2027_r250153": "2026-10-09",
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/it-security-loss-prevention-intern---summer-2027_r250154": "2026-10-09",
   "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/cyber-security-internship_jr100410": "2026-10-09",
@@ -705,12 +708,15 @@
   "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-09",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-09",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-09",
+  "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-09",
+  "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-09",
+  "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-09",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-09",
   "t:howmetae|cybersecurityintern": "2026-10-09",
   "t:hpiq|softwareengineeringinternproductsecuritysummer2027": "2026-10-09",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-09",
-  "t:hp|softwareproductsecurityengineerintern": "2026-10-08",
+  "t:hp|softwareproductsecurityengineerintern": "2026-10-09",
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-09",
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-09",
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
@@ -3185,6 +3191,9 @@
    "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=925627&cid=8077&locvalue=1013",
    "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-gdms.icims.com/jobs/75132/job",
+   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112",
+   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
+   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400",
    "https://careers.mitre.org/us/en/job/MITRUSR117737EXTERNALENUS/Cybersecurity-Engineer-Intern",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
    "https://jobs.jlab.org/job/Newport-News-Cybersecurity-Student-Intern-Virg-23606/1438243000/",
@@ -6486,7 +6495,9 @@
   "wd:globalhr/REC_RTX_Ext_Gateway": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922"
   ],
-  "wd:hp/ExternalCareerSite": [],
+  "wd:hp/ExternalCareerSite": [
+   "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"
+  ],
   "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [],
   "wd:leidos/External": [
@@ -6741,6 +6752,18 @@
   [
    1791509325.3822117,
    "Wilcox + Flegel - Cybersecurity Compliance Intern"
+  ],
+  [
+   1791529353.6959085,
+   "Health Care Service Corporation - Early Careers - Identify & Access Management (IAM) Inter"
+  ],
+  [
+   1791529353.695911,
+   "Health Care Service Corporation - Early Careers - Identify & Access Management (IAM) Senio"
+  ],
+  [
+   1791529353.695912,
+   "Health Care Service Corporation - Early Careers - Security Engineering Senior Intern"
   ]
  ]
 }
