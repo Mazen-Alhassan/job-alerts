@@ -247,6 +247,7 @@
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-09",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-09",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-09",
+  "https://governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern": "2026-10-09",
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-10-09",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-09",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-09",
@@ -885,6 +886,7 @@
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-09",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-09",
   "t:security|cybersoccoop2027usgreenshift": "2026-10-09",
+  "t:seminole|cybersecurityanalystintern": "2026-10-09",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-09",
   "t:shopify|usappliedmachinelearningengineeringinternshipssummer2027": "2026-10-09",
@@ -3213,7 +3215,8 @@
    "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78839ea0f4259801a11d43f8333181&source=Indeed+Free",
    "https://upboundcareers.com/cybersecurity-intern/job/8EE414AB38BFC41E6A28474463CAA885",
    "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern?source=Indeed",
-   "https://www.careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--"
+   "https://www.careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--",
+   "https://www.governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -6724,7 +6727,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 06",
+ "heartbeat": "2026-10-09 08",
  "recent": [
   [
    1791487114.6532326,
@@ -6789,6 +6792,10 @@
   [
    1791545286.1707225,
    "Allison Transmission - IT Security Analyst Internship - Summer 2027"
+  ],
+  [
+   1791547555.290786,
+   "Seminole County - Cybersecurity Analyst/Intern"
   ]
  ]
 }
