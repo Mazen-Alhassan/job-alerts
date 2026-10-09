@@ -3259,8 +3259,8 @@
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
    "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400",
    "https://careers.mitre.org/us/en/job/MITRUSR117487EXTERNALENUS/Cyber-Operations-Intern",
-   "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200",
    "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199-1",
+   "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1",
    "https://cohnreznick.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10095-Winter-2027-Internship-Cybersecurity-and-Digital-Trust/en-GB",
    "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550",
    "https://jobs.dayforcehcm.com/en-US/ibcp/CANDIDATEPORTAL/jobs/481",
@@ -3701,18 +3701,17 @@
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4468826267",
-   "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4475227979",
    "https://www.linkedin.com/jobs/view/4476806711",
    "https://www.linkedin.com/jobs/view/4476818365",
    "https://www.linkedin.com/jobs/view/4476831989",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4476855092",
+   "https://www.linkedin.com/jobs/view/4477477163",
    "https://www.linkedin.com/jobs/view/4477618487",
    "https://www.linkedin.com/jobs/view/4477810555",
    "https://www.linkedin.com/jobs/view/4477827635",
    "https://www.linkedin.com/jobs/view/4477836279",
-   "https://www.linkedin.com/jobs/view/4477841517",
    "https://www.linkedin.com/jobs/view/4477854009"
   ],
   "microsoft": [
@@ -5379,9 +5378,7 @@
   "wd+:globalhr/Private_Posting_No_TMP": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253"
   ],
-  "wd+:globalhr/rec_rtx_ext_gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922"
-  ],
+  "wd+:globalhr/rec_rtx_ext_gateway": [],
   "wd+:globe/GLB_Careers": [],
   "wd+:globusmedical/GMED_Careers": [],
   "wd+:gnw/GNW": [],
@@ -6563,9 +6560,7 @@
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
-  "wd:globalhr/REC_RTX_Ext_Gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922"
-  ],
+  "wd:globalhr/REC_RTX_Ext_Gateway": [],
   "wd:hp/ExternalCareerSite": [],
   "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [],
@@ -6778,7 +6773,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 16",
+ "heartbeat": "2026-10-09 18",
  "recent": [
   [
    1791487114.6532326,
