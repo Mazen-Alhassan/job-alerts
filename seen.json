@@ -296,6 +296,7 @@
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": "2026-10-09",
   "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": "2026-10-09",
   "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d": "2026-10-09",
+  "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550": "2026-10-09",
   "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582": "2026-10-09",
   "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": "2026-10-09",
   "https://jobs.battelle.org/us/en/job/76282": "2026-10-09",
@@ -669,6 +670,7 @@
   "t:dukeener|pgocybersecurityspring2027coop": "2026-10-09",
   "t:eastpenn|itcybersecurityinternshipsummer2027": "2026-10-09",
   "t:ehc|itsecuritystudentinternsummer2027": "2026-10-09",
+  "t:eightsle|securityitintern": "2026-10-09",
   "t:elevanceheal|informationsecuritycoopinternship2027": "2026-10-08",
   "t:elevance|informationsecuritycoopinternship2027": "2026-10-09",
   "t:ensignin|internvulnerabilityresearch": "2026-10-09",
@@ -1266,7 +1268,9 @@
   "ashby:e-source": [],
   "ashby:egra": [],
   "ashby:eigen-labs": [],
-  "ashby:eightsleep": [],
+  "ashby:eightsleep": [
+   "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550"
+  ],
   "ashby:electronx": [],
   "ashby:elevenlabs": [],
   "ashby:eliseai": [],
@@ -6839,6 +6843,10 @@
   [
    1791565620.6113832,
    "Nissan Global - Corporate Security Intern - Summer 2027 - Franklin, TN"
+  ],
+  [
+   1791565707.3114552,
+   "Eight Sleep - Security & IT Intern"
   ]
  ]
 }
