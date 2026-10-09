@@ -327,6 +327,7 @@
   "https://jobs.merck.com/us/en/job/r413091": "2026-10-09",
   "https://jobs.merck.com/us/en/job/r413882": "2026-10-09",
   "https://jobs.scotiabank.com/job/toronto-velocity-corporate-security-internshipco-op-winter-2027-on/605881917": "2026-10-09",
+  "https://jobs.siemens-energy.com/en_us/careersmarketplace/folderdetail/cybersecurity-data-analytics-ai-analyst-12-month-internship/304831": "2026-10-09",
   "https://jobs.smartrecruiters.com/abbvie/3743990015679246": "2026-10-09",
   "https://jobs.smartrecruiters.com/beumergroup1/744000154188459": "2026-10-09",
   "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-09",
@@ -926,6 +927,7 @@
   "t:shopify|usappliedmachinelearningengineeringinternshipssummer2027": "2026-10-09",
   "t:shopify|ussoftwareengineeringinternshipssummer2027": "2026-10-09",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-10-09",
+  "t:siemense|cybersecuritydataanalyticsaianalyst12monthinternship": "2026-10-09",
   "t:sierranevada|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:sierrane|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:simventi|2027cybersecurityintern": "2026-10-09",
@@ -3250,6 +3252,7 @@
    "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1",
    "https://jobs.dayforcehcm.com/en-US/ibcp/CANDIDATEPORTAL/jobs/481",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
+   "https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Cybersecurity-Data-Analytics-AI-Analyst-12-Month-Internship/304831",
    "https://jobs.smartrecruiters.com/BoschGroup/744000154756439-information-security-and-privacy-intern",
    "https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78839ea0f4259801a11d43f8333181&source=Indeed+Free",
    "https://us-careers-rivian.icims.com/jobs/34316/job",
@@ -6884,6 +6887,10 @@
   [
    1791573747.480105,
    "Arizona Public Service (APS) - 2027 Summer Internship - Cybersecurity"
+  ],
+  [
+   1791574652.540301,
+   "Siemens Energy - Cybersecurity Data Analytics & AI Analyst - 12-Month Internship"
   ]
  ]
 }
