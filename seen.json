@@ -376,6 +376,7 @@
   "https://linkedin.com/jobs/view/4477426178": "2026-10-09",
   "https://linkedin.com/jobs/view/4477458704": "2026-10-09",
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477618487": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-09",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-09",
@@ -3641,8 +3642,6 @@
    "https://www.linkedin.com/jobs/view/4459889831",
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4466253153",
-   "https://www.linkedin.com/jobs/view/4468290890",
-   "https://www.linkedin.com/jobs/view/4468297828",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4474821199",
    "https://www.linkedin.com/jobs/view/4474858025",
@@ -3652,7 +3651,8 @@
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4477458704",
-   "https://www.linkedin.com/jobs/view/4477477163"
+   "https://www.linkedin.com/jobs/view/4477477163",
+   "https://www.linkedin.com/jobs/view/4477618487"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6720,7 +6720,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 04",
+ "heartbeat": "2026-10-09 06",
  "recent": [
   [
    1791487114.6532326,
