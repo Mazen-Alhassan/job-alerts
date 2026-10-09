@@ -152,6 +152,7 @@
   "https://careers-thesilverlining.icims.com/jobs/3792/summer-2027-internship---information-security/job": "2026-10-09",
   "https://careers-uwmcareers.icims.com/jobs/15910/2027-building-security-summer-internship-program/job": "2026-10-09",
   "https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job": "2026-10-09",
+  "https://careers.aps.com/job/phoenix-2027-summer-internship-cybersecurity-az-85004-3903/1438780300": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2024817": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
@@ -565,6 +566,7 @@
   "t:archcapital|securityoperationsintern": "2026-10-08",
   "t:archcapi|securityoperationsintern": "2026-10-08",
   "t:arconic|cybersecurityintern": "2026-10-09",
+  "t:arizonap|2027summerinternshipcybersecurity": "2026-10-09",
   "t:asmglobal|securityintern": "2026-10-08",
   "t:asmgloba|securityintern": "2026-10-09",
   "t:assetworks|itsecurityintern": "2026-10-08",
@@ -3238,6 +3240,7 @@
    "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
    "https://apply.appone.com:443/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-gdms.icims.com/jobs/75132/job",
+   "https://careers.aps.com/job/PHOENIX-2027-Summer-Internship-Cybersecurity-AZ-85004-3903/1438780300/",
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112",
    "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
    "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400",
@@ -6877,6 +6880,10 @@
   [
    1791570878.1696446,
    "The Options Clearing Corporation (OCC) - Year-Round Intern - Cyber Operations"
+  ],
+  [
+   1791573747.480105,
+   "Arizona Public Service (APS) - 2027 Summer Internship - Cybersecurity"
   ]
  ]
 }
