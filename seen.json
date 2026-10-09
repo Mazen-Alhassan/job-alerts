@@ -3191,9 +3191,6 @@
    "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=925627&cid=8077&locvalue=1013",
    "https://apply.appone.com/job/6ac7ce952c25d93763dbd4e9",
    "https://careers-gdms.icims.com/jobs/75132/job",
-   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112",
-   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336",
-   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400",
    "https://careers.mitre.org/us/en/job/MITRUSR117737EXTERNALENUS/Cybersecurity-Engineer-Intern",
    "https://jobs.ericsson.com/careers/job/563121777363423?domain=ericsson.com",
    "https://jobs.jlab.org/job/Newport-News-Cybersecurity-Student-Intern-Virg-23606/1438243000/",
@@ -3647,8 +3644,6 @@
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
-   "https://apply.careers.microsoft.com/careers/job/1970393556999327",
-   "https://apply.careers.microsoft.com/careers/job/1970393557019490",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
   ],
   "netflix": [],
@@ -5407,7 +5402,9 @@
   "wd+:horizonmedia/CareerOpportunities": [],
   "wd+:howard/HU": [],
   "wd+:hp/EXTEU-AC-CareerSite": [],
-  "wd+:hp/externalcareersite": [],
+  "wd+:hp/externalcareersite": [
+   "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"
+  ],
   "wd+:hpe/acjobsite": [],
   "wd+:hpe/jobsathpe": [],
   "wd+:hpinc/hpinc": [],
