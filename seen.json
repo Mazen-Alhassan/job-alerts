@@ -369,6 +369,7 @@
   "https://linkedin.com/jobs/view/4458987324": "2026-10-10",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460311092": "2026-10-10",
   "https://linkedin.com/jobs/view/4460320167": "2026-10-10",
   "https://linkedin.com/jobs/view/4460370875": "2026-10-10",
   "https://linkedin.com/jobs/view/4460502518": "2026-10-10",
@@ -605,6 +606,7 @@
   "t:auctane|cybersecurityinterns": "2026-10-08",
   "t:autoownersin|itsecurityengineerinternshipsummer2027": "2026-10-08",
   "t:autoowne|itsecurityengineerinternshipsummer2027": "2026-10-10",
+  "t:avangrid|2027technologycyberdatainternshipprogram": "2026-10-10",
   "t:bankofch|adcrsdinformationcybersecurityintern": "2026-10-10",
   "t:barclays|2027technologycyberandsecuritysummerinternshipprogrammeknutsford": "2026-10-08",
   "t:barnesthornb|2027btriseinternshipinformationsecurity": "2026-10-08",
@@ -3704,20 +3706,19 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4458679656",
+   "https://www.linkedin.com/jobs/view/4458983369",
    "https://www.linkedin.com/jobs/view/4458987322",
    "https://www.linkedin.com/jobs/view/4458987324",
+   "https://www.linkedin.com/jobs/view/4460311092",
    "https://www.linkedin.com/jobs/view/4460320167",
    "https://www.linkedin.com/jobs/view/4460370875",
-   "https://www.linkedin.com/jobs/view/4460502518",
    "https://www.linkedin.com/jobs/view/4460579016",
    "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4475636071",
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476853761",
-   "https://www.linkedin.com/jobs/view/4476865440",
-   "https://www.linkedin.com/jobs/view/4477873809",
-   "https://www.linkedin.com/jobs/view/4478081281"
+   "https://www.linkedin.com/jobs/view/4476865440"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6782,50 +6783,6 @@
  "heartbeat": "2026-10-10 18",
  "recent": [
   [
-   1791567267.6525867,
-   "Software Engineering Institute | Carnegie Mellon University - AI Security Research Intern "
-  ],
-  [
-   1791568387.9036808,
-   "Rivian - Cybersecurity - Summer 2027 Internships"
-  ],
-  [
-   1791568907.3555777,
-   "Bosch Home Comfort - Information Security and Privacy Intern"
-  ],
-  [
-   1791570599.0437312,
-   "Bosch - Information Security and Privacy Intern"
-  ],
-  [
-   1791570878.1696446,
-   "The Options Clearing Corporation (OCC) - Year-Round Intern - Cyber Operations"
-  ],
-  [
-   1791573747.480105,
-   "Arizona Public Service (APS) - 2027 Summer Internship - Cybersecurity"
-  ],
-  [
-   1791574652.540301,
-   "Siemens Energy - Cybersecurity Data Analytics & AI Analyst - 12-Month Internship"
-  ],
-  [
-   1791574928.2061076,
-   "Hy-Vee, Inc. - IT Security Loss Prevention Intern - Summer 2027"
-  ],
-  [
-   1791574928.2061098,
-   "The Options Clearing Corporation (OCC) - Year-Round Intern - Application Security"
-  ],
-  [
-   1791578259.393592,
-   "Sentinel Technologies - Soc Intern"
-  ],
-  [
-   1791578259.3935935,
-   "CohnReznick - Winter 2027 Internship- Cybersecurity and Digital Trust"
-  ],
-  [
    1791585275.4774363,
    "Panasonic Energy Corporation of North America - Security & Risk Intern"
   ],
@@ -6840,6 +6797,10 @@
   [
    1791659678.9336963,
    "Horizon Lane - Cyber Professional Services Internship"
+  ],
+  [
+   1791673783.3209732,
+   "Avangrid - 2027 Technology, Cyber & Data Internship Program"
   ]
  ]
 }
