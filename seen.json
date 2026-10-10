@@ -365,6 +365,7 @@
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
   "https://linkedin.com/jobs/view/4460320167": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460502518": "2026-10-10",
   "https://linkedin.com/jobs/view/4460579016": "2026-10-10",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
   "https://linkedin.com/jobs/view/4466253153": "2026-10-10",
@@ -3704,11 +3705,11 @@
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4459894808",
    "https://www.linkedin.com/jobs/view/4460320167",
+   "https://www.linkedin.com/jobs/view/4460502518",
    "https://www.linkedin.com/jobs/view/4466253153",
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4475227979",
-   "https://www.linkedin.com/jobs/view/4476806711",
    "https://www.linkedin.com/jobs/view/4476818365",
    "https://www.linkedin.com/jobs/view/4476831989",
    "https://www.linkedin.com/jobs/view/4476838100",
@@ -3717,7 +3718,6 @@
    "https://www.linkedin.com/jobs/view/4476853761",
    "https://www.linkedin.com/jobs/view/4476855092",
    "https://www.linkedin.com/jobs/view/4476865440",
-   "https://www.linkedin.com/jobs/view/4477810555",
    "https://www.linkedin.com/jobs/view/4477836279",
    "https://www.linkedin.com/jobs/view/4477854009"
   ],
@@ -6781,7 +6781,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-10 04",
+ "heartbeat": "2026-10-10 06",
  "recent": [
   [
    1791491897.3822796,
