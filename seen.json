@@ -172,6 +172,7 @@
   "https://careers.l3harris.com/en/job/melbourne/intern-mission-networks-enterprise-soc-analyst/4832/101037353824": "2026-10-09",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101356263456": "2026-10-10",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512": "2026-10-10",
+  "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480": "2026-10-10",
   "https://careers.mastercard.com/us/en/job/r-284924": "2026-10-10",
   "https://careers.mastercard.com/us/en/job/r-284925": "2026-10-10",
   "https://careers.mastercard.com/us/en/job/r-284927": "2026-10-10",
@@ -4056,7 +4057,8 @@
   "phenom:www.yelp.careers": [],
   "radancy:careers.l3harris.com": [
    "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101356263456",
-   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512"
+   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512",
+   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480"
   ],
   "radancy:jobs.intuit.com": [
    "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
@@ -6777,7 +6779,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-09 20",
+ "heartbeat": "2026-10-09 22",
  "recent": [
   [
    1791491897.3822796,
