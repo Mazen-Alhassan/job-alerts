@@ -386,7 +386,7 @@
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-10",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
-  "https://linkedin.com/jobs/view/4470984389": "2026-10-09",
+  "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -398,6 +398,7 @@
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
   "https://linkedin.com/jobs/view/4475441187": "2026-10-08",
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475636071": "2026-10-10",
   "https://linkedin.com/jobs/view/4475702474": "2026-10-08",
   "https://linkedin.com/jobs/view/4475963978": "2026-10-09",
   "https://linkedin.com/jobs/view/4475965878": "2026-10-09",
@@ -780,6 +781,7 @@
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-10",
+  "t:horizonl|cyberprofessionalservicesinternship": "2026-10-10",
   "t:howmetae|cybersecurityintern": "2026-10-10",
   "t:hpiq|softwareengineeringinternproductsecuritysummer2027": "2026-10-09",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-10",
@@ -973,7 +975,7 @@
   "t:studyfet|itsecurityoperationsintern": "2026-10-10",
   "t:swbc|applicationsecurityintern": "2026-10-10",
   "t:tampaelectri|spring2027studentinternshipadicybersecurity": "2026-10-08",
-  "t:tampaele|spring2027studentinternshipadicybersecurity": "2026-10-09",
+  "t:tampaele|spring2027studentinternshipadicybersecurity": "2026-10-10",
   "t:tanium|cloudsecurityintern": "2026-10-10",
   "t:td|2027springcoopglobaltechnologysolutionscybersecurity": "2026-10-10",
   "t:td|2027summerinternshipprogramglobaltechnologysolutionscybersecurity": "2026-10-10",
@@ -3707,17 +3709,16 @@
    "https://www.linkedin.com/jobs/view/4460502518",
    "https://www.linkedin.com/jobs/view/4460579016",
    "https://www.linkedin.com/jobs/view/4466253153",
-   "https://www.linkedin.com/jobs/view/4468801515",
-   "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4469506272",
+   "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4475278026",
+   "https://www.linkedin.com/jobs/view/4475636071",
    "https://www.linkedin.com/jobs/view/4476831989",
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4476853761",
    "https://www.linkedin.com/jobs/view/4476855092",
-   "https://www.linkedin.com/jobs/view/4476865440",
-   "https://www.linkedin.com/jobs/view/4477854009"
+   "https://www.linkedin.com/jobs/view/4476865440"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6782,26 +6783,6 @@
  "heartbeat": "2026-10-10 14",
  "recent": [
   [
-   1791559559.8925023,
-   "Georgia Tech Research Institute - General Cybersecurity Graduate Intern - CIPHER- Spring 2"
-  ],
-  [
-   1791560030.6618547,
-   "Carnegie Mellon University - AI Security Software Engineer Intern \u2013 Summer 2027"
-  ],
-  [
-   1791560030.6618574,
-   "Carnegie Mellon University - AI Security Research Intern \u2013 Summer 2027"
-  ],
-  [
-   1791565620.6113832,
-   "Nissan Global - Corporate Security Intern - Summer 2027 - Franklin, TN"
-  ],
-  [
-   1791565707.3114552,
-   "Eight Sleep - Security & IT Intern"
-  ],
-  [
    1791567267.6525867,
    "Software Engineering Institute | Carnegie Mellon University - AI Security Research Intern "
   ],
@@ -6856,6 +6837,10 @@
   [
    1791652824.10623,
    "Johns Hopkins APL - 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Pro"
+  ],
+  [
+   1791659678.9336963,
+   "Horizon Lane - Cyber Professional Services Internship"
   ]
  ]
 }
