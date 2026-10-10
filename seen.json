@@ -171,6 +171,7 @@
   "https://careers.jhuapl.edu/jobs/59865": "2026-10-10",
   "https://careers.jhuapl.edu/jobs/59907": "2026-10-10",
   "https://careers.jhuapl.edu/jobs/60339": "2026-10-10",
+  "https://careers.jhuapl.edu/jobs/60431": "2026-10-10",
   "https://careers.l3harris.com/en/job/melbourne/intern-mission-networks-enterprise-soc-analyst/4832/101037353824": "2026-10-09",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101356263456": "2026-10-10",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512": "2026-10-10",
@@ -804,6 +805,7 @@
   "t:johnshopkins|cyberphysicalsystemsintern": "2026-10-08",
   "t:johnshop|2027internshipcyberphysicalsystems": "2026-10-10",
   "t:johnshop|2027internshipcybersecuritycyberdominance": "2026-10-10",
+  "t:johnshop|2027internshipcybersecurityengineercriticalinfrastructureprotection": "2026-10-10",
   "t:johnshop|2027internshipcybersecurityengineermathematicianconstrainedcybersolutions": "2026-10-10",
   "t:johnshop|2027internshipcybersoftwareengineercapabilitiesdevelopment": "2026-10-10",
   "t:johnshop|2027internshipmilitarysystemscybersecurityengineer": "2026-10-10",
@@ -3263,7 +3265,8 @@
    "https://careers.jhuapl.edu/jobs/59779",
    "https://careers.jhuapl.edu/jobs/59865",
    "https://careers.jhuapl.edu/jobs/59907",
-   "https://careers.jhuapl.edu/jobs/60339"
+   "https://careers.jhuapl.edu/jobs/60339",
+   "https://careers.jhuapl.edu/jobs/60431"
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
@@ -6783,10 +6786,6 @@
  "heartbeat": "2026-10-10 12",
  "recent": [
   [
-   1791555853.7859228,
-   "MITRE - Cyber Operations Intern"
-  ],
-  [
    1791559559.8925023,
    "Georgia Tech Research Institute - General Cybersecurity Graduate Intern - CIPHER- Spring 2"
   ],
@@ -6857,6 +6856,10 @@
   [
    1791644199.2263947,
    "Johnson & Johnson - Medical Device Cybersecurity Co-Op"
+  ],
+  [
+   1791652824.10623,
+   "Johns Hopkins APL - 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Pro"
   ]
  ]
 }
