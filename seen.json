@@ -383,6 +383,7 @@
   "https://linkedin.com/jobs/view/4468801515": "2026-10-10",
   "https://linkedin.com/jobs/view/4468811301": "2026-10-10",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
+  "https://linkedin.com/jobs/view/4469506272": "2026-10-10",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-09",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
@@ -808,6 +809,7 @@
   "t:johnshop|2027internshipmilitarysystemscybersecurityengineer": "2026-10-10",
   "t:johnshop|2027internshipreverseengineeroffensivecybercapabilities": "2026-10-10",
   "t:johnshop|2027internshipwirelesscommunicationsengineerwirelesscybercapabilities": "2026-10-10",
+  "t:johnsonj|medicaldevicecybersecuritycoop": "2026-10-10",
   "t:johnsonmatth|cybersecuritysummer2027intern": "2026-10-08",
   "t:johnsonm|cybersecuritysummer2027intern": "2026-10-10",
   "t:jonassoftwar|cybersecurityintern": "2026-10-08",
@@ -1831,7 +1833,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3701,13 +3705,13 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4458679656",
-   "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460320167",
    "https://www.linkedin.com/jobs/view/4460502518",
    "https://www.linkedin.com/jobs/view/4460579016",
    "https://www.linkedin.com/jobs/view/4466253153",
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
+   "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4475227979",
    "https://www.linkedin.com/jobs/view/4476831989",
    "https://www.linkedin.com/jobs/view/4476838100",
@@ -6782,62 +6786,6 @@
  "heartbeat": "2026-10-10 10",
  "recent": [
   [
-   1791491897.3822796,
-   "Amazon - Systems Development Engineer Intern, Canada 2027"
-  ],
-  [
-   1791495038.9405482,
-   "Raytheon - Systems Security Engineering Intern  (Summer 2027)"
-  ],
-  [
-   1791499713.8307867,
-   "TRIAEM LLC - Cybersecurity - Intern"
-  ],
-  [
-   1791500624.896276,
-   "GuidePoint Security - GPSU Intern - Application Security"
-  ],
-  [
-   1791507084.5261276,
-   "Koniag Cyber Solutions LLC - Cybersecurity Intern"
-  ],
-  [
-   1791509325.3822117,
-   "Wilcox + Flegel - Cybersecurity Compliance Intern"
-  ],
-  [
-   1791529353.6959085,
-   "Health Care Service Corporation - Early Careers - Identify & Access Management (IAM) Inter"
-  ],
-  [
-   1791529353.695911,
-   "Health Care Service Corporation - Early Careers - Identify & Access Management (IAM) Senio"
-  ],
-  [
-   1791529353.695912,
-   "Health Care Service Corporation - Early Careers - Security Engineering Senior Intern"
-  ],
-  [
-   1791532762.1505046,
-   "Aeravox Dynamics - Cyber Professional Services Intern"
-  ],
-  [
-   1791539690.5988784,
-   "Independent Bank - Cyber Security Intern - Summer 2027"
-  ],
-  [
-   1791545286.1707225,
-   "Allison Transmission - IT Security Analyst Internship - Summer 2027"
-  ],
-  [
-   1791547555.290786,
-   "Seminole County - Cybersecurity Analyst/Intern"
-  ],
-  [
-   1791550535.2415206,
-   "American Equity - IT Intern, Information Security"
-  ],
-  [
    1791555853.7859228,
    "MITRE - Cyber Operations Intern"
   ],
@@ -6908,6 +6856,10 @@
   [
    1791585275.4774363,
    "Panasonic Energy Corporation of North America - Security & Risk Intern"
+  ],
+  [
+   1791644199.2263947,
+   "Johnson & Johnson - Medical Device Cybersecurity Co-Op"
   ]
  ]
 }
