@@ -472,7 +472,7 @@
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/college-of-ist-cyber-100-genai-impact-evaluation-student-assistant_req_0000083099-1": "2026-10-11",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-10-11",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
-  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-10",
+  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-11",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-11",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-11",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-11",
@@ -941,7 +941,7 @@
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
   "t:procterg|itsecurityinternship": "2026-10-11",
-  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-10",
+  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-11",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
@@ -1851,7 +1851,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3721,12 +3723,10 @@
    "https://www.linkedin.com/jobs/view/4460311092",
    "https://www.linkedin.com/jobs/view/4460320167",
    "https://www.linkedin.com/jobs/view/4460370875",
-   "https://www.linkedin.com/jobs/view/4460502518",
    "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4460579016",
    "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4475629653",
-   "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4478087913"
   ],
   "microsoft": [
@@ -6786,7 +6786,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-11 02",
+ "heartbeat": "2026-10-11 04",
  "recent": [
   [
    1791644199.2263947,
