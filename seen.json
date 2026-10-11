@@ -1861,9 +1861,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -2283,9 +2281,7 @@
   "gh:haigroup": [],
   "gh:haizelabs": [],
   "gh:hankooktireamericacorp": [],
-  "gh:harbingermotors": [
-   "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"
-  ],
+  "gh:harbingermotors": [],
   "gh:harborglobal": [],
   "gh:hasbro": [],
   "gh:haven": [],
@@ -6791,7 +6787,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-11 16",
+ "heartbeat": "2026-10-11 18",
  "recent": [
   [
    1791644199.2263947,
