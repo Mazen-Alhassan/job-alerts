@@ -365,7 +365,9 @@
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
   "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
+  "https://linkedin.com/jobs/view/4458967970": "2026-10-11",
   "https://linkedin.com/jobs/view/4458983369": "2026-10-11",
+  "https://linkedin.com/jobs/view/4458986159": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987322": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
@@ -1053,6 +1055,7 @@
   "t:wellmark|securityanalystinternship": "2026-10-11",
   "t:westbend|summer2027internshipinformationsecurity": "2026-10-11",
   "t:westerna|summer2027internshipphoenixazitsecurity": "2026-10-11",
+  "t:westmonr|2027cybersecuritycloudandinfrastructureconsultingintern": "2026-10-11",
   "t:wex|backendsoftwareengineerinternccloudsecurityaiundergraduate": "2026-10-11",
   "t:wilcoxfl|cybersecuritycomplianceintern": "2026-10-10",
   "t:wipfli|socsecurityinternshipsummer2027": "2026-10-11",
@@ -3719,6 +3722,8 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4458679656",
+   "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4458986159",
    "https://www.linkedin.com/jobs/view/4460502522",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4465893840",
@@ -3726,7 +3731,6 @@
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4475629653",
-   "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4478087913"
   ],
   "microsoft": [
@@ -6807,6 +6811,10 @@
   [
    1791704116.7867193,
    "Nissan Motor Corporation - Corporate Security Intern - Summer 2027 - Franklin, TN"
+  ],
+  [
+   1791723176.957684,
+   "West Monroe - 2027 Cybersecurity & Cloud and Infrastructure Consulting Intern"
   ]
  ]
 }
