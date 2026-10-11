@@ -437,6 +437,7 @@
   "https://linkedin.com/jobs/view/4477854009": "2026-10-10",
   "https://linkedin.com/jobs/view/4477873809": "2026-10-10",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
+  "https://linkedin.com/jobs/view/4478087913": "2026-10-11",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-11",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-11",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-11",
@@ -912,6 +913,7 @@
   "t:nightwing|vulnerabilityresearcherintern2026": "2026-10-08",
   "t:nightwin|vulnerabilityresearcherintern2026": "2026-10-11",
   "t:nissangl|corporatesecurityinternsummer2027franklintn": "2026-10-11",
+  "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-11",
   "t:northwestern|cybersecurityinternship": "2026-10-08",
   "t:northwes|cybersecurityinternship": "2026-10-11",
   "t:nxpsemicondu|embeddedswdeveloperinternsecurity": "2026-10-08",
@@ -3724,7 +3726,8 @@
    "https://www.linkedin.com/jobs/view/4460579016",
    "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4475629653",
-   "https://www.linkedin.com/jobs/view/4478081281"
+   "https://www.linkedin.com/jobs/view/4478081281",
+   "https://www.linkedin.com/jobs/view/4478087913"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6786,10 +6789,6 @@
  "heartbeat": "2026-10-11 02",
  "recent": [
   [
-   1791585275.4774363,
-   "Panasonic Energy Corporation of North America - Security & Risk Intern"
-  ],
-  [
    1791644199.2263947,
    "Johnson & Johnson - Medical Device Cybersecurity Co-Op"
   ],
@@ -6804,6 +6803,10 @@
   [
    1791673783.3209732,
    "Avangrid - 2027 Technology, Cyber & Data Internship Program"
+  ],
+  [
+   1791704116.7867193,
+   "Nissan Motor Corporation - Corporate Security Intern - Summer 2027 - Franklin, TN"
   ]
  ]
 }
