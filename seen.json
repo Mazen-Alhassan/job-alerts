@@ -6608,10 +6608,7 @@
    "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
   ],
   "wd:target/targetcareers": [],
-  "wd:td/TD_Bank_Careers": [
-   "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Cyber-Security_R_1510103",
-   "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"
-  ],
+  "wd:td/TD_Bank_Careers": [],
   "wd:travelers/External": [],
   "wd:trendmicro/External": [],
   "wd:upbound/Upbound": [
@@ -6784,7 +6781,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-10 22",
+ "heartbeat": "2026-10-11 00",
  "recent": [
   [
    1791585275.4774363,
