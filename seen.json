@@ -3719,7 +3719,6 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4458679656",
    "https://www.linkedin.com/jobs/view/4460307152",
-   "https://www.linkedin.com/jobs/view/4460311092",
    "https://www.linkedin.com/jobs/view/4460370875",
    "https://www.linkedin.com/jobs/view/4460502522",
    "https://www.linkedin.com/jobs/view/4460514392",
@@ -3728,7 +3727,8 @@
    "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4469506272",
    "https://www.linkedin.com/jobs/view/4475629653",
-   "https://www.linkedin.com/jobs/view/4478081281"
+   "https://www.linkedin.com/jobs/view/4478081281",
+   "https://www.linkedin.com/jobs/view/4478087913"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6787,7 +6787,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-11 04",
+ "heartbeat": "2026-10-11 06",
  "recent": [
   [
    1791644199.2263947,
