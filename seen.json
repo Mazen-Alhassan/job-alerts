@@ -439,6 +439,7 @@
   "https://linkedin.com/jobs/view/4477426178": "2026-10-09",
   "https://linkedin.com/jobs/view/4477458704": "2026-10-09",
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477503033": "2026-10-12",
   "https://linkedin.com/jobs/view/4477618487": "2026-10-10",
   "https://linkedin.com/jobs/view/4477810555": "2026-10-10",
   "https://linkedin.com/jobs/view/4477827635": "2026-10-09",
@@ -733,6 +734,7 @@
   "t:dukeenergy|pgocybersecurityspring2027coop": "2026-10-08",
   "t:dukeener|pgocybersecurityspring2027coop": "2026-10-09",
   "t:eastpenn|itcybersecurityinternshipsummer2027": "2026-10-12",
+  "t:ededgegr|cybersecurityintern": "2026-10-12",
   "t:ehc|itsecuritystudentinternsummer2027": "2026-10-12",
   "t:eightsle|securityitintern": "2026-10-12",
   "t:elevanceheal|informationsecuritycoopinternship2027": "2026-10-08",
@@ -3731,6 +3733,7 @@
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4476848862",
+   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4478087913"
   ],
   "microsoft": [
@@ -6789,10 +6792,6 @@
  "heartbeat": "2026-10-12 00",
  "recent": [
   [
-   1791673783.3209732,
-   "Avangrid - 2027 Technology, Cyber & Data Internship Program"
-  ],
-  [
    1791704116.7867193,
    "Nissan Motor Corporation - Corporate Security Intern - Summer 2027 - Franklin, TN"
   ],
@@ -6803,6 +6802,10 @@
   [
    1791765380.8338046,
    "HDR - Information Communication Technology (ICT)/Security Intern"
+  ],
+  [
+   1791782202.4067106,
+   "Ededge Groups - Cybersecurity Intern"
   ]
  ]
 }
