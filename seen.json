@@ -469,9 +469,13 @@
   "https://linkedin.com/jobs/view/4477841517": "2026-10-10",
   "https://linkedin.com/jobs/view/4477854009": "2026-10-10",
   "https://linkedin.com/jobs/view/4477873809": "2026-10-10",
+  "https://linkedin.com/jobs/view/4477929581": "2026-10-12",
+  "https://linkedin.com/jobs/view/4477930507": "2026-10-12",
+  "https://linkedin.com/jobs/view/4477940240": "2026-10-12",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478717202": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-12",
@@ -752,6 +756,7 @@
   "t:crestind|securityintern": "2026-10-12",
   "t:crowe|cybersecurityintern": "2026-10-12",
   "t:crowe|incidentresponseintern": "2026-10-12",
+  "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-12",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
   "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-08",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-12",
@@ -3768,12 +3773,15 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4469942338",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477568999",
-   "https://www.linkedin.com/jobs/view/4478537956"
+   "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477930507",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4478717202"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6924,6 +6932,10 @@
   [
    1791843390.156998,
    "Seagate Technology - Research Intern (Summer 2027) - Formal Methods and Security"
+  ],
+  [
+   1791847447.5433202,
+   "Crown Equipment Corporation - Information Security Analyst Co-Op - Spring 2027 Indefinite "
   ]
  ]
 }
