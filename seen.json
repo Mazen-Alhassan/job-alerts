@@ -161,6 +161,8 @@
   "https://careers.cisco.com/global/en/job/2024817": "2026-10-12",
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
+  "https://careers.corewellhealth.org/us/en/job/r228866": "2026-10-12",
+  "https://careers.corewellhealth.org/us/en/job/r228867": "2026-10-12",
   "https://careers.fisglobal.com/us/en/job/jr0309680": "2026-10-12",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
@@ -3333,6 +3335,8 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers.corewellhealth.org/us/en/job/R228866",
+   "https://careers.corewellhealth.org/us/en/job/R228867",
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ericsson.com/careers/job/563121777370331?domain=ericsson.com",
    "https://jobs.ourcareerpages.com/job/1010495?source=Indeed"
@@ -3762,7 +3766,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4469942338",
-   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4477505522",
    "https://www.linkedin.com/jobs/view/4477568999",
@@ -6834,7 +6837,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-12 16",
+ "heartbeat": "2026-10-12 18",
  "recent": [
   [
    1791765380.8338046,
