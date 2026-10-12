@@ -98,7 +98,7 @@
   "https://ankura.wd5.myworkdayjobs.com/ankura/job/houston-tx/university-intern--forensic-accounting---claims-consulting_r104971": "2026-10-08",
   "https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/it-security-engineer-internship---summer-2027_r_14477": "2026-10-12",
   "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/new-york-ny/xmlname-2027-summer-intern--information-security_2026-1416": "2026-10-12",
-  "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-08",
+  "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-12",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-12",
   "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/pewaukee-wi/intern---cyber-security-summer-2027_r0003307": "2026-10-12",
   "https://ats.rippling.com/bound/jobs/379531ae-64b1-45cb-811b-197ecb8fbd89": "2026-10-12",
@@ -622,7 +622,7 @@
   "t:appliedintui|cybersecuritysoftwareengineernewgrad2027": "2026-10-08",
   "t:appliedi|cybersecuritysoftwareengineernewgrad2027": "2026-10-12",
   "t:archcapital|securityoperationsintern": "2026-10-08",
-  "t:archcapi|securityoperationsintern": "2026-10-08",
+  "t:archcapi|securityoperationsintern": "2026-10-12",
   "t:arconic|cybersecurityintern": "2026-10-12",
   "t:arizonap|2027summerinternshipcybersecurity": "2026-10-10",
   "t:asmglobal|securityintern": "2026-10-08",
@@ -4055,7 +4055,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
@@ -6566,7 +6568,9 @@
   "wd:adobe/external_experienced": [],
   "wd:aero/external": [],
   "wd:aig/aig": [],
-  "wd:archgroup/careers": [],
+  "wd:archgroup/careers": [
+   "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"
+  ],
   "wd:arcticwolf/External": [],
   "wd:atcllc/atcllc": [
    "https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
