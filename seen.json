@@ -423,6 +423,7 @@
   "https://linkedin.com/jobs/view/4475963978": "2026-10-09",
   "https://linkedin.com/jobs/view/4475965878": "2026-10-09",
   "https://linkedin.com/jobs/view/4475983653": "2026-10-09",
+  "https://linkedin.com/jobs/view/4476012328": "2026-10-12",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
   "https://linkedin.com/jobs/view/4476806711": "2026-10-10",
@@ -711,6 +712,7 @@
   "t:cnainsurance|technologyinternshipprogramcybersecurity": "2026-10-08",
   "t:cnainsur|technologyinternshipprogramcybersecurity": "2026-10-12",
   "t:cohnrezn|winter2027internshipcybersecurityanddigitaltrust": "2026-10-10",
+  "t:collecti|securityoperationsintern": "2026-10-12",
   "t:conagrabrand|cybersecurityinternshipsummer2027": "2026-10-08",
   "t:conagrab|cybersecurityinternshipsummer2027": "2026-10-12",
   "t:coopsatn|coopittechnicalsecurity": "2026-10-12",
@@ -3729,6 +3731,7 @@
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
+   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522"
@@ -6817,6 +6820,10 @@
   [
    1791802270.279108,
    "Thales - 2027 Cloud Assurance and Cyber Security-  - Level 4 Cyber Security Engineer Appre"
+  ],
+  [
+   1791804419.057531,
+   "Collections That Care - Security Operations Intern"
   ]
  ]
 }
