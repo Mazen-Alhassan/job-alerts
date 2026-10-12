@@ -445,6 +445,7 @@
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
   "https://linkedin.com/jobs/view/4477503033": "2026-10-12",
   "https://linkedin.com/jobs/view/4477505522": "2026-10-12",
+  "https://linkedin.com/jobs/view/4477568999": "2026-10-12",
   "https://linkedin.com/jobs/view/4477618487": "2026-10-10",
   "https://linkedin.com/jobs/view/4477810555": "2026-10-10",
   "https://linkedin.com/jobs/view/4477827635": "2026-10-09",
@@ -1070,6 +1071,7 @@
   "t:walmart|summer2027interncybersecurityundergrad": "2026-10-12",
   "t:waveston|internshipwavestoneluxembourgcybersecurityartificialintelligenceconsulting": "2026-10-12",
   "t:waymo|2027summerinternphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-10-12",
+  "t:webstaur|socintern": "2026-10-12",
   "t:wellmark|cybersecurityinternship": "2026-10-12",
   "t:wellmark|securityanalystinternship": "2026-10-12",
   "t:westbend|summer2027internshipinformationsecurity": "2026-10-12",
@@ -3740,7 +3742,8 @@
    "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4477503033",
-   "https://www.linkedin.com/jobs/view/4477505522"
+   "https://www.linkedin.com/jobs/view/4477505522",
+   "https://www.linkedin.com/jobs/view/4477568999"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6838,6 +6841,10 @@
   [
    1791811984.5941586,
    "Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern"
+  ],
+  [
+   1791815407.1913183,
+   "WebstaurantStore - SOC Intern"
   ]
  ]
 }
