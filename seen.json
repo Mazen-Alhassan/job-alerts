@@ -99,6 +99,7 @@
   "https://ankura.wd5.myworkdayjobs.com/ankura/job/houston-tx/university-intern--forensic-accounting---claims-consulting_r104971": "2026-10-08",
   "https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/it-security-engineer-internship---summer-2027_r_14477": "2026-10-12",
   "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/new-york-ny/xmlname-2027-summer-intern--information-security_2026-1416": "2026-10-12",
+  "https://applicantpro.com/openings/echeloncyber/jobs/4241204-989931": "2026-10-12",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-12",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-12",
   "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/pewaukee-wi/intern---cyber-security-summer-2027_r0003307": "2026-10-12",
@@ -773,6 +774,7 @@
   "t:dukeenergy|pgocybersecurityspring2027coop": "2026-10-08",
   "t:dukeener|pgocybersecurityspring2027coop": "2026-10-09",
   "t:eastpenn|itcybersecurityinternshipsummer2027": "2026-10-12",
+  "t:echelonr|riskadvisorygrcinternremoteusa": "2026-10-12",
   "t:ededgegr|cybersecurityintern": "2026-10-12",
   "t:ehc|itsecuritystudentinternsummer2027": "2026-10-12",
   "t:eightsle|securityitintern": "2026-10-12",
@@ -3347,7 +3349,8 @@
    "https://careers.corewellhealth.org/us/en/job/R228867",
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ericsson.com/careers/job/563121777370331?domain=ericsson.com",
-   "https://jobs.ourcareerpages.com/job/1010495?source=Indeed"
+   "https://jobs.ourcareerpages.com/job/1010495?source=Indeed",
+   "https://www.applicantpro.com/openings/echeloncyber/jobs/4241204-989931"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -3780,8 +3783,7 @@
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477930507",
-   "https://www.linkedin.com/jobs/view/4477940240",
-   "https://www.linkedin.com/jobs/view/4478717202"
+   "https://www.linkedin.com/jobs/view/4477940240"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6936,6 +6938,10 @@
   [
    1791847447.5433202,
    "Crown Equipment Corporation - Information Security Analyst Co-Op - Spring 2027 Indefinite "
+  ],
+  [
+   1791848073.1684382,
+   "Echelon Risk + Cyber - Risk Advisory GRC Intern - Remote (USA)"
   ]
  ]
 }
