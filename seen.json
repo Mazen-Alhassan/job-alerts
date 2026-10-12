@@ -438,6 +438,8 @@
   "https://linkedin.com/jobs/view/4475983653": "2026-10-09",
   "https://linkedin.com/jobs/view/4476012328": "2026-10-12",
   "https://linkedin.com/jobs/view/4476037721": "2026-10-12",
+  "https://linkedin.com/jobs/view/4476065632": "2026-10-12",
+  "https://linkedin.com/jobs/view/4476076233": "2026-10-12",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
   "https://linkedin.com/jobs/view/4476806711": "2026-10-10",
@@ -1014,6 +1016,8 @@
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-12",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-09",
+  "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-12",
+  "t:seagatet|summerinterncryptographyandsecurity": "2026-10-12",
   "t:security|cybersoccoop2027usgreenshift": "2026-10-12",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
@@ -3766,8 +3770,11 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4469942338",
+   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476037721",
-   "https://www.linkedin.com/jobs/view/4477505522",
+   "https://www.linkedin.com/jobs/view/4476065632",
+   "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4478537956"
   ],
@@ -6910,6 +6917,14 @@
   [
    1791841048.7382133,
    "Astera Labs - CyberSecurity Engineer Intern"
+  ],
+  [
+   1791843390.1569963,
+   "Seagate Technology - Summer Intern - Cryptography and Security"
+  ],
+  [
+   1791843390.156998,
+   "Seagate Technology - Research Intern (Summer 2027) - Formal Methods and Security"
   ]
  ]
 }
