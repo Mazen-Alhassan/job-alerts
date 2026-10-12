@@ -363,6 +363,7 @@
   "https://lifeattiktok.com/search/7670729943510829317": "2026-10-12",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
+  "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
   "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
   "https://linkedin.com/jobs/view/4458967970": "2026-10-11",
@@ -797,6 +798,7 @@
   "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-12",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-12",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-09",
+  "t:hdr|informationcommunicationtechnologyictsecurityintern": "2026-10-12",
   "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
@@ -3719,6 +3721,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4458981214",
    "https://www.linkedin.com/jobs/view/4458986159",
    "https://www.linkedin.com/jobs/view/4460502522",
@@ -6789,18 +6792,6 @@
  "heartbeat": "2026-10-11 20",
  "recent": [
   [
-   1791644199.2263947,
-   "Johnson & Johnson - Medical Device Cybersecurity Co-Op"
-  ],
-  [
-   1791652824.10623,
-   "Johns Hopkins APL - 2027 Internship - Cybersecurity Engineer - Critical Infrastructure Pro"
-  ],
-  [
-   1791659678.9336963,
-   "Horizon Lane - Cyber Professional Services Internship"
-  ],
-  [
    1791673783.3209732,
    "Avangrid - 2027 Technology, Cyber & Data Internship Program"
   ],
@@ -6811,6 +6802,10 @@
   [
    1791723176.957684,
    "West Monroe - 2027 Cybersecurity & Cloud and Infrastructure Consulting Intern"
+  ],
+  [
+   1791765380.8338046,
+   "HDR - Information Communication Technology (ICT)/Security Intern"
   ]
  ]
 }
