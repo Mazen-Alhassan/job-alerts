@@ -2,6 +2,7 @@
  "alerted": {
   "gh:4430607009": "2026-10-12",
   "gh:4719593006": "2026-10-12",
+  "gh:4743021005": "2026-10-12",
   "gh:4952609101": "2026-10-12",
   "gh:5177341007": "2026-10-12",
   "gh:5213881007": "2026-10-12",
@@ -642,6 +643,7 @@
   "t:asmgloba|securityintern": "2026-10-12",
   "t:assetworks|itsecurityintern": "2026-10-08",
   "t:assetwor|itsecurityintern": "2026-10-12",
+  "t:asterala|cybersecurityengineerintern": "2026-10-12",
   "t:auctane|cybersecurityinterns": "2026-10-08",
   "t:autoownersin|itsecurityengineerinternshipsummer2027": "2026-10-08",
   "t:autoowne|itsecurityengineerinternshipsummer2027": "2026-10-12",
@@ -2000,7 +2002,9 @@
   "gh:assuredguaranty": [],
   "gh:assystinc": [],
   "gh:asteraearlycareer2026": [],
-  "gh:asteraearlycareer2027": [],
+  "gh:asteraearlycareer2027": [
+   "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005"
+  ],
   "gh:asteralabs": [],
   "gh:astranis": [],
   "gh:atek": [],
@@ -6900,6 +6904,10 @@
   [
    1791837627.6880229,
    "7-Eleven - Information Security Intern"
+  ],
+  [
+   1791841048.7382133,
+   "Astera Labs - CyberSecurity Engineer Intern"
   ]
  ]
 }
