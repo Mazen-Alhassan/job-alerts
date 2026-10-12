@@ -1866,9 +1866,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3735,8 +3733,7 @@
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4476848862",
-   "https://www.linkedin.com/jobs/view/4477503033",
-   "https://www.linkedin.com/jobs/view/4478087913"
+   "https://www.linkedin.com/jobs/view/4477503033"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6791,7 +6788,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-12 02",
+ "heartbeat": "2026-10-12 04",
  "recent": [
   [
    1791704116.7867193,
