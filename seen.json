@@ -509,6 +509,7 @@
   "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---cyber-security_r_1510795": "2026-10-11",
   "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-1": "2026-10-12",
   "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-2": "2026-10-12",
+  "https://thales.wd3.myworkdayjobs.com/careers/job/crawley/xmlname-2027-cloud-assurance-and-cyber-security-apprentice_r0337751": "2026-10-12",
   "https://theocc.wd5.myworkdayjobs.com/careers/job/chicago---125-s-franklin/summer-intern---cyber-operations_req-4843": "2026-10-12",
   "https://theocc.wd5.myworkdayjobs.com/careers/job/dallas-tx/year-round-intern---application-security_req-4838": "2026-10-12",
   "https://thrivent.wd5.myworkdayjobs.com/external/job/mn---minneapolis/commercial-mortgages-and-securitized-real-estate-assets-intern---summer-2027_req-48063": "2026-10-12",
@@ -1024,6 +1025,7 @@
   "t:tevora|cybersecurityinternshipwinter2027threat": "2026-10-12",
   "t:texasins|informationtechnologyinternsecurity": "2026-10-12",
   "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
+  "t:thales|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-12",
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-12",
   "t:themanitowoc|summer2027interncybersecurity": "2026-10-08",
@@ -6298,8 +6300,12 @@
   "wd+:terex/terexcareers": [],
   "wd+:texascapitalbank/Careers": [],
   "wd+:texaspsf/TexasPSFCareers": [],
-  "wd+:thales/Careers": [],
-  "wd+:thales/careers": [],
+  "wd+:thales/Careers": [
+   "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Cloud-Assurance-and-Cyber-Security-Apprentice_R0337751"
+  ],
+  "wd+:thales/careers": [
+   "https://thales.wd3.myworkdayjobs.com/en-US/careers/job/Crawley/XMLNAME-2027-Cloud-Assurance-and-Cyber-Security-Apprentice_R0337751"
+  ],
   "wd+:theaccessgroup/Access_Group_External_Careers": [],
   "wd+:theclaremontcolleges/CMC_Staff": [],
   "wd+:thecsp/CSP": [],
@@ -6807,6 +6813,10 @@
   [
    1791800374.7375429,
    "Thales - 2027 Cloud Assurance and Cyber Security Apprentice"
+  ],
+  [
+   1791802270.279108,
+   "Thales - 2027 Cloud Assurance and Cyber Security-  - Level 4 Cyber Security Engineer Appre"
   ]
  ]
 }
