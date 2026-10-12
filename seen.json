@@ -285,6 +285,7 @@
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/it-security-loss-prevention-intern---summer-2027_r250154": "2026-10-12",
   "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/cyber-security-internship_jr100410": "2026-10-12",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-12",
+  "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-12",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-12",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-12",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-10-12",
@@ -814,6 +815,7 @@
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-12",
+  "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-12",
   "t:horizonl|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howmetae|cybersecurityintern": "2026-10-12",
   "t:hpiq|softwareengineeringinternproductsecuritysummer2027": "2026-10-09",
@@ -3731,7 +3733,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4458981214",
-   "https://www.linkedin.com/jobs/view/4458986159",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4476012328",
@@ -3987,7 +3988,9 @@
   "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC": [],
   "oracle:iazuqy.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:ibnjjb.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [],
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [
+   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555"
+  ],
   "oracle:ibwsjb.fa.ocs.oraclecloud.com/CX_1": [
    "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2528040"
   ],
@@ -6829,6 +6832,10 @@
   [
    1791805045.6657782,
    "Commonwealth Electric Company of the Midwest - IT Intern - AI and Cybersecurity: Commonwea"
+  ],
+  [
+   1791811984.5941586,
+   "Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern"
   ]
  ]
 }
