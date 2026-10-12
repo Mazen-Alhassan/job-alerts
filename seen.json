@@ -352,6 +352,7 @@
   "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-12",
   "https://jobs.smartrecruiters.com/boschgroup/744000154756439-information-security-and-privacy-intern": "2026-10-10",
   "https://jobs.smartrecruiters.com/boschgroup/744000154757409": "2026-10-12",
+  "https://jobs.smartrecruiters.com/boschgroup/744000155120934": "2026-10-12",
   "https://jobs.smartrecruiters.com/fortunebrands/744000149058098": "2026-10-12",
   "https://jobs.smartrecruiters.com/jsheldllc/744000146261287": "2026-10-12",
   "https://jobs.smartrecruiters.com/llnl/3743990014731646": "2026-10-12",
@@ -3763,7 +3764,6 @@
    "https://www.linkedin.com/jobs/view/4469942338",
    "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476037721",
-   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522",
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4478537956"
@@ -4341,7 +4341,7 @@
   "sr:Blinqlabs": [],
   "sr:BoschGroup": [
    "https://jobs.smartrecruiters.com/BoschGroup/744000154435119",
-   "https://jobs.smartrecruiters.com/BoschGroup/744000154757409"
+   "https://jobs.smartrecruiters.com/BoschGroup/744000155120934"
   ],
   "sr:BostonEngineeringCorporation": [],
   "sr:BoydGaming": [],
@@ -6454,8 +6454,7 @@
   "wd+:usc/ExternalUSCCareers": [],
   "wd+:usertesting/UserTesting": [],
   "wd+:usfoods/usfoodscareersExternal": [
-   "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117",
-   "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Risk--Hybrid--Onsite---Remote-_R282118"
+   "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117"
   ],
   "wd+:usnh/Careers": [],
   "wd+:usventure/usvexternal": [],
