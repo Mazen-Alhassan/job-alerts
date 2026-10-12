@@ -51,7 +51,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557019490": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-12",
-  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-11",
+  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-12",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-12",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-12",
@@ -977,7 +977,7 @@
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-12",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-09",
-  "t:security|cybersoccoop2027usgreenshift": "2026-10-11",
+  "t:security|cybersoccoop2027usgreenshift": "2026-10-12",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-12",
@@ -5552,9 +5552,7 @@
   "wd+:insitu/careers": [],
   "wd+:insperity/NSP": [],
   "wd+:insulet/insuletcareers": [],
-  "wd+:intactfc/intactfc": [
-   "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Cybersecurity-Stream_R155808"
-  ],
+  "wd+:intactfc/intactfc": [],
   "wd+:intapp/Intapp": [],
   "wd+:integer/External": [],
   "wd+:integralads/IAScareers": [],
@@ -6788,7 +6786,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-11 22",
+ "heartbeat": "2026-10-12 00",
  "recent": [
   [
    1791673783.3209732,
