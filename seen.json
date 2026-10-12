@@ -440,6 +440,7 @@
   "https://linkedin.com/jobs/view/4477458704": "2026-10-09",
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
   "https://linkedin.com/jobs/view/4477503033": "2026-10-12",
+  "https://linkedin.com/jobs/view/4477505522": "2026-10-12",
   "https://linkedin.com/jobs/view/4477618487": "2026-10-10",
   "https://linkedin.com/jobs/view/4477810555": "2026-10-10",
   "https://linkedin.com/jobs/view/4477827635": "2026-10-09",
@@ -1038,6 +1039,7 @@
   "t:unitedpa|upsinformationsecuritysummer2027internshipky": "2026-10-12",
   "t:unitedpa|upsinformationsecuritysummer2027internshipnj": "2026-10-12",
   "t:unitedwh|2027buildingsecuritysummerinternshipprogram": "2026-10-12",
+  "t:universa|internshipprojectssecuritytechnologysummer2027": "2026-10-12",
   "t:upboundg|cybersecurityintern": "2026-10-09",
   "t:upbound|cybersecurityintern": "2026-10-12",
   "t:usfoods|interncybersecurityoperationshybridonsiteremote": "2026-10-12",
@@ -3727,7 +3729,8 @@
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4476848862",
-   "https://www.linkedin.com/jobs/view/4477503033"
+   "https://www.linkedin.com/jobs/view/4477503033",
+   "https://www.linkedin.com/jobs/view/4477505522"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6785,10 +6788,6 @@
  "heartbeat": "2026-10-12 04",
  "recent": [
   [
-   1791704116.7867193,
-   "Nissan Motor Corporation - Corporate Security Intern - Summer 2027 - Franklin, TN"
-  ],
-  [
    1791723176.957684,
    "West Monroe - 2027 Cybersecurity & Cloud and Infrastructure Consulting Intern"
   ],
@@ -6799,6 +6798,10 @@
   [
    1791782202.4067106,
    "Ededge Groups - Cybersecurity Intern"
+  ],
+  [
+   1791798116.5830238,
+   "Universal Orlando Resort - Internship \u2013 Projects & Security Technology (Summer 2027)"
   ]
  ]
 }
