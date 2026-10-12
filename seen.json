@@ -188,6 +188,7 @@
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-09",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-12",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-12",
+  "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-12",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-12",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-12",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
@@ -1022,6 +1023,7 @@
   "t:tevora|cybersecurityinternshipwinter2027systemsandorganizationscontrolssoc": "2026-10-12",
   "t:tevora|cybersecurityinternshipwinter2027threat": "2026-10-12",
   "t:texasins|informationtechnologyinternsecurity": "2026-10-12",
+  "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-12",
   "t:themanitowoc|summer2027interncybersecurity": "2026-10-08",
@@ -3723,13 +3725,13 @@
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4458981214",
    "https://www.linkedin.com/jobs/view/4458986159",
-   "https://www.linkedin.com/jobs/view/4460502522",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4476848862",
-   "https://www.linkedin.com/jobs/view/4477503033"
+   "https://www.linkedin.com/jobs/view/4477503033",
+   "https://www.linkedin.com/jobs/view/4477505522"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4034,7 +4036,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
@@ -6801,6 +6805,10 @@
   [
    1791798116.5830238,
    "Universal Orlando Resort - Internship \u2013 Projects & Security Technology (Summer 2027)"
+  ],
+  [
+   1791800374.7375429,
+   "Thales - 2027 Cloud Assurance and Cyber Security Apprentice"
   ]
  ]
 }
