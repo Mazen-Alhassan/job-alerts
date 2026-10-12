@@ -484,6 +484,7 @@
   "https://meijer.wd5.myworkdayjobs.com/meijer/job/grand-rapids-mi/information-security-intern--summer-2027_r000698302": "2026-10-12",
   "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/st-louis-mo/intern---security-analyst_jr1473": "2026-10-12",
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-10-12",
+  "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-12",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-12",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-12",
@@ -547,6 +548,7 @@
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-12",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-12",
+  "t:7eleven|informationsecurityintern": "2026-10-12",
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-12",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
   "t:accenture|internshipsecurityasoffebruary2027": "2026-10-08",
@@ -3753,13 +3755,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4469942338",
-   "https://www.linkedin.com/jobs/view/4476012328",
-   "https://www.linkedin.com/jobs/view/4476037721",
-   "https://www.linkedin.com/jobs/view/4477503033",
-   "https://www.linkedin.com/jobs/view/4477505522",
-   "https://www.linkedin.com/jobs/view/4477568999",
-   "https://www.linkedin.com/jobs/view/4478537956"
+   "https://www.linkedin.com/jobs/view/4477503033"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5879,7 +5875,9 @@
   "wd+:murex/MurexCareerPage1": [],
   "wd+:musc/MUSC": [],
   "wd+:mvphealthcare/mvphealthcare": [],
-  "wd+:my7elevenhr/Careers": [],
+  "wd+:my7elevenhr/Careers": [
+   "https://my7elevenhr.wd12.myworkdayjobs.com/en-US/Careers/job/SSC-Irving-TX/Information-Security-Intern_R26_5976"
+  ],
   "wd+:mydpr/11212017": [],
   "wd+:myhcm/Betway": [],
   "wd+:myhrabc/Global": [],
@@ -6891,6 +6889,10 @@
   [
    1791836545.641867,
    "Corewell Health - Digital Services Information Security Internship Summer 2027"
+  ],
+  [
+   1791837627.6880229,
+   "7-Eleven - Information Security Intern"
   ]
  ]
 }
