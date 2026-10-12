@@ -458,6 +458,7 @@
   "https://linkedin.com/jobs/view/4477873809": "2026-10-10",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-12",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-12",
@@ -625,6 +626,7 @@
   "t:archcapi|securityoperationsintern": "2026-10-12",
   "t:arconic|cybersecurityintern": "2026-10-12",
   "t:arizonap|2027summerinternshipcybersecurity": "2026-10-10",
+  "t:arup|physicalsecurityinternsummer2027": "2026-10-12",
   "t:asmglobal|securityintern": "2026-10-08",
   "t:asmgloba|securityintern": "2026-10-12",
   "t:assetworks|itsecurityintern": "2026-10-08",
@@ -3744,7 +3746,8 @@
    "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522",
-   "https://www.linkedin.com/jobs/view/4477568999"
+   "https://www.linkedin.com/jobs/view/4477568999",
+   "https://www.linkedin.com/jobs/view/4478537956"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6854,6 +6857,10 @@
   [
    1791819459.7828543,
    "Disney - Disneyland Cybersecurity Intern, Spring 2027"
+  ],
+  [
+   1791823054.6569126,
+   "Arup - Physical Security Intern (Summer 2027)"
   ]
  ]
 }
