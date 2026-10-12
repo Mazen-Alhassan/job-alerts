@@ -249,6 +249,7 @@
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32434": "2026-10-12",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32447": "2026-10-12",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32619": "2026-10-12",
+  "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/requisitions/preview/11186": "2026-10-12",
   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/ulsolutionscareers/job/11186": "2026-10-12",
   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/74667": "2026-10-12",
   "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1029/job/15624": "2026-10-12",
@@ -258,6 +259,7 @@
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---identity---access-management---spring-2027_r71590": "2026-10-09",
   "https://fis.wd5.myworkdayjobs.com/searchjobs/job/us-fl-jax-347/intern--risk-and-cybersecurity--fis-university-program_jr0309680": "2026-10-12",
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-cybersecurity-associate-internship_rq228929-2": "2026-10-12",
+  "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/xmlname-2027-summer-intern---defense-agencies--cybersecurity-_rq230273": "2026-10-12",
   "https://genpt.wd1.myworkdayjobs.com/careers/job/birmingham-al-usa/grc-cybersecurity-analyst-intern_r26_0000029137": "2026-10-12",
   "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/identity-analyst-it-internship_r-57499-1": "2026-10-12",
   "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/united-states---california---foster-city/intern---cfo---it--security--risk--and-compliance-_r0054791": "2026-10-12",
@@ -782,6 +784,7 @@
   "t:fortuneb|productmanagementinternb2bsecurity": "2026-10-12",
   "t:galaxy|offcyclefall2026cybersecurityinternship": "2026-10-12",
   "t:generaldynam|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-08",
+  "t:generald|2027summerinterndefenseagenciescybersecurity": "2026-10-12",
   "t:generald|cybersecurity2027summerinternship": "2026-10-12",
   "t:generald|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-12",
   "t:generald|internengineercyber": "2026-10-12",
@@ -3312,6 +3315,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ourcareerpages.com/job/1010495?source=Indeed"
   ],
   "jobvite:aarete": [],
@@ -3740,7 +3744,6 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
-   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522",
    "https://www.linkedin.com/jobs/view/4477568999",
@@ -5376,7 +5379,8 @@
   "wd+:gcu/GCU": [],
   "wd+:gdit/external_career_site": [],
   "wd+:gdit/gdit_earlytalent": [
-   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"
+   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273"
   ],
   "wd+:geaerospace/ge_externalsite": [],
   "wd+:geha/GEHACareers": [],
@@ -6858,6 +6862,10 @@
   [
    1791823054.6569126,
    "Arup - Physical Security Intern (Summer 2027)"
+  ],
+  [
+   1791827647.668044,
+   "General Dynamics Information Technology - 2027 Summer Intern - Defense Agencies (Cybersecu"
   ]
  ]
 }
