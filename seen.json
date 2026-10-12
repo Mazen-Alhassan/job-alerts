@@ -248,6 +248,7 @@
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32434": "2026-10-12",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32447": "2026-10-12",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32619": "2026-10-12",
+  "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/ulsolutionscareers/job/11186": "2026-10-12",
   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/74667": "2026-10-12",
   "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1029/job/15624": "2026-10-12",
   "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/119551": "2026-10-12",
@@ -1043,6 +1044,7 @@
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-12",
   "t:tiktok|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-10-12",
   "t:triaemll|cybersecurityintern": "2026-10-09",
+  "t:ulsoluti|2027summerinterncybersecurityintern": "2026-10-12",
   "t:unitedparcel|upsinformationsecuritysummer2027internshipga": "2026-10-08",
   "t:unitedparcel|upsinformationsecuritysummer2027internshipky": "2026-10-08",
   "t:unitedparcel|upsinformationsecuritysummer2027internshipnj": "2026-10-08",
@@ -3739,6 +3741,7 @@
    "https://www.linkedin.com/jobs/view/4458981214",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
+   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476848862",
    "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522",
@@ -3914,7 +3917,9 @@
   "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/CX_2": [],
-  "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [],
+  "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [
+   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186"
+  ],
   "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [
    "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/74667"
   ],
@@ -6804,10 +6809,6 @@
  "heartbeat": "2026-10-12 10",
  "recent": [
   [
-   1791723176.957684,
-   "West Monroe - 2027 Cybersecurity & Cloud and Infrastructure Consulting Intern"
-  ],
-  [
    1791765380.8338046,
    "HDR - Information Communication Technology (ICT)/Security Intern"
   ],
@@ -6842,6 +6843,10 @@
   [
    1791815407.1913183,
    "WebstaurantStore - SOC Intern"
+  ],
+  [
+   1791818837.6655161,
+   "UL Solutions - 2027 Summer Intern: Cyber Security Intern"
   ]
  ]
 }
