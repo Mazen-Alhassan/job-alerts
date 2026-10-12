@@ -3041,9 +3041,7 @@
    "https://careers-gdeb.icims.com/jobs/20338/cybersecurity---2027-summer-internship/job",
    "https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job"
   ],
-  "icims:careers-gdms.icims.com": [
-   "https://careers-gdms.icims.com/jobs/75132/intern-engineer-%28cyber%29/job"
-  ],
+  "icims:careers-gdms.icims.com": [],
   "icims:careers-geosyntec.icims.com": [],
   "icims:careers-gilbaneco.icims.com": [],
   "icims:careers-goldbeltapex.icims.com": [],
@@ -6568,9 +6566,7 @@
   "wd:adobe/external_experienced": [],
   "wd:aero/external": [],
   "wd:aig/aig": [],
-  "wd:archgroup/careers": [
-   "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"
-  ],
+  "wd:archgroup/careers": [],
   "wd:arcticwolf/External": [],
   "wd:atcllc/atcllc": [
    "https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
@@ -6813,7 +6809,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-12 10",
+ "heartbeat": "2026-10-12 12",
  "recent": [
   [
    1791765380.8338046,
