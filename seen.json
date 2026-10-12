@@ -240,6 +240,7 @@
   "https://equifax.wd5.myworkdayjobs.com/ur_external/job/usa---georgia---alpharetta---30005/security-intern_j00178958": "2026-10-09",
   "https://equinor.wd3.myworkdayjobs.com/eqnr/job/stavanger-norway/summer-internship-2027-norway---it---cybernetics_jr107238": "2026-10-12",
   "https://expedia.wd108.myworkdayjobs.com/private/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310": "2026-10-12",
+  "https://expedia.wd108.myworkdayjobs.com/search/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310-1": "2026-10-12",
   "https://explore.jobs.netflix.net/careers/job/790317917022": "2026-10-08",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32304": "2026-10-12",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32329": "2026-10-12",
@@ -3774,7 +3775,6 @@
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
-   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4478537956"
   ],
@@ -5329,7 +5329,9 @@
   "wd+:expedia/private": [
    "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310"
   ],
-  "wd+:expedia/search": [],
+  "wd+:expedia/search": [
+   "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1"
+  ],
   "wd+:extraspace/ESS_External": [],
   "wd+:factset/FactSetCareers": [],
   "wd+:fairstone/FairstoneCareers": [],
