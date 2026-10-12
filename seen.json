@@ -464,6 +464,7 @@
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-12",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-12",
+  "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-12",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-10-12",
   "https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/new-grad---2027---cybersecurity_r-052501-1": "2026-10-12",
   "https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/summer-intern-2027--cybersecurity_r-052919": "2026-10-12",
@@ -883,6 +884,7 @@
   "t:libertym|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-12",
   "t:lockheedmart|softwareengineercyberintern": "2026-10-08",
   "t:lockheed|softwareengineercyberintern": "2026-10-12",
+  "t:lockheed|systemsengineercyberintern": "2026-10-12",
   "t:logicali|cybersecurityassociateintern": "2026-10-12",
   "t:louisianablu|cwsecurityoperationcenterengineerinternfall2026startingindecember": "2026-10-08",
   "t:louisian|cwsecurityoperationcenterengineerinternfall2026startingindecember": "2026-10-12",
@@ -1886,7 +1888,8 @@
   "eightfold:johndeere.eightfold.ai": [],
   "eightfold:lockheedmartin.eightfold.ai": [
    "https://lockheedmartin.eightfold.ai/careers/job/996477222668",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477222848"
+   "https://lockheedmartin.eightfold.ai/careers/job/996477222848",
+   "https://lockheedmartin.eightfold.ai/careers/job/996477335927"
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
@@ -4058,7 +4061,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
@@ -6864,6 +6869,10 @@
   [
    1791827647.668044,
    "General Dynamics Information Technology - 2027 Summer Intern - Defense Agencies (Cybersecu"
+  ],
+  [
+   1791832865.3328233,
+   "Lockheed Martin - Systems Engineer (Cyber) - Intern"
   ]
  ]
 }
