@@ -3746,10 +3746,6 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4469942338",
-   "https://www.linkedin.com/jobs/view/4471388468",
-   "https://www.linkedin.com/jobs/view/4471392374",
-   "https://www.linkedin.com/jobs/view/4476012328",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477505522",
@@ -4063,7 +4059,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
@@ -6816,7 +6814,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-12 14",
+ "heartbeat": "2026-10-12 16",
  "recent": [
   [
    1791765380.8338046,
