@@ -3358,6 +3358,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968",
+   "https://careers.cai.io/us/en/job/R8748/Cybersecurity-Analyst-Intern",
    "https://careers.corewellhealth.org/us/en/job/R228866",
    "https://careers.corewellhealth.org/us/en/job/R228867",
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699285&PostingSeq=1",
@@ -3791,7 +3792,16 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "linkedin": [],
+  "linkedin": [
+   "https://www.linkedin.com/jobs/view/4476037721",
+   "https://www.linkedin.com/jobs/view/4476065632",
+   "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477568999",
+   "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477930507",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111"
+  ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
@@ -4042,7 +4052,9 @@
   "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC": [],
   "oracle:iazuqy.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:ibnjjb.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [],
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [
+   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555"
+  ],
   "oracle:ibwsjb.fa.ocs.oraclecloud.com/CX_1": [
    "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2528040"
   ],
@@ -6860,7 +6872,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-13 04",
+ "heartbeat": "2026-10-13 06",
  "recent": [
   [
    1791798116.5830238,
