@@ -88,6 +88,7 @@
   "https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa": "2026-10-13",
   "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027": "2026-10-13",
   "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027": "2026-10-13",
+  "https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027": "2026-10-13",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-13",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-13",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-13",
@@ -621,6 +622,7 @@
   "t:amazon|datacenterengineeringoperationstechnicianinternship": "2026-10-13",
   "t:amazon|dataengineerinternship2027us": "2026-10-13",
   "t:amazon|hardwaredevelopmentengineerinterncooprobotics2027": "2026-10-13",
+  "t:amazon|hardwaredevelopmentengineerinternsummer2027": "2026-10-13",
   "t:amazon|industrialdevelopmentengineerinterncooprobotics2027": "2026-10-13",
   "t:amazon|mlsystemssoftwaredevelopmentengineerinternannapurnalabs2027": "2026-10-13",
   "t:amazon|operationsengineeringfieldexecutioninternspringandsummer2027cactfltx": "2026-10-13",
@@ -1202,6 +1204,7 @@
    "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
    "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
+   "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -3833,16 +3836,17 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4459280255",
+   "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461252667",
    "https://www.linkedin.com/jobs/view/4468798732",
-   "https://www.linkedin.com/jobs/view/4468903013",
    "https://www.linkedin.com/jobs/view/4470281935",
+   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4478106761",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478145600",
-   "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4479200292"
   ],
   "microsoft": [
@@ -6912,10 +6916,6 @@
  "heartbeat": "2026-10-13 18",
  "recent": [
   [
-   1791837627.6880229,
-   "7-Eleven - Information Security Intern"
-  ],
-  [
    1791841048.7382133,
    "Astera Labs - CyberSecurity Engineer Intern"
   ],
@@ -7006,6 +7006,10 @@
   [
    1791930587.3782153,
    "Canadian Nuclear Laboratories - New Grad - Cyber Security Research Scientist/Engineer Tale"
+  ],
+  [
+   1791933564.5414128,
+   "Amazon - Hardware Development Engineer Intern,  Summer 2027"
   ]
  ]
 }
