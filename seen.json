@@ -3811,20 +3811,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "linkedin": [
-   "https://www.linkedin.com/jobs/view/4461252667",
-   "https://www.linkedin.com/jobs/view/4461513360",
-   "https://www.linkedin.com/jobs/view/4461565157",
-   "https://www.linkedin.com/jobs/view/4468903013",
-   "https://www.linkedin.com/jobs/view/4470281935",
-   "https://www.linkedin.com/jobs/view/4476037721",
-   "https://www.linkedin.com/jobs/view/4476065632",
-   "https://www.linkedin.com/jobs/view/4476076233",
-   "https://www.linkedin.com/jobs/view/4477929581",
-   "https://www.linkedin.com/jobs/view/4477940240",
-   "https://www.linkedin.com/jobs/view/4477977111",
-   "https://www.linkedin.com/jobs/view/4477981831"
-  ],
+  "linkedin": [],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
@@ -5294,7 +5281,9 @@
   "wd+:draper/Draper_Careers": [
    "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021"
   ],
-  "wd+:draper/draper_careers": [],
+  "wd+:draper/draper_careers": [
+   "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021"
+  ],
   "wd+:driscolls/driscolls": [],
   "wd+:drivenbrands/drivenbrandscareersite": [],
   "wd+:drivetime/DriveTime": [],
