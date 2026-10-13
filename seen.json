@@ -292,7 +292,7 @@
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---security-program-management-senior-intern_r0059515": "2026-10-13",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---security-data-classification-intern_r0059513": "2026-10-13",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---security-engineering-senior-intern_r0059512": "2026-10-13",
-  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-09",
+  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-13",
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-10-13",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-13",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-13",
@@ -875,7 +875,7 @@
   "t:hcsc|earlycareerssecuritydataclassificationintern": "2026-10-13",
   "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-13",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-13",
-  "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-09",
+  "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-13",
   "t:hdr|informationcommunicationtechnologyictsecurityintern": "2026-10-12",
   "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
@@ -3398,6 +3398,7 @@
    "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1",
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ericsson.com/careers/job/563121777370331?domain=ericsson.com",
+   "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://www.applicantpro.com/openings/echeloncyber/jobs/4241204-989931"
   ],
   "jobvite:aarete": [],
@@ -3834,8 +3835,6 @@
    "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
-   "https://www.linkedin.com/jobs/view/4476076233",
-   "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477930507",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4477977111",
@@ -4142,8 +4141,7 @@
   "phenom:careers.rbi.com": [],
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
-   "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01878922"
+   "https://careers.rtx.com/global/en/job/01872177"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -5578,7 +5576,8 @@
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
-   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512"
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512",
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514"
   ],
   "wd+:hdsupply/External": [],
   "wd+:healthcare/private": [],
