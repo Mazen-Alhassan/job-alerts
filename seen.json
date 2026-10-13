@@ -396,6 +396,7 @@
   "https://linkedin.com/jobs/view/4459296440": "2026-10-13",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460246501": "2026-10-13",
   "https://linkedin.com/jobs/view/4460307152": "2026-10-11",
   "https://linkedin.com/jobs/view/4460311092": "2026-10-11",
   "https://linkedin.com/jobs/view/4460320167": "2026-10-11",
@@ -1110,6 +1111,7 @@
   "t:texasins|informationtechnologyinternsecurity": "2026-10-13",
   "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thales|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-13",
+  "t:thechurc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-13",
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-13",
   "t:themanitowoc|summer2027interncybersecurity": "2026-10-08",
@@ -3826,7 +3828,11 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461513360",
+   "https://www.linkedin.com/jobs/view/4461565157",
    "https://www.linkedin.com/jobs/view/4468152849",
    "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4468903013",
@@ -3834,8 +3840,11 @@
    "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111",
    "https://www.linkedin.com/jobs/view/4478106761",
-   "https://www.linkedin.com/jobs/view/4478135096"
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7022,6 +7031,10 @@
   [
    1791909765.945641,
    "General Dynamics Mission Systems - Cyber Engineering Intern (Summer 2027)"
+  ],
+  [
+   1791911951.9351504,
+   "The Church of Jesus Christ of Latter-day Saints - 2026 Security Vulnerability, Risk, and C"
   ]
  ]
 }
