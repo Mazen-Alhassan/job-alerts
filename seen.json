@@ -390,6 +390,7 @@
   "https://linkedin.com/jobs/view/4458986159": "2026-10-12",
   "https://linkedin.com/jobs/view/4458987322": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
+  "https://linkedin.com/jobs/view/4459296440": "2026-10-13",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
   "https://linkedin.com/jobs/view/4460307152": "2026-10-11",
@@ -1096,6 +1097,7 @@
   "t:theoptio|yearroundinternapplicationsecurity": "2026-10-10",
   "t:theoptio|yearroundinterncyberoperations": "2026-10-10",
   "t:thrivent|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-13",
+  "t:tiktokus|softwareengineerinternsecurityprivacy2027summer": "2026-10-13",
   "t:tiktok|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-10-13",
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-13",
   "t:tiktok|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-10-13",
@@ -3801,9 +3803,11 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4461252667",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4461568063",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
@@ -6990,6 +6994,10 @@
   [
    1791892850.2843406,
    "Honeywell Aerospace - Cyber Security Intern - Summer 2027"
+  ],
+  [
+   1791893736.3100202,
+   "TikTok USDS Joint Venture - Software Engineer Intern (Security & Privacy) - 2027 Summer"
   ]
  ]
 }
