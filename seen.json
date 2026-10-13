@@ -249,6 +249,7 @@
   "https://expedia.wd108.myworkdayjobs.com/private/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310": "2026-10-13",
   "https://expedia.wd108.myworkdayjobs.com/search/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310-1": "2026-10-13",
   "https://explore.jobs.netflix.net/careers/job/790317917022": "2026-10-08",
+  "https://explore.jobs.netflix.net/careers/job/790318904468": "2026-10-13",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32304": "2026-10-13",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32329": "2026-10-13",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32334": "2026-10-13",
@@ -500,6 +501,7 @@
   "https://linkedin.com/jobs/view/4478135096": "2026-10-13",
   "https://linkedin.com/jobs/view/4478140024": "2026-10-13",
   "https://linkedin.com/jobs/view/4478145600": "2026-10-13",
+  "https://linkedin.com/jobs/view/4478167943": "2026-10-13",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -1009,6 +1011,7 @@
   "t:navyfede|summerassociateinternshiptechnicalriskanalystsecurityregulatorycompliance": "2026-10-13",
   "t:navyfede|summerassociateinternshipzerotrustinformationsecurityanalyst": "2026-10-13",
   "t:netflix|machinelearningaiinfrastructureengineeringinternaiplatformphdwinter2027": "2026-10-08",
+  "t:netflix|softwareengineerinternsummer2027": "2026-10-13",
   "t:netsmart|securityanalystfuturesummer2027internship": "2026-10-13",
   "t:nightwing|vulnerabilityresearcherintern2026": "2026-10-08",
   "t:nightwin|vulnerabilityresearcherintern2026": "2026-10-13",
@@ -1967,9 +1970,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3829,6 +3830,7 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4459280255",
+   "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461252667",
    "https://www.linkedin.com/jobs/view/4468798732",
@@ -3844,7 +3846,9 @@
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
   ],
-  "netflix": [],
+  "netflix": [
+   "https://explore.jobs.netflix.net/careers/job/790318904468"
+  ],
   "oracle:cva.fa.us1.oraclecloud.com/CX_3": [],
   "oracle:ebcs.fa.em2.oraclecloud.com/CX_1": [],
   "oracle:ebez.fa.us2.oraclecloud.com/CX_1": [],
@@ -6906,28 +6910,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-13 16",
+ "heartbeat": "2026-10-13 18",
  "recent": [
-  [
-   1791818837.6655161,
-   "UL Solutions - 2027 Summer Intern: Cyber Security Intern"
-  ],
-  [
-   1791819459.7828543,
-   "Disney - Disneyland Cybersecurity Intern, Spring 2027"
-  ],
-  [
-   1791823054.6569126,
-   "Arup - Physical Security Intern (Summer 2027)"
-  ],
-  [
-   1791827647.668044,
-   "General Dynamics Information Technology - 2027 Summer Intern - Defense Agencies (Cybersecu"
-  ],
-  [
-   1791832865.3328233,
-   "Lockheed Martin - Systems Engineer (Cyber) - Intern"
-  ],
   [
    1791836545.6418648,
    "Ericsson - Security Analyst Intern"
@@ -7023,6 +7007,10 @@
   [
    1791911951.9351504,
    "The Church of Jesus Christ of Latter-day Saints - 2026 Security Vulnerability, Risk, and C"
+  ],
+  [
+   1791929606.223287,
+   "Netflix - Software Engineer Intern - Summer 2027"
   ]
  ]
 }
