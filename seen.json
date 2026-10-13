@@ -422,6 +422,7 @@
   "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
   "https://linkedin.com/jobs/view/4468401153": "2026-10-12",
   "https://linkedin.com/jobs/view/4468664815": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468798732": "2026-10-13",
   "https://linkedin.com/jobs/view/4468801515": "2026-10-10",
   "https://linkedin.com/jobs/view/4468811301": "2026-10-10",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
@@ -489,6 +490,7 @@
   "https://linkedin.com/jobs/view/4477981831": "2026-10-13",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478106761": "2026-10-13",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -975,6 +977,7 @@
   "t:monolith|securityanalystintern": "2026-10-13",
   "t:mtc|studentinternsecurity": "2026-10-13",
   "t:nasdaq|verafininformationsecuritystudentjanuary2027": "2026-10-09",
+  "t:nassaufi|interncybersecurityrisk": "2026-10-13",
   "t:nationalinfo|interninformationsecuritycybersecurity": "2026-10-08",
   "t:nationallabo|undergraduategraduatecybersecurityresearchintern5g": "2026-10-08",
   "t:nationallabo|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-08",
@@ -3811,7 +3814,22 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "linkedin": [],
+  "linkedin": [
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4461568063",
+   "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4468903013",
+   "https://www.linkedin.com/jobs/view/4470281935",
+   "https://www.linkedin.com/jobs/view/4476065632",
+   "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4477981831",
+   "https://www.linkedin.com/jobs/view/4478106761"
+  ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
@@ -6993,6 +7011,10 @@
   [
    1791904055.1595812,
    "Draper - Classified Cybersecurity/IT Internship (Summer 2027)"
+  ],
+  [
+   1791905583.3320837,
+   "Nassau Financial Group - Intern - Cybersecurity Risk"
   ]
  ]
 }
