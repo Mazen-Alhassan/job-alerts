@@ -423,6 +423,7 @@
   "https://linkedin.com/jobs/view/4468801515": "2026-10-10",
   "https://linkedin.com/jobs/view/4468811301": "2026-10-10",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468903013": "2026-10-13",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
   "https://linkedin.com/jobs/view/4470281935": "2026-10-13",
@@ -1946,9 +1947,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3810,7 +3809,6 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4461252667",
-   "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
    "https://www.linkedin.com/jobs/view/4461568063",
    "https://www.linkedin.com/jobs/view/4470281935",
@@ -5048,6 +5046,7 @@
   "wd+:caa/Careers": [],
   "wd+:cableone/Cable_One_External_Careers": [],
   "wd+:caci/external": [
+   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
    "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
   ],
   "wd+:cadence/External_Careers": [],
