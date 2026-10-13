@@ -518,6 +518,7 @@
   "https://oneok.wd1.myworkdayjobs.com/oneok_early_careers/job/tulsa-ok/cyber-security-intern---tulsa--ok_r8449": "2026-10-13",
   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1": "2026-10-09",
   "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/oshkosh-wisconsin-united-states/cyber-security-intern_r50267": "2026-10-13",
+  "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---cyber-security_r26_0000002175": "2026-10-13",
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-10-13",
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-10-13",
   "https://pgcareers.com/global/en/job/r000157502": "2026-10-13",
@@ -570,6 +571,7 @@
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-masters_r-2630026": "2026-10-13",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-10-13",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-13",
+  "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-13",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-13",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-13",
@@ -1006,6 +1008,7 @@
   "t:oshkosh|cybersecurityintern": "2026-10-13",
   "t:palantir|informationsecurityengineerinternship": "2026-10-13",
   "t:panasoni|securityriskintern": "2026-10-11",
+  "t:papajohn|2027summerinterncybersecurity": "2026-10-13",
   "t:pecnapan|securityriskintern": "2026-10-10",
   "t:pennsylvania|collegeofistcyber100genaiimpactevaluationstudentassistant": "2026-10-08",
   "t:pennsylvania|cybersecurityengineerintern": "2026-10-08",
@@ -3805,10 +3808,9 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
-   "https://www.linkedin.com/jobs/view/4461568063",
    "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
@@ -5044,7 +5046,6 @@
   "wd+:caa/Careers": [],
   "wd+:cableone/Cable_One_External_Careers": [],
   "wd+:caci/external": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
    "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
   ],
   "wd+:cadence/External_Careers": [],
@@ -6059,7 +6060,9 @@
   "wd+:pacificlife/PacificLifeCareers": [],
   "wd+:pacificsource/pacificsource": [],
   "wd+:pae/amentum_careers": [],
-  "wd+:papajohns/papajohnscareers": [],
+  "wd+:papajohns/papajohnscareers": [
+   "https://papajohns.wd1.myworkdayjobs.com/en-US/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Cyber-Security_R26_0000002175"
+  ],
   "wd+:papernest/external_careers_global": [],
   "wd+:parexel/Parexel_External_Careers": [],
   "wd+:parsons/search": [],
@@ -6580,7 +6583,7 @@
   "wd+:wellsky/WellSkyCareers": [],
   "wd+:welocalize/welocalize": [],
   "wd+:westernalliancebank/WAB": [
-   "https://wd5.myworkdaysite.com/en-US/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
+   "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
   ],
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
@@ -6887,14 +6890,6 @@
  "heartbeat": "2026-10-13 08",
  "recent": [
   [
-   1791802270.279108,
-   "Thales - 2027 Cloud Assurance and Cyber Security-  - Level 4 Cyber Security Engineer Appre"
-  ],
-  [
-   1791804419.057531,
-   "Collections That Care - Security Operations Intern"
-  ],
-  [
    1791805045.6657782,
    "Commonwealth Electric Company of the Midwest - IT Intern - AI and Cybersecurity: Commonwea"
   ],
@@ -6997,6 +6992,10 @@
   [
    1791894296.2468355,
    "Encompass Health - IT Security Student Intern - Summer 2027"
+  ],
+  [
+   1791898385.0353825,
+   "Papa John's - 2027 Summer Intern - Cyber Security"
   ]
  ]
 }
