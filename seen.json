@@ -479,6 +479,7 @@
   "https://linkedin.com/jobs/view/4477930507": "2026-10-13",
   "https://linkedin.com/jobs/view/4477940240": "2026-10-13",
   "https://linkedin.com/jobs/view/4477977111": "2026-10-13",
+  "https://linkedin.com/jobs/view/4477981831": "2026-10-13",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
@@ -848,6 +849,7 @@
   "t:harbingermot|interncybersecurity": "2026-10-08",
   "t:harbinge|interncybersecurity": "2026-10-11",
   "t:haworth|informationsecuritysystemsintern": "2026-10-08",
+  "t:haystack|cybersecurityintern": "2026-10-13",
   "t:hcsc|earlycareersidentifyaccessmanagementiamintern": "2026-10-13",
   "t:hcsc|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-13",
   "t:hcsc|earlycareerssecuritydataclassificationintern": "2026-10-13",
@@ -3795,7 +3797,19 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "linkedin": [],
+  "linkedin": [
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4476037721",
+   "https://www.linkedin.com/jobs/view/4476065632",
+   "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477568999",
+   "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477930507",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4477981831"
+  ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
@@ -6967,6 +6981,10 @@
   [
    1791887888.8591464,
    "Emerson - Cybersecurity Engineering Intern"
+  ],
+  [
+   1791889232.0365813,
+   "Haystack - Cyber Security Intern"
   ]
  ]
 }
