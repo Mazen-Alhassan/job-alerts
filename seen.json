@@ -521,6 +521,7 @@
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-10-13",
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-13",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
+  "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-13",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-13",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-13",
   "https://nwis.wd12.myworkdayjobs.com/nw/job/indialantic-fl/vulnerability-researcher-intern---2026_jr101101": "2026-10-13",
@@ -3399,7 +3400,6 @@
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699296&PostingSeq=1",
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
    "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1",
-   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ericsson.com/careers/job/563121777370331?domain=ericsson.com",
    "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://www.applicantpro.com/openings/echeloncyber/jobs/4241204-989931"
@@ -3526,9 +3526,7 @@
   "lever:commerce-undergraduate": [],
   "lever:conversica": [],
   "lever:coupa": [],
-  "lever:crestoperations": [
-   "https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd"
-  ],
+  "lever:crestoperations": [],
   "lever:crossing-minds": [],
   "lever:crumbl": [],
   "lever:cscgeneration-2": [],
