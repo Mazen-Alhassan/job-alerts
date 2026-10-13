@@ -223,6 +223,7 @@
   "https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/customer-support-center/cybersecurity---summer-2027-corporate-internship_202608793-1": "2026-10-13",
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/anaheim-ca-usa/disneyland-cybersecurity-intern--spring-2027_fos-0000451207": "2026-10-13",
   "https://dmainc.wd5.myworkdayjobs.com/dma/job/fort-wayne-in/cybersecurity-intern---summer-2027_req742": "2026-10-13",
+  "https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/classified-cybersecurity-it-internship--summer-2027-_jr003021": "2026-10-13",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/lake-mary-fl/pgo-cybersecurity-spring-2027-co-op_r41837": "2026-10-09",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11594": "2026-10-13",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11613": "2026-10-13",
@@ -786,6 +787,7 @@
   "t:dickssportin|cybersecuritysummer2027corporateinternship": "2026-10-08",
   "t:dicksspo|cybersecuritysummer2027corporateinternship": "2026-10-13",
   "t:disney|disneylandcybersecurityinternspring2027": "2026-10-13",
+  "t:draper|classifiedcybersecurityitinternshipsummer2027": "2026-10-13",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-13",
   "t:ducharmemcmi|cybersecurityinternsummer2027": "2026-10-08",
   "t:ducharme|cybersecurityinternsummer2027": "2026-10-13",
@@ -3810,16 +3812,14 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4461252667",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
-   "https://www.linkedin.com/jobs/view/4461568063",
+   "https://www.linkedin.com/jobs/view/4468903013",
    "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
-   "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4477977111",
@@ -5291,7 +5291,9 @@
   "wd+:draftkings/DraftKings": [],
   "wd+:draftkings/Employee_Referral_Portal": [],
   "wd+:draftkings/draftkings": [],
-  "wd+:draper/Draper_Careers": [],
+  "wd+:draper/Draper_Careers": [
+   "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021"
+  ],
   "wd+:draper/draper_careers": [],
   "wd+:driscolls/driscolls": [],
   "wd+:drivenbrands/drivenbrandscareersite": [],
@@ -6896,10 +6898,6 @@
  "heartbeat": "2026-10-13 10",
  "recent": [
   [
-   1791805045.6657782,
-   "Commonwealth Electric Company of the Midwest - IT Intern - AI and Cybersecurity: Commonwea"
-  ],
-  [
    1791811984.5941586,
    "Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern"
   ],
@@ -7002,6 +7000,10 @@
   [
    1791898385.0353825,
    "Papa John's - 2027 Summer Intern - Cyber Security"
+  ],
+  [
+   1791904055.1595812,
+   "Draper - Classified Cybersecurity/IT Internship (Summer 2027)"
   ]
  ]
 }
