@@ -425,6 +425,7 @@
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
+  "https://linkedin.com/jobs/view/4470281935": "2026-10-13",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
@@ -795,6 +796,7 @@
   "t:elevance|informationsecuritycoopinternship2027": "2026-10-13",
   "t:emerson|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emerson|cybersecurityengineeringintern": "2026-10-13",
+  "t:encompas|itsecuritystudentinternsummer2027": "2026-10-13",
   "t:ensignin|internvulnerabilityresearch": "2026-10-13",
   "t:entegris|cybersecurityengineercoop": "2026-10-13",
   "t:entegris|cyberthreatanalystcoop": "2026-10-12",
@@ -3370,6 +3372,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968",
+   "https://careers.cai.io/us/en/job/R8748/Cybersecurity-Analyst-Intern",
    "https://careers.corewellhealth.org/us/en/job/R228866",
    "https://careers.corewellhealth.org/us/en/job/R228867",
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699285&PostingSeq=1",
@@ -3808,6 +3811,7 @@
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
    "https://www.linkedin.com/jobs/view/4461568063",
+   "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
@@ -6888,10 +6892,6 @@
  "heartbeat": "2026-10-13 08",
  "recent": [
   [
-   1791800374.7375429,
-   "Thales - 2027 Cloud Assurance and Cyber Security Apprentice"
-  ],
-  [
    1791802270.279108,
    "Thales - 2027 Cloud Assurance and Cyber Security-  - Level 4 Cyber Security Engineer Appre"
   ],
@@ -6998,6 +6998,10 @@
   [
    1791893736.3100202,
    "TikTok USDS Joint Venture - Software Engineer Intern (Security & Privacy) - 2027 Summer"
+  ],
+  [
+   1791894296.2468355,
+   "Encompass Health - IT Security Student Intern - Summer 2027"
   ]
  ]
 }
