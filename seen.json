@@ -199,6 +199,7 @@
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-13",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
+  "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-13",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-13",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-13",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
@@ -1024,6 +1025,8 @@
   "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|summer2027cyberinternonsite": "2026-10-13",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-09",
+  "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-13",
+  "t:sandiana|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-13",
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-13",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-09",
@@ -3350,9 +3353,10 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers.cai.io/us/en/job/R8748/Cybersecurity-Analyst-Intern",
    "https://careers.corewellhealth.org/us/en/job/R228866",
    "https://careers.corewellhealth.org/us/en/job/R228867",
+   "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699285&PostingSeq=1",
+   "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699296&PostingSeq=1",
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/11186",
    "https://jobs.ericsson.com/careers/job/563121777370331?domain=ericsson.com",
    "https://jobs.ourcareerpages.com/job/1010495?source=Indeed",
@@ -3785,12 +3789,12 @@
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
-   "https://www.linkedin.com/jobs/view/4477503033",
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477930507",
    "https://www.linkedin.com/jobs/view/4477940240",
-   "https://www.linkedin.com/jobs/view/4478710592"
+   "https://www.linkedin.com/jobs/view/4478710592",
+   "https://www.linkedin.com/jobs/view/4478717202"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6863,10 +6867,6 @@
  "heartbeat": "2026-10-12 22",
  "recent": [
   [
-   1791765380.8338046,
-   "HDR - Information Communication Technology (ICT)/Security Intern"
-  ],
-  [
    1791782202.4067106,
    "Ededge Groups - Cybersecurity Intern"
   ],
@@ -6953,6 +6953,10 @@
   [
    1791854581.3007138,
    "CAI (Computer Aid, Inc.) - Cybersecurity Analyst Intern"
+  ],
+  [
+   1791861803.6943579,
+   "Sandia National Laboratories - Intern, R&D Undergraduate Summer - TITANS - Center for Cybe"
   ]
  ]
 }
