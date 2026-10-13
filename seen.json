@@ -402,6 +402,7 @@
   "https://linkedin.com/jobs/view/4460520156": "2026-10-11",
   "https://linkedin.com/jobs/view/4460579016": "2026-10-11",
   "https://linkedin.com/jobs/view/4461252667": "2026-10-13",
+  "https://linkedin.com/jobs/view/4461513360": "2026-10-13",
   "https://linkedin.com/jobs/view/4461565157": "2026-10-13",
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
@@ -864,6 +865,7 @@
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-13",
+  "t:honeywel|cybersecurityinternsummer2027": "2026-10-13",
   "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-13",
   "t:horizonl|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howmetae|cybersecurityintern": "2026-10-13",
@@ -3800,13 +3802,13 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4461565157",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477568999",
    "https://www.linkedin.com/jobs/view/4477929581",
-   "https://www.linkedin.com/jobs/view/4477930507",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4477977111",
    "https://www.linkedin.com/jobs/view/4477981831"
@@ -6879,12 +6881,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-13 06",
+ "heartbeat": "2026-10-13 08",
  "recent": [
-  [
-   1791798116.5830238,
-   "Universal Orlando Resort - Internship \u2013 Projects & Security Technology (Summer 2027)"
-  ],
   [
    1791800374.7375429,
    "Thales - 2027 Cloud Assurance and Cyber Security Apprentice"
@@ -6988,6 +6986,10 @@
   [
    1791889686.9537878,
    "Emerson - Cybersecurity Engineering Co-op (Jan27-May27)"
+  ],
+  [
+   1791892850.2843406,
+   "Honeywell Aerospace - Cyber Security Intern - Summer 2027"
   ]
  ]
 }
