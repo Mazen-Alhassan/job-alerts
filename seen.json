@@ -518,6 +518,7 @@
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/college-of-ist-cyber-100-genai-impact-evaluation-student-assistant_req_0000083099-1": "2026-10-12",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-10-13",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
+  "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-13",
   "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-13",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-13",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-13",
@@ -1004,6 +1005,7 @@
   "t:pg|itsecurityinternship": "2026-10-13",
   "t:plantemo|2027cybersecurityconsultantintern": "2026-10-13",
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
+  "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-13",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
   "t:procterg|itsecurityinternship": "2026-10-13",
   "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-13",
@@ -6118,7 +6120,9 @@
   "wd+:pultegroup/PGI": [],
   "wd+:pureinsurance/pure": [],
   "wd+:pvh/PVH_Careers": [],
-  "wd+:pwc/Global_Campus_Careers": [],
+  "wd+:pwc/Global_Campus_Careers": [
+   "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/Stagiaire-SSI---Operations-Security---Janvier-2027---F-H_767267WD"
+  ],
   "wd+:pwc/Global_Experienced_Careers": [],
   "wd+:pwc/US_Entry_Level_Careers": [],
   "wd+:pwc/US_Experienced_Careers": [],
@@ -6870,10 +6874,6 @@
  "heartbeat": "2026-10-13 04",
  "recent": [
   [
-   1791782202.4067106,
-   "Ededge Groups - Cybersecurity Intern"
-  ],
-  [
    1791798116.5830238,
    "Universal Orlando Resort - Internship \u2013 Projects & Security Technology (Summer 2027)"
   ],
@@ -6960,6 +6960,10 @@
   [
    1791861803.6943579,
    "Sandia National Laboratories - Intern, R&D Undergraduate Summer - TITANS - Center for Cybe"
+  ],
+  [
+   1791881418.0380268,
+   "PricewaterhouseCoopers (PwC) - Stagiaire SSI - Operations Security - Janvier 2027 - F/H"
   ]
  ]
 }
