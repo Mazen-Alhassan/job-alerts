@@ -417,6 +417,7 @@
   "https://linkedin.com/jobs/view/4467903026": "2026-10-08",
   "https://linkedin.com/jobs/view/4467904027": "2026-10-08",
   "https://linkedin.com/jobs/view/4467915763": "2026-10-08",
+  "https://linkedin.com/jobs/view/4468152849": "2026-10-13",
   "https://linkedin.com/jobs/view/4468290890": "2026-10-09",
   "https://linkedin.com/jobs/view/4468297828": "2026-10-09",
   "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
@@ -888,6 +889,7 @@
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-13",
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
   "t:iatinsur|cybersecurityinternship": "2026-10-13",
+  "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-13",
   "t:ibotta|informationsecurityintern": "2026-10-13",
   "t:idemia|cybersecurityinternship": "2026-10-13",
   "t:idrinc|incidentresponseintern": "2026-10-08",
@@ -3816,10 +3818,10 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4468152849",
    "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4468903013",
    "https://www.linkedin.com/jobs/view/4470281935",
-   "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477940240",
@@ -6901,10 +6903,6 @@
  "heartbeat": "2026-10-13 12",
  "recent": [
   [
-   1791811984.5941586,
-   "Honeywell - Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern"
-  ],
-  [
    1791815407.1913183,
    "WebstaurantStore - SOC Intern"
   ],
@@ -7011,6 +7009,10 @@
   [
    1791905583.3320837,
    "Nassau Financial Group - Intern - Cybersecurity Risk"
+  ],
+  [
+   1791907874.9791517,
+   "IBM - Quantum Security Intern 2027 - Cloud Compliance & Security Tooling"
   ]
  ]
 }
