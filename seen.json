@@ -147,6 +147,7 @@
   "https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job": "2026-10-13",
   "https://careers-gdms.icims.com/jobs/75132/intern-engineer-%28cyber%29/job": "2026-10-12",
   "https://careers-gdms.icims.com/jobs/75132/job": "2026-10-10",
+  "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job": "2026-10-13",
   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job": "2026-10-13",
   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-09",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-13",
@@ -431,7 +432,8 @@
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
   "https://linkedin.com/jobs/view/4470281935": "2026-10-13",
-  "https://linkedin.com/jobs/view/4470618994": "2026-10-08",
+  "https://linkedin.com/jobs/view/4470618994": "2026-10-13",
+  "https://linkedin.com/jobs/view/4470621870": "2026-10-13",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
@@ -492,6 +494,8 @@
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478106761": "2026-10-13",
+  "https://linkedin.com/jobs/view/4478135096": "2026-10-13",
+  "https://linkedin.com/jobs/view/4478140024": "2026-10-13",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -781,7 +785,7 @@
   "t:crowe|incidentresponseintern": "2026-10-13",
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
-  "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-08",
+  "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-13",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-13",
   "t:danaher|itsecurityintern": "2026-10-13",
   "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-13",
@@ -837,6 +841,7 @@
   "t:galaxy|offcyclefall2026cybersecurityinternship": "2026-10-13",
   "t:generaldynam|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-08",
   "t:generald|2027summerinterndefenseagenciescybersecurity": "2026-10-13",
+  "t:generald|cyberengineeringinternsummer2027": "2026-10-13",
   "t:generald|cybersecurity2027summerinternship": "2026-10-13",
   "t:generald|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-13",
   "t:generald|internengineercyber": "2026-10-12",
@@ -3112,7 +3117,9 @@
    "https://careers-gdeb.icims.com/jobs/20338/cybersecurity---2027-summer-internship/job",
    "https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job"
   ],
-  "icims:careers-gdms.icims.com": [],
+  "icims:careers-gdms.icims.com": [
+   "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job"
+  ],
   "icims:careers-geosyntec.icims.com": [],
   "icims:careers-gilbaneco.icims.com": [],
   "icims:careers-goldbeltapex.icims.com": [],
@@ -3816,7 +3823,26 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "linkedin": [],
+  "linkedin": [
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461513360",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4468152849",
+   "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4468903013",
+   "https://www.linkedin.com/jobs/view/4470281935",
+   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4476076233",
+   "https://www.linkedin.com/jobs/view/4477929581",
+   "https://www.linkedin.com/jobs/view/4477930507",
+   "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4478106761",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024"
+  ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
@@ -6892,10 +6918,6 @@
  "heartbeat": "2026-10-13 12",
  "recent": [
   [
-   1791815407.1913183,
-   "WebstaurantStore - SOC Intern"
-  ],
-  [
    1791818837.6655161,
    "UL Solutions - 2027 Summer Intern: Cyber Security Intern"
   ],
@@ -7002,6 +7024,10 @@
   [
    1791907874.9791517,
    "IBM - Quantum Security Intern 2027 - Cloud Compliance & Security Tooling"
+  ],
+  [
+   1791909765.945641,
+   "General Dynamics Mission Systems - Cyber Engineering Intern (Summer 2027)"
   ]
  ]
 }
