@@ -475,6 +475,7 @@
   "https://linkedin.com/jobs/view/4477929581": "2026-10-13",
   "https://linkedin.com/jobs/view/4477930507": "2026-10-13",
   "https://linkedin.com/jobs/view/4477940240": "2026-10-13",
+  "https://linkedin.com/jobs/view/4477977111": "2026-10-13",
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
@@ -3353,6 +3354,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers.cai.io/us/en/job/R8748/Cybersecurity-Analyst-Intern",
    "https://careers.corewellhealth.org/us/en/job/R228866",
    "https://careers.corewellhealth.org/us/en/job/R228867",
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699285&PostingSeq=1",
@@ -3794,6 +3796,7 @@
    "https://www.linkedin.com/jobs/view/4477929581",
    "https://www.linkedin.com/jobs/view/4477930507",
    "https://www.linkedin.com/jobs/view/4477940240",
+   "https://www.linkedin.com/jobs/view/4477977111",
    "https://www.linkedin.com/jobs/view/4478710592",
    "https://www.linkedin.com/jobs/view/4478717202"
   ],
@@ -6863,7 +6866,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-13 00",
+ "heartbeat": "2026-10-13 02",
  "recent": [
   [
    1791782202.4067106,
