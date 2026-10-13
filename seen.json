@@ -403,6 +403,7 @@
   "https://linkedin.com/jobs/view/4460579016": "2026-10-11",
   "https://linkedin.com/jobs/view/4461252667": "2026-10-13",
   "https://linkedin.com/jobs/view/4461565157": "2026-10-13",
+  "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-12",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -790,6 +791,7 @@
   "t:eightsle|securityitintern": "2026-10-13",
   "t:elevanceheal|informationsecuritycoopinternship2027": "2026-10-08",
   "t:elevance|informationsecuritycoopinternship2027": "2026-10-13",
+  "t:emerson|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emerson|cybersecurityengineeringintern": "2026-10-13",
   "t:ensignin|internvulnerabilityresearch": "2026-10-13",
   "t:entegris|cybersecurityengineercoop": "2026-10-13",
@@ -3800,6 +3802,7 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4461252667",
    "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4461568063",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
@@ -6985,6 +6988,10 @@
   [
    1791889232.0365813,
    "Haystack - Cyber Security Intern"
+  ],
+  [
+   1791889686.9537878,
+   "Emerson - Cybersecurity Engineering Co-op (Jan27-May27)"
   ]
  ]
 }
