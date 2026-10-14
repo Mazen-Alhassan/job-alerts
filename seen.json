@@ -565,6 +565,7 @@
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-14",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-14",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-14",
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--security-and-privacy---2027_jr2025096": "2026-10-14",
   "https://nwis.wd12.myworkdayjobs.com/nw/job/indialantic-fl/vulnerability-researcher-intern---2026_jr101101": "2026-10-13",
   "https://nxp.wd3.myworkdayjobs.com/careers/job/brno/embedded-sw-developer-intern---security_r-10066538-1": "2026-10-14",
   "https://nxp.wd3.myworkdayjobs.com/careers/job/hamburg/working-student--f-m-d--npu-physical-security-testing_r-10066891": "2026-10-08",
@@ -1087,6 +1088,7 @@
   "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-14",
   "t:northwestern|cybersecurityinternship": "2026-10-08",
   "t:northwes|cybersecurityinternship": "2026-10-14",
+  "t:nvidia|phdresearchinternsecurityandprivacy2027": "2026-10-14",
   "t:nxpsemicondu|embeddedswdeveloperinternsecurity": "2026-10-08",
   "t:nxpsemicondu|workingstudentfmdnpuphysicalsecuritytesting": "2026-10-08",
   "t:nxpsemic|embeddedswdeveloperinternsecurity": "2026-10-14",
@@ -3477,7 +3479,6 @@
    "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
    "https://kei.wd1.myworkdayjobs.com/en-US/GlobalKimballCareers/job/Kimball-Electronics-Corporate-Headquarters/Cybersecurity-Intern_R20261495",
    "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=a1eae471-66e8-4ceb-9c1b-bca3e3c4ab0d&postingId=dfe806d9-2d26-4d69-a76a-af22a3516746",
-   "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=7776",
    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbca7958-04ed-4a4a-8891-cf252ce432a2&ccId=9201396108289_3&jobId=574972&jwId=9201396108289_1&source=IN&lang=en_US",
    "https://www.paycomonline.net/v4/ats/web.php/portal/D1B7897110FF4B711E6764B6108EF2BE/jobs/397756?source=Indeed"
   ],
@@ -6800,7 +6801,9 @@
    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
   ],
-  "wd:nvidia/NVIDIAExternalCareerSite": [],
+  "wd:nvidia/NVIDIAExternalCareerSite": [
+   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
+  ],
   "wd:otis/REC_Ext_Gateway": [],
   "wd:paloaltonetworks/panwexternalcareers": [],
   "wd:pnc/External": [],
@@ -7126,6 +7129,10 @@
   [
    1792009642.8849928,
    "BURNCO Rock Products Ltd - Cybersecurity Student"
+  ],
+  [
+   1792012017.9571297,
+   "NVIDIA - PhD Research Intern, Security and Privacy - 2027"
   ]
  ]
 }
