@@ -391,6 +391,7 @@
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
   "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
+  "https://linkedin.com/jobs/view/4451454463": "2026-10-14",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
   "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
   "https://linkedin.com/jobs/view/4458967970": "2026-10-11",
@@ -414,10 +415,12 @@
   "https://linkedin.com/jobs/view/4460514392": "2026-10-12",
   "https://linkedin.com/jobs/view/4460520156": "2026-10-11",
   "https://linkedin.com/jobs/view/4460579016": "2026-10-11",
+  "https://linkedin.com/jobs/view/4461244781": "2026-10-14",
   "https://linkedin.com/jobs/view/4461252667": "2026-10-14",
   "https://linkedin.com/jobs/view/4461513360": "2026-10-14",
   "https://linkedin.com/jobs/view/4461565157": "2026-10-14",
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
+  "https://linkedin.com/jobs/view/4462058587": "2026-10-14",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-12",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -987,6 +990,7 @@
   "t:masterca|corporatesecurityoperationsinternsummer2027stlouismous": "2026-10-14",
   "t:masterca|securityengineeringenablementinternsummer2027stlouismous": "2026-10-14",
   "t:masterca|securityinfrastructureengineeringarchitectureinternsummer2027arlingtonvaus": "2026-10-14",
+  "t:medpace|informationsecurityinternspring2027": "2026-10-14",
   "t:meijer|informationsecurityinternsummer2027": "2026-10-14",
   "t:memx|informationsecurityinternsummer2027hybrid": "2026-10-08",
   "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-14",
@@ -1063,6 +1067,7 @@
   "t:peraton|summer2027cybersecurityengineeringintern": "2026-10-09",
   "t:pg|itsecurityinternship": "2026-10-14",
   "t:phillips|informationtechnologyinterncybersecurityspring2027": "2026-10-14",
+  "t:phillips|informationtechnologyinterncybersecuritysummer2027": "2026-10-14",
   "t:plantemo|2027cybersecurityconsultantintern": "2026-10-14",
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-14",
@@ -3852,21 +3857,21 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4451454463",
+   "https://www.linkedin.com/jobs/view/4459280255",
+   "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460246501",
-   "https://www.linkedin.com/jobs/view/4461252667",
-   "https://www.linkedin.com/jobs/view/4461513360",
-   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4461244781",
+   "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4468798732",
-   "https://www.linkedin.com/jobs/view/4470281935",
-   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4478106761",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478145600",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
-   "https://www.linkedin.com/jobs/view/4479242586"
+   "https://www.linkedin.com/jobs/view/4479200292"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7033,6 +7038,14 @@
   [
    1791974271.3724778,
    "Accenture - Cybersecurity Internship"
+  ],
+  [
+   1791974368.8256223,
+   "Medpace - Information Security Intern- Spring 2027"
+  ],
+  [
+   1791974368.8256245,
+   "Phillips Edison & Company - Information Technology Intern - Cybersecurity (Summer 2027)"
   ]
  ]
 }
