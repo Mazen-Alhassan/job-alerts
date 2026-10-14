@@ -413,6 +413,7 @@
   "https://linkedin.com/jobs/view/4459296440": "2026-10-14",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460238609": "2026-10-14",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
   "https://linkedin.com/jobs/view/4460307152": "2026-10-11",
   "https://linkedin.com/jobs/view/4460311092": "2026-10-11",
@@ -1179,6 +1180,7 @@
   "t:texasins|informationtechnologyinternsecurity": "2026-10-14",
   "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thales|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-14",
+  "t:thechurc|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-14",
   "t:thechurc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-14",
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-14",
@@ -1261,8 +1263,6 @@
    "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
    "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
    "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
-   "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
-   "https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -3895,8 +3895,7 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
-   "https://www.linkedin.com/jobs/view/4459280255",
-   "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460238609",
    "https://www.linkedin.com/jobs/view/4461244781",
    "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
@@ -6985,20 +6984,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-14 12",
+ "heartbeat": "2026-10-14 14",
  "recent": [
-  [
-   1791904055.1595812,
-   "Draper - Classified Cybersecurity/IT Internship (Summer 2027)"
-  ],
-  [
-   1791905583.3320837,
-   "Nassau Financial Group - Intern - Cybersecurity Risk"
-  ],
-  [
-   1791907874.9791517,
-   "IBM - Quantum Security Intern 2027 - Cloud Compliance & Security Tooling"
-  ],
   [
    1791909765.945641,
    "General Dynamics Mission Systems - Cyber Engineering Intern (Summer 2027)"
@@ -7114,6 +7101,10 @@
   [
    1791997193.0103512,
    "Northrop Grumman - 2027 Cyber Software Engineer Intern - San Antonio TX"
+  ],
+  [
+   1792002004.9326022,
+   "The Church of Jesus Christ of Latter-day Saints - 2026 Information Security Operations Cen"
   ]
  ]
 }
