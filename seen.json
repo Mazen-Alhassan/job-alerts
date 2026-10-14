@@ -534,6 +534,7 @@
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-14",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-14",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-14",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-14",
   "https://nwis.wd12.myworkdayjobs.com/nw/job/indialantic-fl/vulnerability-researcher-intern---2026_jr101101": "2026-10-13",
@@ -1034,6 +1035,7 @@
   "t:nightwin|vulnerabilityresearcherintern2026": "2026-10-13",
   "t:nissangl|corporatesecurityinternsummer2027franklintn": "2026-10-14",
   "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-12",
+  "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-14",
   "t:northwestern|cybersecurityinternship": "2026-10-08",
   "t:northwes|cybersecurityinternship": "2026-10-14",
   "t:nxpsemicondu|embeddedswdeveloperinternsecurity": "2026-10-08",
@@ -6734,7 +6736,9 @@
   ],
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
-  "wd:ngc/northrop_grumman_external_site": [],
+  "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705"
+  ],
   "wd:nvidia/NVIDIAExternalCareerSite": [],
   "wd:otis/REC_Ext_Gateway": [],
   "wd:paloaltonetworks/panwexternalcareers": [],
@@ -7021,6 +7025,10 @@
   [
    1791953176.76568,
    "BRAIN - AI Security Engineer Co-Op Intern, Winter 2027"
+  ],
+  [
+   1791953261.6442137,
+   "Northrop Grumman - 2027 S/W Cybersecurity Intern \u2013 Annapolis MD"
   ]
  ]
 }
