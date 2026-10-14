@@ -504,6 +504,7 @@
   "https://linkedin.com/jobs/view/4478140024": "2026-10-14",
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
+  "https://linkedin.com/jobs/view/4478179913": "2026-10-14",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -683,6 +684,7 @@
   "t:apple|softwareundergradengineeringinternships": "2026-10-14",
   "t:appliedintui|cybersecuritysoftwareengineernewgrad2027": "2026-10-08",
   "t:appliedi|cybersecuritysoftwareengineernewgrad2027": "2026-10-14",
+  "t:appliedt|springinterncybersecurity": "2026-10-14",
   "t:archcapital|securityoperationsintern": "2026-10-08",
   "t:archcapi|securityoperationsintern": "2026-10-12",
   "t:arconic|cybersecurityintern": "2026-10-14",
@@ -3842,16 +3844,23 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4459280255",
+   "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461252667",
-   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4478106761",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
-   "https://www.linkedin.com/jobs/view/4478167943"
+   "https://www.linkedin.com/jobs/view/4478145600",
+   "https://www.linkedin.com/jobs/view/4478167943",
+   "https://www.linkedin.com/jobs/view/4478179913",
+   "https://www.linkedin.com/jobs/view/4479200292"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6920,14 +6929,6 @@
  "heartbeat": "2026-10-13 20",
  "recent": [
   [
-   1791847447.5433202,
-   "Crown Equipment Corporation - Information Security Analyst Co-Op - Spring 2027 Indefinite "
-  ],
-  [
-   1791848073.1684382,
-   "Echelon Risk + Cyber - Risk Advisory GRC Intern - Remote (USA)"
-  ],
-  [
    1791854581.3007138,
    "CAI (Computer Aid, Inc.) - Cybersecurity Analyst Intern"
   ],
@@ -7006,6 +7007,10 @@
   [
    1791938319.4597893,
    "Geronimo Power, LLC - IT Security Analyst Intern"
+  ],
+  [
+   1791943100.914027,
+   "Applied Technical Services, LLC - Spring Intern - Cyber Security"
   ]
  ]
 }
