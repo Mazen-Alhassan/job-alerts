@@ -515,6 +515,7 @@
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
   "https://linkedin.com/jobs/view/4478179913": "2026-10-14",
+  "https://linkedin.com/jobs/view/4478437995": "2026-10-14",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -960,6 +961,7 @@
   "t:jonassoftwar|cybersecurityintern": "2026-10-08",
   "t:jonassof|cybersecurityintern": "2026-10-14",
   "t:jsheldll|juniorforensicengineeringinternship6monthcontract": "2026-10-14",
+  "t:kimballe|cybersecurityintern": "2026-10-14",
   "t:kinaxis|coopinternapplicationsecurityanalyst": "2026-10-14",
   "t:kodiakroboti|winter2027internsecurity": "2026-10-08",
   "t:kodiakro|winter2027internsecurity": "2026-10-14",
@@ -3872,18 +3874,15 @@
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
-   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
-   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
-   "https://www.linkedin.com/jobs/view/4468798732",
-   "https://www.linkedin.com/jobs/view/4470618994",
-   "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4476669520",
    "https://www.linkedin.com/jobs/view/4478135096",
-   "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
-   "https://www.linkedin.com/jobs/view/4479242586"
+   "https://www.linkedin.com/jobs/view/4478437995",
+   "https://www.linkedin.com/jobs/view/4479200292"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7058,6 +7057,10 @@
   [
    1791985337.854609,
    "Michigan State University Federal Credit Union - Identity and Access Management Intern - W"
+  ],
+  [
+   1791986050.1871338,
+   "Kimball Electronics - Cybersecurity Intern"
   ]
  ]
 }
