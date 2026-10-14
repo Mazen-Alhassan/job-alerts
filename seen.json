@@ -510,6 +510,7 @@
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
   "https://linkedin.com/jobs/view/4479200292": "2026-10-14",
+  "https://linkedin.com/jobs/view/4479242586": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-14",
@@ -754,6 +755,7 @@
   "t:bosch|informationsecurityandprivacyintern": "2026-10-10",
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-14",
   "t:bracco|productsecurityengineeringintern": "2026-10-14",
+  "t:brainco|aisecurityengineercoopinternwinter2027": "2026-10-14",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-14",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-14",
@@ -3849,7 +3851,16 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
-   "https://www.linkedin.com/jobs/view/4479200292"
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4478167943",
+   "https://www.linkedin.com/jobs/view/4479242586"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7004,6 +7015,10 @@
   [
    1791944619.6812286,
    "BWX Technologies - Intern - Cyber Security (Summer 2027)"
+  ],
+  [
+   1791944893.682985,
+   "Brain Co. - AI Security Engineer Co-Op Intern, Winter 2027"
   ]
  ]
 }
