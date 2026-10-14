@@ -348,6 +348,7 @@
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-10-14",
   "https://jobs.ericsson.com/careers/job/563121777370331": "2026-10-14",
+  "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192": "2026-10-14",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": "2026-10-14",
   "https://jobs.jlab.org/job/newport-news-cybersecurity-student-intern-virg-23606/1438243000": "2026-10-09",
   "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33": "2026-10-14",
@@ -961,6 +962,7 @@
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-14",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
+  "t:intuit|summer2027cybersecuritycomplianceintern": "2026-10-14",
   "t:intuit|summer2027softwareengineeringinterncybersecurity": "2026-10-14",
   "t:irvingco|securityanalyststudentwinter2027": "2026-10-14",
   "t:jabil|interncybersecurity": "2026-10-08",
@@ -4253,6 +4255,7 @@
    "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480"
   ],
   "radancy:jobs.intuit.com": [
+   "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192",
    "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
   ],
   "rippling:4ag": [],
@@ -7105,6 +7108,10 @@
   [
    1792002004.9326022,
    "The Church of Jesus Christ of Latter-day Saints - 2026 Information Security Operations Cen"
+  ],
+  [
+   1792002988.6507661,
+   "Intuit - Summer 2027: Cybersecurity Compliance Intern"
   ]
  ]
 }
