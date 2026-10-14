@@ -207,6 +207,7 @@
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-14",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
+  "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-14",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-14",
@@ -792,6 +793,7 @@
   "t:carnegie|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
   "t:caterpillar|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-08",
   "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-09",
+  "t:centene|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-14",
   "t:centrus|securityintern": "2026-10-14",
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-14",
   "t:certik|securityresearchinternship": "2026-10-14",
@@ -3881,17 +3883,21 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
-   "https://www.linkedin.com/jobs/view/4459280255",
-   "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
+   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
-   "https://www.linkedin.com/jobs/view/4479200292"
+   "https://www.linkedin.com/jobs/view/4479242586"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5172,7 +5178,9 @@
   "wd+:cengage/CengageNorthAmericaCareers": [],
   "wd+:cenhud/cenhud": [],
   "wd+:cenovus/careers": [],
-  "wd+:centene/Centene_External": [],
+  "wd+:centene/Centene_External": [
+   "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1"
+  ],
   "wd+:centerstone/centerstonecareers": [],
   "wd+:centific/Centific_Global": [],
   "wd+:centrica/Centrica": [],
@@ -7066,6 +7074,10 @@
   [
    1791988972.4076383,
    "Elmers Manufacturing - Cybersecurity Student"
+  ],
+  [
+   1791990245.306575,
+   "Centene - Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)"
   ]
  ]
 }
