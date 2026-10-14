@@ -95,7 +95,7 @@
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-14",
   "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern---cybersecurity_r39605": "2026-10-14",
   "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern---it-cybersecurity_r39512": "2026-10-14",
-  "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/cybersecurity-intern_r39591": "2026-10-09",
+  "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/wi-madison/cybersecurity-intern_r39591": "2026-10-14",
   "https://ankura.wd5.myworkdayjobs.com/ankura/job/atlanta-ga/university-intern--construction-disputes---advisory--forensic-accounting---claims-consulting-_r104957": "2026-10-08",
   "https://ankura.wd5.myworkdayjobs.com/ankura/job/dallas-tx/university-intern--construction-disputes---advisory--forensic-accounting---claims-consulting-_r104970": "2026-10-08",
   "https://ankura.wd5.myworkdayjobs.com/ankura/job/houston-tx/university-intern--forensic-accounting---claims-consulting_r104971": "2026-10-08",
@@ -423,6 +423,7 @@
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
   "https://linkedin.com/jobs/view/4461569065": "2026-10-14",
   "https://linkedin.com/jobs/view/4462058587": "2026-10-14",
+  "https://linkedin.com/jobs/view/4462084600": "2026-10-14",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-12",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -1017,6 +1018,7 @@
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-10-14",
   "t:monolithicpo|securityanalystintern": "2026-10-08",
   "t:monolith|securityanalystintern": "2026-10-14",
+  "t:motion|grccybersecurityanalystintern": "2026-10-14",
   "t:mtc|studentinternsecurity": "2026-10-14",
   "t:nasdaq|verafininformationsecuritystudentjanuary2027": "2026-10-09",
   "t:nassaufi|interncybersecurityrisk": "2026-10-14",
@@ -3865,18 +3867,14 @@
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
-   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
-   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
+   "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4468798732",
-   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4478106761",
    "https://www.linkedin.com/jobs/view/4478135096",
-   "https://www.linkedin.com/jobs/view/4478140024",
-   "https://www.linkedin.com/jobs/view/4478167943",
-   "https://www.linkedin.com/jobs/view/4478179913",
-   "https://www.linkedin.com/jobs/view/4479242586"
+   "https://www.linkedin.com/jobs/view/4478179913"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4834,7 +4832,8 @@
   "wd+:amesconstruction/ames": [],
   "wd+:amfam/AmFamGroupInternCareers": [
    "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Cybersecurity_R39605",
-   "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---IT-Cybersecurity_R39512"
+   "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---IT-Cybersecurity_R39512",
+   "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Cybersecurity-Intern_R39591"
   ],
   "wd+:amfam/Careers": [],
   "wd+:amgen/careers": [],
@@ -6948,14 +6947,6 @@
  "heartbeat": "2026-10-14 08",
  "recent": [
   [
-   1791889232.0365813,
-   "Haystack - Cyber Security Intern"
-  ],
-  [
-   1791889686.9537878,
-   "Emerson - Cybersecurity Engineering Co-op (Jan27-May27)"
-  ],
-  [
    1791892850.2843406,
    "Honeywell Aerospace - Cyber Security Intern - Summer 2027"
   ],
@@ -7046,6 +7037,10 @@
   [
    1791981943.0586789,
    "Shopify - Software Engineering Internships Winter 2027"
+  ],
+  [
+   1791983356.610249,
+   "Motion - GRC/Cybersecurity Analyst Intern"
   ]
  ]
 }
