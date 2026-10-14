@@ -400,6 +400,7 @@
   "https://linkedin.com/jobs/view/4458986159": "2026-10-12",
   "https://linkedin.com/jobs/view/4458987322": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
+  "https://linkedin.com/jobs/view/4459271371": "2026-10-14",
   "https://linkedin.com/jobs/view/4459280255": "2026-10-14",
   "https://linkedin.com/jobs/view/4459280256": "2026-10-14",
   "https://linkedin.com/jobs/view/4459296440": "2026-10-14",
@@ -1153,6 +1154,7 @@
   "t:theoptio|yearroundinternapplicationsecurity": "2026-10-10",
   "t:theoptio|yearroundinterncyberoperations": "2026-10-10",
   "t:thrivent|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-14",
+  "t:tiktokus|securityengineerinternsecurityprivacy2027summer": "2026-10-14",
   "t:tiktokus|softwareengineerinternsecurityprivacy2027summer": "2026-10-14",
   "t:tiktok|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-10-14",
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-14",
@@ -3857,19 +3859,23 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451454463",
+   "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
+   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470281935",
+   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
-   "https://www.linkedin.com/jobs/view/4478106761",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478145600",
    "https://www.linkedin.com/jobs/view/4478167943",
-   "https://www.linkedin.com/jobs/view/4478179913"
+   "https://www.linkedin.com/jobs/view/4478179913",
+   "https://www.linkedin.com/jobs/view/4479242586"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6942,10 +6948,6 @@
  "heartbeat": "2026-10-14 08",
  "recent": [
   [
-   1791881418.0380268,
-   "PricewaterhouseCoopers (PwC) - Stagiaire SSI - Operations Security - Janvier 2027 - F/H"
-  ],
-  [
    1791887888.8591442,
    "Phillips Edison & Company - Information Technology Intern - Cybersecurity (Spring 2027)"
   ],
@@ -7044,6 +7046,10 @@
   [
    1791974368.8256245,
    "Phillips Edison & Company - Information Technology Intern - Cybersecurity (Summer 2027)"
+  ],
+  [
+   1791980218.539496,
+   "TikTok USDS Joint Venture - Security Engineer Intern (Security & Privacy) - 2027 Summer"
   ]
  ]
 }
