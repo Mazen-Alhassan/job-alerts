@@ -328,6 +328,7 @@
   "https://jobs.apple.com/details/200664785/software-undergrad-engineering-internships": "2026-10-14",
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": "2026-10-14",
   "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": "2026-10-14",
+  "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930": "2026-10-14",
   "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d": "2026-10-14",
   "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550": "2026-10-14",
   "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582": "2026-10-14",
@@ -542,6 +543,7 @@
   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1": "2026-10-09",
   "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/oshkosh-wisconsin-united-states/cyber-security-intern_r50267": "2026-10-14",
   "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---cyber-security_r26_0000002175": "2026-10-14",
+  "https://paycomonline.net/v4/ats/web.php/portal/d1b7897110ff4b711e6764b6108ef2be/jobs/397756": "2026-10-14",
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-10-14",
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-10-14",
   "https://pgcareers.com/global/en/job/r000157502": "2026-10-14",
@@ -756,6 +758,7 @@
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-14",
   "t:bracco|productsecurityengineeringintern": "2026-10-14",
   "t:brainco|aisecurityengineercoopinternwinter2027": "2026-10-14",
+  "t:brain|aisecurityengineercoopinternwinter2027": "2026-10-14",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-14",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-14",
@@ -3419,10 +3422,12 @@
    "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968",
    "https://careers.bwxt.com/job/Lynchburg-Intern-Cyber-Security-%28Summer-2027%29-VA-24501/1439664100/",
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+   "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
    "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=7776",
-   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbca7958-04ed-4a4a-8891-cf252ce432a2&ccId=9201396108289_3&jobId=574972&jwId=9201396108289_1&source=IN&lang=en_US"
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbca7958-04ed-4a4a-8891-cf252ce432a2&ccId=9201396108289_3&jobId=574972&jwId=9201396108289_1&source=IN&lang=en_US",
+   "https://www.paycomonline.net/v4/ats/web.php/portal/D1B7897110FF4B711E6764B6108EF2BE/jobs/397756?source=Indeed"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -3846,8 +3851,20 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459280255",
-   "https://www.linkedin.com/jobs/view/4459280256"
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4460246501",
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4478145600",
+   "https://www.linkedin.com/jobs/view/4478167943",
+   "https://www.linkedin.com/jobs/view/4478179913",
+   "https://www.linkedin.com/jobs/view/4479242586"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6914,10 +6931,6 @@
  "heartbeat": "2026-10-14 00",
  "recent": [
   [
-   1791854581.3007138,
-   "CAI (Computer Aid, Inc.) - Cybersecurity Analyst Intern"
-  ],
-  [
    1791861803.6943579,
    "Sandia National Laboratories - Intern, R&D Undergraduate Summer - TITANS - Center for Cybe"
   ],
@@ -7004,6 +7017,10 @@
   [
    1791944893.682985,
    "Brain Co. - AI Security Engineer Co-Op Intern, Winter 2027"
+  ],
+  [
+   1791953176.76568,
+   "BRAIN - AI Security Engineer Co-Op Intern, Winter 2027"
   ]
  ]
 }
