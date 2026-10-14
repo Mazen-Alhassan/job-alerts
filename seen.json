@@ -385,6 +385,8 @@
   "https://jobs.smartrecruiters.com/jsheldllc/744000146261287": "2026-10-14",
   "https://jobs.smartrecruiters.com/llnl/3743990014731646": "2026-10-14",
   "https://jobs.smartrecruiters.com/llnl/3743990014731656": "2026-10-14",
+  "https://jobs.smartrecruiters.com/llnl/3743990016131916": "2026-10-14",
+  "https://jobs.smartrecruiters.com/llnl/3743990016131926": "2026-10-14",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-10-14",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-10-14",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-10-14",
@@ -1010,6 +1012,8 @@
   "t:labelbox|cybersecurityintern": "2026-10-14",
   "t:lawrencelive|nationalsecurityengineeringdivisionnsedgraduateinternsummer2027": "2026-10-08",
   "t:lawrencelive|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-08",
+  "t:lawrence|criticalinfrastructureanalysisgraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
+  "t:lawrence|criticalinfrastructureanalysisundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
   "t:lawrence|nationalsecurityengineeringdivisionnsedgraduateinternsummer2027": "2026-10-14",
   "t:lawrence|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-14",
   "t:leidos|cybersecurityengineercoop": "2026-10-09",
@@ -3923,7 +3927,6 @@
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
-   "https://www.linkedin.com/jobs/view/4479200292",
    "https://www.linkedin.com/jobs/view/4479242586",
    "https://www.linkedin.com/jobs/view/4479546662",
    "https://www.linkedin.com/jobs/view/4479585043"
@@ -4602,7 +4605,9 @@
   "sr:LGCGroup": [],
   "sr:LLNL": [
    "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
-   "https://jobs.smartrecruiters.com/LLNL/3743990014731656"
+   "https://jobs.smartrecruiters.com/LLNL/3743990014731656",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016131916",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016131926"
   ],
   "sr:Laxir1": [],
   "sr:Learnkwikcom": [],
@@ -7144,6 +7149,14 @@
   [
    1792013068.700642,
    "GuidePoint Security - Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)"
+  ],
+  [
+   1792013429.5169468,
+   "Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Graduate "
+  ],
+  [
+   1792013429.5169485,
+   "Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Undergrad"
   ]
  ]
 }
