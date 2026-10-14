@@ -55,6 +55,7 @@
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-14",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-14",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-14",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-14",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
   "https://airproducts.wd5.myworkdayjobs.com/ap0001/job/allentown-pennsylvania/summer-intern--it---cyber-audit--2027-_jr-2026-21954": "2026-10-14",
@@ -607,6 +608,7 @@
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-14",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
   "t:accenture|internshipsecurityasoffebruary2027": "2026-10-08",
+  "t:accentur|cybersecurityinternship": "2026-10-14",
   "t:accentur|intelligencecyberdefenseintern": "2026-10-14",
   "t:aclukentucky|summer2027legalinternnationalsecurityproject": "2026-10-08",
   "t:aclukentucky|summer2027undergraduateinternnationalsecurityproject": "2026-10-08",
@@ -4735,7 +4737,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6932,12 +6936,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-14 04",
+ "heartbeat": "2026-10-14 06",
  "recent": [
-  [
-   1791861803.6943579,
-   "Sandia National Laboratories - Intern, R&D Undergraduate Summer - TITANS - Center for Cybe"
-  ],
   [
    1791881418.0380268,
    "PricewaterhouseCoopers (PwC) - Stagiaire SSI - Operations Security - Janvier 2027 - F/H"
@@ -7029,6 +7029,10 @@
   [
    1791953261.6442137,
    "Northrop Grumman - 2027 S/W Cybersecurity Intern \u2013 Annapolis MD"
+  ],
+  [
+   1791974271.3724778,
+   "Accenture - Cybersecurity Internship"
   ]
  ]
 }
