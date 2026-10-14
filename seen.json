@@ -474,6 +474,7 @@
   "https://linkedin.com/jobs/view/4476065632": "2026-10-13",
   "https://linkedin.com/jobs/view/4476076233": "2026-10-13",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
+  "https://linkedin.com/jobs/view/4476669520": "2026-10-14",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
   "https://linkedin.com/jobs/view/4476806711": "2026-10-10",
   "https://linkedin.com/jobs/view/4476818365": "2026-10-10",
@@ -1082,6 +1083,7 @@
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
+  "t:renkamer|interninformationtechnologycybersecurity": "2026-10-14",
   "t:richemont|stagiaireingnieurcyberscurit": "2026-10-08",
   "t:rivian|cybersecuritysummer2027internships": "2026-10-10",
   "t:robinhood|securityriskmanagementinternsummer2027": "2026-10-08",
@@ -3870,15 +3872,17 @@
    "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
    "https://www.linkedin.com/jobs/view/4462058587",
-   "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4468152849",
    "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
-   "https://www.linkedin.com/jobs/view/4478106761",
+   "https://www.linkedin.com/jobs/view/4476669520",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
-   "https://www.linkedin.com/jobs/view/4479200292"
+   "https://www.linkedin.com/jobs/view/4479200292",
+   "https://www.linkedin.com/jobs/view/4479242586"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7045,6 +7049,10 @@
   [
    1791983356.610249,
    "Motion - GRC/Cybersecurity Analyst Intern"
+  ],
+  [
+   1791984713.3953538,
+   "RENK America - Intern - Information Technology (Cybersecurity)"
   ]
  ]
 }
