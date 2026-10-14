@@ -568,6 +568,7 @@
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-14",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-14",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-14",
@@ -1096,6 +1097,7 @@
   "t:nightwin|vulnerabilityresearcherintern2026": "2026-10-13",
   "t:nissangl|corporatesecurityinternsummer2027franklintn": "2026-10-14",
   "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-12",
+  "t:northrop|2027cybersoftwareengineerinterncincinnatioh": "2026-10-14",
   "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-14",
   "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-14",
   "t:northwestern|cybersecurityinternship": "2026-10-08",
@@ -6804,6 +6806,7 @@
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
   "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
   ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
@@ -7162,6 +7165,10 @@
   [
    1792013699.2843568,
    "Lawrence Livermore National Laboratory (LLNL) - Power Systems Gradute Intern - Cyber and C"
+  ],
+  [
+   1792015761.8838997,
+   "Northrop Grumman - 2027 Cyber Software Engineer\u00a0Intern - Cincinnati OH"
   ]
  ]
 }
