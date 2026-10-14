@@ -164,6 +164,7 @@
   "https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job": "2026-10-14",
   "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968": "2026-10-14",
   "https://careers.aps.com/job/phoenix-2027-summer-internship-cybersecurity-az-85004-3903/1438780300": "2026-10-10",
+  "https://careers.bwxt.com/job/lynchburg-intern-cyber-security-%28summer-2027%29-va-24501/1439664100": "2026-10-14",
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
   "https://careers.cisco.com/global/en/job/2024817": "2026-10-14",
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
@@ -755,6 +756,7 @@
   "t:bracco|productsecurityengineeringintern": "2026-10-14",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-14",
+  "t:bwxtechn|interncybersecuritysummer2027": "2026-10-14",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-08",
   "t:caci|cyberanalystinternsummer2027": "2026-10-13",
@@ -3413,6 +3415,7 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75514/job",
    "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968",
+   "https://careers.bwxt.com/job/Lynchburg-Intern-Cyber-Security-%28Summer-2027%29-VA-24501/1439664100/",
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699285&PostingSeq=1",
    "https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=699296&PostingSeq=1",
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
@@ -6997,6 +7000,10 @@
   [
    1791943100.914027,
    "Applied Technical Services, LLC - Spring Intern - Cyber Security"
+  ],
+  [
+   1791944619.6812286,
+   "BWX Technologies - Intern - Cyber Security (Summer 2027)"
   ]
  ]
 }
