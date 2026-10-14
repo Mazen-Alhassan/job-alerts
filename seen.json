@@ -387,6 +387,8 @@
   "https://jobs.smartrecruiters.com/llnl/3743990014731656": "2026-10-14",
   "https://jobs.smartrecruiters.com/llnl/3743990016131916": "2026-10-14",
   "https://jobs.smartrecruiters.com/llnl/3743990016131926": "2026-10-14",
+  "https://jobs.smartrecruiters.com/llnl/3743990016131966": "2026-10-14",
+  "https://jobs.smartrecruiters.com/llnl/3743990016131976": "2026-10-14",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-10-14",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-10-14",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-10-14",
@@ -1016,6 +1018,8 @@
   "t:lawrence|criticalinfrastructureanalysisundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
   "t:lawrence|nationalsecurityengineeringdivisionnsedgraduateinternsummer2027": "2026-10-14",
   "t:lawrence|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-14",
+  "t:lawrence|powersystemsgraduteinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
+  "t:lawrence|powersystemsundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
   "t:leidos|cybersecurityengineercoop": "2026-10-09",
   "t:libertym|cybersecuritycoopjanuaryjune2027": "2026-10-14",
   "t:libertym|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-14",
@@ -4607,7 +4611,9 @@
    "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
    "https://jobs.smartrecruiters.com/LLNL/3743990014731656",
    "https://jobs.smartrecruiters.com/LLNL/3743990016131916",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016131926"
+   "https://jobs.smartrecruiters.com/LLNL/3743990016131926",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016131966",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016131976"
   ],
   "sr:Laxir1": [],
   "sr:Learnkwikcom": [],
@@ -7157,6 +7163,14 @@
   [
    1792013429.5169485,
    "Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Undergrad"
+  ],
+  [
+   1792013699.284355,
+   "Lawrence Livermore National Laboratory (LLNL) - Power Systems Undergraduate Intern - Cyber"
+  ],
+  [
+   1792013699.2843568,
+   "Lawrence Livermore National Laboratory (LLNL) - Power Systems Gradute Intern - Cyber and C"
   ]
  ]
 }
