@@ -90,6 +90,7 @@
   "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027": "2026-10-14",
+  "https://amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-14",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-14",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-14",
@@ -230,6 +231,7 @@
   "https://dmainc.wd5.myworkdayjobs.com/dma/job/fort-wayne-in/cybersecurity-intern---summer-2027_req742": "2026-10-14",
   "https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/classified-cybersecurity-it-internship--summer-2027-_jr003021": "2026-10-14",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/lake-mary-fl/pgo-cybersecurity-spring-2027-co-op_r41837": "2026-10-09",
+  "https://easyapply.co/job/cybersecurity-student": "2026-10-14",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11594": "2026-10-14",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11613": "2026-10-14",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11623": "2026-10-14",
@@ -637,6 +639,7 @@
   "t:altardst|spring2027itsecurityanalystintern": "2026-10-14",
   "t:amadeus|internshipsecurityengineer": "2026-10-14",
   "t:amazon|2027appliedscienceinternshiprecommendersystemsinformationretrievalmachinelearningunitedstatesphdstudentsciencerecruiting": "2026-10-08",
+  "t:amazon|amazonroboticssoftwaredevelopmentengineerinterncoop2027": "2026-10-14",
   "t:amazon|automationengineerinternnationwidesummer2027": "2026-10-14",
   "t:amazon|businessintelligenceengineerinternship2027us": "2026-10-14",
   "t:amazon|businessstrategyexecutionoperationsengineeringinternspringandsummer2027bellevuewa": "2026-10-14",
@@ -845,6 +848,7 @@
   "t:eightsle|securityitintern": "2026-10-14",
   "t:elevanceheal|informationsecuritycoopinternship2027": "2026-10-08",
   "t:elevance|informationsecuritycoopinternship2027": "2026-10-14",
+  "t:elmersma|cybersecuritystudent": "2026-10-14",
   "t:emerson|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emerson|cybersecurityengineeringintern": "2026-10-14",
   "t:encompas|itsecuritystudentinternsummer2027": "2026-10-14",
@@ -1241,6 +1245,7 @@
    "https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
    "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
    "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
+   "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -3442,6 +3447,7 @@
    "https://careers-gdms.icims.com/jobs/75514/job",
    "https://careers.bwxt.com/job/Lynchburg-Intern-Cyber-Security-%28Summer-2027%29-VA-24501/1439664100/",
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+   "https://easyapply.co/job/cybersecurity-student",
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
    "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
    "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
@@ -6965,18 +6971,6 @@
  "heartbeat": "2026-10-14 10",
  "recent": [
   [
-   1791892850.2843406,
-   "Honeywell Aerospace - Cyber Security Intern - Summer 2027"
-  ],
-  [
-   1791893736.3100202,
-   "TikTok USDS Joint Venture - Software Engineer Intern (Security & Privacy) - 2027 Summer"
-  ],
-  [
-   1791894296.2468355,
-   "Encompass Health - IT Security Student Intern - Summer 2027"
-  ],
-  [
    1791898385.0353825,
    "Papa John's - 2027 Summer Intern - Cyber Security"
   ],
@@ -7071,6 +7065,14 @@
   [
    1791986050.1871338,
    "Kimball Electronics - Cybersecurity Intern"
+  ],
+  [
+   1791988972.4076362,
+   "Amazon - Amazon Robotics - Software Development Engineer Intern/Co-op - 2027"
+  ],
+  [
+   1791988972.4076383,
+   "Elmers Manufacturing - Cybersecurity Student"
   ]
  ]
 }
