@@ -152,7 +152,7 @@
   "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job": "2026-10-14",
   "https://careers-gdms.icims.com/jobs/75514/job": "2026-10-14",
   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job": "2026-10-14",
-  "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-09",
+  "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-14",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-14",
   "https://careers-sentinel.icims.com/jobs/5130/cybersecurity-intern/job": "2026-10-14",
   "https://careers-sentinel.icims.com/jobs/5130/job": "2026-10-09",
@@ -569,6 +569,7 @@
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-2": "2026-10-08",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
+  "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-10-14",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
   "https://shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679": "2026-10-14",
   "https://snapchat.wd1.myworkdayjobs.com/sourced/job/los-angeles-california/security-engineer-intern--summer-2026_r0044499": "2026-10-14",
@@ -1066,7 +1067,7 @@
   "t:pennsylv|cybersecurityengineerintern": "2026-10-14",
   "t:pentair|itcybersecurityleadershipdevelopmentinternshipprogramsummer2027": "2026-10-14",
   "t:peraton|itcybersecurityinternforthuachucaaz": "2026-10-14",
-  "t:peraton|summer2027cybersecurityengineeringintern": "2026-10-09",
+  "t:peraton|summer2027cybersecurityengineeringintern": "2026-10-14",
   "t:pg|itsecurityinternship": "2026-10-14",
   "t:phillips|informationtechnologyinterncybersecurityspring2027": "2026-10-14",
   "t:phillips|informationtechnologyinterncybersecuritysummer2027": "2026-10-14",
@@ -1108,6 +1109,7 @@
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-14",
   "t:sentinel|socintern": "2026-10-14",
+  "t:shopify|softwareengineeringinternshipswinter2027": "2026-10-14",
   "t:shopify|usappliedmachinelearningengineeringinternshipssummer2027": "2026-10-14",
   "t:shopify|ussoftwareengineeringinternshipssummer2027": "2026-10-14",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-10-14",
@@ -3236,6 +3238,7 @@
   "icims:careers-parkhill.icims.com": [],
   "icims:careers-peopletec.icims.com": [],
   "icims:careers-peraton.icims.com": [
+   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job",
    "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job"
   ],
   "icims:careers-persistentsystems.icims.com": [],
@@ -3859,8 +3862,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451454463",
-   "https://www.linkedin.com/jobs/view/4459280255",
-   "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
    "https://www.linkedin.com/jobs/view/4462058587",
@@ -3871,8 +3872,7 @@
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478145600",
    "https://www.linkedin.com/jobs/view/4478167943",
-   "https://www.linkedin.com/jobs/view/4478179913",
-   "https://www.linkedin.com/jobs/view/4479200292"
+   "https://www.linkedin.com/jobs/view/4478179913"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4383,8 +4383,7 @@
   "sf:jobs.rogers.com": [],
   "sf:jobs.scotiabank.com": [],
   "shopify-page": [
-   "https://www.shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e",
-   "https://www.shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679"
+   "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
   "simplify": [],
   "simplify-vansh": [],
@@ -6945,14 +6944,6 @@
  "heartbeat": "2026-10-14 08",
  "recent": [
   [
-   1791887888.8591442,
-   "Phillips Edison & Company - Information Technology Intern - Cybersecurity (Spring 2027)"
-  ],
-  [
-   1791887888.8591464,
-   "Emerson - Cybersecurity Engineering Intern"
-  ],
-  [
    1791889232.0365813,
    "Haystack - Cyber Security Intern"
   ],
@@ -7047,6 +7038,10 @@
   [
    1791980218.539496,
    "TikTok USDS Joint Venture - Security Engineer Intern (Security & Privacy) - 2027 Summer"
+  ],
+  [
+   1791981943.0586789,
+   "Shopify - Software Engineering Internships Winter 2027"
   ]
  ]
 }
