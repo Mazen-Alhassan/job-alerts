@@ -528,6 +528,7 @@
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
   "https://linkedin.com/jobs/view/4479200292": "2026-10-14",
   "https://linkedin.com/jobs/view/4479242586": "2026-10-14",
+  "https://linkedin.com/jobs/view/4479546662": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-14",
@@ -795,6 +796,7 @@
   "t:carnegie|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
   "t:caterpillar|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-08",
   "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-09",
+  "t:centenec|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-14",
   "t:centene|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-14",
   "t:centrus|securityintern": "2026-10-14",
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-14",
@@ -3889,12 +3891,12 @@
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460246501",
    "https://www.linkedin.com/jobs/view/4461244781",
    "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4462165107",
-   "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4470618994",
    "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4478135096",
@@ -3903,7 +3905,8 @@
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4479200292",
-   "https://www.linkedin.com/jobs/view/4479242586"
+   "https://www.linkedin.com/jobs/view/4479242586",
+   "https://www.linkedin.com/jobs/view/4479546662"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7084,6 +7087,10 @@
   [
    1791993129.0754428,
    "Disney - Cybersecurity Intern, Spring 2027"
+  ],
+  [
+   1791994212.9020572,
+   "Centene Corporation - Cloud Security Incident Response Analyst Intern (Undergraduate - Sum"
   ]
  ]
 }
