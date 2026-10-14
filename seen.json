@@ -395,7 +395,7 @@
   "https://linkedin.com/jobs/view/4458986159": "2026-10-12",
   "https://linkedin.com/jobs/view/4458987322": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
-  "https://linkedin.com/jobs/view/4459280255": "2026-10-13",
+  "https://linkedin.com/jobs/view/4459280255": "2026-10-14",
   "https://linkedin.com/jobs/view/4459280256": "2026-10-14",
   "https://linkedin.com/jobs/view/4459296440": "2026-10-14",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
@@ -594,6 +594,7 @@
   "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-13",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-13",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
+  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html": "2026-10-14",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-14",
   "t:7eleven|informationsecurityintern": "2026-10-14",
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-14",
@@ -864,6 +865,7 @@
   "t:geocompl|browsersecurityengineerinternwinter2026": "2026-10-13",
   "t:geocompl|browsersecurityengineerinternwinter2027": "2026-10-14",
   "t:georgiat|generalcybersecuritygraduateinterncipherspring2027": "2026-10-10",
+  "t:geronimo|itsecurityanalystintern": "2026-10-14",
   "t:gileadscienc|interncfoitsecurityriskandcompliance": "2026-10-08",
   "t:gileadsc|interncfoitsecurityriskandcompliance": "2026-10-14",
   "t:gmfinanc|interncybersecurity": "2026-10-14",
@@ -3413,7 +3415,8 @@
    "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310-1",
    "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
-   "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=7776"
+   "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=7776",
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fbca7958-04ed-4a4a-8891-cf252ce432a2&ccId=9201396108289_3&jobId=574972&jwId=9201396108289_1&source=IN&lang=en_US"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -3837,7 +3840,23 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4460246501",
+   "https://www.linkedin.com/jobs/view/4461252667",
+   "https://www.linkedin.com/jobs/view/4461513360",
+   "https://www.linkedin.com/jobs/view/4461565157",
+   "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4468903013",
+   "https://www.linkedin.com/jobs/view/4470281935",
+   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4470621870",
+   "https://www.linkedin.com/jobs/view/4477977111",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4478145600",
+   "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4479200292"
   ],
   "microsoft": [
@@ -6907,18 +6926,6 @@
  "heartbeat": "2026-10-13 20",
  "recent": [
   [
-   1791841048.7382133,
-   "Astera Labs - CyberSecurity Engineer Intern"
-  ],
-  [
-   1791843390.1569963,
-   "Seagate Technology - Summer Intern - Cryptography and Security"
-  ],
-  [
-   1791843390.156998,
-   "Seagate Technology - Research Intern (Summer 2027) - Formal Methods and Security"
-  ],
-  [
    1791847447.5433202,
    "Crown Equipment Corporation - Information Security Analyst Co-Op - Spring 2027 Indefinite "
   ],
@@ -7001,6 +7008,10 @@
   [
    1791933564.5414128,
    "Amazon - Hardware Development Engineer Intern,  Summer 2027"
+  ],
+  [
+   1791938319.4597893,
+   "Geronimo Power, LLC - IT Security Analyst Intern"
   ]
  ]
 }
