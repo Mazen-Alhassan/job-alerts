@@ -571,6 +571,7 @@
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-10-14",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-14",
+  "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-14",
   "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-14",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-14",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-14",
@@ -1098,6 +1099,7 @@
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-14",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
   "t:procterg|itsecurityinternship": "2026-10-14",
+  "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-14",
   "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-14",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
@@ -3461,7 +3463,6 @@
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
    "https://jobs.centene.com/us/en/jobs/1667738/cloud-security-incident-response-analyst-intern-undergraduate-summer-2027/",
    "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=a1eae471-66e8-4ceb-9c1b-bca3e3c4ab0d&postingId=dfe806d9-2d26-4d69-a76a-af22a3516746",
    "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=7776",
@@ -6242,7 +6243,9 @@
   "wd+:pwc/US_Experienced_Careers": [],
   "wd+:q2ebanking/Q2": [],
   "wd+:qbe/qbe-careers": [],
-  "wd+:qtsdatacenters/qts": [],
+  "wd+:qtsdatacenters/qts": [
+   "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273"
+  ],
   "wd+:qualifacts/Qualifacts_External_Careers": [],
   "wd+:quickenloans/rocket_careers": [
    "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Detroit-MI/Security-Services-Intern---Fall-2026_R-082242"
@@ -7098,6 +7101,10 @@
   [
    1791994764.713987,
    "Amazon - Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027"
+  ],
+  [
+   1791995024.0811403,
+   "QTS - Summer 2027 Internship: Information Security Operations Analyst"
   ]
  ]
 }
