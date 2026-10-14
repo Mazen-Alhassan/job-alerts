@@ -460,6 +460,7 @@
   "https://linkedin.com/jobs/view/4469315805": "2026-10-14",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
+  "https://linkedin.com/jobs/view/4470250157": "2026-10-14",
   "https://linkedin.com/jobs/view/4470281935": "2026-10-14",
   "https://linkedin.com/jobs/view/4470605824": "2026-10-14",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-14",
@@ -795,6 +796,7 @@
   "t:brain|aisecurityengineercoopinternwinter2027": "2026-10-14",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-14",
+  "t:burncoro|cybersecuritystudent": "2026-10-14",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-14",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-08",
@@ -3911,11 +3913,13 @@
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4469315805",
+   "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
+   "https://www.linkedin.com/jobs/view/4479200292",
    "https://www.linkedin.com/jobs/view/4479242586",
    "https://www.linkedin.com/jobs/view/4479546662",
    "https://www.linkedin.com/jobs/view/4479585043"
@@ -7120,6 +7124,10 @@
   [
    1792008766.265701,
    "Howden - Underwriting Intern, Cyber"
+  ],
+  [
+   1792009642.8849928,
+   "BURNCO Rock Products Ltd - Cybersecurity Student"
   ]
  ]
 }
