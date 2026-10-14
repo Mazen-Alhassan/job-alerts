@@ -229,6 +229,7 @@
   "https://desjardins.wd10.myworkdayjobs.com/desjardins/job/montral/stage-au-bureau-de-la-scurit-desjardins--hiver-2027_r2610591-1": "2026-10-14",
   "https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/customer-support-center/cybersecurity---summer-2027-corporate-internship_202608793-1": "2026-10-14",
   "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/anaheim-ca-usa/disneyland-cybersecurity-intern--spring-2027_fos-0000451207": "2026-10-13",
+  "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/lake-buena-vista-fl-usa/cybersecurity-intern--spring-2027_fos-0000451290": "2026-10-14",
   "https://dmainc.wd5.myworkdayjobs.com/dma/job/fort-wayne-in/cybersecurity-intern---summer-2027_req742": "2026-10-14",
   "https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/classified-cybersecurity-it-internship--summer-2027-_jr003021": "2026-10-14",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/lake-mary-fl/pgo-cybersecurity-spring-2027-co-op_r41837": "2026-10-09",
@@ -341,6 +342,7 @@
   "https://jobs.battelle.org/us/en/job/76524": "2026-10-14",
   "https://jobs.battelle.org/us/en/job/76529": "2026-10-14",
   "https://jobs.battelle.org/us/en/job/76543": "2026-10-14",
+  "https://jobs.centene.com/us/en/jobs/1667738/cloud-security-incident-response-analyst-intern-undergraduate-summer-2027": "2026-10-14",
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-10-14",
@@ -836,6 +838,7 @@
   "t:desjardi|internshipwiththedesjardinsgroupsecurityofficewinter2027": "2026-10-14",
   "t:dickssportin|cybersecuritysummer2027corporateinternship": "2026-10-08",
   "t:dicksspo|cybersecuritysummer2027corporateinternship": "2026-10-14",
+  "t:disney|cybersecurityinternspring2027": "2026-10-14",
   "t:disney|disneylandcybersecurityinternspring2027": "2026-10-13",
   "t:draper|classifiedcybersecurityitinternshipsummer2027": "2026-10-14",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-14",
@@ -3451,6 +3454,7 @@
    "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
    "https://easyapply.co/job/cybersecurity-student",
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
+   "https://jobs.centene.com/us/en/jobs/1667738/cloud-security-incident-response-analyst-intern-undergraduate-summer-2027/",
    "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
    "https://lockheedmartin.eightfold.ai/careers/job/996477335927",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
@@ -3881,19 +3885,18 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4461244781",
-   "https://www.linkedin.com/jobs/view/4461569065",
-   "https://www.linkedin.com/jobs/view/4462165107",
-   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4462058587",
+   "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4478135096",
-   "https://www.linkedin.com/jobs/view/4478140024",
-   "https://www.linkedin.com/jobs/view/4478167943",
-   "https://www.linkedin.com/jobs/view/4479200292",
-   "https://www.linkedin.com/jobs/view/4479242586"
+   "https://www.linkedin.com/jobs/view/4478179913",
+   "https://www.linkedin.com/jobs/view/4478437995"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5346,7 +5349,9 @@
   "wd+:dimensional/dfa_careers": [],
   "wd+:directsupply/direct-supply-careers": [],
   "wd+:directv/careers": [],
-  "wd+:disney/disneycareerdc": [],
+  "wd+:disney/disneycareerdc": [
+   "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Cybersecurity-Intern--Spring-2027_FOS-0000451290"
+  ],
   "wd+:djeholdings/edelman-careers-E200": [],
   "wd+:dmainc/dma": [
    "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742"
@@ -6966,10 +6971,6 @@
  "heartbeat": "2026-10-14 10",
  "recent": [
   [
-   1791898385.0353825,
-   "Papa John's - 2027 Summer Intern - Cyber Security"
-  ],
-  [
    1791904055.1595812,
    "Draper - Classified Cybersecurity/IT Internship (Summer 2027)"
   ],
@@ -7072,6 +7073,10 @@
   [
    1791990245.306575,
    "Centene - Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)"
+  ],
+  [
+   1791993129.0754428,
+   "Disney - Cybersecurity Intern, Spring 2027"
   ]
  ]
 }
