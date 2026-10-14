@@ -452,9 +452,11 @@
   "https://linkedin.com/jobs/view/4468811301": "2026-10-10",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-09",
   "https://linkedin.com/jobs/view/4468903013": "2026-10-14",
+  "https://linkedin.com/jobs/view/4469315805": "2026-10-14",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
   "https://linkedin.com/jobs/view/4470281935": "2026-10-14",
+  "https://linkedin.com/jobs/view/4470605824": "2026-10-14",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-14",
   "https://linkedin.com/jobs/view/4470621870": "2026-10-14",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
@@ -1007,6 +1009,7 @@
   "t:lplfinan|newgrad2027cybersecurityanalyst": "2026-10-14",
   "t:lyondell|2027cybersecurityintern": "2026-10-09",
   "t:manulife|springcoop2027softwareengineeringsecurityoperations": "2026-10-14",
+  "t:marvellt|securityverificationvalidationengineerinternbssummer2027": "2026-10-14",
   "t:marvell|securityverificationvalidationengineerinternbssummer2027": "2026-10-14",
   "t:mastercard|corporatesecurityoperationsinternsummer2027stlouismous": "2026-10-08",
   "t:mastercard|securityengineeringenablementinternsummer2027stlouismous": "2026-10-08",
@@ -3901,7 +3904,8 @@
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4462165107",
-   "https://www.linkedin.com/jobs/view/4470618994",
+   "https://www.linkedin.com/jobs/view/4469315805",
+   "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4470621870",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
@@ -7105,6 +7109,10 @@
   [
    1791995024.0811403,
    "QTS - Summer 2027 Internship: Information Security Operations Analyst"
+  ],
+  [
+   1791995206.2153862,
+   "Marvell Technology - Security Verification/Validation Engineer Intern, BS - Summer 2027"
   ]
  ]
 }
