@@ -536,6 +536,7 @@
   "https://linkedin.com/jobs/view/4479200292": "2026-10-14",
   "https://linkedin.com/jobs/view/4479242586": "2026-10-14",
   "https://linkedin.com/jobs/view/4479546662": "2026-10-14",
+  "https://linkedin.com/jobs/view/4479585043": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-14",
@@ -942,6 +943,7 @@
   "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
+  "t:healthca|earlycareersvulnerabilitymanagementintern": "2026-10-14",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-14",
   "t:honeywel|cybersecurityinternsummer2027": "2026-10-14",
@@ -3909,13 +3911,13 @@
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
-   "https://www.linkedin.com/jobs/view/4478145600",
    "https://www.linkedin.com/jobs/view/4478167943",
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4479200292",
    "https://www.linkedin.com/jobs/view/4479242586",
-   "https://www.linkedin.com/jobs/view/4479546662"
+   "https://www.linkedin.com/jobs/view/4479546662",
+   "https://www.linkedin.com/jobs/view/4479585043"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6991,10 +6993,6 @@
  "heartbeat": "2026-10-14 14",
  "recent": [
   [
-   1791911951.9351504,
-   "The Church of Jesus Christ of Latter-day Saints - 2026 Security Vulnerability, Risk, and C"
-  ],
-  [
    1791929606.223287,
    "Netflix - Software Engineer Intern - Summer 2027"
   ],
@@ -7113,6 +7111,10 @@
   [
    1792005514.8489273,
    "CrowdStrike - Incident Response Internship - Professional Services - Summer 2027 (Remote, "
+  ],
+  [
+   1792005607.6430132,
+   "Health Care Service Corporation - Early Careers - Vulnerability Management Intern"
   ]
  ]
 }
