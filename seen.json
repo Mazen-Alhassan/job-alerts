@@ -91,6 +91,7 @@
   "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027": "2026-10-14",
+  "https://amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027": "2026-10-14",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-14",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-14",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-14",
@@ -643,6 +644,7 @@
   "t:altardst|spring2027itsecurityanalystintern": "2026-10-14",
   "t:amadeus|internshipsecurityengineer": "2026-10-14",
   "t:amazon|2027appliedscienceinternshiprecommendersystemsinformationretrievalmachinelearningunitedstatesphdstudentsciencerecruiting": "2026-10-08",
+  "t:amazon|amazonroboticshardwaredevelopmentengineerinterncoop2027": "2026-10-14",
   "t:amazon|amazonroboticssoftwaredevelopmentengineerinterncoop2027": "2026-10-14",
   "t:amazon|automationengineerinternnationwidesummer2027": "2026-10-14",
   "t:amazon|businessintelligenceengineerinternship2027us": "2026-10-14",
@@ -1253,6 +1255,7 @@
    "https://www.amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027",
    "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
    "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
+   "https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -7091,6 +7094,10 @@
   [
    1791994212.9020572,
    "Centene Corporation - Cloud Security Incident Response Analyst Intern (Undergraduate - Sum"
+  ],
+  [
+   1791994764.713987,
+   "Amazon - Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027"
   ]
  ]
 }
