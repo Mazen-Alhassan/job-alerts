@@ -14,6 +14,7 @@
   "gh:6163325004": "2026-10-14",
   "gh:6212490004": "2026-10-09",
   "gh:6218639004": "2026-10-14",
+  "gh:6224196004": "2026-10-14",
   "gh:7824766003": "2026-10-14",
   "gh:7977819003": "2026-10-08",
   "gh:7986872003": "2026-10-14",
@@ -174,6 +175,7 @@
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
   "https://careers.corewellhealth.org/us/en/job/r228866": "2026-10-13",
   "https://careers.corewellhealth.org/us/en/job/r228867": "2026-10-13",
+  "https://careers.cse-cst.gc.ca/en/careers/summer-2027-student-opportunities-in-mechanical-electrical-and-radio-frequency-engineering-ca-247219-en": "2026-10-14",
   "https://careers.fisglobal.com/us/en/job/jr0309680": "2026-10-14",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
@@ -849,6 +851,7 @@
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
   "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-14",
+  "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-14",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-14",
   "t:danaher|itsecurityintern": "2026-10-14",
   "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-14",
@@ -929,6 +932,7 @@
   "t:guardianlife|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guardian|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-14",
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-14",
+  "t:guidepoi|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-14",
   "t:guidepoi|gpsucybersecurityinternapplicationsecurity": "2026-10-10",
   "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-14",
   "t:guidepoi|gpsuinternapplicationsecurity": "2026-10-08",
@@ -2029,7 +2033,9 @@
   "cisco": [
    "https://careers.cisco.com/global/en/job/2024817"
   ],
-  "cse": [],
+  "cse": [
+   "https://careers.cse-cst.gc.ca/en/careers/summer-2027-student-opportunities-in-mechanical-electrical-and-radio-frequency-engineering-CA-247219-en"
+  ],
   "eightfold:bostonscientific.eightfold.ai": [],
   "eightfold:climate.eightfold.ai": [],
   "eightfold:eaton.eightfold.ai": [],
@@ -2457,7 +2463,8 @@
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
   ],
   "gh:gusto": [],
   "gh:hackerrank": [],
@@ -6795,7 +6802,6 @@
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
   "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
   ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
@@ -7130,6 +7136,14 @@
   [
    1792012017.9571297,
    "NVIDIA - PhD Research Intern, Security and Privacy - 2027"
+  ],
+  [
+   1792013068.7006402,
+   "CSE - Summer 2027 - Student Opportunities in Mechanical, Electrical, and Radio Frequency E"
+  ],
+  [
+   1792013068.700642,
+   "GuidePoint Security - Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)"
   ]
  ]
 }
