@@ -293,6 +293,7 @@
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
+  "https://governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity": "2026-10-15",
   "https://governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern": "2026-10-10",
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-10-15",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-15",
@@ -1140,6 +1141,7 @@
   "t:phillips|informationtechnologyinterncybersecurityspring2027": "2026-10-14",
   "t:phillips|informationtechnologyinterncybersecuritysummer2027": "2026-10-14",
   "t:plantemo|2027cybersecurityconsultantintern": "2026-10-15",
+  "t:portofco|informationtechnologyinterncybersecurity": "2026-10-15",
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
@@ -3504,7 +3506,8 @@
    "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
    "https://kei.wd1.myworkdayjobs.com/en-US/GlobalKimballCareers/job/Kimball-Electronics-Corporate-Headquarters/Cybersecurity-Intern_R20261495",
    "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
-   "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=a1eae471-66e8-4ceb-9c1b-bca3e3c4ab0d&postingId=dfe806d9-2d26-4d69-a76a-af22a3516746"
+   "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=a1eae471-66e8-4ceb-9c1b-bca3e3c4ab0d&postingId=dfe806d9-2d26-4d69-a76a-af22a3516746",
+   "https://www.governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -3928,21 +3931,16 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4460238609",
    "https://www.linkedin.com/jobs/view/4461569065",
-   "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
-   "https://www.linkedin.com/jobs/view/4477015643",
-   "https://www.linkedin.com/jobs/view/4478437995",
-   "https://www.linkedin.com/jobs/view/4478842083",
-   "https://www.linkedin.com/jobs/view/4479546662"
+   "https://www.linkedin.com/jobs/view/4477015643"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7016,7 +7014,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-15 00",
+ "heartbeat": "2026-10-15 02",
  "recent": [
   [
    1791953176.76568,
@@ -7173,6 +7171,10 @@
   [
    1792040963.6329427,
    "Dell Technologies - Cybersecurity Undergraduate Intern"
+  ],
+  [
+   1792045651.1614728,
+   "PORT OF CORPUS CHRISTI - Information Technology Intern (Cybersecurity)"
   ]
  ]
 }
