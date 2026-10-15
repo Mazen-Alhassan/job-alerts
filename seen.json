@@ -549,6 +549,7 @@
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
   "https://linkedin.com/jobs/view/4478842083": "2026-10-15",
+  "https://linkedin.com/jobs/view/4478847469": "2026-10-15",
   "https://linkedin.com/jobs/view/4479200292": "2026-10-14",
   "https://linkedin.com/jobs/view/4479242586": "2026-10-15",
   "https://linkedin.com/jobs/view/4479546662": "2026-10-15",
@@ -993,6 +994,7 @@
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-15",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
+  "t:interacc|informationsecurityintern": "2026-10-15",
   "t:interac|informationsecurityintern": "2026-10-15",
   "t:intuit|summer2027cybersecuritycomplianceintern": "2026-10-15",
   "t:intuit|summer2027softwareengineeringinterncybersecurity": "2026-10-15",
@@ -3945,6 +3947,7 @@
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4478842083",
+   "https://www.linkedin.com/jobs/view/4478847469",
    "https://www.linkedin.com/jobs/view/4479546662"
   ],
   "microsoft": [
@@ -7022,14 +7025,6 @@
  "heartbeat": "2026-10-15 02",
  "recent": [
   [
-   1791953176.76568,
-   "BRAIN - AI Security Engineer Co-Op Intern, Winter 2027"
-  ],
-  [
-   1791953261.6442137,
-   "Northrop Grumman - 2027 S/W Cybersecurity Intern \u2013 Annapolis MD"
-  ],
-  [
    1791974271.3724778,
    "Accenture - Cybersecurity Internship"
   ],
@@ -7180,6 +7175,10 @@
   [
    1792045651.1614728,
    "PORT OF CORPUS CHRISTI - Information Technology Intern (Cybersecurity)"
+  ],
+  [
+   1792048168.9378366,
+   "Interac Corp. - Information Security Intern"
   ]
  ]
 }
