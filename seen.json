@@ -444,6 +444,7 @@
   "https://linkedin.com/jobs/view/4460655626": "2026-10-15",
   "https://linkedin.com/jobs/view/4461244781": "2026-10-14",
   "https://linkedin.com/jobs/view/4461252667": "2026-10-14",
+  "https://linkedin.com/jobs/view/4461278537": "2026-10-15",
   "https://linkedin.com/jobs/view/4461513360": "2026-10-14",
   "https://linkedin.com/jobs/view/4461565157": "2026-10-14",
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
@@ -452,7 +453,7 @@
   "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
-  "https://linkedin.com/jobs/view/4465896716": "2026-10-12",
+  "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
   "https://linkedin.com/jobs/view/4466253153": "2026-10-10",
   "https://linkedin.com/jobs/view/4467288333": "2026-10-08",
@@ -480,6 +481,7 @@
   "https://linkedin.com/jobs/view/4470618994": "2026-10-14",
   "https://linkedin.com/jobs/view/4470621870": "2026-10-14",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
+  "https://linkedin.com/jobs/view/4471125435": "2026-10-15",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
@@ -556,6 +558,7 @@
   "https://linkedin.com/jobs/view/4479242586": "2026-10-15",
   "https://linkedin.com/jobs/view/4479546662": "2026-10-15",
   "https://linkedin.com/jobs/view/4479585043": "2026-10-15",
+  "https://linkedin.com/jobs/view/4479709136": "2026-10-15",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-15",
@@ -1066,6 +1069,7 @@
   "t:meijer|informationsecurityinternsummer2027": "2026-10-15",
   "t:memx|informationsecurityinternsummer2027hybrid": "2026-10-08",
   "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-15",
+  "t:merchant|informationsecurityinternsummer2027": "2026-10-15",
   "t:merck|2027futuretalentprogramforensicserviceslaboratoryintern": "2026-10-09",
   "t:merck|2027futuretalentprogramglobalsecurityresiliencycenterintern": "2026-10-09",
   "t:merck|2027futuretalentprogramnorthamericaregionalsecurityteamintern": "2026-10-09",
@@ -1151,6 +1155,7 @@
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
   "t:procterg|itsecurityinternship": "2026-10-15",
+  "t:qtsdatac|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-15",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
@@ -3511,7 +3516,6 @@
    "https://easyapply.co/job/cybersecurity-student",
    "https://highlinewarren.hrmdirect.com/employment/view.php?req=3841449&jbsrc=1014&location=f0cfea71-8ba9-20be-0ada-fa4b7c6114ba",
    "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385",
-   "https://jobs.papajohns.com/job/34747/2027-summer-intern-cyber-security-administrative-us-ga-atlanta-788-circle-75-pkwy/",
    "https://kei.wd1.myworkdayjobs.com/en-US/GlobalKimballCareers/job/Kimball-Electronics-Corporate-Headquarters/Cybersecurity-Intern_R20261495",
    "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
    "https://www.governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity"
@@ -3939,16 +3943,17 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4460238609",
-   "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4461278537",
+   "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
-   "https://www.linkedin.com/jobs/view/4476669520",
+   "https://www.linkedin.com/jobs/view/4471125435",
    "https://www.linkedin.com/jobs/view/4477015643",
-   "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4478847469",
-   "https://www.linkedin.com/jobs/view/4479585043"
+   "https://www.linkedin.com/jobs/view/4479585043",
+   "https://www.linkedin.com/jobs/view/4479709136"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7168,6 +7173,14 @@
   [
    1792068697.7024689,
    "ENSCO, Inc. - Information Security Intern"
+  ],
+  [
+   1792072560.219204,
+   "Merchants Bank IN - Information Security Intern - Summer 2027"
+  ],
+  [
+   1792072560.2192054,
+   "QTS Data Centers - Summer 2027 Internship: Information Security Operations Analyst"
   ]
  ]
 }
