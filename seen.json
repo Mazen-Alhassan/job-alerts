@@ -509,6 +509,7 @@
   "https://linkedin.com/jobs/view/4476853761": "2026-10-10",
   "https://linkedin.com/jobs/view/4476855092": "2026-10-10",
   "https://linkedin.com/jobs/view/4476865440": "2026-10-10",
+  "https://linkedin.com/jobs/view/4477015643": "2026-10-15",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-09",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-09",
   "https://linkedin.com/jobs/view/4477426178": "2026-10-09",
@@ -975,6 +976,7 @@
   "t:iatinsur|cybersecurityinternship": "2026-10-15",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-15",
+  "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemia|cybersecurityinternship": "2026-10-15",
   "t:idrinc|incidentresponseintern": "2026-10-08",
   "t:iex|cybersecurityanalystintern": "2026-10-15",
@@ -3489,7 +3491,6 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers-gdms.icims.com/jobs/75514/job",
    "https://careers.bwxt.com/job/Lynchburg-Intern-Cyber-Security-%28Summer-2027%29-VA-24501/1439664100/",
    "https://easyapply.co/job/cybersecurity-student",
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
@@ -3934,11 +3935,11 @@
    "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
+   "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478179913",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4479242586",
-   "https://www.linkedin.com/jobs/view/4479546662",
-   "https://www.linkedin.com/jobs/view/4479585043"
+   "https://www.linkedin.com/jobs/view/4479546662"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7016,14 +7017,6 @@
  "heartbeat": "2026-10-14 20",
  "recent": [
   [
-   1791929606.223287,
-   "Netflix - Software Engineer Intern - Summer 2027"
-  ],
-  [
-   1791930587.3782153,
-   "Canadian Nuclear Laboratories - New Grad - Cyber Security Research Scientist/Engineer Tale"
-  ],
-  [
    1791933564.5414128,
    "Amazon - Hardware Development Engineer Intern,  Summer 2027"
   ],
@@ -7178,6 +7171,10 @@
   [
    1792015761.8838997,
    "Northrop Grumman - 2027 Cyber Software Engineer\u00a0Intern - Cincinnati OH"
+  ],
+  [
+   1792026834.941132,
+   "Idaho National Laboratory - Nuc Cyber Security Intern - Fall 2026"
   ]
  ]
 }
