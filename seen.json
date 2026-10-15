@@ -591,6 +591,7 @@
   "https://linkedin.com/jobs/view/4480163679": "2026-10-15",
   "https://linkedin.com/jobs/view/4480165704": "2026-10-15",
   "https://linkedin.com/jobs/view/4480167739": "2026-10-15",
+  "https://linkedin.com/jobs/view/4480176088": "2026-10-15",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-15",
@@ -1141,6 +1142,7 @@
   "t:nationalinfo|interninformationsecuritycybersecurity": "2026-10-08",
   "t:nationallabo|undergraduategraduatecybersecurityresearchintern5g": "2026-10-08",
   "t:nationallabo|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-08",
+  "t:national|aimlforcybersecurityintern": "2026-10-15",
   "t:national|graduate1012weeksinternaimlforcybersecurity": "2026-10-15",
   "t:national|interninformationsecuritycybersecurity": "2026-10-15",
   "t:national|undergraduategraduatecybersecurityresearchintern5g": "2026-10-11",
@@ -3994,8 +3996,6 @@
    "https://www.linkedin.com/jobs/view/4470725818",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4471152358",
-   "https://www.linkedin.com/jobs/view/4473433988",
-   "https://www.linkedin.com/jobs/view/4473450194",
    "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478842083",
@@ -4007,7 +4007,8 @@
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480163679",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739"
+   "https://www.linkedin.com/jobs/view/4480167739",
+   "https://www.linkedin.com/jobs/view/4480176088"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4524,7 +4525,9 @@
   "shopify-page": [
    "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
-  "simplify": [],
+  "simplify": [
+   "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563"
+  ],
   "simplify-vansh": [],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
