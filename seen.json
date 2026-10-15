@@ -489,6 +489,7 @@
   "https://linkedin.com/jobs/view/4471152358": "2026-10-15",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
+  "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
@@ -509,7 +510,7 @@
   "https://linkedin.com/jobs/view/4475983653": "2026-10-09",
   "https://linkedin.com/jobs/view/4476012328": "2026-10-12",
   "https://linkedin.com/jobs/view/4476037721": "2026-10-13",
-  "https://linkedin.com/jobs/view/4476065632": "2026-10-13",
+  "https://linkedin.com/jobs/view/4476065632": "2026-10-15",
   "https://linkedin.com/jobs/view/4476076233": "2026-10-15",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476669520": "2026-10-15",
@@ -565,6 +566,7 @@
   "https://linkedin.com/jobs/view/4479546662": "2026-10-15",
   "https://linkedin.com/jobs/view/4479585043": "2026-10-15",
   "https://linkedin.com/jobs/view/4479709136": "2026-10-15",
+  "https://linkedin.com/jobs/view/4479860484": "2026-10-15",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-15",
@@ -829,6 +831,7 @@
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-08",
+  "t:caciinte|cybersecurityinternsummer2027": "2026-10-15",
   "t:caciinte|networkcybersecurityinternsummer2027": "2026-10-15",
   "t:caci|cyberanalystinternsummer2027": "2026-10-13",
   "t:caci|cybersecurityinternsummer2027": "2026-10-15",
@@ -1197,7 +1200,7 @@
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-15",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
-  "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-13",
+  "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seagatet|summerinterncryptographyandsecurity": "2026-10-15",
   "t:security|cybersoccoop2027usgreenshift": "2026-10-15",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
@@ -3955,17 +3958,18 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4460238609",
-   "https://www.linkedin.com/jobs/view/4469315805",
+   "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4470250157",
-   "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4471152358",
+   "https://www.linkedin.com/jobs/view/4473433988",
    "https://www.linkedin.com/jobs/view/4473450194",
+   "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4478847469",
    "https://www.linkedin.com/jobs/view/4479585043",
-   "https://www.linkedin.com/jobs/view/4479709136"
+   "https://www.linkedin.com/jobs/view/4479860484"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7040,10 +7044,6 @@
  "heartbeat": "2026-10-15 12",
  "recent": [
   [
-   1791990245.306575,
-   "Centene - Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)"
-  ],
-  [
    1791993129.0754428,
    "Disney - Cybersecurity Intern, Spring 2027"
   ],
@@ -7190,6 +7190,10 @@
   [
    1792082599.7924461,
    "National Laboratory of the Rockies - Graduate (10-12 weeks) Intern - AI/ML for Cybersecuri"
+  ],
+  [
+   1792083970.92373,
+   "CACI International Inc - Cyber Security Intern - Summer 2027"
   ]
  ]
 }
