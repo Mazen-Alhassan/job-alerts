@@ -213,6 +213,7 @@
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
+  "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-15",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-15",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
@@ -842,6 +843,7 @@
   "t:charlesr|2028bachelorsmastersgraduatescyberandforensictechnologyconsultinganalystassociateinternsummer2027": "2026-10-15",
   "t:church|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-15",
   "t:church|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-15",
+  "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-15",
   "t:cignagroup|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-08",
   "t:cignagro|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-14",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-10-15",
@@ -5261,7 +5263,9 @@
   "wd+:chordenergy/external": [],
   "wd+:chrobinson/CHRobinson": [],
   "wd+:churchdwight/chdcareers": [],
-  "wd+:cibc/campus": [],
+  "wd+:cibc/campus": [
+   "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159"
+  ],
   "wd+:ciena/careers": [],
   "wd+:cigna/cignacareers": [],
   "wd+:cincinnatichildrens/careersatcincinnatichildrens": [],
@@ -6114,9 +6118,7 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
-  ],
+  "wd+:ngc/Northrop_Grumman_External_Site": [],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
@@ -6829,9 +6831,7 @@
   ],
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
-  "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
-  ],
+  "wd:ngc/northrop_grumman_external_site": [],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -7030,18 +7030,6 @@
  "heartbeat": "2026-10-15 10",
  "recent": [
   [
-   1791983356.610249,
-   "Motion - GRC/Cybersecurity Analyst Intern"
-  ],
-  [
-   1791984713.3953538,
-   "RENK America - Intern - Information Technology (Cybersecurity)"
-  ],
-  [
-   1791985337.854609,
-   "Michigan State University Federal Credit Union - Identity and Access Management Intern - W"
-  ],
-  [
    1791986050.1871338,
    "Kimball Electronics - Cybersecurity Intern"
   ],
@@ -7184,6 +7172,10 @@
   [
    1792076278.038303,
    "Stellantis - 2027 Corporate Security Summer Internship"
+  ],
+  [
+   1792078998.5362844,
+   "CIBC - Information Security Analyst Winter 2027 Co-op"
   ]
  ]
 }
