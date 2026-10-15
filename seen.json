@@ -145,6 +145,7 @@
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
   "https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job": "2026-10-15",
   "https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job": "2026-10-15",
+  "https://career4.successfactors.com/career": "2026-10-15",
   "https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job": "2026-10-15",
   "https://careers-berrydunn.icims.com/jobs/4020/summer-2027-consulting-internship---cybersecurity/job": "2026-10-15",
   "https://careers-bocusa.icims.com/jobs/1941/adc-rsd-information-cybersecurity-intern/job": "2026-10-15",
@@ -890,6 +891,7 @@
   "t:dicksspo|cybersecuritysummer2027corporateinternship": "2026-10-15",
   "t:disney|cybersecurityinternspring2027": "2026-10-14",
   "t:disney|disneylandcybersecurityinternspring2027": "2026-10-13",
+  "t:dormanpr|cybersecurityintern": "2026-10-15",
   "t:draper|classifiedcybersecurityitinternshipsummer2027": "2026-10-15",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-15",
   "t:ducharmemcmi|cybersecurityinternsummer2027": "2026-10-08",
@@ -3519,6 +3521,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://career4.successfactors.com/career?company=S000008602P&career_ns=job_listing&career_job_req_id=55041&lang=en_US&source=Indeed",
    "https://dsp.prng.co/EiMvxFb",
    "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590",
    "https://highlinewarren.hrmdirect.com/employment/view.php?req=3841449&jbsrc=1014&location=f0cfea71-8ba9-20be-0ada-fa4b7c6114ba",
@@ -7184,6 +7187,10 @@
   [
    1792079906.1325445,
    "CACI International Inc - Network / Cybersecurity Intern - Summer 2027"
+  ],
+  [
+   1792081897.8186731,
+   "Dorman Products - Cybersecurity Intern"
   ]
  ]
 }
