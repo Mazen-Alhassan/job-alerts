@@ -315,6 +315,8 @@
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/cyber-security-intern--summer-2027_r250153": "2026-10-15",
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/it-security-loss-prevention-intern---summer-2027_r250154": "2026-10-15",
   "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/cyber-security-internship_jr100410": "2026-10-15",
+  "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299002": "2026-10-15",
+  "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299004": "2026-10-15",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-15",
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-14",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-15",
@@ -865,6 +867,8 @@
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-15",
   "t:danaher|itsecurityintern": "2026-10-15",
   "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-15",
+  "t:delltech|cybersecurityundergraduateintern": "2026-10-15",
+  "t:delltech|productapplicationsecurityundergraduateintern": "2026-10-15",
   "t:desjardins|internshipwiththedesjardinsgroupsecurityofficewinter2027": "2026-10-08",
   "t:desjardi|internshipwiththedesjardinsgroupsecurityofficewinter2027": "2026-10-15",
   "t:dickssportin|cybersecuritysummer2027corporateinternship": "2026-10-08",
@@ -3927,13 +3931,16 @@
    "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4460238609",
+   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4469315805",
+   "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
+   "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478437995",
-   "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4479546662"
   ],
   "microsoft": [
@@ -4181,6 +4188,8 @@
   "oracle:iaaviz.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:iadugs.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:iawmqy.fa.ocs.oraclecloud.com/careers": [
+   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002",
+   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299004",
    "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300404"
   ],
   "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC": [],
@@ -7009,14 +7018,6 @@
  "heartbeat": "2026-10-15 00",
  "recent": [
   [
-   1791944619.6812286,
-   "BWX Technologies - Intern - Cyber Security (Summer 2027)"
-  ],
-  [
-   1791944893.682985,
-   "Brain Co. - AI Security Engineer Co-Op Intern, Winter 2027"
-  ],
-  [
    1791953176.76568,
    "BRAIN - AI Security Engineer Co-Op Intern, Winter 2027"
   ],
@@ -7163,6 +7164,14 @@
   [
    1792037004.4587913,
    "Interac - Information Security Intern"
+  ],
+  [
+   1792040963.632939,
+   "Dell Technologies - Product & Application Security Undergraduate Intern"
+  ],
+  [
+   1792040963.6329427,
+   "Dell Technologies - Cybersecurity Undergraduate Intern"
   ]
  ]
 }
