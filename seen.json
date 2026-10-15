@@ -107,6 +107,7 @@
   "https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/it-security-engineer-internship---summer-2027_r_14477": "2026-10-15",
   "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/new-york-ny/xmlname-2027-summer-intern--information-security_2026-1416": "2026-10-15",
   "https://applicantpro.com/openings/echeloncyber/jobs/4241204-989931": "2026-10-13",
+  "https://applicantpro.com/openings/navigantcu/jobs/4245322-131135": "2026-10-15",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-12",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-15",
   "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/pewaukee-wi/intern---cyber-security-summer-2027_r0003307": "2026-10-15",
@@ -1123,6 +1124,7 @@
   "t:national|interninformationsecuritycybersecurity": "2026-10-15",
   "t:national|undergraduategraduatecybersecurityresearchintern5g": "2026-10-11",
   "t:national|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-15",
+  "t:navigant|interninformationsecurity": "2026-10-15",
   "t:navyfederalc|summerassociateinternshipproductsecurityengineer": "2026-10-08",
   "t:navyfede|summerassociateinternshipidentityaccessmanagement": "2026-10-15",
   "t:navyfede|summerassociateinternshipinformationsecurityanalyst": "2026-10-15",
@@ -3540,6 +3542,7 @@
    "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10254705&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340074624140%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D51a9198e-c894-11f1-a5ba-859f3de1d745%26rx_job%3DR10254705%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261015T180415Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed",
    "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10256037&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340074769120%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D51a977fc-c894-11f1-94d2-859f3de1d745%26rx_job%3DR10256037%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261015T180415Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed",
    "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
+   "https://www.applicantpro.com/openings/navigantcu/jobs/4245322-131135",
    "https://www.governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity"
   ],
   "jobvite:aarete": [],
@@ -7054,10 +7057,6 @@
  "heartbeat": "2026-10-15 14",
  "recent": [
   [
-   1791997193.0103512,
-   "Northrop Grumman - 2027 Cyber Software Engineer Intern - San Antonio TX"
-  ],
-  [
    1792002004.9326022,
    "The Church of Jesus Christ of Latter-day Saints - 2026 Information Security Operations Cen"
   ],
@@ -7188,6 +7187,10 @@
   [
    1792088816.1571195,
    "General Matter - Summer 2027 Internship - Information Security Engineer"
+  ],
+  [
+   1792090900.9561098,
+   "Navigant Credit Union - Intern - Information Security"
   ]
  ]
 }
