@@ -10,6 +10,7 @@
   "gh:5236035007": "2026-10-15",
   "gh:5421861008": "2026-10-15",
   "gh:5445236008": "2026-10-15",
+  "gh:5448019008": "2026-10-15",
   "gh:6116398004": "2026-10-15",
   "gh:6148707004": "2026-10-15",
   "gh:6163325004": "2026-10-15",
@@ -954,6 +955,7 @@
   "t:generald|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-15",
   "t:generald|internengineercyber": "2026-10-12",
   "t:generald|security2027summerinternship": "2026-10-15",
+  "t:generalm|summer2027internshipinformationsecurityengineer": "2026-10-15",
   "t:genuineparts|grccybersecurityanalystintern": "2026-10-08",
   "t:genuinep|grccybersecurityanalystintern": "2026-10-15",
   "t:geocomply|browsersecurityengineerinternwinter2026": "2026-10-08",
@@ -2485,7 +2487,9 @@
   "gh:gelberhandshake": [],
   "gh:gemini": [],
   "gh:generalatlantic": [],
-  "gh:generalmatter": [],
+  "gh:generalmatter": [
+   "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008"
+  ],
   "gh:genevatrading": [],
   "gh:genscript": [],
   "gh:gensyn": [],
@@ -7047,26 +7051,6 @@
  "heartbeat": "2026-10-15 14",
  "recent": [
   [
-   1791993129.0754428,
-   "Disney - Cybersecurity Intern, Spring 2027"
-  ],
-  [
-   1791994212.9020572,
-   "Centene Corporation - Cloud Security Incident Response Analyst Intern (Undergraduate - Sum"
-  ],
-  [
-   1791994764.713987,
-   "Amazon - Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027"
-  ],
-  [
-   1791995024.0811403,
-   "QTS - Summer 2027 Internship: Information Security Operations Analyst"
-  ],
-  [
-   1791995206.2153862,
-   "Marvell Technology - Security Verification/Validation Engineer Intern, BS - Summer 2027"
-  ],
-  [
    1791997193.0103512,
    "Northrop Grumman - 2027 Cyber Software Engineer Intern - San Antonio TX"
   ],
@@ -7197,6 +7181,10 @@
   [
    1792083970.92373,
    "CACI International Inc - Cyber Security Intern - Summer 2027"
+  ],
+  [
+   1792088816.1571195,
+   "General Matter - Summer 2027 Internship - Information Security Engineer"
   ]
  ]
 }
