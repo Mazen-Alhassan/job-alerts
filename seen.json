@@ -2077,7 +2077,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3503,6 +3505,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://dsp.prng.co/EiMvxFb",
    "https://easyapply.co/job/cybersecurity-student",
    "https://highlinewarren.hrmdirect.com/employment/view.php?req=3841449&jbsrc=1014&location=f0cfea71-8ba9-20be-0ada-fa4b7c6114ba",
    "https://jobs.centene.com/us/en/jobs/1667738/cloud-security-incident-response-analyst-intern-undergraduate-summer-2027/",
@@ -3948,8 +3951,7 @@
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4478842083",
-   "https://www.linkedin.com/jobs/view/4478847469",
-   "https://www.linkedin.com/jobs/view/4479546662"
+   "https://www.linkedin.com/jobs/view/4478847469"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6270,9 +6272,7 @@
   "wd+:pultegroup/PGI": [],
   "wd+:pureinsurance/pure": [],
   "wd+:pvh/PVH_Careers": [],
-  "wd+:pwc/Global_Campus_Careers": [
-   "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/Stagiaire-SSI---Operations-Security---Janvier-2027---F-H_767267WD"
-  ],
+  "wd+:pwc/Global_Campus_Careers": [],
   "wd+:pwc/Global_Experienced_Careers": [],
   "wd+:pwc/US_Entry_Level_Careers": [],
   "wd+:pwc/US_Experienced_Careers": [],
@@ -7023,7 +7023,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-15 02",
+ "heartbeat": "2026-10-15 04",
  "recent": [
   [
    1791974271.3724778,
