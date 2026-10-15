@@ -485,8 +485,10 @@
   "https://linkedin.com/jobs/view/4470621870": "2026-10-14",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
   "https://linkedin.com/jobs/view/4471125435": "2026-10-15",
+  "https://linkedin.com/jobs/view/4471152358": "2026-10-15",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
+  "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -507,7 +509,7 @@
   "https://linkedin.com/jobs/view/4476012328": "2026-10-12",
   "https://linkedin.com/jobs/view/4476037721": "2026-10-13",
   "https://linkedin.com/jobs/view/4476065632": "2026-10-13",
-  "https://linkedin.com/jobs/view/4476076233": "2026-10-13",
+  "https://linkedin.com/jobs/view/4476076233": "2026-10-15",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476669520": "2026-10-15",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
@@ -825,6 +827,7 @@
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-08",
+  "t:caciinte|networkcybersecurityinternsummer2027": "2026-10-15",
   "t:caci|cyberanalystinternsummer2027": "2026-10-13",
   "t:caci|cybersecurityinternsummer2027": "2026-10-15",
   "t:caci|networkcybersecurityinternsummer2027": "2026-10-08",
@@ -841,6 +844,7 @@
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-15",
   "t:certik|securityresearchinternship": "2026-10-15",
   "t:charlesr|2028bachelorsmastersgraduatescyberandforensictechnologyconsultinganalystassociateinternsummer2027": "2026-10-15",
+  "t:churchmu|internitapplicationsecurity": "2026-10-15",
   "t:church|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-15",
   "t:church|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-15",
   "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-15",
@@ -1190,7 +1194,7 @@
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-15",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-13",
-  "t:seagatet|summerinterncryptographyandsecurity": "2026-10-13",
+  "t:seagatet|summerinterncryptographyandsecurity": "2026-10-15",
   "t:security|cybersoccoop2027usgreenshift": "2026-10-15",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
@@ -3946,17 +3950,16 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4460238609",
-   "https://www.linkedin.com/jobs/view/4462113890",
-   "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
-   "https://www.linkedin.com/jobs/view/4471125435",
+   "https://www.linkedin.com/jobs/view/4471152358",
+   "https://www.linkedin.com/jobs/view/4473450194",
+   "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4478847469",
-   "https://www.linkedin.com/jobs/view/4479585043",
-   "https://www.linkedin.com/jobs/view/4479709136"
+   "https://www.linkedin.com/jobs/view/4479585043"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7030,10 +7033,6 @@
  "heartbeat": "2026-10-15 10",
  "recent": [
   [
-   1791986050.1871338,
-   "Kimball Electronics - Cybersecurity Intern"
-  ],
-  [
    1791988972.4076362,
    "Amazon - Amazon Robotics - Software Development Engineer Intern/Co-op - 2027"
   ],
@@ -7176,6 +7175,14 @@
   [
    1792078998.5362844,
    "CIBC - Information Security Analyst Winter 2027 Co-op"
+  ],
+  [
+   1792079906.1325426,
+   "Church Mutual Insurance Company, S.I. - Intern- IT Application Security"
+  ],
+  [
+   1792079906.1325445,
+   "CACI International Inc - Network / Cybersecurity Intern - Summer 2027"
   ]
  ]
 }
