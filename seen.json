@@ -590,6 +590,7 @@
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
+  "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate--10-12-weeks--intern---ai-ml-for-cybersecurity_r14563": "2026-10-15",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-15",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-15",
   "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--security-and-privacy---2027_jr2025096": "2026-10-15",
@@ -1109,6 +1110,7 @@
   "t:nationalinfo|interninformationsecuritycybersecurity": "2026-10-08",
   "t:nationallabo|undergraduategraduatecybersecurityresearchintern5g": "2026-10-08",
   "t:nationallabo|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-08",
+  "t:national|graduate1012weeksinternaimlforcybersecurity": "2026-10-15",
   "t:national|interninformationsecuritycybersecurity": "2026-10-15",
   "t:national|undergraduategraduatecybersecurityresearchintern5g": "2026-10-11",
   "t:national|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-15",
@@ -6144,6 +6146,7 @@
   "wd+:novoco/Novogradac": [],
   "wd+:nphosting/FDFCareers": [],
   "wd+:nrel/NLR": [
+   "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
    "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
   ],
   "wd+:nrf/External": [],
@@ -7037,14 +7040,6 @@
  "heartbeat": "2026-10-15 12",
  "recent": [
   [
-   1791988972.4076362,
-   "Amazon - Amazon Robotics - Software Development Engineer Intern/Co-op - 2027"
-  ],
-  [
-   1791988972.4076383,
-   "Elmers Manufacturing - Cybersecurity Student"
-  ],
-  [
    1791990245.306575,
    "Centene - Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)"
   ],
@@ -7191,6 +7186,10 @@
   [
    1792081897.8186731,
    "Dorman Products - Cybersecurity Intern"
+  ],
+  [
+   1792082599.7924461,
+   "National Laboratory of the Rockies - Graduate (10-12 weeks) Intern - AI/ML for Cybersecuri"
   ]
  ]
 }
