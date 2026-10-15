@@ -2065,9 +2065,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3493,7 +3491,6 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers.bwxt.com/job/Lynchburg-Intern-Cyber-Security-%28Summer-2027%29-VA-24501/1439664100/",
    "https://easyapply.co/job/cybersecurity-student",
    "https://highlinewarren.hrmdirect.com/employment/view.php?req=3841449&jbsrc=1014&location=f0cfea71-8ba9-20be-0ada-fa4b7c6114ba",
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
@@ -3929,8 +3926,10 @@
    "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4460238609",
+   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
+   "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470250157",
    "https://www.linkedin.com/jobs/view/4470605824",
@@ -7013,7 +7012,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-14 20",
+ "heartbeat": "2026-10-14 22",
  "recent": [
   [
    1791938319.4597893,
