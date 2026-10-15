@@ -253,6 +253,7 @@
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/20249": "2026-10-15",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/21006": "2026-10-15",
   "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/in-indianapolis-220-virginia-ave/information-security-co-op-internship---2027_jr205939": "2026-10-15",
+  "https://emcins.wd5.myworkdayjobs.com/emc_careers/job/iowa/cybersecurity-intern_r6590": "2026-10-15",
   "https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/intern--vulnerability-research_jobreq-0002885": "2026-10-15",
   "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/chaska-mn/cyber-threat-analyst-co-op_req-14505": "2026-10-12",
   "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/chaska-mn/cybersecurity-engineer-co-op_req-14472-1": "2026-10-15",
@@ -896,6 +897,7 @@
   "t:elevanceheal|informationsecuritycoopinternship2027": "2026-10-08",
   "t:elevance|informationsecuritycoopinternship2027": "2026-10-15",
   "t:elmersma|cybersecuritystudent": "2026-10-15",
+  "t:emcinsur|cybersecurityintern": "2026-10-15",
   "t:emerson|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emerson|cybersecurityengineeringintern": "2026-10-15",
   "t:encompas|itsecuritystudentinternsummer2027": "2026-10-14",
@@ -5456,7 +5458,9 @@
   "wd+:elevancehealth/ELV-ET": [],
   "wd+:elkay/Elkay_External": [],
   "wd+:embryriddle/External": [],
-  "wd+:emcins/EMC_Careers": [],
+  "wd+:emcins/EMC_Careers": [
+   "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590"
+  ],
   "wd+:emcins/EMC_Internships": [],
   "wd+:empower/PanAgora": [],
   "wd+:empower/empower": [],
@@ -7181,6 +7185,10 @@
   [
    1792072560.2192054,
    "QTS Data Centers - Summer 2027 Internship: Information Security Operations Analyst"
+  ],
+  [
+   1792072654.8960738,
+   "EMC Insurance - Cybersecurity Intern"
   ]
  ]
 }
