@@ -321,6 +321,7 @@
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-15",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-10-15",
   "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/toronto-ontario-can/new-grad-tech-development-program---cybersecurity-stream_r155808": "2026-10-12",
+  "https://interac.wd3.myworkdayjobs.com/interac/job/toronto/information-security-intern_req-2385": "2026-10-15",
   "https://internships-aei.icims.com/jobs/2676/spring-intern%3a-critical-threats-project-%e2%80%93-africa/job": "2026-10-15",
   "https://internships-aei.icims.com/jobs/2677/spring-intern%3a-critical-threats-project---communications-and-operations/job": "2026-10-15",
   "https://internships-aei.icims.com/jobs/2678/spring-intern%3a-critical-threats-project---iran-and-middle-east/job": "2026-10-15",
@@ -987,6 +988,7 @@
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-15",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
+  "t:interac|informationsecurityintern": "2026-10-15",
   "t:intuit|summer2027cybersecuritycomplianceintern": "2026-10-15",
   "t:intuit|summer2027softwareengineeringinterncybersecurity": "2026-10-15",
   "t:irvingco|securityanalyststudentwinter2027": "2026-10-15",
@@ -3927,14 +3929,11 @@
    "https://www.linkedin.com/jobs/view/4451454463",
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4460238609",
-   "https://www.linkedin.com/jobs/view/4461569065",
    "https://www.linkedin.com/jobs/view/4462058587",
    "https://www.linkedin.com/jobs/view/4462084600",
-   "https://www.linkedin.com/jobs/view/4462165107",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4476669520",
-   "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4479546662"
@@ -5777,7 +5776,9 @@
   "wd+:integritymarketing/Integrity": [],
   "wd+:intel/external": [],
   "wd+:intelcomgroup/Intelcom": [],
-  "wd+:interac/Interac": [],
+  "wd+:interac/Interac": [
+   "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385"
+  ],
   "wd+:interdigital/InterDigital_Career": [],
   "wd+:interdigital/InterDigital_Intern": [],
   "wd+:interpublic/omc": [],
@@ -6096,7 +6097,6 @@
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
   "wd+:ngc/Northrop_Grumman_External_Site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
    "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
   ],
   "wd+:niagarawater/niagara": [],
@@ -6814,7 +6814,6 @@
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
   "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
    "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037"
   ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
@@ -7012,16 +7011,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-14 22",
+ "heartbeat": "2026-10-15 00",
  "recent": [
-  [
-   1791938319.4597893,
-   "Geronimo Power, LLC - IT Security Analyst Intern"
-  ],
-  [
-   1791943100.914027,
-   "Applied Technical Services, LLC - Spring Intern - Cyber Security"
-  ],
   [
    1791944619.6812286,
    "BWX Technologies - Intern - Cyber Security (Summer 2027)"
@@ -7173,6 +7164,10 @@
   [
    1792027919.4347563,
    "Highline Warren - Cybersecurity Intern"
+  ],
+  [
+   1792037004.4587913,
+   "Interac - Information Security Intern"
   ]
  ]
 }
