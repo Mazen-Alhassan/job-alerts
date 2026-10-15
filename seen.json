@@ -8,6 +8,7 @@
   "gh:5213881007": "2026-10-15",
   "gh:5231842007": "2026-10-11",
   "gh:5236035007": "2026-10-15",
+  "gh:5421861008": "2026-10-15",
   "gh:5445236008": "2026-10-15",
   "gh:6116398004": "2026-10-15",
   "gh:6148707004": "2026-10-15",
@@ -895,6 +896,7 @@
   "t:emerson|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emerson|cybersecurityengineeringintern": "2026-10-15",
   "t:encompas|itsecuritystudentinternsummer2027": "2026-10-14",
+  "t:enscoinc|informationsecurityintern": "2026-10-15",
   "t:ensignin|internvulnerabilityresearch": "2026-10-15",
   "t:entegris|cybersecurityengineercoop": "2026-10-15",
   "t:entegris|cyberthreatanalystcoop": "2026-10-12",
@@ -2060,9 +2062,7 @@
   "cisco": [
    "https://careers.cisco.com/global/en/job/2024817"
   ],
-  "cse": [
-   "https://careers.cse-cst.gc.ca/en/careers/summer-2027-student-opportunities-in-mechanical-electrical-and-radio-frequency-engineering-CA-247219-en"
-  ],
+  "cse": [],
   "eightfold:bostonscientific.eightfold.ai": [],
   "eightfold:climate.eightfold.ai": [],
   "eightfold:eaton.eightfold.ai": [],
@@ -2388,7 +2388,9 @@
   "gh:enigmaio": [],
   "gh:ennoblecare": [],
   "gh:enova": [],
-  "gh:ensco": [],
+  "gh:ensco": [
+   "https://job-boards.greenhouse.io/ensco/jobs/5421861008"
+  ],
   "gh:ensemble": [],
   "gh:eosfitness": [],
   "gh:epicgames": [],
@@ -3937,7 +3939,6 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4460238609",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4462165107",
@@ -7024,18 +7025,6 @@
  "heartbeat": "2026-10-15 08",
  "recent": [
   [
-   1791974271.3724778,
-   "Accenture - Cybersecurity Internship"
-  ],
-  [
-   1791974368.8256223,
-   "Medpace - Information Security Intern- Spring 2027"
-  ],
-  [
-   1791974368.8256245,
-   "Phillips Edison & Company - Information Technology Intern - Cybersecurity (Summer 2027)"
-  ],
-  [
    1791980218.539496,
    "TikTok USDS Joint Venture - Security Engineer Intern (Security & Privacy) - 2027 Summer"
   ],
@@ -7178,6 +7167,10 @@
   [
    1792048168.9378366,
    "Interac Corp. - Information Security Intern"
+  ],
+  [
+   1792068697.7024689,
+   "ENSCO, Inc. - Information Security Intern"
   ]
  ]
 }
