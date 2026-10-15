@@ -405,6 +405,7 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016164366": "2026-10-15",
   "https://jobs.smartrecruiters.com/llnl/3743990016164416": "2026-10-15",
   "https://jobs.smartrecruiters.com/llnl/3743990016164736": "2026-10-15",
+  "https://jobs.smartrecruiters.com/llnl/3743990016165287": "2026-10-15",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-10-15",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-10-15",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-10-15",
@@ -1067,6 +1068,7 @@
   "t:lawrencelive|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-08",
   "t:lawrence|criticalinfrastructureanalysisgraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-15",
   "t:lawrence|criticalinfrastructureanalysisundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-15",
+  "t:lawrence|cybersecurityundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-15",
   "t:lawrence|nationalsecurityengineeringdivisionnsedgraduateinternsummer2027": "2026-10-15",
   "t:lawrence|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-15",
   "t:lawrence|powersystemsgraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-15",
@@ -3976,14 +3978,12 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4469499431",
    "https://www.linkedin.com/jobs/view/4470725818",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4471152358",
    "https://www.linkedin.com/jobs/view/4473433988",
    "https://www.linkedin.com/jobs/view/4473450194",
-   "https://www.linkedin.com/jobs/view/4476065632",
    "https://www.linkedin.com/jobs/view/4476076233",
    "https://www.linkedin.com/jobs/view/4477015643",
    "https://www.linkedin.com/jobs/view/4478842083",
@@ -4673,7 +4673,8 @@
    "https://jobs.smartrecruiters.com/LLNL/3743990016164196",
    "https://jobs.smartrecruiters.com/LLNL/3743990016164366",
    "https://jobs.smartrecruiters.com/LLNL/3743990016164416",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016164736"
+   "https://jobs.smartrecruiters.com/LLNL/3743990016164736",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016165287"
   ],
   "sr:Laxir1": [],
   "sr:Learnkwikcom": [],
@@ -7193,6 +7194,10 @@
   [
    1792099630.4835472,
    "Lawrence Livermore National Laboratory (LLNL) - Power Systems Graduate Intern - Cyber and "
+  ],
+  [
+   1792100445.5477421,
+   "Lawrence Livermore National Laboratory (LLNL) - Cybersecurity Undergraduate Intern - Cyber"
   ]
  ]
 }
