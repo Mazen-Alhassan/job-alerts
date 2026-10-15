@@ -452,6 +452,7 @@
   "https://linkedin.com/jobs/view/4461569065": "2026-10-15",
   "https://linkedin.com/jobs/view/4462058587": "2026-10-15",
   "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
+  "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
@@ -1208,6 +1209,7 @@
   "t:southwestair|summer2027cybersecurityengineerinternship": "2026-10-08",
   "t:spacex|newgraduateengineersecuritysoftwarestarshield": "2026-10-15",
   "t:spacex|newgraduateengineersoftwaresecurity2627starlink": "2026-10-15",
+  "t:stellant|2027corporatesecuritysummerinternship": "2026-10-15",
   "t:studente|studentworkerinformationsecurityinternbc": "2026-10-15",
   "t:studente|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-15",
   "t:studyfet|itsecurityoperationsintern": "2026-10-15",
@@ -3943,7 +3945,7 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4460238609",
-   "https://www.linkedin.com/jobs/view/4461278537",
+   "https://www.linkedin.com/jobs/view/4462113890",
    "https://www.linkedin.com/jobs/view/4465896716",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470250157",
@@ -7029,14 +7031,6 @@
  "heartbeat": "2026-10-15 10",
  "recent": [
   [
-   1791980218.539496,
-   "TikTok USDS Joint Venture - Security Engineer Intern (Security & Privacy) - 2027 Summer"
-  ],
-  [
-   1791981943.0586789,
-   "Shopify - Software Engineering Internships Winter 2027"
-  ],
-  [
    1791983356.610249,
    "Motion - GRC/Cybersecurity Analyst Intern"
   ],
@@ -7187,6 +7181,10 @@
   [
    1792072654.8960738,
    "EMC Insurance - Cybersecurity Intern"
+  ],
+  [
+   1792076278.038303,
+   "Stellantis - 2027 Corporate Security Summer Internship"
   ]
  ]
 }
