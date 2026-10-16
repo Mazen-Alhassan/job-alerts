@@ -474,6 +474,7 @@
   "https://linkedin.com/jobs/view/4461565157": "2026-10-14",
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
   "https://linkedin.com/jobs/view/4461569065": "2026-10-15",
+  "https://linkedin.com/jobs/view/4461693598": "2026-10-16",
   "https://linkedin.com/jobs/view/4462058587": "2026-10-15",
   "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
@@ -484,6 +485,7 @@
   "https://linkedin.com/jobs/view/4466253153": "2026-10-10",
   "https://linkedin.com/jobs/view/4467288333": "2026-10-08",
   "https://linkedin.com/jobs/view/4467780988": "2026-10-08",
+  "https://linkedin.com/jobs/view/4467863757": "2026-10-16",
   "https://linkedin.com/jobs/view/4467903026": "2026-10-08",
   "https://linkedin.com/jobs/view/4467904027": "2026-10-08",
   "https://linkedin.com/jobs/view/4467915763": "2026-10-08",
@@ -1333,6 +1335,7 @@
   "t:upbound|cybersecurityintern": "2026-10-13",
   "t:usfoods|interncybersecurityoperationshybridonsiteremote": "2026-10-16",
   "t:usfoods|interncybersecurityriskhybridonsiteremote": "2026-10-12",
+  "t:v2xinc|systemssecurityengineerinternsummer2027": "2026-10-16",
   "t:vanguard|collegetocorporateitinternshiprisksecurityanalystnc": "2026-10-16",
   "t:vanguard|collegetocorporateitinternshiprisksecurityanalystpa": "2026-10-16",
   "t:vanguard|collegetocorporateitinternshiprisksecurityengineer": "2026-10-16",
@@ -4018,20 +4021,19 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4450844971",
+   "https://www.linkedin.com/jobs/view/4461693598",
+   "https://www.linkedin.com/jobs/view/4467863757",
    "https://www.linkedin.com/jobs/view/4470725818",
-   "https://www.linkedin.com/jobs/view/4471128909",
-   "https://www.linkedin.com/jobs/view/4471678825",
-   "https://www.linkedin.com/jobs/view/4471690455",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4479157817",
-   "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480125773",
-   "https://www.linkedin.com/jobs/view/4480150772",
+   "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739"
+   "https://www.linkedin.com/jobs/view/4480167739",
+   "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7105,24 +7107,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-16 12",
+ "heartbeat": "2026-10-16 14",
  "recent": [
-  [
-   1792076278.038303,
-   "Stellantis - 2027 Corporate Security Summer Internship"
-  ],
-  [
-   1792078998.5362844,
-   "CIBC - Information Security Analyst Winter 2027 Co-op"
-  ],
-  [
-   1792079906.1325426,
-   "Church Mutual Insurance Company, S.I. - Intern- IT Application Security"
-  ],
-  [
-   1792079906.1325445,
-   "CACI International Inc - Network / Cybersecurity Intern - Summer 2027"
-  ],
   [
    1792081897.8186731,
    "Dorman Products - Cybersecurity Intern"
@@ -7194,6 +7180,10 @@
   [
    1792168287.3298905,
    "IBM - Intern Cybersecurity Specialist \u2013 2027"
+  ],
+  [
+   1792173701.0787911,
+   "V2X Inc - Systems Security Engineer Intern, Summer 2027"
   ]
  ]
 }
