@@ -38,6 +38,7 @@
   "gh:8191987": "2026-10-16",
   "gh:8207970": "2026-10-14",
   "gh:8234670": "2026-10-16",
+  "gh:8287886": "2026-10-16",
   "gh:8696143002": "2026-10-16",
   "gh:8696156002": "2026-10-16",
   "gh:8696158002": "2026-10-16",
@@ -55,7 +56,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557019490": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-16",
-  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-15",
+  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-16",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-16",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-16",
@@ -1181,6 +1182,7 @@
   "t:oceaneer|itotcybersecurityintern": "2026-10-16",
   "t:oceaneer|itsecurityarchitectureintern": "2026-10-16",
   "t:oneok|cybersecurityinterntulsaok": "2026-10-16",
+  "t:opensesa|securityanalystinternship": "2026-10-16",
   "t:oshkosh|cybersecurityintern": "2026-10-16",
   "t:palantir|informationsecurityengineerinternship": "2026-10-16",
   "t:panasoni|securityriskintern": "2026-10-11",
@@ -1234,7 +1236,7 @@
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seagatet|summerinterncryptographyandsecurity": "2026-10-15",
-  "t:security|cybersoccoop2027usgreenshift": "2026-10-15",
+  "t:security|cybersoccoop2027usgreenshift": "2026-10-16",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-16",
@@ -2776,7 +2778,9 @@
   "gh:ooma": [],
   "gh:openeye": [],
   "gh:openfarminc": [],
-  "gh:opensesame": [],
+  "gh:opensesame": [
+   "https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886"
+  ],
   "gh:opentable": [],
   "gh:opploans": [],
   "gh:optimove": [],
@@ -7085,46 +7089,6 @@
  "heartbeat": "2026-10-15 20",
  "recent": [
   [
-   1792008766.265701,
-   "Howden - Underwriting Intern, Cyber"
-  ],
-  [
-   1792009642.8849928,
-   "BURNCO Rock Products Ltd - Cybersecurity Student"
-  ],
-  [
-   1792012017.9571297,
-   "NVIDIA - PhD Research Intern, Security and Privacy - 2027"
-  ],
-  [
-   1792013068.7006402,
-   "CSE - Summer 2027 - Student Opportunities in Mechanical, Electrical, and Radio Frequency E"
-  ],
-  [
-   1792013068.700642,
-   "GuidePoint Security - Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)"
-  ],
-  [
-   1792013429.5169468,
-   "Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Graduate "
-  ],
-  [
-   1792013429.5169485,
-   "Lawrence Livermore National Laboratory (LLNL) - Critical Infrastructure Analysis Undergrad"
-  ],
-  [
-   1792013699.284355,
-   "Lawrence Livermore National Laboratory (LLNL) - Power Systems Undergraduate Intern - Cyber"
-  ],
-  [
-   1792013699.2843568,
-   "Lawrence Livermore National Laboratory (LLNL) - Power Systems Gradute Intern - Cyber and C"
-  ],
-  [
-   1792015761.8838997,
-   "Northrop Grumman - 2027 Cyber Software Engineer\u00a0Intern - Cincinnati OH"
-  ],
-  [
    1792026834.941132,
    "Idaho National Laboratory - Nuc Cyber Security Intern - Fall 2026"
   ],
@@ -7219,6 +7183,10 @@
   [
    1792101617.449238,
    "Peckham Industries, Inc. - IT Security Intern"
+  ],
+  [
+   1792111273.8281424,
+   "OpenSesame - Security Analyst Internship"
   ]
  ]
 }
