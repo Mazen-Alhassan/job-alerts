@@ -4030,7 +4030,6 @@
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480125773",
-   "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
    "https://www.linkedin.com/jobs/view/4480167739",
@@ -4235,9 +4234,7 @@
   "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
-   "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551"
-  ],
+  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
    "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"
   ],
