@@ -139,6 +139,7 @@
   "https://boeing.wd1.myworkdayjobs.com/intern/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----information-digital-technology---security--idt-s-_jr2026520791": "2026-10-16",
   "https://boeing.wd1.myworkdayjobs.com/intern/job/usa---everett-wa/boeing-summer-2027-internship-program--paid----security---fire-operation--s-fo-_jr2026521717": "2026-10-16",
   "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/usa-eden-prairie-minnesota-55344/product-security-engineering-intern_jr100318": "2026-10-16",
+  "https://buildertrend.wd108.myworkdayjobs.com/confidentialposting/job/omaha-ne/product-security-intern_jr-000473": "2026-10-16",
   "https://burlington.wd5.myworkdayjobs.com/burlingtoncareers/job/00000---burlington-corporate-office/security-operations-intern---summer-2027_r104533-1": "2026-10-16",
   "https://caci.wd1.myworkdayjobs.com/external/job/ashburn-va-us/cyber-analyst-intern---summer-2027_333161": "2026-10-13",
   "https://caci.wd1.myworkdayjobs.com/external/job/high-point-nc-us/network---cybersecurity-intern---summer-2027_333001": "2026-10-08",
@@ -851,6 +852,7 @@
   "t:bracco|productsecurityengineeringintern": "2026-10-16",
   "t:brainco|aisecurityengineercoopinternwinter2027": "2026-10-15",
   "t:brain|aisecurityengineercoopinternwinter2027": "2026-10-15",
+  "t:buildert|productsecurityintern": "2026-10-16",
   "t:burlingtonst|securityoperationsinternsummer2027": "2026-10-08",
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-16",
   "t:burncoro|cybersecuritystudent": "2026-10-15",
@@ -3560,6 +3562,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://buildertrend.wd108.myworkdayjobs.com/confidentialposting/job/Omaha-NE/Product-Security-Intern_JR-000473",
    "https://career4.successfactors.com/career?company=S000008602P&career_ns=job_listing&career_job_req_id=55041&lang=en_US&source=Indeed",
    "https://dsp.prng.co/EiMvxFb",
    "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590",
@@ -3998,7 +4001,6 @@
    "https://www.linkedin.com/jobs/view/4471152358",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477426178",
-   "https://www.linkedin.com/jobs/view/4478842083",
    "https://www.linkedin.com/jobs/view/4478847469",
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479161004",
@@ -7187,6 +7189,10 @@
   [
    1792111273.8281424,
    "OpenSesame - Security Analyst Internship"
+  ],
+  [
+   1792112145.056226,
+   "Buildertrend - Product Security Intern"
   ]
  ]
 }
