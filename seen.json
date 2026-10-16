@@ -9,6 +9,7 @@
   "gh:5231842007": "2026-10-11",
   "gh:5236035007": "2026-10-16",
   "gh:5238469007": "2026-10-16",
+  "gh:5238471007": "2026-10-16",
   "gh:5421861008": "2026-10-16",
   "gh:5445236008": "2026-10-16",
   "gh:5448019008": "2026-10-16",
@@ -1303,6 +1304,7 @@
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-16",
   "t:tiktok|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-10-16",
   "t:together|hardwaresecurityengineerinternsummer2027": "2026-10-16",
+  "t:together|hardwaresecurityengineernewgrad2027": "2026-10-16",
   "t:triaemll|cybersecurityintern": "2026-10-09",
   "t:ulsoluti|2027summerinterncybersecurityintern": "2026-10-16",
   "t:unitedparcel|upsinformationsecuritysummer2027internshipga": "2026-10-08",
@@ -3054,7 +3056,8 @@
   "gh:tintai": [],
   "gh:toast": [],
   "gh:togetherai": [
-   "https://job-boards.greenhouse.io/togetherai/jobs/5238469007"
+   "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+   "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
   ],
   "gh:tomofunfurbo": [],
   "gh:topsort": [],
@@ -7201,6 +7204,10 @@
   [
    1792125208.6666954,
    "Together AI - Hardware Security Engineer Intern (Summer 2027)"
+  ],
+  [
+   1792125289.4839048,
+   "Together AI - Hardware Security Engineer, New Grad (2027)"
   ]
  ]
 }
