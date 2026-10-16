@@ -2143,7 +2143,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3575,7 +3577,6 @@
   "jobspy": [
    "https://buildertrend.wd108.myworkdayjobs.com/confidentialposting/job/Omaha-NE/Product-Security-Intern_JR-000473",
    "https://career4.successfactors.com/career?company=S000008602P&career_ns=job_listing&career_job_req_id=55041&lang=en_US&source=Indeed",
-   "https://dsp.prng.co/EiMvxFb",
    "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590",
    "https://grnh.se/0r8cz2gq1us",
    "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385",
@@ -4021,7 +4022,8 @@
    "https://www.linkedin.com/jobs/view/4480125773",
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739"
+   "https://www.linkedin.com/jobs/view/4480167739",
+   "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
