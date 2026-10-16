@@ -3583,7 +3583,6 @@
    "https://jsv3.recruitics.com/redirect?rx_cid=3658&rx_jobId=R10256037&rx_url=https%3A%2F%2Fjobs.northropgrumman.com%2Fcareers%2Fjob%2F1340074769120%3Fcode%3DJB-17946%26domain%3Dngc.com%26rx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D288254%26rx_id%3D51a977fc-c894-11f1-94d2-859f3de1d745%26rx_job%3DR10256037%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261016T040416Z%26rx_vp%3Dcpc%26source%3DJB-17946%26utm_audience%3Dprospectivetalentemployees%26utm_campaign%3Dta-general%26utm_content%3Djobfeed%26utm_format%3Dcpl%26utm_medium%3Djobboard%26utm_source%3Dindeed",
    "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
    "https://www.applicantpro.com/openings/navigantcu/jobs/4245322-131135",
-   "https://www.governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity",
    "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586",
    "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636"
   ],
@@ -4009,6 +4008,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4469499431",
    "https://www.linkedin.com/jobs/view/4470725818",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4471152358",
@@ -4022,8 +4022,7 @@
    "https://www.linkedin.com/jobs/view/4480125773",
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739",
-   "https://www.linkedin.com/jobs/view/4480318514"
+   "https://www.linkedin.com/jobs/view/4480167739"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7101,7 +7100,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-16 00",
+ "heartbeat": "2026-10-16 02",
  "recent": [
   [
    1792037004.4587913,
