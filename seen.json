@@ -203,6 +203,7 @@
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101356263456": "2026-10-16",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512": "2026-10-16",
   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480": "2026-10-16",
+  "https://careers.lumen.com/careers/job/1133916380525": "2026-10-16",
   "https://careers.mastercard.com/us/en/job/r-284924": "2026-10-16",
   "https://careers.mastercard.com/us/en/job/r-284925": "2026-10-16",
   "https://careers.mastercard.com/us/en/job/r-284927": "2026-10-16",
@@ -1124,6 +1125,7 @@
   "t:lplfinancial|newgrad2027cybersecurityanalyst": "2026-10-08",
   "t:lplfinan|intern2027cybersecurityanalyst": "2026-10-16",
   "t:lplfinan|newgrad2027cybersecurityanalyst": "2026-10-16",
+  "t:lumen|cybersecurityriskdigitaltrustsummer2027internshippathway": "2026-10-16",
   "t:lyondell|2027cybersecurityintern": "2026-10-09",
   "t:manulife|springcoop2027softwareengineeringsecurityoperations": "2026-10-16",
   "t:marvellt|securityverificationvalidationengineerinternbssummer2027": "2026-10-15",
@@ -3594,6 +3596,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers-express.icims.com/jobs/49630/job",
+   "https://careers.lumen.com/careers/job/1133916380525",
    "https://grnh.se/0r8cz2gq1us",
    "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
    "https://www.appone.com/applinkportal.asp?r_id=7216689&AdCode=Indeed19061",
@@ -4035,10 +4038,8 @@
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479331560",
-   "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739",
-   "https://www.linkedin.com/jobs/view/4480318514"
+   "https://www.linkedin.com/jobs/view/4480167739"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7112,14 +7113,6 @@
  "heartbeat": "2026-10-16 16",
  "recent": [
   [
-   1792088816.1571195,
-   "General Matter - Summer 2027 Internship - Information Security Engineer"
-  ],
-  [
-   1792090900.9561098,
-   "Navigant Credit Union - Intern - Information Security"
-  ],
-  [
    1792099630.4835472,
    "Lawrence Livermore National Laboratory (LLNL) - Power Systems Graduate Intern - Cyber and "
   ],
@@ -7182,6 +7175,10 @@
   [
    1792179776.3327968,
    "Rochester Regional Health - RIT Co-op: Security Operations + Security Engineering"
+  ],
+  [
+   1792185180.5186882,
+   "Lumen - Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway"
   ]
  ]
 }
