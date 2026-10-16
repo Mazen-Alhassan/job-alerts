@@ -215,7 +215,7 @@
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-09",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-16",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
-  "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-12",
+  "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-16",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-16",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
@@ -290,6 +290,7 @@
   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/requisitions/preview/11186": "2026-10-13",
   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/ulsolutionscareers/job/11186": "2026-10-16",
   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/74667": "2026-10-16",
+  "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/75310": "2026-10-16",
   "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1029/job/15624": "2026-10-16",
   "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/119551": "2026-10-16",
   "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260836": "2026-10-16",
@@ -4022,13 +4023,15 @@
    "https://www.linkedin.com/jobs/view/4450844971",
    "https://www.linkedin.com/jobs/view/4470725818",
    "https://www.linkedin.com/jobs/view/4471128909",
+   "https://www.linkedin.com/jobs/view/4471678825",
+   "https://www.linkedin.com/jobs/view/4471690455",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4479157817",
+   "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480125773",
-   "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
    "https://www.linkedin.com/jobs/view/4480167739",
@@ -4207,7 +4210,9 @@
   "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186"
   ],
-  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
+  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [
+   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/75310"
+  ],
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
@@ -4336,7 +4341,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
