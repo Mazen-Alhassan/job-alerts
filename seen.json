@@ -510,6 +510,8 @@
   "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
+  "https://linkedin.com/jobs/view/4471678825": "2026-10-16",
+  "https://linkedin.com/jobs/view/4471690455": "2026-10-16",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-08",
@@ -799,6 +801,7 @@
   "t:assetworks|itsecurityintern": "2026-10-08",
   "t:assetwor|itsecurityintern": "2026-10-16",
   "t:asterala|cybersecurityengineerintern": "2026-10-16",
+  "t:atlassia|securityengineerintern2027summerus": "2026-10-16",
   "t:auctane|cybersecurityinterns": "2026-10-08",
   "t:autoownersin|itsecurityengineerinternshipsummer2027": "2026-10-08",
   "t:autoowne|itsecurityengineerinternshipsummer2027": "2026-10-16",
@@ -1379,6 +1382,7 @@
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
+   "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
@@ -4010,12 +4014,17 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4469499431",
    "https://www.linkedin.com/jobs/view/4470725818",
+   "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4471152358",
+   "https://www.linkedin.com/jobs/view/4471678825",
+   "https://www.linkedin.com/jobs/view/4471690455",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477426178",
+   "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479161004",
+   "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480125773",
    "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
@@ -7097,26 +7106,6 @@
  "heartbeat": "2026-10-16 04",
  "recent": [
   [
-   1792037004.4587913,
-   "Interac - Information Security Intern"
-  ],
-  [
-   1792040963.632939,
-   "Dell Technologies - Product & Application Security Undergraduate Intern"
-  ],
-  [
-   1792040963.6329427,
-   "Dell Technologies - Cybersecurity Undergraduate Intern"
-  ],
-  [
-   1792045651.1614728,
-   "PORT OF CORPUS CHRISTI - Information Technology Intern (Cybersecurity)"
-  ],
-  [
-   1792048168.9378366,
-   "Interac Corp. - Information Security Intern"
-  ],
-  [
    1792068697.7024689,
    "ENSCO, Inc. - Information Security Intern"
   ],
@@ -7199,6 +7188,10 @@
   [
    1792125289.4839048,
    "Together AI - Hardware Security Engineer, New Grad (2027)"
+  ],
+  [
+   1792142876.676989,
+   "Atlassian - Security Engineer Intern, 2027 Summer U.S."
   ]
  ]
 }
