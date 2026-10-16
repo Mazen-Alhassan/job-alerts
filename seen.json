@@ -438,6 +438,7 @@
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
   "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
+  "https://linkedin.com/jobs/view/4450844971": "2026-10-16",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
   "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
@@ -1048,6 +1049,7 @@
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-16",
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
   "t:iatinsur|cybersecurityinternship": "2026-10-16",
+  "t:ibm|interncybersecurityspecialist2027": "2026-10-16",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-16",
   "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
@@ -4017,20 +4019,20 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4450844971",
    "https://www.linkedin.com/jobs/view/4470725818",
    "https://www.linkedin.com/jobs/view/4471128909",
-   "https://www.linkedin.com/jobs/view/4471678825",
-   "https://www.linkedin.com/jobs/view/4471690455",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477406995",
    "https://www.linkedin.com/jobs/view/4477426178",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4479157817",
-   "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480125773",
    "https://www.linkedin.com/jobs/view/4480150772",
+   "https://www.linkedin.com/jobs/view/4480160706",
    "https://www.linkedin.com/jobs/view/4480165704",
-   "https://www.linkedin.com/jobs/view/4480167739"
+   "https://www.linkedin.com/jobs/view/4480167739",
+   "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4205,9 +4207,7 @@
   "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186"
   ],
-  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [
-   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/74667"
-  ],
+  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
@@ -7107,22 +7107,6 @@
  "heartbeat": "2026-10-16 12",
  "recent": [
   [
-   1792068697.7024689,
-   "ENSCO, Inc. - Information Security Intern"
-  ],
-  [
-   1792072560.219204,
-   "Merchants Bank IN - Information Security Intern - Summer 2027"
-  ],
-  [
-   1792072560.2192054,
-   "QTS Data Centers - Summer 2027 Internship: Information Security Operations Analyst"
-  ],
-  [
-   1792072654.8960738,
-   "EMC Insurance - Cybersecurity Intern"
-  ],
-  [
    1792076278.038303,
    "Stellantis - 2027 Corporate Security Summer Internship"
   ],
@@ -7205,6 +7189,10 @@
   [
    1792160532.8887217,
    "University of Texas at Austin - Assistant Director of Student Organizations (SOC)"
+  ],
+  [
+   1792168287.3298905,
+   "IBM - Intern Cybersecurity Specialist \u2013 2027"
   ]
  ]
 }
