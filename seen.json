@@ -689,6 +689,7 @@
   "https://uscareers-idemia.icims.com/jobs/8663/cybersecurity-internship/job": "2026-10-16",
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-operations--hybrid--onsite---remote-_r282117": "2026-10-16",
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-risk--hybrid--onsite---remote-_r282118": "2026-10-12",
+  "https://utaustin.wd1.myworkdayjobs.com/utstaff/job/ut-main-campus/assistant-director-of-student-organizations--soc-_r_00049489-1": "2026-10-16",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship---risk---security---analyst---nc-_181764": "2026-10-16",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship-risk---security-engineer--nc-_182785": "2026-10-16",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/dallasft-worth-tx/college-to-corporate-it-internship---risk---security---engineer_181851": "2026-10-16",
@@ -1145,6 +1146,7 @@
   "t:microsof|securityoperationsengineeringintern": "2026-10-09",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-16",
+  "t:mitre|cyberoperationsengineerintern": "2026-10-16",
   "t:mitre|cyberoperationsintern": "2026-10-16",
   "t:mitre|cybersecurityengineerintern": "2026-10-16",
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-10-16",
@@ -1323,6 +1325,7 @@
   "t:unitedpa|upsinformationsecuritysummer2027internshipnj": "2026-10-16",
   "t:unitedwh|2027buildingsecuritysummerinternshipprogram": "2026-10-16",
   "t:universa|internshipprojectssecuritytechnologysummer2027": "2026-10-12",
+  "t:universi|assistantdirectorofstudentorganizationssoc": "2026-10-16",
   "t:upboundg|cybersecurityintern": "2026-10-09",
   "t:upbound|cybersecurityintern": "2026-10-13",
   "t:usfoods|interncybersecurityoperationshybridonsiteremote": "2026-10-16",
@@ -6728,7 +6731,9 @@
   ],
   "wd+:usnh/Careers": [],
   "wd+:usventure/usvexternal": [],
-  "wd+:utaustin/UTstaff": [],
+  "wd+:utaustin/UTstaff": [
+   "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/UT-MAIN-CAMPUS/Assistant-Director-of-Student-Organizations--SOC-_R_00049489-1"
+  ],
   "wd+:utaustin/utstudent": [],
   "wd+:uva/uvastudentjobs": [],
   "wd+:valeo/valeo_jobs": [],
@@ -7201,6 +7206,10 @@
   [
    1792154767.3271594,
    "Express - Information Security Summer Internship"
+  ],
+  [
+   1792160532.8887217,
+   "University of Texas at Austin - Assistant Director of Student Organizations (SOC)"
   ]
  ]
 }
