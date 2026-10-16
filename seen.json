@@ -595,6 +595,7 @@
   "https://linkedin.com/jobs/view/4480165704": "2026-10-16",
   "https://linkedin.com/jobs/view/4480167739": "2026-10-16",
   "https://linkedin.com/jobs/view/4480176088": "2026-10-16",
+  "https://linkedin.com/jobs/view/4480318514": "2026-10-16",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-16",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-16",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4015,7 +4016,8 @@
    "https://www.linkedin.com/jobs/view/4480163679",
    "https://www.linkedin.com/jobs/view/4480165704",
    "https://www.linkedin.com/jobs/view/4480167739",
-   "https://www.linkedin.com/jobs/view/4480176088"
+   "https://www.linkedin.com/jobs/view/4480176088",
+   "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7095,7 +7097,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-15 22",
+ "heartbeat": "2026-10-16 00",
  "recent": [
   [
    1792026834.941132,
