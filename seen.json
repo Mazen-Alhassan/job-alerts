@@ -479,6 +479,7 @@
   "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
+  "https://linkedin.com/jobs/view/4462860529": "2026-10-16",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -580,7 +581,7 @@
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478106761": "2026-10-14",
   "https://linkedin.com/jobs/view/4478135096": "2026-10-16",
-  "https://linkedin.com/jobs/view/4478140024": "2026-10-14",
+  "https://linkedin.com/jobs/view/4478140024": "2026-10-16",
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
   "https://linkedin.com/jobs/view/4478179913": "2026-10-15",
@@ -1252,7 +1253,7 @@
   "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|summer2027cyberinternonsite": "2026-10-16",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-09",
-  "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-14",
+  "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-16",
   "t:sandiana|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-16",
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-16",
@@ -1395,10 +1396,10 @@
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
-   "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -3591,7 +3592,6 @@
    "https://grnh.se/0r8cz2gq1us",
    "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
    "https://nrel.wd5.myworkdayjobs.com/en-US/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563",
-   "https://www.applicantpro.com/openings/navigantcu/jobs/4245322-131135",
    "https://www.appone.com/applinkportal.asp?r_id=7216689&AdCode=Indeed19061",
    "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586",
    "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636"
@@ -4018,7 +4018,23 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4480125773"
+   "https://www.linkedin.com/jobs/view/4450844971",
+   "https://www.linkedin.com/jobs/view/4461693598",
+   "https://www.linkedin.com/jobs/view/4462860529",
+   "https://www.linkedin.com/jobs/view/4467863757",
+   "https://www.linkedin.com/jobs/view/4470725818",
+   "https://www.linkedin.com/jobs/view/4471678825",
+   "https://www.linkedin.com/jobs/view/4471690455",
+   "https://www.linkedin.com/jobs/view/4476838100",
+   "https://www.linkedin.com/jobs/view/4477406995",
+   "https://www.linkedin.com/jobs/view/4477426178",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4479157817",
+   "https://www.linkedin.com/jobs/view/4479331560",
+   "https://www.linkedin.com/jobs/view/4480160706",
+   "https://www.linkedin.com/jobs/view/4480165704",
+   "https://www.linkedin.com/jobs/view/4480167739",
+   "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5253,9 +5269,7 @@
   "wd+:byu/byu-careers": [],
   "wd+:caa/Careers": [],
   "wd+:cableone/Cable_One_External_Careers": [],
-  "wd+:caci/external": [
-   "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046"
-  ],
+  "wd+:caci/external": [],
   "wd+:cadence/External_Careers": [],
   "wd+:cadence/OpenEye_Careers": [],
   "wd+:cadence/Univ_Careers": [],
