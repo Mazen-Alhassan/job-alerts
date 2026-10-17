@@ -619,6 +619,7 @@
   "https://linkedin.com/jobs/view/4480167739": "2026-10-16",
   "https://linkedin.com/jobs/view/4480176088": "2026-10-16",
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
+  "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1137,6 +1138,7 @@
   "t:lplfinancial|newgrad2027cybersecurityanalyst": "2026-10-08",
   "t:lplfinan|intern2027cybersecurityanalyst": "2026-10-17",
   "t:lplfinan|newgrad2027cybersecurityanalyst": "2026-10-17",
+  "t:lumentec|cybersecurityriskdigitaltrustsummer2027internshippathway": "2026-10-17",
   "t:lumen|cybersecurityriskdigitaltrustsummer2027internshippathway": "2026-10-17",
   "t:lyondell|2027cybersecurityintern": "2026-10-09",
   "t:manulife|springcoop2027softwareengineeringsecurityoperations": "2026-10-17",
@@ -1419,7 +1421,6 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -4040,10 +4041,9 @@
    "https://www.linkedin.com/jobs/view/4463112964",
    "https://www.linkedin.com/jobs/view/4467863757",
    "https://www.linkedin.com/jobs/view/4472247698",
-   "https://www.linkedin.com/jobs/view/4474456431",
    "https://www.linkedin.com/jobs/view/4477836279",
    "https://www.linkedin.com/jobs/view/4478140024",
-   "https://www.linkedin.com/jobs/view/4479391384"
+   "https://www.linkedin.com/jobs/view/4480540269"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7140,6 +7140,10 @@
   [
    1792255662.530986,
    "IBM - Intern Security Consultant - Cyber Strategy & Risk 2027"
+  ],
+  [
+   1792259265.4839752,
+   "Lumen Technologies - Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway"
   ]
  ]
 }
