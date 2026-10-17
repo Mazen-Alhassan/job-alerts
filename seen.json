@@ -335,7 +335,7 @@
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299002": "2026-10-17",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299004": "2026-10-17",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-17",
-  "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-16",
+  "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-17",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-17",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-17",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-10-17",
@@ -1048,7 +1048,7 @@
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-17",
   "t:honeywel|cybersecurityinternsummer2027": "2026-10-14",
-  "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-16",
+  "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-17",
   "t:horizonl|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howden|underwritinginterncyber": "2026-10-17",
   "t:howmetae|cybersecurityintern": "2026-10-16",
@@ -1410,6 +1410,7 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -2161,7 +2162,6 @@
   "eightfold:eaton.eightfold.ai": [],
   "eightfold:fortive.eightfold.ai": [],
   "eightfold:jobs.ericsson.com": [
-   "https://jobs.ericsson.com/careers/job/563121777363423",
    "https://jobs.ericsson.com/careers/job/563121777370331"
   ],
   "eightfold:johndeere.eightfold.ai": [],
@@ -4283,15 +4283,13 @@
   "oracle:iaaras.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:iaaviz.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:iadugs.fa.ocs.oraclecloud.com/CX_1001": [],
-  "oracle:iawmqy.fa.ocs.oraclecloud.com/careers": [
-   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299002",
-   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299004",
-   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300404"
-  ],
+  "oracle:iawmqy.fa.ocs.oraclecloud.com/careers": [],
   "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC": [],
   "oracle:iazuqy.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:ibnjjb.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [],
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com/Honeywell": [
+   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555"
+  ],
   "oracle:ibwsjb.fa.ocs.oraclecloud.com/CX_1": [
    "https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2528040"
   ],
