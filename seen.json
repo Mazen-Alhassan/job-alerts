@@ -524,6 +524,7 @@
   "https://linkedin.com/jobs/view/4471672805": "2026-10-17",
   "https://linkedin.com/jobs/view/4471678825": "2026-10-17",
   "https://linkedin.com/jobs/view/4471690455": "2026-10-17",
+  "https://linkedin.com/jobs/view/4472247698": "2026-10-17",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
@@ -1300,6 +1301,7 @@
   "t:swbc|applicationsecurityintern": "2026-10-17",
   "t:tampaelectri|spring2027studentinternshipadicybersecurity": "2026-10-08",
   "t:tampaele|spring2027studentinternshipadicybersecurity": "2026-10-10",
+  "t:tampaele|spring2027studentinternshipcybersecurity": "2026-10-17",
   "t:tanium|cloudsecurityintern": "2026-10-17",
   "t:td|2027springcoopglobaltechnologysolutionscybersecurity": "2026-10-11",
   "t:td|2027summerinternshipprogramglobaltechnologysolutionscybersecurity": "2026-10-11",
@@ -4029,9 +4031,11 @@
    "https://www.linkedin.com/jobs/view/4450844971",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
+   "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4461693598",
    "https://www.linkedin.com/jobs/view/4462860529",
    "https://www.linkedin.com/jobs/view/4467863757",
+   "https://www.linkedin.com/jobs/view/4472247698",
    "https://www.linkedin.com/jobs/view/4474456431",
    "https://www.linkedin.com/jobs/view/4477836279",
    "https://www.linkedin.com/jobs/view/4478140024",
@@ -7102,18 +7106,6 @@
  "heartbeat": "2026-10-17 06",
  "recent": [
   [
-   1792125208.6666954,
-   "Together AI - Hardware Security Engineer Intern (Summer 2027)"
-  ],
-  [
-   1792125289.4839048,
-   "Together AI - Hardware Security Engineer, New Grad (2027)"
-  ],
-  [
-   1792142876.676989,
-   "Atlassian - Security Engineer Intern, 2027 Summer U.S."
-  ],
-  [
    1792154767.327157,
    "RENK - Intern - Information Technology (Cybersecurity)"
   ],
@@ -7148,6 +7140,10 @@
   [
    1792213128.1032798,
    "Georgia Tech Research Institute - Undergraduate Cybersecurity Intern - Spring 2027 - ELSYS"
+  ],
+  [
+   1792237464.9036925,
+   "Tampa Electric - Spring 2027 Student Internship - Cybersecurity"
   ]
  ]
 }
