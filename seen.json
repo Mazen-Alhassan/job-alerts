@@ -659,7 +659,7 @@
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-15",
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-17",
-  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-16",
+  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-17",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-17",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-17",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-17",
@@ -1236,7 +1236,7 @@
   "t:procterg|itsecurityinternship": "2026-10-17",
   "t:qtsdatac|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-17",
-  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-16",
+  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-17",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
@@ -2169,7 +2169,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4031,12 +4033,11 @@
    "https://www.linkedin.com/jobs/view/4467863757",
    "https://www.linkedin.com/jobs/view/4471678825",
    "https://www.linkedin.com/jobs/view/4471690455",
-   "https://www.linkedin.com/jobs/view/4474456431",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477836279",
    "https://www.linkedin.com/jobs/view/4478135096",
-   "https://www.linkedin.com/jobs/view/4479329949",
-   "https://www.linkedin.com/jobs/view/4479391384",
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4479331560",
    "https://www.linkedin.com/jobs/view/4480318514"
   ],
   "microsoft": [
