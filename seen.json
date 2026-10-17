@@ -484,6 +484,7 @@
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
+  "https://linkedin.com/jobs/view/4463112964": "2026-10-17",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -1415,6 +1416,7 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -4026,14 +4028,16 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4450844971",
+   "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
-   "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4461693598",
+   "https://www.linkedin.com/jobs/view/4462860529",
+   "https://www.linkedin.com/jobs/view/4463112964",
    "https://www.linkedin.com/jobs/view/4467863757",
-   "https://www.linkedin.com/jobs/view/4472247698",
    "https://www.linkedin.com/jobs/view/4474456431",
    "https://www.linkedin.com/jobs/view/4477836279",
-   "https://www.linkedin.com/jobs/view/4478140024"
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4479391384"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
