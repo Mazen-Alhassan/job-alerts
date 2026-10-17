@@ -489,6 +489,7 @@
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
   "https://linkedin.com/jobs/view/4463112964": "2026-10-17",
+  "https://linkedin.com/jobs/view/4463337197": "2026-10-17",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -1315,6 +1316,7 @@
   "t:southwestair|summer2027cybersecurityengineerinternship": "2026-10-08",
   "t:spacex|newgraduateengineersecuritysoftwarestarshield": "2026-10-17",
   "t:spacex|newgraduateengineersoftwaresecurity2627starlink": "2026-10-17",
+  "t:spectrum|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-17",
   "t:stellant|2027corporatesecuritysummerinternship": "2026-10-15",
   "t:studente|studentworkerinformationsecurityinternbc": "2026-10-17",
   "t:studente|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-17",
@@ -1436,6 +1438,7 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -4051,10 +4054,10 @@
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4463112964",
+   "https://www.linkedin.com/jobs/view/4463337197",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4472206391",
-   "https://www.linkedin.com/jobs/view/4472247698",
-   "https://www.linkedin.com/jobs/view/4480566386"
+   "https://www.linkedin.com/jobs/view/4472247698"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7132,22 +7135,6 @@
  "heartbeat": "2026-10-17 18",
  "recent": [
   [
-   1792173701.0787911,
-   "V2X Inc - Systems Security Engineer Intern, Summer 2027"
-  ],
-  [
-   1792178519.1283157,
-   "Rochester Regional Health - RIT Co-op: Cybersecurity, Governance & Risk"
-  ],
-  [
-   1792179776.3327968,
-   "Rochester Regional Health - RIT Co-op: Security Operations + Security Engineering"
-  ],
-  [
-   1792185180.5186882,
-   "Lumen - Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway"
-  ],
-  [
    1792213128.1032798,
    "Georgia Tech Research Institute - Undergraduate Cybersecurity Intern - Spring 2027 - ELSYS"
   ],
@@ -7170,6 +7157,10 @@
   [
    1792264731.853969,
    "IBM - Co-Op Security Consultant - CyberDefend 2027"
+  ],
+  [
+   1792281560.7176561,
+   "Spectrum - 2027 Summer Intern: Operations Analyst - Corporate Physical Security"
   ]
  ]
 }
