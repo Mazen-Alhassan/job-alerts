@@ -442,6 +442,7 @@
   "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
   "https://linkedin.com/jobs/view/4450844971": "2026-10-17",
   "https://linkedin.com/jobs/view/4450865117": "2026-10-17",
+  "https://linkedin.com/jobs/view/4451233573": "2026-10-17",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-17",
   "https://linkedin.com/jobs/view/4454870344": "2026-10-17",
@@ -1067,6 +1068,7 @@
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
   "t:iatinsur|cybersecurityinternship": "2026-10-17",
   "t:ibm|interncybersecurityspecialist2027": "2026-10-17",
+  "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-17",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-17",
   "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
@@ -4028,8 +4030,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4450844971",
    "https://www.linkedin.com/jobs/view/4450865117",
+   "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
@@ -7108,18 +7110,6 @@
  "heartbeat": "2026-10-17 12",
  "recent": [
   [
-   1792154767.327157,
-   "RENK - Intern - Information Technology (Cybersecurity)"
-  ],
-  [
-   1792154767.3271594,
-   "Express - Information Security Summer Internship"
-  ],
-  [
-   1792160532.8887217,
-   "University of Texas at Austin - Assistant Director of Student Organizations (SOC)"
-  ],
-  [
    1792168287.3298905,
    "IBM - Intern Cybersecurity Specialist \u2013 2027"
   ],
@@ -7146,6 +7136,10 @@
   [
    1792237464.9036925,
    "Tampa Electric - Spring 2027 Student Internship - Cybersecurity"
+  ],
+  [
+   1792255662.530986,
+   "IBM - Intern Security Consultant - Cyber Strategy & Risk 2027"
   ]
  ]
 }
