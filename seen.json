@@ -444,6 +444,7 @@
   "https://linkedin.com/jobs/view/4450844971": "2026-10-17",
   "https://linkedin.com/jobs/view/4450865117": "2026-10-17",
   "https://linkedin.com/jobs/view/4451233573": "2026-10-17",
+  "https://linkedin.com/jobs/view/4451241553": "2026-10-17",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-17",
   "https://linkedin.com/jobs/view/4454870344": "2026-10-17",
@@ -1078,6 +1079,7 @@
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-17",
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
   "t:iatinsur|cybersecurityinternship": "2026-10-17",
+  "t:ibm|coopsecurityconsultantcyberdefend2027": "2026-10-17",
   "t:ibm|interncybersecurityspecialist2027": "2026-10-17",
   "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-17",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
@@ -4046,14 +4048,14 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4450865117",
    "https://www.linkedin.com/jobs/view/4451233573",
+   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
-   "https://www.linkedin.com/jobs/view/4462860529",
    "https://www.linkedin.com/jobs/view/4463112964",
+   "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4472206391",
    "https://www.linkedin.com/jobs/view/4472247698",
-   "https://www.linkedin.com/jobs/view/4477836279",
    "https://www.linkedin.com/jobs/view/4480540269",
    "https://www.linkedin.com/jobs/view/4480566386"
   ],
@@ -7133,10 +7135,6 @@
  "heartbeat": "2026-10-17 14",
  "recent": [
   [
-   1792168287.3298905,
-   "IBM - Intern Cybersecurity Specialist \u2013 2027"
-  ],
-  [
    1792173701.0787911,
    "V2X Inc - Systems Security Engineer Intern, Summer 2027"
   ],
@@ -7171,6 +7169,10 @@
   [
    1792261867.3650632,
    "Brain Co. - AI Security Engineer Co-op"
+  ],
+  [
+   1792264731.853969,
+   "IBM - Co-Op Security Consultant - CyberDefend 2027"
   ]
  ]
 }
