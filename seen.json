@@ -61,7 +61,7 @@
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-17",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-17",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-16",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-17",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-17",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
   "https://airproducts.wd5.myworkdayjobs.com/ap0001/job/allentown-pennsylvania/summer-intern--it---cyber-audit--2027-_jr-2026-21954": "2026-10-17",
@@ -518,6 +518,7 @@
   "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
+  "https://linkedin.com/jobs/view/4471672805": "2026-10-17",
   "https://linkedin.com/jobs/view/4471678825": "2026-10-17",
   "https://linkedin.com/jobs/view/4471690455": "2026-10-17",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
@@ -718,7 +719,7 @@
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-17",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
   "t:accenture|internshipsecurityasoffebruary2027": "2026-10-08",
-  "t:accentur|cybersecurityinternship": "2026-10-16",
+  "t:accentur|cybersecurityinternship": "2026-10-17",
   "t:accentur|intelligencecyberdefenseintern": "2026-10-17",
   "t:aclukentucky|summer2027legalinternnationalsecurityproject": "2026-10-08",
   "t:aclukentucky|summer2027undergraduateinternnationalsecurityproject": "2026-10-08",
@@ -1010,6 +1011,7 @@
   "t:geocompl|browsersecurityengineerinternwinter2026": "2026-10-13",
   "t:geocompl|browsersecurityengineerinternwinter2027": "2026-10-17",
   "t:georgiat|generalcybersecuritygraduateinterncipherspring2027": "2026-10-10",
+  "t:georgiat|undergraduatecybersecurityinternspring2027elsys": "2026-10-17",
   "t:geronimo|itsecurityanalystintern": "2026-10-15",
   "t:gileadscienc|interncfoitsecurityriskandcompliance": "2026-10-08",
   "t:gileadsc|interncfoitsecurityriskandcompliance": "2026-10-16",
@@ -1408,7 +1410,6 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -4029,12 +4030,12 @@
    "https://www.linkedin.com/jobs/view/4461693598",
    "https://www.linkedin.com/jobs/view/4462860529",
    "https://www.linkedin.com/jobs/view/4467863757",
+   "https://www.linkedin.com/jobs/view/4471672805",
    "https://www.linkedin.com/jobs/view/4471678825",
    "https://www.linkedin.com/jobs/view/4471690455",
    "https://www.linkedin.com/jobs/view/4474456431",
    "https://www.linkedin.com/jobs/view/4476838100",
    "https://www.linkedin.com/jobs/view/4477836279",
-   "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4479329949",
    "https://www.linkedin.com/jobs/view/4479331560",
@@ -4916,7 +4917,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -7105,30 +7108,6 @@
  "heartbeat": "2026-10-17 00",
  "recent": [
   [
-   1792099630.4835472,
-   "Lawrence Livermore National Laboratory (LLNL) - Power Systems Graduate Intern - Cyber and "
-  ],
-  [
-   1792100445.5477421,
-   "Lawrence Livermore National Laboratory (LLNL) - Cybersecurity Undergraduate Intern - Cyber"
-  ],
-  [
-   1792100719.5756025,
-   "Lawrence Livermore National Laboratory (LLNL) - Cybersecurity Graduate Intern - Cyber and "
-  ],
-  [
-   1792101617.449238,
-   "Peckham Industries, Inc. - IT Security Intern"
-  ],
-  [
-   1792111273.8281424,
-   "OpenSesame - Security Analyst Internship"
-  ],
-  [
-   1792112145.056226,
-   "Buildertrend - Product Security Intern"
-  ],
-  [
    1792125208.6666954,
    "Together AI - Hardware Security Engineer Intern (Summer 2027)"
   ],
@@ -7171,6 +7150,10 @@
   [
    1792185180.5186882,
    "Lumen - Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway"
+  ],
+  [
+   1792213128.1032798,
+   "Georgia Tech Research Institute - Undergraduate Cybersecurity Intern - Spring 2027 - ELSYS"
   ]
  ]
 }
