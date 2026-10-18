@@ -488,6 +488,7 @@
   "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
+  "https://linkedin.com/jobs/view/4462332804": "2026-10-18",
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
   "https://linkedin.com/jobs/view/4463112964": "2026-10-18",
   "https://linkedin.com/jobs/view/4463337197": "2026-10-18",
@@ -1061,6 +1062,7 @@
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-18",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-18",
   "t:hdr|informationcommunicationtechnologyictsecurityintern": "2026-10-12",
+  "t:hdr|lowvoltagesecurityinternsa": "2026-10-18",
   "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
@@ -4054,6 +4056,7 @@
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454859407",
+   "https://www.linkedin.com/jobs/view/4462332804",
    "https://www.linkedin.com/jobs/view/4463112964",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4472206391",
@@ -7132,10 +7135,6 @@
  "heartbeat": "2026-10-18 06",
  "recent": [
   [
-   1792213128.1032798,
-   "Georgia Tech Research Institute - Undergraduate Cybersecurity Intern - Spring 2027 - ELSYS"
-  ],
-  [
    1792237464.9036925,
    "Tampa Electric - Spring 2027 Student Internship - Cybersecurity"
   ],
@@ -7158,6 +7157,10 @@
   [
    1792281560.7176561,
    "Spectrum - 2027 Summer Intern: Operations Analyst - Corporate Physical Security"
+  ],
+  [
+   1792319086.8763466,
+   "HDR - Low Voltage/Security Intern-SA"
   ]
  ]
 }
