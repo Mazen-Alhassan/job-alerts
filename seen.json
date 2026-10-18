@@ -4054,7 +4054,6 @@
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4463112964",
-   "https://www.linkedin.com/jobs/view/4463337197",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4472206391",
    "https://www.linkedin.com/jobs/view/4472247698"
@@ -4941,7 +4940,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -7127,7 +7128,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-18 02",
+ "heartbeat": "2026-10-18 04",
  "recent": [
   [
    1792213128.1032798,
