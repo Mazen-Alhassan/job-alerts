@@ -2198,9 +2198,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4051,10 +4049,8 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4450865117",
    "https://www.linkedin.com/jobs/view/4451233573",
-   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
-   "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4463112964",
    "https://www.linkedin.com/jobs/view/4463337197",
    "https://www.linkedin.com/jobs/view/4472098666",
@@ -4943,7 +4939,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
