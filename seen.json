@@ -444,6 +444,7 @@
   "https://linkedin.com/jobs/view/4450844971": "2026-10-17",
   "https://linkedin.com/jobs/view/4450865117": "2026-10-18",
   "https://linkedin.com/jobs/view/4451233573": "2026-10-18",
+  "https://linkedin.com/jobs/view/4451234612": "2026-10-18",
   "https://linkedin.com/jobs/view/4451241553": "2026-10-18",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-18",
@@ -1085,6 +1086,7 @@
   "t:iatinsurance|cybersecurityinternship": "2026-10-08",
   "t:iatinsur|cybersecurityinternship": "2026-10-18",
   "t:ibm|coopsecurityconsultantcyberdefend2027": "2026-10-18",
+  "t:ibm|coopsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
   "t:ibm|interncybersecurityspecialist2027": "2026-10-18",
   "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
@@ -1442,6 +1444,7 @@
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
@@ -2201,9 +2204,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4054,6 +4055,7 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4450865117",
    "https://www.linkedin.com/jobs/view/4451233573",
+   "https://www.linkedin.com/jobs/view/4451234612",
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454859407",
    "https://www.linkedin.com/jobs/view/4461422323",
@@ -7158,6 +7160,10 @@
   [
    1792319086.8763466,
    "HDR - Low Voltage/Security Intern-SA"
+  ],
+  [
+   1792330962.3471286,
+   "IBM - Co-Op Security Consultant - Cyber Strategy & Risk 2027"
   ]
  ]
 }
