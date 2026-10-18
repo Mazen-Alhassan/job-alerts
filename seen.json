@@ -446,6 +446,7 @@
   "https://linkedin.com/jobs/view/4451233573": "2026-10-18",
   "https://linkedin.com/jobs/view/4451234612": "2026-10-18",
   "https://linkedin.com/jobs/view/4451241553": "2026-10-18",
+  "https://linkedin.com/jobs/view/4451266806": "2026-10-18",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-18",
   "https://linkedin.com/jobs/view/4454859407": "2026-10-18",
@@ -1087,6 +1088,7 @@
   "t:iatinsur|cybersecurityinternship": "2026-10-18",
   "t:ibm|coopsecurityconsultantcyberdefend2027": "2026-10-18",
   "t:ibm|coopsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
+  "t:ibm|coopsecurityconsultantstrategyriskcompliance2027": "2026-10-18",
   "t:ibm|interncybersecurityspecialist2027": "2026-10-18",
   "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
@@ -4057,6 +4059,7 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451241553",
+   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4462332804"
@@ -7134,10 +7137,6 @@
  "heartbeat": "2026-10-18 12",
  "recent": [
   [
-   1792237464.9036925,
-   "Tampa Electric - Spring 2027 Student Internship - Cybersecurity"
-  ],
-  [
    1792255662.530986,
    "IBM - Intern Security Consultant - Cyber Strategy & Risk 2027"
   ],
@@ -7164,6 +7163,10 @@
   [
    1792330962.3471286,
    "IBM - Co-Op Security Consultant - Cyber Strategy & Risk 2027"
+  ],
+  [
+   1792339520.763273,
+   "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
   ]
  ]
 }
