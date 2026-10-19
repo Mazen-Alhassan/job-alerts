@@ -147,6 +147,7 @@
   "https://caci.wd1.myworkdayjobs.com/external/job/ashburn-va-us/cyber-analyst-intern---summer-2027_333161": "2026-10-13",
   "https://caci.wd1.myworkdayjobs.com/external/job/high-point-nc-us/network---cybersecurity-intern---summer-2027_333001": "2026-10-08",
   "https://caci.wd1.myworkdayjobs.com/external/job/springfield-va-us/cyber-security-intern---summer-2027_333046": "2026-10-16",
+  "https://cae.wd3.myworkdayjobs.com/career/job/montreal-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8748": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
@@ -917,6 +918,7 @@
   "t:caci|cyberanalystinternsummer2027": "2026-10-13",
   "t:caci|cybersecurityinternsummer2027": "2026-10-16",
   "t:caci|networkcybersecurityinternsummer2027": "2026-10-08",
+  "t:cae|stagiairespcialistedelintgrationencyberscurit": "2026-10-19",
   "t:caicompu|cybersecurityanalystintern": "2026-10-13",
   "t:cai|cybersecurityanalystintern": "2026-10-19",
   "t:canadian|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
@@ -4959,9 +4961,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -5321,7 +5321,9 @@
   "wd+:cadence/University_Talent_Intern": [],
   "wd+:cadence/University_Talent_NCG": [],
   "wd+:cadence/external_careers": [],
-  "wd+:cae/career": [],
+  "wd+:cae/career": [
+   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941"
+  ],
   "wd+:cai/computer_aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"
   ],
@@ -7198,6 +7200,10 @@
   [
    1792420445.464622,
    "University of Texas at Austin - Student Security Coordinator"
+  ],
+  [
+   1792422979.8082223,
+   "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9"
   ]
  ]
 }
