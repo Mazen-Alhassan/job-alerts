@@ -5030,7 +5030,6 @@
   "wd+:amesconstruction/ames": [],
   "wd+:amfam/AmFamGroupInternCareers": [
    "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Cybersecurity_R39605",
-   "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---IT-Cybersecurity_R39512",
    "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Cybersecurity-Intern_R39591"
   ],
   "wd+:amfam/Careers": [],
@@ -6926,9 +6925,7 @@
   "wd:intel/External": [],
   "wd:leidos/External": [],
   "wd:lumentum/LITE": [],
-  "wd:manulife/MFCJH_Jobs": [
-   "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering--Security---Operations_JR26091121"
-  ],
+  "wd:manulife/MFCJH_Jobs": [],
   "wd:marvell/MarvellCareers2": [
    "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
   ],
@@ -7130,7 +7127,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-18 22",
+ "heartbeat": "2026-10-19 00",
  "recent": [
   [
    1792255662.530986,
