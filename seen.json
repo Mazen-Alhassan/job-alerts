@@ -605,8 +605,8 @@
   "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478106761": "2026-10-14",
-  "https://linkedin.com/jobs/view/4478135096": "2026-10-17",
-  "https://linkedin.com/jobs/view/4478140024": "2026-10-17",
+  "https://linkedin.com/jobs/view/4478135096": "2026-10-19",
+  "https://linkedin.com/jobs/view/4478140024": "2026-10-19",
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
   "https://linkedin.com/jobs/view/4478179913": "2026-10-15",
@@ -704,6 +704,7 @@
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op_req_244351-1": "2026-10-19",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman-campus/rit-co-op--identity-access---management_req_243191": "2026-10-19",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
+  "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": "2026-10-19",
   "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-10-19",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
   "https://shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679": "2026-10-14",
@@ -1319,8 +1320,9 @@
   "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|summer2027cyberinternonsite": "2026-10-19",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-09",
-  "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-17",
-  "t:sandiana|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-17",
+  "t:salesfor|summer2027internsoftwareengineersecuritygovernment": "2026-10-19",
+  "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-19",
+  "t:sandiana|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-19",
   "t:schonfeld|2027cybersecurityoperationsintern": "2026-10-08",
   "t:schonfel|2027cybersecurityoperationsintern": "2026-10-19",
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
@@ -2230,9 +2232,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4081,6 +4081,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4481204489",
@@ -4968,9 +4970,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6981,7 +6981,9 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
   ],
   "wd:rbc/RBCEARLYTALENT1": [],
-  "wd:salesforce/External_Career_Site": [],
+  "wd:salesforce/External_Career_Site": [
+   "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+  ],
   "wd:sec/Samsung_Careers": [],
   "wd:selinc/SEL": [],
   "wd:snapchat/sourced": [
@@ -7213,6 +7215,10 @@
   [
    1792426697.0723891,
    "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9-EN"
+  ],
+  [
+   1792428484.9105926,
+   "Salesforce - Summer 2027 Intern - Software Engineer (Security/Government)"
   ]
  ]
 }
