@@ -639,6 +639,8 @@
   "https://linkedin.com/jobs/view/4480167739": "2026-10-16",
   "https://linkedin.com/jobs/view/4480176088": "2026-10-16",
   "https://linkedin.com/jobs/view/4480205728": "2026-10-19",
+  "https://linkedin.com/jobs/view/4480278304": "2026-10-19",
+  "https://linkedin.com/jobs/view/4480280222": "2026-10-19",
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
@@ -1376,6 +1378,7 @@
   "t:td|2027summerinternshipprogramglobaltechnologysolutionscybersecurity": "2026-10-11",
   "t:teckresource|cyberriskanalystcoop": "2026-10-08",
   "t:teckreso|cyberriskanalystcoop": "2026-10-10",
+  "t:telilabs|hardwaresecurityengineerinternsummer2027": "2026-10-19",
   "t:tencent|cybersecurityengineerintern": "2026-10-19",
   "t:tensorwave|securityengineerintern": "2026-10-08",
   "t:tensorwa|securityengineerintern": "2026-10-19",
@@ -1441,6 +1444,7 @@
   "t:webstaur|socintern": "2026-10-13",
   "t:wellmark|cybersecurityinternship": "2026-10-19",
   "t:wellmark|securityanalystinternship": "2026-10-19",
+  "t:werneren|informationsecurityintern": "2026-10-19",
   "t:westbend|summer2027internshipinformationsecurity": "2026-10-19",
   "t:westerna|summer2027internshipphoenixazitsecurity": "2026-10-19",
   "t:westmonr|2027cybersecuritycloudandinfrastructureconsultingintern": "2026-10-12",
@@ -4102,8 +4106,9 @@
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
+   "https://www.linkedin.com/jobs/view/4480278304",
+   "https://www.linkedin.com/jobs/view/4480280222",
    "https://www.linkedin.com/jobs/view/4481204489",
-   "https://www.linkedin.com/jobs/view/4481207401",
    "https://www.linkedin.com/jobs/view/4481236931",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240",
@@ -4993,9 +4998,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -7193,7 +7196,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-19 14",
+ "heartbeat": "2026-10-19 16",
  "recent": [
   [
    1792384770.74698,
@@ -7258,6 +7261,14 @@
   [
    1792438070.1262023,
    "Marsh & McLennan - Cyber Analytics Actuarial Spring Co-op - College Program 2027"
+  ],
+  [
+   1792441595.1635792,
+   "Werner Enterprises - Information Security Intern"
+  ],
+  [
+   1792441595.163581,
+   "Teli Labs - Hardware Security Engineer Intern (Summer 2027)"
   ]
  ]
 }
