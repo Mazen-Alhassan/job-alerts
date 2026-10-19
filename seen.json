@@ -713,6 +713,7 @@
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman-campus/rit-co-op--identity-access---management_req_243191": "2026-10-19",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
   "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": "2026-10-19",
+  "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": "2026-10-19",
   "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-10-19",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
   "https://shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679": "2026-10-14",
@@ -6538,7 +6539,9 @@
   "wd+:saintleo/SLU": [],
   "wd+:saintlukes/saintlukeshealthcareers": [],
   "wd+:saks/careers_at_saks": [],
-  "wd+:salesforce/Futureforce_Internships": [],
+  "wd+:salesforce/Futureforce_Internships": [
+   "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911"
+  ],
   "wd+:salesforce/Futureforce_NewGradRoles": [],
   "wd+:salesforce/Salesforce_Research": [],
   "wd+:salesforce/Slack": [],
