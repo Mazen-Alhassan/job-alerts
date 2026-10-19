@@ -632,6 +632,7 @@
   "https://linkedin.com/jobs/view/4480165704": "2026-10-16",
   "https://linkedin.com/jobs/view/4480167739": "2026-10-16",
   "https://linkedin.com/jobs/view/4480176088": "2026-10-16",
+  "https://linkedin.com/jobs/view/4480205728": "2026-10-19",
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
@@ -1338,6 +1339,7 @@
   "t:spacex|newgraduateengineersoftwaresecurity2627starlink": "2026-10-19",
   "t:spectrum|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-18",
   "t:stellant|2027corporatesecuritysummerinternship": "2026-10-15",
+  "t:stracta|cybersecuritystudent": "2026-10-19",
   "t:studente|studentworkerinformationsecurityinternbc": "2026-10-19",
   "t:studente|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-19",
   "t:studyfet|itsecurityoperationsintern": "2026-10-19",
@@ -4070,7 +4072,8 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4451266806",
-   "https://www.linkedin.com/jobs/view/4461422323"
+   "https://www.linkedin.com/jobs/view/4461422323",
+   "https://www.linkedin.com/jobs/view/4480205728"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7180,6 +7183,10 @@
   [
    1792411772.592745,
    "Rochester Regional Health - RIT Co-op: Identity Access & Management"
+  ],
+  [
+   1792412134.5591776,
+   "STRACTA - Cyber Security Student"
   ]
  ]
 }
