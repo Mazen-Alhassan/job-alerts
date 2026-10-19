@@ -149,6 +149,7 @@
   "https://caci.wd1.myworkdayjobs.com/external/job/high-point-nc-us/network---cybersecurity-intern---summer-2027_333001": "2026-10-08",
   "https://caci.wd1.myworkdayjobs.com/external/job/springfield-va-us/cyber-security-intern---summer-2027_333046": "2026-10-16",
   "https://cae.wd3.myworkdayjobs.com/career/job/montreal-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-10-19",
+  "https://cae.wd3.myworkdayjobs.com/fr-ca/career/job/montral-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8748": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
@@ -3676,7 +3677,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
   ],
   "jobvite:aarete": [],
@@ -6892,9 +6893,7 @@
   "wd+:wellington/external": [],
   "wd+:wellsky/WellSkyCareers": [],
   "wd+:welocalize/welocalize": [],
-  "wd+:westernalliancebank/WAB": [
-   "https://wd5.myworkdaysite.com/en-US/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
-  ],
+  "wd+:westernalliancebank/WAB": [],
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
   "wd+:wexinc/WEXInc": [],
