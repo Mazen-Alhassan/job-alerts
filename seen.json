@@ -351,6 +351,7 @@
   "https://internships-aei.icims.com/jobs/2682/spring-intern%3a-national-security-strategy%2c-pentagon-budgeting%2c-and-the-us-defense-industrial-base/job": "2026-10-19",
   "https://internships-aei.icims.com/jobs/2684/spring-intern%3a-asian-security-and-technology/job": "2026-10-19",
   "https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/penang/intern---cybersecurity_j2417955": "2026-10-08",
+  "https://jci.wd5.myworkdayjobs.com/jci/job/nashua-new-hampshire-united-states-of-america/security-systems-apprentice_wd30282788": "2026-10-19",
   "https://jobs.apple.com/details/200663968/hardware-technologies-undergrad-engineering-internships": "2026-10-19",
   "https://jobs.apple.com/details/200663981/hardware-undergrad-engineering-internships": "2026-10-19",
   "https://jobs.apple.com/details/200664221/machine-learning-and-artificial-intelligence-masters-internships": "2026-10-19",
@@ -1129,6 +1130,7 @@
   "t:johnshop|2027internshipmilitarysystemscybersecurityengineer": "2026-10-19",
   "t:johnshop|2027internshipreverseengineeroffensivecybercapabilities": "2026-10-19",
   "t:johnshop|2027internshipwirelesscommunicationsengineerwirelesscybercapabilities": "2026-10-19",
+  "t:johnsonc|securitysystemsapprentice": "2026-10-19",
   "t:johnsonj|medicaldevicecybersecuritycoop": "2026-10-11",
   "t:johnsonmatth|cybersecuritysummer2027intern": "2026-10-08",
   "t:johnsonm|cybersecuritysummer2027intern": "2026-10-13",
@@ -5951,7 +5953,9 @@
   "wd+:jcdecaux/ExternalSiteJCDUK": [],
   "wd+:jci/JCI": [],
   "wd+:jci/JCI_Confidential": [],
-  "wd+:jci/jci": [],
+  "wd+:jci/jci": [
+   "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Nashua-New-Hampshire-United-States-of-America/Security-Systems-Apprentice_WD30282788"
+  ],
   "wd+:jcrew/FriendsFamilyCareers": [],
   "wd+:jcrew/MadewellCareers": [],
   "wd+:jcrew/jcrewcareers": [],
@@ -7147,10 +7151,6 @@
  "heartbeat": "2026-10-19 08",
  "recent": [
   [
-   1792319086.8763466,
-   "HDR - Low Voltage/Security Intern-SA"
-  ],
-  [
    1792330962.3471286,
    "IBM - Co-Op Security Consultant - Cyber Strategy & Risk 2027"
   ],
@@ -7185,6 +7185,10 @@
   [
    1792412134.5591776,
    "STRACTA - Cyber Security Student"
+  ],
+  [
+   1792418261.3977978,
+   "Johnson Controls - Security Systems Apprentice"
   ]
  ]
 }
