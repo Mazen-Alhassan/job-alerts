@@ -3671,7 +3671,8 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941"
+   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -6199,7 +6200,9 @@
   "wd+:mmc/MMC": [
    "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
   ],
-  "wd+:mmc/mmc": [],
+  "wd+:mmc/mmc": [
+   "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
+  ],
   "wd+:modernatx/M_tx": [],
   "wd+:modmed/ModMed12": [],
   "wd+:moffitt/Moffitt": [],
