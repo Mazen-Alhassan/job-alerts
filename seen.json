@@ -643,8 +643,10 @@
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
   "https://linkedin.com/jobs/view/4481204489": "2026-10-19",
   "https://linkedin.com/jobs/view/4481207401": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481236931": "2026-10-19",
   "https://linkedin.com/jobs/view/4481250158": "2026-10-19",
   "https://linkedin.com/jobs/view/4481252240": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -3665,7 +3667,9 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [],
+  "jobspy": [
+   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941"
+  ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4094,7 +4098,6 @@
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4481204489",
-   "https://www.linkedin.com/jobs/view/4481207401",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240"
   ],
