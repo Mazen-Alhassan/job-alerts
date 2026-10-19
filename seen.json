@@ -335,7 +335,7 @@
   "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/raleigh-nc/cyber-security-internship_jr100410": "2026-10-19",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299002": "2026-10-17",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299004": "2026-10-17",
-  "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-17",
+  "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-19",
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-19",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-19",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-19",
@@ -969,7 +969,7 @@
   "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-15",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-19",
   "t:danaher|itsecurityintern": "2026-10-19",
-  "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-17",
+  "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-19",
   "t:delltech|cybersecurityundergraduateintern": "2026-10-17",
   "t:delltech|productapplicationsecurityundergraduateintern": "2026-10-17",
   "t:desjardins|internshipwiththedesjardinsgroupsecurityofficewinter2027": "2026-10-08",
@@ -1460,6 +1460,7 @@
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
+   "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
@@ -4315,7 +4316,9 @@
   "oracle:iaaras.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:iaaviz.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:iadugs.fa.ocs.oraclecloud.com/CX_1001": [],
-  "oracle:iawmqy.fa.ocs.oraclecloud.com/careers": [],
+  "oracle:iawmqy.fa.ocs.oraclecloud.com/careers": [
+   "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300404"
+  ],
   "oracle:iaxmqy.fa.ocs.oraclecloud.com/Wingstop-GSC": [],
   "oracle:iazuqy.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:ibnjjb.fa.ocs.oraclecloud.com/CX_1": [],
@@ -5043,7 +5046,6 @@
   "wd+:ameriprise/Ameriprise": [],
   "wd+:amesconstruction/ames": [],
   "wd+:amfam/AmFamGroupInternCareers": [
-   "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/MA-Boston/Summer-2027-Intern---Cybersecurity_R39605",
    "https://amfam.wd1.myworkdayjobs.com/en-US/AmFamGroupInternCareers/job/WI-Madison/Cybersecurity-Intern_R39591"
   ],
   "wd+:amfam/Careers": [],
