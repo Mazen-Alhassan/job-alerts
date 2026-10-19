@@ -458,6 +458,7 @@
   "https://linkedin.com/jobs/view/4451266806": "2026-10-19",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
   "https://linkedin.com/jobs/view/4454442215": "2026-10-19",
+  "https://linkedin.com/jobs/view/4454452194": "2026-10-19",
   "https://linkedin.com/jobs/view/4454457076": "2026-10-19",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-18",
   "https://linkedin.com/jobs/view/4454859407": "2026-10-19",
@@ -2257,9 +2258,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4113,6 +4112,7 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
+   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478135096",
@@ -4121,6 +4121,8 @@
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
+   "https://www.linkedin.com/jobs/view/4480280222",
+   "https://www.linkedin.com/jobs/view/4481204489",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240",
    "https://www.linkedin.com/jobs/view/4481286741"
@@ -5011,7 +5013,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
