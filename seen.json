@@ -5951,7 +5951,9 @@
   "wd+:jainglobal/ExternalSite": [],
   "wd+:jbhunt/Careers": [],
   "wd+:jcdecaux/ExternalSiteJCDUK": [],
-  "wd+:jci/JCI": [],
+  "wd+:jci/JCI": [
+   "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Nashua-New-Hampshire-United-States-of-America/Security-Systems-Apprentice_WD30282788"
+  ],
   "wd+:jci/JCI_Confidential": [],
   "wd+:jci/jci": [
    "https://jci.wd5.myworkdayjobs.com/en-US/jci/job/Nashua-New-Hampshire-United-States-of-America/Security-Systems-Apprentice_WD30282788"
@@ -7148,7 +7150,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-19 08",
+ "heartbeat": "2026-10-19 10",
  "recent": [
   [
    1792330962.3471286,
