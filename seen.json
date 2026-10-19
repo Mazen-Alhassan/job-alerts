@@ -676,7 +676,7 @@
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-10-19",
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-19",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
-  "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-14",
+  "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-19",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
@@ -698,6 +698,7 @@
   "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/southfield/xmlname-2027-cybersecurity-consultant-intern_jr-03299": "2026-10-19",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/college-of-ist-cyber-100-genai-impact-evaluation-student-assistant_req_0000083099-1": "2026-10-12",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-10-19",
+  "https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/global-security-co-op_jr112886": "2026-10-19",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-15",
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-19",
@@ -1241,7 +1242,7 @@
   "t:motion|grccybersecurityanalystintern": "2026-10-15",
   "t:mtc|studentinternsecurity": "2026-10-19",
   "t:nasdaq|verafininformationsecuritystudentjanuary2027": "2026-10-09",
-  "t:nassaufi|interncybersecurityrisk": "2026-10-14",
+  "t:nassaufi|interncybersecurityrisk": "2026-10-19",
   "t:nationalinfo|interninformationsecuritycybersecurity": "2026-10-08",
   "t:nationallabo|undergraduategraduatecybersecurityresearchintern5g": "2026-10-08",
   "t:nationallabo|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-10-08",
@@ -1307,6 +1308,7 @@
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
   "t:procterg|itsecurityinternship": "2026-10-19",
+  "t:ptc|globalsecuritycoop": "2026-10-19",
   "t:qtsdatac|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|informationsecurityoperationsanalystintern": "2026-10-19",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-19",
@@ -3681,6 +3683,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
   ],
   "jobvite:aarete": [],
@@ -6446,7 +6449,9 @@
   "wd+:psu/PSU_Staff": [
    "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Cybersecurity-Assurance-Intern_REQ_0000081843-1"
   ],
-  "wd+:ptc/ptc": [],
+  "wd+:ptc/ptc": [
+   "https://ptc.wd1.myworkdayjobs.com/en-US/ptc/job/Boston-MA-USA/Global-Security-Co-Op_JR112886"
+  ],
   "wd+:publicpartnerships/ppl": [],
   "wd+:pultegroup/PGI": [],
   "wd+:pureinsurance/pure": [],
@@ -7274,6 +7279,10 @@
   [
    1792441595.163581,
    "Teli Labs - Hardware Security Engineer Intern (Summer 2027)"
+  ],
+  [
+   1792452572.7461758,
+   "PTC - Global Security Co-Op"
   ]
  ]
 }
