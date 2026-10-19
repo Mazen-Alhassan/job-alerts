@@ -610,6 +610,7 @@
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
   "https://linkedin.com/jobs/view/4478179913": "2026-10-15",
+  "https://linkedin.com/jobs/view/4478294739": "2026-10-19",
   "https://linkedin.com/jobs/view/4478437995": "2026-10-15",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
@@ -921,6 +922,7 @@
   "t:caci|cybersecurityinternsummer2027": "2026-10-16",
   "t:caci|networkcybersecurityinternsummer2027": "2026-10-08",
   "t:cae|stagiairespcialistedelintgrationencyberscurit": "2026-10-19",
+  "t:cae|stagiairespcialistedelintgrationencyberscuriten": "2026-10-19",
   "t:caicompu|cybersecurityanalystintern": "2026-10-13",
   "t:cai|cybersecurityanalystintern": "2026-10-19",
   "t:canadian|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
@@ -4079,6 +4081,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4481204489",
    "https://www.linkedin.com/jobs/view/4481207401"
@@ -7161,12 +7164,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-19 10",
+ "heartbeat": "2026-10-19 12",
  "recent": [
-  [
-   1792330962.3471286,
-   "IBM - Co-Op Security Consultant - Cyber Strategy & Risk 2027"
-  ],
   [
    1792339520.763273,
    "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
@@ -7210,6 +7209,10 @@
   [
    1792422979.8082223,
    "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9"
+  ],
+  [
+   1792426697.0723891,
+   "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9-EN"
   ]
  ]
 }
