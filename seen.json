@@ -728,6 +728,7 @@
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-operations--hybrid--onsite---remote-_r282117": "2026-10-19",
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-risk--hybrid--onsite---remote-_r282118": "2026-10-12",
   "https://utaustin.wd1.myworkdayjobs.com/utstaff/job/ut-main-campus/assistant-director-of-student-organizations--soc-_r_00049489-1": "2026-10-16",
+  "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/ut-main-campus/student-security-coordinator_r_00045100": "2026-10-19",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship---risk---security---analyst---nc-_181764": "2026-10-19",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/charlotte-nc/college-to-corporate-it-internship-risk---security-engineer--nc-_182785": "2026-10-19",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/dallasft-worth-tx/college-to-corporate-it-internship---risk---security---engineer_181851": "2026-10-19",
@@ -1394,6 +1395,7 @@
   "t:unitedwh|2027buildingsecuritysummerinternshipprogram": "2026-10-19",
   "t:universa|internshipprojectssecuritytechnologysummer2027": "2026-10-12",
   "t:universi|assistantdirectorofstudentorganizationssoc": "2026-10-16",
+  "t:universi|studentsecuritycoordinator": "2026-10-19",
   "t:upboundg|cybersecurityintern": "2026-10-09",
   "t:upbound|cybersecurityintern": "2026-10-13",
   "t:usfoods|interncybersecurityoperationshybridonsiteremote": "2026-10-19",
@@ -4954,7 +4956,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -5317,8 +5321,7 @@
   "wd+:cadence/external_careers": [],
   "wd+:cae/career": [],
   "wd+:cai/computer_aid": [
-   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8748"
+   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"
   ],
   "wd+:calibercollision/caliber": [],
   "wd+:calibercollision/protech": [],
@@ -6776,7 +6779,9 @@
   "wd+:usnh/Careers": [],
   "wd+:usventure/usvexternal": [],
   "wd+:utaustin/UTstaff": [],
-  "wd+:utaustin/utstudent": [],
+  "wd+:utaustin/utstudent": [
+   "https://utaustin.wd1.myworkdayjobs.com/en-US/utstudent/job/UT-MAIN-CAMPUS/Student-Security-Coordinator_R_00045100"
+  ],
   "wd+:uva/uvastudentjobs": [],
   "wd+:valeo/valeo_jobs": [],
   "wd+:valmet/external": [],
@@ -7187,6 +7192,10 @@
   [
    1792418261.3977978,
    "Johnson Controls - Security Systems Apprentice"
+  ],
+  [
+   1792420445.464622,
+   "University of Texas at Austin - Student Security Coordinator"
   ]
  ]
 }
