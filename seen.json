@@ -729,7 +729,7 @@
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-masters_r-2630026": "2026-10-19",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-10-19",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
-  "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-13",
+  "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-13",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html": "2026-10-15",
@@ -4944,9 +4944,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6828,7 +6826,7 @@
   "wd+:wellsky/WellSkyCareers": [],
   "wd+:welocalize/welocalize": [],
   "wd+:westernalliancebank/WAB": [
-   "https://wd5.myworkdaysite.com/en-US/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
+   "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
   ],
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
