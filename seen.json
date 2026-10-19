@@ -457,6 +457,8 @@
   "https://linkedin.com/jobs/view/4451241553": "2026-10-18",
   "https://linkedin.com/jobs/view/4451266806": "2026-10-19",
   "https://linkedin.com/jobs/view/4451454463": "2026-10-15",
+  "https://linkedin.com/jobs/view/4454442215": "2026-10-19",
+  "https://linkedin.com/jobs/view/4454457076": "2026-10-19",
   "https://linkedin.com/jobs/view/4454813351": "2026-10-18",
   "https://linkedin.com/jobs/view/4454859407": "2026-10-19",
   "https://linkedin.com/jobs/view/4454870344": "2026-10-18",
@@ -652,6 +654,7 @@
   "https://linkedin.com/jobs/view/4481250158": "2026-10-19",
   "https://linkedin.com/jobs/view/4481252240": "2026-10-19",
   "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481286741": "2026-10-19",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1374,6 +1377,7 @@
   "t:studente|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-19",
   "t:studyfet|itsecurityoperationsintern": "2026-10-19",
   "t:swbc|applicationsecurityintern": "2026-10-19",
+  "t:systemsp|cybersecurityinternsummer2027": "2026-10-19",
   "t:tampaelectri|spring2027studentinternshipadicybersecurity": "2026-10-08",
   "t:tampaele|spring2027studentinternshipadicybersecurity": "2026-10-10",
   "t:tampaele|spring2027studentinternshipcybersecurity": "2026-10-18",
@@ -3682,7 +3686,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
   ],
@@ -4108,6 +4112,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4454442215",
+   "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
@@ -4115,12 +4121,9 @@
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
-   "https://www.linkedin.com/jobs/view/4480280222",
-   "https://www.linkedin.com/jobs/view/4481204489",
-   "https://www.linkedin.com/jobs/view/4481236931",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240",
-   "https://www.linkedin.com/jobs/view/4481254414"
+   "https://www.linkedin.com/jobs/view/4481286741"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7283,6 +7286,10 @@
   [
    1792452572.7461758,
    "PTC - Global Security Co-Op"
+  ],
+  [
+   1792453297.3875961,
+   "Systems Planning & Analysis - Cyber Security Intern - Summer 2027"
   ]
  ]
 }
