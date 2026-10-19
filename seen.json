@@ -280,7 +280,7 @@
   "https://expedia.wd108.myworkdayjobs.com/private/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310": "2026-10-19",
   "https://expedia.wd108.myworkdayjobs.com/search/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310-1": "2026-10-19",
   "https://explore.jobs.netflix.net/careers/job/790317917022": "2026-10-08",
-  "https://explore.jobs.netflix.net/careers/job/790318904468": "2026-10-13",
+  "https://explore.jobs.netflix.net/careers/job/790318904468": "2026-10-19",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32304": "2026-10-19",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32329": "2026-10-19",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32334": "2026-10-19",
@@ -1262,7 +1262,7 @@
   "t:navyfede|summerassociateinternshiptechnicalriskanalystsecurityregulatorycompliance": "2026-10-19",
   "t:navyfede|summerassociateinternshipzerotrustinformationsecurityanalyst": "2026-10-19",
   "t:netflix|machinelearningaiinfrastructureengineeringinternaiplatformphdwinter2027": "2026-10-08",
-  "t:netflix|softwareengineerinternsummer2027": "2026-10-13",
+  "t:netflix|softwareengineerinternsummer2027": "2026-10-19",
   "t:netsmart|securityanalystfuturesummer2027internship": "2026-10-19",
   "t:nightwing|vulnerabilityresearcherintern2026": "2026-10-08",
   "t:nightwin|vulnerabilityresearcherintern2026": "2026-10-13",
@@ -3677,7 +3677,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
   ],
   "jobvite:aarete": [],
@@ -4119,7 +4119,9 @@
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480"
   ],
-  "netflix": [],
+  "netflix": [
+   "https://explore.jobs.netflix.net/careers/job/790318904468"
+  ],
   "oracle:cva.fa.us1.oraclecloud.com/CX_3": [],
   "oracle:ebcs.fa.em2.oraclecloud.com/CX_1": [],
   "oracle:ebez.fa.us2.oraclecloud.com/CX_1": [],
