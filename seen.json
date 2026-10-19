@@ -696,6 +696,7 @@
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--cybersecurity--governance---risk_req_243186-1": "2026-10-19",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--security-operations---security-engineering_req_243190": "2026-10-19",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op_req_244351-1": "2026-10-19",
+  "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman-campus/rit-co-op--identity-access---management_req_243191": "2026-10-19",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
   "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-10-19",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
@@ -1292,6 +1293,7 @@
   "t:robinhood|securityriskmanagementinternsummer2027": "2026-10-08",
   "t:robinhoo|securityriskmanagementinternsummer2027": "2026-10-14",
   "t:rocheste|ritcoopcybersecuritygovernancerisk": "2026-10-19",
+  "t:rocheste|ritcoopidentityaccessmanagement": "2026-10-19",
   "t:rocheste|ritcoopsecurityengineering": "2026-10-19",
   "t:rocheste|ritcoopsecurityoperationssecurityengineering": "2026-10-19",
   "t:rocketlab|securityanalystinternspring2027": "2026-10-08",
@@ -4952,9 +4954,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6477,7 +6477,8 @@
   "wd+:rrhs/RRH": [
    "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
    "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
-   "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1"
+   "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1",
+   "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman-Campus/RIT-Co-op--Identity-Access---Management_REQ_243191"
   ],
   "wd+:rrts/careers": [],
   "wd+:rsm/RSMCareers": [],
@@ -7142,7 +7143,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-19 06",
+ "heartbeat": "2026-10-19 08",
  "recent": [
   [
    1792319086.8763466,
@@ -7175,6 +7176,10 @@
   [
    1792411140.091993,
    "Rochester Regional Health - RIT Co-op: Security Engineering"
+  ],
+  [
+   1792411772.592745,
+   "Rochester Regional Health - RIT Co-op: Identity Access & Management"
   ]
  ]
 }
