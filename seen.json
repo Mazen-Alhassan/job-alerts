@@ -239,6 +239,7 @@
   "https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-richmond/security-engineer-intern---richmond--va_r39726": "2026-10-19",
   "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/atlanta-ga/cybersecurity-intern---summer-2027_r202683372": "2026-10-19",
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/united-kingdom---london/incident-response-internship---professional-services---summer-2027--remote--uk-_r30403": "2026-10-19",
+  "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/united-kingdom---london/professional-services-red-team-intern---summer-2027--remote--gbr-_r30404": "2026-10-19",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/chicago-il-usa/cybersecurity-intern_r-71031": "2026-10-19",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/sarasota-fl-usa/incident-response-intern_r-71609": "2026-10-19",
   "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/coralville-iowa-united-states/it-security-intern_r1316663": "2026-10-19",
@@ -951,6 +952,7 @@
   "t:crestindustr|securityintern": "2026-10-08",
   "t:crestind|securityintern": "2026-10-13",
   "t:crowdstr|incidentresponseinternshipprofessionalservicessummer2027remoteuk": "2026-10-19",
+  "t:crowdstr|professionalservicesredteaminternsummer2027remotegbr": "2026-10-19",
   "t:crowe|cybersecurityintern": "2026-10-19",
   "t:crowe|incidentresponseintern": "2026-10-19",
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
@@ -6909,7 +6911,8 @@
    "https://cleco.wd5.myworkdayjobs.com/en-US/ClecoJobs/job/Pineville-LA/Intern---Cybersecurity_13331"
   ],
   "wd:crowdstrike/crowdstrikecareers": [
-   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403"
+   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403",
+   "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404"
   ],
   "wd:desjardins/Desjardins": [
    "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Stage-au-Bureau-de-la-Scurit-Desjardins--Hiver-2027_R2610591-1"
@@ -7130,26 +7133,6 @@
  "heartbeat": "2026-10-19 00",
  "recent": [
   [
-   1792255662.530986,
-   "IBM - Intern Security Consultant - Cyber Strategy & Risk 2027"
-  ],
-  [
-   1792259265.4839752,
-   "Lumen Technologies - Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway"
-  ],
-  [
-   1792261867.3650632,
-   "Brain Co. - AI Security Engineer Co-op"
-  ],
-  [
-   1792264731.853969,
-   "IBM - Co-Op Security Consultant - CyberDefend 2027"
-  ],
-  [
-   1792281560.7176561,
-   "Spectrum - 2027 Summer Intern: Operations Analyst - Corporate Physical Security"
-  ],
-  [
    1792319086.8763466,
    "HDR - Low Voltage/Security Intern-SA"
   ],
@@ -7160,6 +7143,10 @@
   [
    1792339520.763273,
    "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
+  ],
+  [
+   1792384770.74698,
+   "CrowdStrike - Professional Services Red Team Intern - Summer 2027 (Remote, GBR)"
   ]
  ]
 }
