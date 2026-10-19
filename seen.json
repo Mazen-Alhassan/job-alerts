@@ -4998,7 +4998,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
