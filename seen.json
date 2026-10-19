@@ -179,6 +179,7 @@
   "https://careers-uwmcareers.icims.com/jobs/15910/2027-building-security-summer-internship-program/job": "2026-10-19",
   "https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job": "2026-10-15",
   "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968": "2026-10-14",
+  "https://careers.adobe.com/us/en/job/r173000": "2026-10-19",
   "https://careers.aps.com/job/phoenix-2027-summer-internship-cybersecurity-az-85004-3903/1438780300": "2026-10-10",
   "https://careers.bwxt.com/job/lynchburg-intern-cyber-security-%28summer-2027%29-va-24501/1439664100": "2026-10-15",
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
@@ -4098,8 +4099,11 @@
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4481204489",
+   "https://www.linkedin.com/jobs/view/4481207401",
+   "https://www.linkedin.com/jobs/view/4481236931",
    "https://www.linkedin.com/jobs/view/4481250158",
-   "https://www.linkedin.com/jobs/view/4481252240"
+   "https://www.linkedin.com/jobs/view/4481252240",
+   "https://www.linkedin.com/jobs/view/4481254414"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4358,7 +4362,9 @@
   "oracle:jpmc.fa.oraclecloud.com/CX_1": [],
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com/CX_1": [],
   "phenom:careers.abb": [],
-  "phenom:careers.adobe.com": [],
+  "phenom:careers.adobe.com": [
+   "https://careers.adobe.com/us/en/job/R173000"
+  ],
   "phenom:careers.arrow.com": [],
   "phenom:careers.bakerhughes.com": [],
   "phenom:careers.bcg.com": [],
