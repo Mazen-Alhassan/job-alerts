@@ -643,6 +643,8 @@
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
   "https://linkedin.com/jobs/view/4481204489": "2026-10-19",
   "https://linkedin.com/jobs/view/4481207401": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481250158": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481252240": "2026-10-19",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1041,6 +1043,7 @@
   "t:fortunebrand|productmanagementinternb2bsecurity": "2026-10-08",
   "t:fortuneb|productmanagementinternb2bsecurity": "2026-10-19",
   "t:galaxy|offcyclefall2026cybersecurityinternship": "2026-10-19",
+  "t:garmin|cybersecurityengineerintern": "2026-10-19",
   "t:generaldynam|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-08",
   "t:generald|2027summerinterndefenseagenciescybersecurity": "2026-10-15",
   "t:generald|cyberengineeringintern": "2026-10-19",
@@ -4088,9 +4091,12 @@
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4481204489",
-   "https://www.linkedin.com/jobs/view/4481207401"
+   "https://www.linkedin.com/jobs/view/4481207401",
+   "https://www.linkedin.com/jobs/view/4481250158",
+   "https://www.linkedin.com/jobs/view/4481252240"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7173,10 +7179,6 @@
  "heartbeat": "2026-10-19 14",
  "recent": [
   [
-   1792339520.763273,
-   "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
-  ],
-  [
    1792384770.74698,
    "CrowdStrike - Professional Services Red Team Intern - Summer 2027 (Remote, GBR)"
   ],
@@ -7231,6 +7233,10 @@
   [
    1792429869.6181083,
    "Cryptic Vector - Summer 2027 Cyber Engineering Internship"
+  ],
+  [
+   1792434824.280575,
+   "Garmin - Cyber Security Engineer Intern"
   ]
  ]
 }
