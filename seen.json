@@ -339,6 +339,9 @@
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-19",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-19",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-19",
+  "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-19",
+  "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": "2026-10-19",
+  "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-19",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-10-19",
   "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/toronto-ontario-can/new-grad-tech-development-program---cybersecurity-stream_r155808": "2026-10-12",
   "https://interac.wd3.myworkdayjobs.com/interac/job/toronto/information-security-intern_req-2385": "2026-10-19",
@@ -1100,6 +1103,9 @@
   "t:idrinc|incidentresponseintern": "2026-10-08",
   "t:iex|cybersecurityanalystintern": "2026-10-19",
   "t:independ|cybersecurityinternsummer2027": "2026-10-10",
+  "t:ing|cybersecurityintern1": "2026-10-19",
+  "t:ing|cybersecurityintern2": "2026-10-19",
+  "t:ing|cybersecurityintern3": "2026-10-19",
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-19",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
@@ -5888,7 +5894,11 @@
   "wd+:imf/IMF": [],
   "wd+:imh/IntermountainCareers": [],
   "wd+:incora/Incora": [],
-  "wd+:ing/icsgblcor": [],
+  "wd+:ing/icsgblcor": [
+   "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442",
+   "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439",
+   "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437"
+  ],
   "wd+:ingrammicro/IngramMicro": [],
   "wd+:ingredion/IngredionCareers": [],
   "wd+:inmar/inmarcareers": [
@@ -7148,6 +7158,18 @@
   [
    1792384770.74698,
    "CrowdStrike - Professional Services Red Team Intern - Summer 2027 (Remote, GBR)"
+  ],
+  [
+   1792399710.6246881,
+   "ING - Cybersecurity Intern - 3"
+  ],
+  [
+   1792399710.6246903,
+   "ING - Cybersecurity Intern - 2"
+  ],
+  [
+   1792399710.624691,
+   "ING - Cybersecurity Intern - 1"
   ]
  ]
 }
