@@ -638,6 +638,8 @@
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
+  "https://linkedin.com/jobs/view/4481204489": "2026-10-19",
+  "https://linkedin.com/jobs/view/4481207401": "2026-10-19",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4077,7 +4079,9 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4480150772"
+   "https://www.linkedin.com/jobs/view/4480150772",
+   "https://www.linkedin.com/jobs/view/4481204489",
+   "https://www.linkedin.com/jobs/view/4481207401"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -6133,9 +6137,7 @@
   "wd+:medtronic/medtroniccareers": [],
   "wd+:medtronic/redeploymentmedtroniccareers": [],
   "wd+:megger/MeggerCareers": [],
-  "wd+:meijer/Meijer": [
-   "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302"
-  ],
+  "wd+:meijer/Meijer": [],
   "wd+:memorialhealthcare/mhs_careers": [],
   "wd+:memorialhermann/external": [],
   "wd+:menasha/menashacorp": [],
