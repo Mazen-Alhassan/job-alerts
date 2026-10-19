@@ -668,6 +668,7 @@
   "https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/london---uk/cyber-security-summer-2027-intern_r-015569": "2026-10-13",
   "https://meijer.wd5.myworkdayjobs.com/meijer/job/grand-rapids-mi/information-security-intern--summer-2027_r000698302": "2026-10-19",
   "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/st-louis-mo/intern---security-analyst_jr1473": "2026-10-19",
+  "https://mmc.wd1.myworkdayjobs.com/mmc/job/new-york---1166/cyber-analytics-actuarial-spring-co-op---college-program-2027_r_370066": "2026-10-19",
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-10-19",
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-19",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
@@ -1196,6 +1197,7 @@
   "t:lumen|cybersecurityriskdigitaltrustsummer2027internshippathway": "2026-10-17",
   "t:lyondell|2027cybersecurityintern": "2026-10-09",
   "t:manulife|springcoop2027softwareengineeringsecurityoperations": "2026-10-19",
+  "t:marshmcl|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-19",
   "t:marvellt|securityverificationvalidationengineerinternbssummer2027": "2026-10-15",
   "t:marvell|securityverificationvalidationengineerinternbssummer2027": "2026-10-19",
   "t:mastercard|corporatesecurityoperationsinternsummer2027stlouismous": "2026-10-08",
@@ -6194,7 +6196,9 @@
   "wd+:mksinst/MKSCareersUniversity": [],
   "wd+:mksinst/mkscareersamericas": [],
   "wd+:mlse/MLSE": [],
-  "wd+:mmc/MMC": [],
+  "wd+:mmc/MMC": [
+   "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
+  ],
   "wd+:mmc/mmc": [],
   "wd+:modernatx/M_tx": [],
   "wd+:modmed/ModMed12": [],
@@ -7244,6 +7248,10 @@
   [
    1792434824.280575,
    "Garmin - Cyber Security Engineer Intern"
+  ],
+  [
+   1792438070.1262023,
+   "Marsh & McLennan - Cyber Analytics Actuarial Spring Co-op - College Program 2027"
   ]
  ]
 }
