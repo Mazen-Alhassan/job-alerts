@@ -545,6 +545,7 @@
   "https://linkedin.com/jobs/view/4472098666": "2026-10-18",
   "https://linkedin.com/jobs/view/4472206391": "2026-10-18",
   "https://linkedin.com/jobs/view/4472247698": "2026-10-18",
+  "https://linkedin.com/jobs/view/4472769079": "2026-10-19",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
@@ -974,6 +975,7 @@
   "t:crowe|incidentresponseintern": "2026-10-19",
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
+  "t:crypticv|summer2027cyberengineeringinternship": "2026-10-19",
   "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-16",
   "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-15",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-19",
@@ -4083,6 +4085,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
@@ -7227,6 +7230,10 @@
   [
    1792429770.42432,
    "Adobe - 2027 Intern - Security Engineer"
+  ],
+  [
+   1792429869.6181083,
+   "Cryptic Vector - Summer 2027 Cyber Engineering Internship"
   ]
  ]
 }
