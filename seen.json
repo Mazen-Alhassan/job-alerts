@@ -4944,7 +4944,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6826,7 +6828,7 @@
   "wd+:wellsky/WellSkyCareers": [],
   "wd+:welocalize/welocalize": [],
   "wd+:westernalliancebank/WAB": [
-   "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
+   "https://wd5.myworkdaysite.com/en-US/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775"
   ],
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
@@ -7130,7 +7132,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-18 20",
+ "heartbeat": "2026-10-18 22",
  "recent": [
   [
    1792255662.530986,
