@@ -550,7 +550,7 @@
   "https://linkedin.com/jobs/view/4470725818": "2026-10-16",
   "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
   "https://linkedin.com/jobs/view/4471125435": "2026-10-15",
-  "https://linkedin.com/jobs/view/4471128909": "2026-10-16",
+  "https://linkedin.com/jobs/view/4471128909": "2026-10-20",
   "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
   "https://linkedin.com/jobs/view/4471388468": "2026-10-12",
   "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
@@ -659,6 +659,7 @@
   "https://linkedin.com/jobs/view/4480278304": "2026-10-20",
   "https://linkedin.com/jobs/view/4480280222": "2026-10-20",
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
+  "https://linkedin.com/jobs/view/4480494475": "2026-10-20",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
   "https://linkedin.com/jobs/view/4481204489": "2026-10-20",
@@ -1014,7 +1015,7 @@
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
   "t:crypticv|summer2027cyberengineeringinternship": "2026-10-20",
-  "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-16",
+  "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-20",
   "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-15",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-20",
   "t:danaher|itsecurityintern": "2026-10-20",
@@ -1390,6 +1391,7 @@
   "t:shopify|ussoftwareengineeringinternshipssummer2027": "2026-10-14",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-10-20",
   "t:siemense|cybersecuritydataanalyticsaianalyst12monthinternship": "2026-10-10",
+  "t:siemens|cybersecurityinternsummer2027": "2026-10-20",
   "t:sierranevada|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:sierrane|systemssecurityengineeringinternsummer2027": "2026-10-19",
   "t:simventi|2027cybersecurityintern": "2026-10-20",
@@ -4153,9 +4155,9 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
-   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
+   "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4473008825",
    "https://www.linkedin.com/jobs/view/4478135096",
@@ -4165,6 +4167,7 @@
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
    "https://www.linkedin.com/jobs/view/4480280222",
+   "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240"
   ],
@@ -4449,11 +4452,7 @@
   "phenom:careers.hpe.com": [],
   "phenom:careers.icf.com": [],
   "phenom:careers.itw.com": [],
-  "phenom:careers.mastercard.com": [
-   "https://careers.mastercard.com/us/en/job/R-284924",
-   "https://careers.mastercard.com/us/en/job/R-284925",
-   "https://careers.mastercard.com/us/en/job/R-284927"
-  ],
+  "phenom:careers.mastercard.com": [],
   "phenom:careers.mitre.org": [
    "https://careers.mitre.org/us/en/job/R117314",
    "https://careers.mitre.org/us/en/job/R117380",
@@ -7260,10 +7259,6 @@
  "heartbeat": "2026-10-20 12",
  "recent": [
   [
-   1792420445.464622,
-   "University of Texas at Austin - Student Security Coordinator"
-  ],
-  [
    1792422979.8082223,
    "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9"
   ],
@@ -7346,6 +7341,10 @@
   [
    1792512541.1268196,
    "Amazon - Industrial Design Engineer Intern , Summer 2027"
+  ],
+  [
+   1792514152.6151848,
+   "Siemens - Cyber Security Intern - Summer 2027"
   ]
  ]
 }
