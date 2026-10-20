@@ -2276,7 +2276,9 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -4136,7 +4138,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
-   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4472769079",
@@ -4146,7 +4147,6 @@
    "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
-   "https://www.linkedin.com/jobs/view/4480280222",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240"
   ],
@@ -5032,9 +5032,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
@@ -6320,7 +6318,9 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [],
+  "wd+:ngc/Northrop_Grumman_External_Site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+  ],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
