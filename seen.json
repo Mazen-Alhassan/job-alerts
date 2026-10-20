@@ -185,6 +185,7 @@
   "https://careers.7-eleven.com/job/irving/information-security-intern/45445/101887303968": "2026-10-14",
   "https://careers.adobe.com/us/en/job/adobusr173000externalenus/2027-intern-security-engineer": "2026-10-20",
   "https://careers.adobe.com/us/en/job/r173000": "2026-10-20",
+  "https://careers.adobe.com/us/en/job/r173001": "2026-10-20",
   "https://careers.aps.com/job/phoenix-2027-summer-internship-cybersecurity-az-85004-3903/1438780300": "2026-10-10",
   "https://careers.bwxt.com/job/lynchburg-intern-cyber-security-%28summer-2027%29-va-24501/1439664100": "2026-10-15",
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
@@ -4172,7 +4173,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
-   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4471128909",
@@ -4445,7 +4445,8 @@
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com/CX_1": [],
   "phenom:careers.abb": [],
   "phenom:careers.adobe.com": [
-   "https://careers.adobe.com/us/en/job/R173000"
+   "https://careers.adobe.com/us/en/job/R173000",
+   "https://careers.adobe.com/us/en/job/R173001"
   ],
   "phenom:careers.arrow.com": [],
   "phenom:careers.bakerhughes.com": [],
