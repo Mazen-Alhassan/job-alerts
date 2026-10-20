@@ -689,6 +689,7 @@
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-20",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-20",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-tampa/xmlname-2027-cyber-systems-engineer-intern-tampa-fl_r10249196": "2026-10-20",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
@@ -1292,6 +1293,7 @@
   "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-12",
   "t:northrop|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
   "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-16",
+  "t:northrop|2027cybersystemsengineerinterntampafl": "2026-10-20",
   "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-16",
   "t:northwestern|cybersecurityinternship": "2026-10-08",
   "t:northwes|cybersecurityinternship": "2026-10-20",
@@ -4134,16 +4136,17 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
+   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4472769079",
-   "https://www.linkedin.com/jobs/view/4473008825",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
+   "https://www.linkedin.com/jobs/view/4480280222",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240"
   ],
@@ -7030,7 +7033,9 @@
   ],
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
-  "wd:ngc/northrop_grumman_external_site": [],
+  "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+  ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -7228,12 +7233,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-20 08",
+ "heartbeat": "2026-10-20 10",
  "recent": [
-  [
-   1792411140.091993,
-   "Rochester Regional Health - RIT Co-op: Security Engineering"
-  ],
   [
    1792411772.592745,
    "Rochester Regional Health - RIT Co-op: Identity Access & Management"
@@ -7317,6 +7318,10 @@
   [
    1792504718.689966,
    "HCSC - Early Careers - Governance, Risk & Compliance (GRC) Intern"
+  ],
+  [
+   1792505077.3620985,
+   "Northrop Grumman - 2027 Cyber Systems Engineer Intern-Tampa FL"
   ]
  ]
 }
