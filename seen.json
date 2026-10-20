@@ -553,6 +553,7 @@
   "https://linkedin.com/jobs/view/4472206391": "2026-10-18",
   "https://linkedin.com/jobs/view/4472247698": "2026-10-18",
   "https://linkedin.com/jobs/view/4472769079": "2026-10-20",
+  "https://linkedin.com/jobs/view/4473008825": "2026-10-20",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
@@ -978,6 +979,7 @@
   "t:cnainsur|technologyinternshipprogramcybersecurity": "2026-10-20",
   "t:cohnrezn|winter2027internshipcybersecurityanddigitaltrust": "2026-10-10",
   "t:collecti|securityoperationsintern": "2026-10-12",
+  "t:collinsa|cyberresearchinternshipsummer2027onsite": "2026-10-20",
   "t:commonwe|itinternaiandcybersecuritycommonwealthholdingsinc": "2026-10-13",
   "t:conagrabrand|cybersecurityinternshipsummer2027": "2026-10-08",
   "t:conagrab|cybersecurityinternshipsummer2027": "2026-10-16",
@@ -4125,6 +4127,7 @@
    "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4472769079",
+   "https://www.linkedin.com/jobs/view/4473008825",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
@@ -7215,12 +7218,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-20 04",
+ "heartbeat": "2026-10-20 06",
  "recent": [
-  [
-   1792384770.74698,
-   "CrowdStrike - Professional Services Red Team Intern - Summer 2027 (Remote, GBR)"
-  ],
   [
    1792399710.6246881,
    "ING - Cybersecurity Intern - 3"
@@ -7296,6 +7295,10 @@
   [
    1792453297.3875961,
    "Systems Planning & Analysis - Cyber Security Intern - Summer 2027"
+  ],
+  [
+   1792491416.3468542,
+   "Collins Aerospace - Cyber Research Internship (Summer 2027) - Onsite"
   ]
  ]
 }
