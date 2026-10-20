@@ -230,6 +230,7 @@
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-20",
+  "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-20",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-20",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
@@ -968,6 +969,7 @@
   "t:church|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-18",
   "t:cibc|informationsecurityanalystcoop": "2026-10-20",
   "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-20",
+  "t:ciena|softwareengineersecurityinternwinter2027": "2026-10-20",
   "t:cignagroup|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-08",
   "t:cignagro|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-14",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-10-20",
@@ -4128,7 +4130,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
-   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4472769079",
@@ -6995,7 +6996,9 @@
   ],
   "wd:capitalone/Capital_One": [],
   "wd:cibc/search": [],
-  "wd:ciena/Careers": [],
+  "wd:ciena/Careers": [
+   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+  ],
   "wd:cleco/ClecoJobs": [
    "https://cleco.wd5.myworkdayjobs.com/en-US/ClecoJobs/job/Pineville-LA/Intern---Cybersecurity_13331"
   ],
@@ -7297,6 +7300,10 @@
   [
    1792499524.444641,
    "Janus Henderson Investors - Identity Security Intern"
+  ],
+  [
+   1792503756.4958415,
+   "Ciena - Software Engineer (Security) - Intern (Winter 2027)"
   ]
  ]
 }
