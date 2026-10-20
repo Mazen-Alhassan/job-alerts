@@ -64,6 +64,7 @@
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-20",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-20",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-20",
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-10-20",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
   "https://airproducts.wd5.myworkdayjobs.com/ap0001/job/allentown-pennsylvania/summer-intern--it---cyber-audit--2027-_jr-2026-21954": "2026-10-20",
   "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/franklin-tennessee---united-states-of-america/corporate-security-intern---summer-2027---franklin--tn_r00214220": "2026-10-20",
@@ -3736,7 +3737,6 @@
    "https://jobs.janushenderson.com/job/Denver-Identity-Security-Intern-CO-80206/1441677300/",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://recruiting.ultipro.com/CRY1001CRYO/JobBoard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/OpportunityDetail?opportunityId=358ab021-580b-4d5b-bd5b-f45ea69dcf0a&postingId=c479495d-765f-45cf-b5a3-962e4c3724f4",
-   "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
    "https://talent.spa.com/jobs/23731/job",
    "https://werner.wd501.myworkdayjobs.com/en-US/Werner/job/Omaha-NE/Information-Security-Intern_JR23746"
   ],
@@ -6882,9 +6882,7 @@
   "wd+:usbank/Elavon_Careers": [],
   "wd+:usc/ExternalUSCCareers": [],
   "wd+:usertesting/UserTesting": [],
-  "wd+:usfoods/usfoodscareersExternal": [
-   "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Cybersecurity-Operations--Hybrid--Onsite---Remote-_R282117"
-  ],
+  "wd+:usfoods/usfoodscareersExternal": [],
   "wd+:usnh/Careers": [],
   "wd+:usventure/usvexternal": [],
   "wd+:utaustin/UTstaff": [],
@@ -7013,7 +7011,8 @@
   "wd+:zoom/zoom": [],
   "wd+:zrsmanagement/zrs_careers": [],
   "wd:adobe/external_experienced": [
-   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000"
+   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
+   "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
   ],
   "wd:aero/external": [],
   "wd:aig/aig": [],
