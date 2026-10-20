@@ -325,6 +325,7 @@
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-20",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-20",
   "https://hcpd.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/12360": "2026-10-20",
+  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---governance--risk---compliance--grc--intern_r0059509": "2026-10-20",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--intern_r0059510": "2026-10-20",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--senior-intern_r0059511": "2026-10-20",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---security-program-management-senior-intern_r0059515": "2026-10-20",
@@ -336,6 +337,7 @@
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-20",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-20",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-12",
+  "https://hubcareers-docusign.icims.com/jobs/30540/security-intern/job": "2026-10-20",
   "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/new-york--1350-avenue-of-the-americas/underwriting-intern_r0019772-1": "2026-10-20",
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/cyber-security-intern--summer-2027_r250153": "2026-10-20",
   "https://hyvee.wd1.myworkdayjobs.com/hyveecareers/job/corporate-office-westown-pkwy-west-des-moines-ia/it-security-loss-prevention-intern---summer-2027_r250154": "2026-10-20",
@@ -1015,6 +1017,7 @@
   "t:dicksspo|cybersecuritysummer2027corporateinternship": "2026-10-20",
   "t:disney|cybersecurityinternspring2027": "2026-10-14",
   "t:disney|disneylandcybersecurityinternspring2027": "2026-10-13",
+  "t:docusign|securityintern": "2026-10-20",
   "t:dormanpr|cybersecurityintern": "2026-10-16",
   "t:draper|classifiedcybersecurityitintern": "2026-10-20",
   "t:draper|classifiedcybersecurityitinternshipsummer2027": "2026-10-20",
@@ -1107,6 +1110,7 @@
   "t:harbinge|interncybersecurity": "2026-10-11",
   "t:haworth|informationsecuritysystemsintern": "2026-10-08",
   "t:haystack|cybersecurityintern": "2026-10-13",
+  "t:hcsc|earlycareersgovernanceriskcompliancegrcintern": "2026-10-20",
   "t:hcsc|earlycareersidentifyaccessmanagementiamintern": "2026-10-20",
   "t:hcsc|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-20",
   "t:hcsc|earlycareerssecuritydataclassificationintern": "2026-10-20",
@@ -2270,9 +2274,7 @@
   ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [
-   "https://qualcomm.eightfold.ai/careers/job/446720740636"
-  ],
+  "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3635,7 +3637,9 @@
   "icims:homeoffice-na-urbn.icims.com": [
    "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job"
   ],
-  "icims:hubcareers-docusign.icims.com": [],
+  "icims:hubcareers-docusign.icims.com": [
+   "https://hubcareers-docusign.icims.com/jobs/30540/security-intern/job"
+  ],
   "icims:ideas-sas.icims.com": [],
   "icims:internships-aei.icims.com": [
    "https://internships-aei.icims.com/jobs/2676/spring-intern%3a-critical-threats-project-%e2%80%93-africa/job",
@@ -4130,7 +4134,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
-   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4472769079",
@@ -5879,6 +5882,7 @@
   ],
   "wd+:hcpss/hcpss": [],
   "wd+:hcsc/HCSC_External": [
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Intern_R0059510",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
@@ -7305,6 +7309,14 @@
   [
    1792503756.4958415,
    "Ciena - Software Engineer (Security) - Intern (Winter 2027)"
+  ],
+  [
+   1792504718.6899633,
+   "DocuSign - Security Intern"
+  ],
+  [
+   1792504718.689966,
+   "HCSC - Early Careers - Governance, Risk & Compliance (GRC) Intern"
   ]
  ]
 }
