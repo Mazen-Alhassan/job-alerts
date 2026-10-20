@@ -731,6 +731,7 @@
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--security-operations---security-engineering_req_243190": "2026-10-20",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op_req_244351-1": "2026-10-20",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman-campus/rit-co-op--identity-access---management_req_243191": "2026-10-20",
+  "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/cyber-managed-security-intern---summer-2027_jr122028": "2026-10-20",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
   "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": "2026-10-20",
   "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": "2026-10-20",
@@ -1360,6 +1361,7 @@
   "t:rocketmo|securityservicesinternfall2026": "2026-10-20",
   "t:rockwellauto|interncyberprofessionalserviceslcs": "2026-10-08",
   "t:rockwell|interncyberprofessionalserviceslcs": "2026-10-08",
+  "t:rsm|cybermanagedsecurityinternsummer2027": "2026-10-20",
   "t:rsm|cybertestinginternsummer2027": "2026-10-09",
   "t:rtxcolli|cyberresearchinternshipsummer2027onsite": "2026-10-20",
   "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-13",
@@ -6578,7 +6580,9 @@
    "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman-Campus/RIT-Co-op--Identity-Access---Management_REQ_243191"
   ],
   "wd+:rrts/careers": [],
-  "wd+:rsm/RSMCareers": [],
+  "wd+:rsm/RSMCareers": [
+   "https://rsm.wd1.myworkdayjobs.com/en-US/RSMCareers/job/Chicago/Cyber-Managed-Security-Intern---Summer-2027_JR122028"
+  ],
   "wd+:rxo/rxojobs": [],
   "wd+:ryan/RyanCareers": [],
   "wd+:ryan/Students-Graduates": [],
@@ -7250,14 +7254,6 @@
  "heartbeat": "2026-10-20 10",
  "recent": [
   [
-   1792411772.592745,
-   "Rochester Regional Health - RIT Co-op: Identity Access & Management"
-  ],
-  [
-   1792412134.5591776,
-   "STRACTA - Cyber Security Student"
-  ],
-  [
    1792418261.3977978,
    "Johnson Controls - Security Systems Apprentice"
   ],
@@ -7336,6 +7332,10 @@
   [
    1792505077.3620985,
    "Northrop Grumman - 2027 Cyber Systems Engineer Intern-Tampa FL"
+  ],
+  [
+   1792511716.664823,
+   "RSM - Cyber Managed Security Intern - Summer 2027"
   ]
  ]
 }
