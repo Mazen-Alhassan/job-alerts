@@ -791,6 +791,7 @@
   "t:aclukent|summer2027undergraduateinternnationalsecurityproject": "2026-10-20",
   "t:activisi|activision2027summerinternshipsinformationsecurity": "2026-10-19",
   "t:adobe|2027internsecurityengineer": "2026-10-20",
+  "t:adobe|securityengineerintern": "2026-10-20",
   "t:aeravoxd|cyberprofessionalservicesintern": "2026-10-09",
   "t:aerospac|cybersecurityinternsummer2027": "2026-10-20",
   "t:aig|2027earlycareerssummerinternforensicaccountingunitedstatesdallastxchicagoil": "2026-10-08",
@@ -1364,6 +1365,7 @@
   "t:rtxcolli|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|summer2027cyberinternonsite": "2026-10-20",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-10-09",
+  "t:salesfor|softwareengineerinternsecuritygovernment": "2026-10-20",
   "t:salesfor|summer2027internsoftwareengineersecuritygovernment": "2026-10-20",
   "t:sandiana|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-20",
   "t:sandiana|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-20",
@@ -1436,6 +1438,7 @@
   "t:tiktok|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-10-20",
   "t:tiktok|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-20",
   "t:tiktok|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-10-20",
+  "t:together|hardwaresecurityengineerintern": "2026-10-20",
   "t:together|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:together|hardwaresecurityengineernewgrad2027": "2026-10-20",
   "t:triaemll|cybersecurityintern": "2026-10-09",
@@ -4356,7 +4359,9 @@
   "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
+  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
+   "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"
+  ],
   "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001": [],
   "oracle:gka.fa.us1.oraclecloud.com/CX": [],
   "oracle:hbbq.fa.us2.oraclecloud.com/CX_1": [],
@@ -4670,12 +4675,15 @@
    "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--10-12-weeks--Intern---AI-ML-for-Cybersecurity_R14563"
   ],
   "simplify-vansh": [
+   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159",
    "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
+   "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
    "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application",
    "https://jobs.smartrecruiters.com/llnl/3743990016165496",
    "https://jobs.smartrecruiters.com/llnl/3743990016165636",
-   "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273"
+   "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
+   "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
