@@ -61,7 +61,7 @@
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-19",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-20",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-19",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-20",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-20",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-20",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
@@ -771,7 +771,7 @@
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-20",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
   "t:accenture|internshipsecurityasoffebruary2027": "2026-10-08",
-  "t:accentur|cybersecurityinternship": "2026-10-19",
+  "t:accentur|cybersecurityinternship": "2026-10-20",
   "t:accentur|intelligencecyberdefenseintern": "2026-10-20",
   "t:aclukentucky|summer2027legalinternnationalsecurityproject": "2026-10-08",
   "t:aclukentucky|summer2027undergraduateinternnationalsecurityproject": "2026-10-08",
@@ -3689,7 +3689,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
-   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://careers.adobe.com/us/en/job/ADOBUSR173000EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
@@ -5016,7 +5015,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
