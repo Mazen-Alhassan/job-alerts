@@ -727,6 +727,7 @@
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-20",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-20",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-20",
+  "https://recruiting.ultipro.com/cry1001cryo/jobboard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/opportunitydetail": "2026-10-20",
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
   "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-10",
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
@@ -884,6 +885,7 @@
   "t:archcapi|securityoperationsintern": "2026-10-20",
   "t:arconic|cybersecurityintern": "2026-10-20",
   "t:arizonap|2027summerinternshipcybersecurity": "2026-10-10",
+  "t:artivion|cybersecurityinternparttime": "2026-10-20",
   "t:arup|physicalsecurityinternsummer2027": "2026-10-12",
   "t:asmglobal|securityintern": "2026-10-08",
   "t:asmgloba|securityintern": "2026-10-20",
@@ -3726,13 +3728,14 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
+   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://careers.adobe.com/us/en/job/ADOBUSR173000EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.docusign.com/careers-home/jobs/30540?lang=en-us&previousLocale=en-US",
    "https://careers.garmin.com/jobs/20420/job",
    "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://jobs.janushenderson.com/job/Denver-Identity-Security-Intern-CO-80206/1441677300/",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
+   "https://recruiting.ultipro.com/CRY1001CRYO/JobBoard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/OpportunityDetail?opportunityId=358ab021-580b-4d5b-bd5b-f45ea69dcf0a&postingId=c479495d-765f-45cf-b5a3-962e4c3724f4",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
    "https://talent.spa.com/jobs/23731/job",
    "https://werner.wd501.myworkdayjobs.com/en-US/Werner/job/Omaha-NE/Information-Security-Intern_JR23746"
@@ -7262,12 +7265,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-20 12",
+ "heartbeat": "2026-10-20 14",
  "recent": [
-  [
-   1792422979.8082223,
-   "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9"
-  ],
   [
    1792426697.0723891,
    "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9-EN"
@@ -7359,6 +7358,10 @@
   [
    1792515509.9011376,
    "Centene - Cybersecurity Summer 2027 Intern (Undergraduate)"
+  ],
+  [
+   1792519755.3620439,
+   "Artivion - Cybersecurity Intern (Part-Time)"
   ]
  ]
 }
