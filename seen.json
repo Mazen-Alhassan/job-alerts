@@ -624,6 +624,7 @@
   "https://linkedin.com/jobs/view/4478294739": "2026-10-20",
   "https://linkedin.com/jobs/view/4478437995": "2026-10-15",
   "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478676751": "2026-10-20",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
   "https://linkedin.com/jobs/view/4478842083": "2026-10-16",
@@ -1157,6 +1158,7 @@
   "t:irvingco|securityanalyststudentwinter2027": "2026-10-20",
   "t:jabil|interncybersecurity": "2026-10-08",
   "t:jacobs|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-08",
+  "t:janushen|identitysecurityintern": "2026-10-20",
   "t:jefferso|cybersecuritystudentintern": "2026-10-09",
   "t:johnshopkins|cyberphysicalsystemsintern": "2026-10-08",
   "t:johnshop|2027internshipcyberphysicalsystems": "2026-10-20",
@@ -4126,15 +4128,19 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4454442215",
+   "https://www.linkedin.com/jobs/view/4454452194",
    "https://www.linkedin.com/jobs/view/4454457076",
+   "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4473008825",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478294739",
+   "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480150772",
    "https://www.linkedin.com/jobs/view/4480274983",
    "https://www.linkedin.com/jobs/view/4480278304",
+   "https://www.linkedin.com/jobs/view/4480280222",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240"
   ],
@@ -7291,6 +7297,10 @@
   [
    1792498176.2361722,
    "Grainger - GTG Intern - Cybersecurity"
+  ],
+  [
+   1792499524.444641,
+   "Janus Henderson Investors - Identity Security Intern"
   ]
  ]
 }
