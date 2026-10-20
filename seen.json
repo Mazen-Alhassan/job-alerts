@@ -231,6 +231,7 @@
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
+  "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-20",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-20",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-20",
@@ -973,6 +974,7 @@
   "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-09",
   "t:centenec|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
   "t:centene|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
+  "t:centene|cybersecuritysummer2027internundergraduate": "2026-10-20",
   "t:centrus|securityintern": "2026-10-20",
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-20",
   "t:certik|securityresearchinternship": "2026-10-20",
@@ -5462,7 +5464,9 @@
   "wd+:cengage/CengageNorthAmericaCareers": [],
   "wd+:cenhud/cenhud": [],
   "wd+:cenovus/careers": [],
-  "wd+:centene/Centene_External": [],
+  "wd+:centene/Centene_External": [
+   "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
+  ],
   "wd+:centerstone/centerstonecareers": [],
   "wd+:centific/Centific_Global": [],
   "wd+:centrica/Centrica": [],
@@ -7351,6 +7355,10 @@
   [
    1792515234.7788537,
    "CoStar Group - Security Engineer Intern - Arlington, VA"
+  ],
+  [
+   1792515509.9011376,
+   "Centene - Cybersecurity Summer 2027 Intern (Undergraduate)"
   ]
  ]
 }
