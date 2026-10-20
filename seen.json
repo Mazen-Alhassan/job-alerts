@@ -384,6 +384,7 @@
   "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d": "2026-10-20",
   "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550": "2026-10-20",
   "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582": "2026-10-20",
+  "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d": "2026-10-20",
   "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": "2026-10-20",
   "https://jobs.battelle.org/us/en/job/76282": "2026-10-15",
   "https://jobs.battelle.org/us/en/job/76524": "2026-10-20",
@@ -1170,6 +1171,7 @@
   "t:idemia|cybersecurityinternship": "2026-10-20",
   "t:idrinc|incidentresponseintern": "2026-10-08",
   "t:iex|cybersecurityanalystintern": "2026-10-20",
+  "t:illumio|engineeringinternproductsecurity": "2026-10-20",
   "t:independ|cybersecurityinternsummer2027": "2026-10-10",
   "t:ing|cybersecurityintern1": "2026-10-20",
   "t:ing|cybersecurityintern2": "2026-10-20",
@@ -1910,7 +1912,9 @@
   ],
   "ashby:icon": [],
   "ashby:idler": [],
-  "ashby:illumio": [],
+  "ashby:illumio": [
+   "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d"
+  ],
   "ashby:imprint": [],
   "ashby:incident": [],
   "ashby:inductive-automation-llc": [],
@@ -7258,26 +7262,6 @@
  "heartbeat": "2026-10-20 16",
  "recent": [
   [
-   1792426697.0723891,
-   "CAE - Stagiaire sp\u00e9cialiste de l\u2019int\u00e9gration en cybers\u00e9curit\u00e9-EN"
-  ],
-  [
-   1792428484.9105926,
-   "Salesforce - Summer 2027 Intern - Software Engineer (Security/Government)"
-  ],
-  [
-   1792429770.42432,
-   "Adobe - 2027 Intern - Security Engineer"
-  ],
-  [
-   1792429869.6181083,
-   "Cryptic Vector - Summer 2027 Cyber Engineering Internship"
-  ],
-  [
-   1792434824.280575,
-   "Garmin - Cyber Security Engineer Intern"
-  ],
-  [
    1792438070.1262023,
    "Marsh & McLennan - Cyber Analytics Actuarial Spring Co-op - College Program 2027"
   ],
@@ -7352,6 +7336,10 @@
   [
    1792519755.3620439,
    "Artivion - Cybersecurity Intern (Part-Time)"
+  ],
+  [
+   1792530559.4119685,
+   "Illumio - Engineering Intern, Product Security"
   ]
  ]
 }
