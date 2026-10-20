@@ -345,7 +345,7 @@
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299002": "2026-10-17",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/299004": "2026-10-17",
   "https://iawmqy.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/300404": "2026-10-20",
-  "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-19",
+  "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-20",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-20",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-20",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-20",
@@ -1129,7 +1129,7 @@
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-20",
   "t:honeywel|cybersecurityinternsummer2027": "2026-10-14",
-  "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-19",
+  "t:honeywel|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-20",
   "t:horizonl|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howden|underwritinginterncyber": "2026-10-20",
   "t:howmetae|cybersecurityintern": "2026-10-16",
@@ -2272,9 +2272,7 @@
    "https://jobs.ericsson.com/careers/job/563121777370331"
   ],
   "eightfold:johndeere.eightfold.ai": [],
-  "eightfold:lockheedmartin.eightfold.ai": [
-   "https://lockheedmartin.eightfold.ai/careers/job/996477335927"
-  ],
+  "eightfold:lockheedmartin.eightfold.ai": [],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
   "eightfold:qualcomm.eightfold.ai": [
@@ -3711,6 +3709,7 @@
    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://careers.adobe.com/us/en/job/ADOBUSR173000EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.garmin.com/jobs/20420/job",
+   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
    "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
    "https://talent.spa.com/jobs/23731/job",
