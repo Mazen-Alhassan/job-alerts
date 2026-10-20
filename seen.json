@@ -3694,7 +3694,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
-   "https://cae.wd3.myworkdayjobs.com/fr-CA/career/job/Montral-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941",
    "https://careers.adobe.com/us/en/job/ADOBUSR173000EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.garmin.com/jobs/20420/job",
    "https://nfg.wd504.myworkdayjobs.com/Nassau/job/Hartford-Office/Intern---Cybersecurity-Risk_JR100025",
@@ -5021,7 +5020,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
