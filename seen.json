@@ -384,6 +384,7 @@
   "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d": "2026-10-20",
   "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550": "2026-10-20",
   "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582": "2026-10-20",
+  "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260": "2026-10-20",
   "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d": "2026-10-20",
   "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": "2026-10-20",
   "https://jobs.battelle.org/us/en/job/76282": "2026-10-15",
@@ -674,6 +675,7 @@
   "https://linkedin.com/jobs/view/4481252240": "2026-10-20",
   "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
+  "https://linkedin.com/jobs/view/4481760805": "2026-10-20",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1172,6 +1174,7 @@
   "t:idrinc|incidentresponseintern": "2026-10-08",
   "t:iex|cybersecurityanalystintern": "2026-10-20",
   "t:illumio|engineeringinternproductsecurity": "2026-10-20",
+  "t:illumio|securityresearchintern": "2026-10-20",
   "t:independ|cybersecurityinternsummer2027": "2026-10-10",
   "t:ing|cybersecurityintern1": "2026-10-20",
   "t:ing|cybersecurityintern2": "2026-10-20",
@@ -1913,6 +1916,7 @@
   "ashby:icon": [],
   "ashby:idler": [],
   "ashby:illumio": [
+   "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d"
   ],
   "ashby:imprint": [],
@@ -4172,9 +4176,9 @@
    "https://www.linkedin.com/jobs/view/4478140024",
    "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480274983",
-   "https://www.linkedin.com/jobs/view/4480278304",
    "https://www.linkedin.com/jobs/view/4480494475",
-   "https://www.linkedin.com/jobs/view/4480709263"
+   "https://www.linkedin.com/jobs/view/4480709263",
+   "https://www.linkedin.com/jobs/view/4481760805"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7340,6 +7344,10 @@
   [
    1792530559.4119685,
    "Illumio - Engineering Intern, Product Security"
+  ],
+  [
+   1792530838.84229,
+   "Illumio - Security Research Intern"
   ]
  ]
 }
