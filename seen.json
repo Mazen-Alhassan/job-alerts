@@ -466,6 +466,7 @@
   "https://linkedin.com/jobs/view/4454859407": "2026-10-19",
   "https://linkedin.com/jobs/view/4454870344": "2026-10-18",
   "https://linkedin.com/jobs/view/4454871309": "2026-10-18",
+  "https://linkedin.com/jobs/view/4455264622": "2026-10-20",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
   "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
   "https://linkedin.com/jobs/view/4458967970": "2026-10-11",
@@ -1090,6 +1091,7 @@
   "t:gordonfoodse|identityanalystitinternship": "2026-10-08",
   "t:gordonfo|identityanalystitinternship": "2026-10-20",
   "t:graco|cybersecurityintern": "2026-10-20",
+  "t:grainger|gtginterncybersecurity": "2026-10-20",
   "t:guardianlife|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guardian|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-20",
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-20",
@@ -4123,8 +4125,19 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4478294739",
-   "https://www.linkedin.com/jobs/view/4481250158"
+   "https://www.linkedin.com/jobs/view/4454442215",
+   "https://www.linkedin.com/jobs/view/4454452194",
+   "https://www.linkedin.com/jobs/view/4454457076",
+   "https://www.linkedin.com/jobs/view/4455264622",
+   "https://www.linkedin.com/jobs/view/4472769079",
+   "https://www.linkedin.com/jobs/view/4473008825",
+   "https://www.linkedin.com/jobs/view/4478135096",
+   "https://www.linkedin.com/jobs/view/4478140024",
+   "https://www.linkedin.com/jobs/view/4480150772",
+   "https://www.linkedin.com/jobs/view/4480274983",
+   "https://www.linkedin.com/jobs/view/4480278304",
+   "https://www.linkedin.com/jobs/view/4480280222",
+   "https://www.linkedin.com/jobs/view/4481252240"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7209,18 +7222,6 @@
  "heartbeat": "2026-10-20 08",
  "recent": [
   [
-   1792399710.6246881,
-   "ING - Cybersecurity Intern - 3"
-  ],
-  [
-   1792399710.6246903,
-   "ING - Cybersecurity Intern - 2"
-  ],
-  [
-   1792399710.624691,
-   "ING - Cybersecurity Intern - 1"
-  ],
-  [
    1792411140.091993,
    "Rochester Regional Health - RIT Co-op: Security Engineering"
   ],
@@ -7287,6 +7288,10 @@
   [
    1792491416.3468542,
    "Collins Aerospace - Cyber Research Internship (Summer 2027) - Onsite"
+  ],
+  [
+   1792498176.2361722,
+   "Grainger - GTG Intern - Cybersecurity"
   ]
  ]
 }
