@@ -709,6 +709,7 @@
   "https://linkedin.com/jobs/view/4481786462": "2026-10-21",
   "https://linkedin.com/jobs/view/4482067944": "2026-10-21",
   "https://linkedin.com/jobs/view/4482083490": "2026-10-21",
+  "https://linkedin.com/jobs/view/4482176819": "2026-10-21",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1505,6 +1506,7 @@
   "t:texasins|informationtechnologyinternsecurity": "2026-10-21",
   "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thales|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-21",
+  "t:theaeros|2027hardwaresecurityengineeringgradintern": "2026-10-21",
   "t:theaeros|2027hardwaresecurityengineeringundergradintern": "2026-10-21",
   "t:thechurc|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-15",
   "t:thechurc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-14",
@@ -3795,6 +3797,8 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
+   "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
    "https://careers.adobe.com/us/en/job/ADOBUSR173001EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/C6FB4492B2F0B714C04B07335A78FB35?source=Indeed",
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
@@ -4243,7 +4247,8 @@
    "https://www.linkedin.com/jobs/view/4480754664",
    "https://www.linkedin.com/jobs/view/4481138109",
    "https://www.linkedin.com/jobs/view/4482067944",
-   "https://www.linkedin.com/jobs/view/4482083490"
+   "https://www.linkedin.com/jobs/view/4482083490",
+   "https://www.linkedin.com/jobs/view/4482176819"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
