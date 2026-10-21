@@ -671,6 +671,7 @@
   "https://linkedin.com/jobs/view/4479432755": "2026-10-21",
   "https://linkedin.com/jobs/view/4479434038": "2026-10-21",
   "https://linkedin.com/jobs/view/4479438675": "2026-10-21",
+  "https://linkedin.com/jobs/view/4479442976": "2026-10-21",
   "https://linkedin.com/jobs/view/4479546662": "2026-10-15",
   "https://linkedin.com/jobs/view/4479585043": "2026-10-15",
   "https://linkedin.com/jobs/view/4479709136": "2026-10-15",
@@ -4236,7 +4237,7 @@
    "https://www.linkedin.com/jobs/view/4479432755",
    "https://www.linkedin.com/jobs/view/4479434038",
    "https://www.linkedin.com/jobs/view/4479438675",
-   "https://www.linkedin.com/jobs/view/4480729402",
+   "https://www.linkedin.com/jobs/view/4479442976",
    "https://www.linkedin.com/jobs/view/4480733321",
    "https://www.linkedin.com/jobs/view/4480754664",
    "https://www.linkedin.com/jobs/view/4481138109",
@@ -6095,7 +6096,9 @@
   "wd+:integralads/IAScareers": [],
   "wd+:integralife/careers": [],
   "wd+:integritymarketing/Integrity": [],
-  "wd+:intel/external": [],
+  "wd+:intel/external": [
+   "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
+  ],
   "wd+:intelcomgroup/Intelcom": [],
   "wd+:interac/Interac": [
    "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385"
