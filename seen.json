@@ -4183,14 +4183,12 @@
    "https://www.linkedin.com/jobs/view/4455264622",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4473008825",
-   "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480489820",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4480709263",
    "https://www.linkedin.com/jobs/view/4480729402",
    "https://www.linkedin.com/jobs/view/4480733321",
    "https://www.linkedin.com/jobs/view/4480754664",
-   "https://www.linkedin.com/jobs/view/4481760805",
    "https://www.linkedin.com/jobs/view/4481786462"
   ],
   "microsoft": [
@@ -5080,7 +5078,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
