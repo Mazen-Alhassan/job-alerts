@@ -464,6 +464,7 @@
   "https://lifeattiktok.com/search/7600536394771564853": "2026-10-21",
   "https://lifeattiktok.com/search/7667935739300317493": "2026-10-21",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-10-21",
+  "https://linkedin.com/jobs/view/4435857047": "2026-10-21",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
   "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
@@ -522,6 +523,7 @@
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4462332804": "2026-10-19",
+  "https://linkedin.com/jobs/view/4462535534": "2026-10-21",
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
   "https://linkedin.com/jobs/view/4463112964": "2026-10-18",
   "https://linkedin.com/jobs/view/4463337197": "2026-10-18",
@@ -972,6 +974,7 @@
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-21",
   "t:burncoro|cybersecuritystudent": "2026-10-15",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
+  "t:bytedanc|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-21",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-17",
   "t:caciinte|cybersecurityinternsummer2027": "2026-10-15",
@@ -1286,6 +1289,7 @@
   "t:microsof|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-10-21",
   "t:microsof|securityassuranceinternctjts": "2026-10-21",
   "t:microsof|securityoperationsengineeringintern": "2026-10-09",
+  "t:midconti|2027summerinterncybersecuritygraduate": "2026-10-21",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-21",
   "t:mitre|cyberoperationsengineerintern": "2026-10-21",
@@ -4180,15 +4184,18 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4455264622",
+   "https://www.linkedin.com/jobs/view/4462535534",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4473008825",
-   "https://www.linkedin.com/jobs/view/4480489820",
+   "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4480709263",
    "https://www.linkedin.com/jobs/view/4480729402",
    "https://www.linkedin.com/jobs/view/4480733321",
    "https://www.linkedin.com/jobs/view/4480754664",
+   "https://www.linkedin.com/jobs/view/4481760805",
    "https://www.linkedin.com/jobs/view/4481786462"
   ],
   "microsoft": [
@@ -7348,6 +7355,14 @@
   [
    1792563797.6444092,
    "Centene Corporation - Cybersecurity Summer 2027 Intern (Undergraduate)"
+  ],
+  [
+   1792577970.631895,
+   "Midcontinent Independent System Operator (MISO) - 2027 Summer Intern - Cybersecurity (Grad"
+  ],
+  [
+   1792577970.631898,
+   "ByteDance - Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/"
   ]
  ]
 }
