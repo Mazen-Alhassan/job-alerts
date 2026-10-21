@@ -231,7 +231,7 @@
   "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-16",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-21",
-  "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-09",
+  "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-21",
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-21",
@@ -985,7 +985,7 @@
   "t:carnegie|aisecurityresearchinternsummer2027": "2026-10-10",
   "t:carnegie|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
   "t:caterpillar|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-08",
-  "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-09",
+  "t:caterpil|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-21",
   "t:centenec|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
   "t:centene|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
   "t:centene|cybersecuritysummer2027internundergraduate": "2026-10-21",
@@ -4189,11 +4189,11 @@
    "https://www.linkedin.com/jobs/view/4473008825",
    "https://www.linkedin.com/jobs/view/4478135096",
    "https://www.linkedin.com/jobs/view/4478140024",
-   "https://www.linkedin.com/jobs/view/4478676751",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4480709263",
    "https://www.linkedin.com/jobs/view/4480729402",
-   "https://www.linkedin.com/jobs/view/4480733321"
+   "https://www.linkedin.com/jobs/view/4480733321",
+   "https://www.linkedin.com/jobs/view/4480754664"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5479,7 +5479,9 @@
   "wd+:carrier/jobs": [],
   "wd+:cart/Cart": [],
   "wd+:carters/CartersCareers": [],
-  "wd+:cat/CaterpillarCareers": [],
+  "wd+:cat/CaterpillarCareers": [
+   "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/East-Peoria-Illinois/Secure-Technology-Apprentice--Cybersecurity-Apprenticeship-_R0000396195"
+  ],
   "wd+:cat/solarturbines": [],
   "wd+:cboe/External_Career_CBOE": [],
   "wd+:cc/ChanelCareers": [],
