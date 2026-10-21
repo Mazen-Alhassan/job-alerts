@@ -530,6 +530,8 @@
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
   "https://linkedin.com/jobs/view/4463112964": "2026-10-18",
   "https://linkedin.com/jobs/view/4463337197": "2026-10-18",
+  "https://linkedin.com/jobs/view/4463556460": "2026-10-21",
+  "https://linkedin.com/jobs/view/4463573184": "2026-10-21",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -869,6 +871,7 @@
   "t:americanfami|summer2027interncybersecurity": "2026-10-08",
   "t:americanfami|summer2027internitcybersecurity": "2026-10-08",
   "t:americantran|interncybersecuritysummer2027": "2026-10-08",
+  "t:american|blueteamcybersecurityintern": "2026-10-21",
   "t:american|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesatlantaga": "2026-10-21",
   "t:american|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesnewyorkny": "2026-10-21",
   "t:american|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesphoenixaz": "2026-10-21",
@@ -885,6 +888,7 @@
   "t:american|springinternnationalsecuritystrategypentagonbudgetingandtheusdefenseindustrialbase": "2026-10-21",
   "t:american|summer2027interncybersecurity": "2026-10-21",
   "t:american|summer2027internitcybersecurity": "2026-10-19",
+  "t:american|threatandvulnerabilitymanagementintern": "2026-10-21",
   "t:ankuraconsul|universityinternconstructiondisputesadvisoryforensicaccountingclaimsconsulting": "2026-10-08",
   "t:appian|informationsecurityengineerintern": "2026-10-21",
   "t:applebank|2027summerinterninformationsecurity": "2026-10-08",
@@ -3766,7 +3770,6 @@
    "https://careers.adobe.com/us/en/job/ADOBUSR173001EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.docusign.com/careers-home/jobs/30540?lang=en-us&previousLocale=en-US",
    "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/C6FB4492B2F0B714C04B07335A78FB35?source=Indeed",
-   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
    "https://jobs.janushenderson.com/job/Denver-Identity-Security-Intern-CO-80206/1441677300/",
@@ -4202,6 +4205,8 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4462535534",
+   "https://www.linkedin.com/jobs/view/4463556460",
+   "https://www.linkedin.com/jobs/view/4463573184",
    "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4480709263",
@@ -7302,10 +7307,6 @@
  "heartbeat": "2026-10-21 10",
  "recent": [
   [
-   1792498176.2361722,
-   "Grainger - GTG Intern - Cybersecurity"
-  ],
-  [
    1792499524.444641,
    "Janus Henderson Investors - Identity Security Intern"
   ],
@@ -7384,6 +7385,14 @@
   [
    1792590097.6903622,
    "Duke Energy - Nuclear Cybersecurity 2027 Summer Internship"
+  ],
+  [
+   1792592547.7399259,
+   "American National - Blue Team / Cybersecurity Intern"
+  ],
+  [
+   1792592547.7399273,
+   "American National - Threat and Vulnerability Management Intern"
   ]
  ]
 }
