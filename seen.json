@@ -66,6 +66,7 @@
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-10-21",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-grad-intern_r016953": "2026-10-21",
+  "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-undergrad--intern_r016954": "2026-10-21",
   "https://ag.wd3.myworkdayjobs.com/airbus/job/getafe-area/cyber-security-internships---2027_jr10452362": "2026-10-21",
   "https://aig.wd1.myworkdayjobs.com/early_careers/job/il-chicago/xmlname-2027-early-careers--summer-intern--forensic-accounting---united-states--dallas--tx---chicago--il_jr2603648": "2026-10-08",
   "https://airproducts.wd5.myworkdayjobs.com/ap0001/job/allentown-pennsylvania/summer-intern--it---cyber-audit--2027-_jr-2026-21954": "2026-10-21",
@@ -829,6 +830,7 @@
   "t:adobe|securityengineerintern": "2026-10-21",
   "t:aeravoxd|cyberprofessionalservicesintern": "2026-10-09",
   "t:aerospac|2027hardwaresecurityengineeringgradintern": "2026-10-21",
+  "t:aerospac|2027hardwaresecurityengineeringundergradintern": "2026-10-21",
   "t:aerospac|cybersecurityinternsummer2027": "2026-10-21",
   "t:aig|2027earlycareerssummerinternforensicaccountingunitedstatesdallastxchicagoil": "2026-10-08",
   "t:airbus|cybersecurityinternships2027": "2026-10-21",
@@ -7062,7 +7064,8 @@
    "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
   ],
   "wd:aero/external": [
-   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953"
+   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
+   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954"
   ],
   "wd:aig/aig": [],
   "wd:archgroup/careers": [
@@ -7401,6 +7404,10 @@
   [
    1792595201.6092165,
    "Aerospace Corp - 2027 Hardware Security Engineering Grad Intern"
+  ],
+  [
+   1792596460.6867614,
+   "Aerospace Corp - 2027 Hardware Security Engineering Undergrad \u202fIntern"
   ]
  ]
 }
