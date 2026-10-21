@@ -58,6 +58,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393556999327": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557019490": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-21",
+  "https:/.careers.microsoft.com/careers/job/1970393557044765": "2026-10-21",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-21",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-21",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
@@ -1326,6 +1327,7 @@
   "t:microsof|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-10-21",
   "t:microsof|securityassuranceinternctjts": "2026-10-21",
   "t:microsof|securityoperationsengineeringintern": "2026-10-09",
+  "t:microsof|softwareengineersecurityidentityinternopportunitiesforuniversitystudentscambridge": "2026-10-21",
   "t:midconti|2027summerinterncybersecuritygraduate": "2026-10-21",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-21",
@@ -4245,7 +4247,8 @@
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
-   "https://apply.careers.microsoft.com/careers/job/1970393557022480"
+   "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+   "https://apply.careers.microsoft.com/careers/job/1970393557044765"
   ],
   "netflix": [
    "https://explore.jobs.netflix.net/careers/job/790318904468"
@@ -7406,6 +7409,10 @@
   [
    1792620530.6764672,
    "Intel - Information Security Engineer Undergraduate Intern"
+  ],
+  [
+   1792622595.9364777,
+   "Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Stu"
   ]
  ]
 }
