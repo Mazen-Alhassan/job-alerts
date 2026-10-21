@@ -3752,7 +3752,6 @@
   "jobspy": [
    "https://careers.adobe.com/us/en/job/ADOBUSR173001EXTERNALENUS/2027-Intern-Security-Engineer",
    "https://careers.docusign.com/careers-home/jobs/30540?lang=en-us&previousLocale=en-US",
-   "https://careers.garmin.com/jobs/20420/job",
    "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
@@ -5083,7 +5082,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [
    "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Assago-Via-del-Mulino-11a/Intelligence-Cyber-Defense-Intern_R00311701"
   ],
