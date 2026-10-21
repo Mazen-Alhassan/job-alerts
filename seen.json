@@ -282,6 +282,7 @@
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011913": "2026-10-21",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012444": "2026-10-21",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012462": "2026-10-21",
+  "https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27404": "2026-10-21",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/20249": "2026-10-21",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/21006": "2026-10-21",
   "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/in-indianapolis-220-virginia-ave/information-security-co-op-internship---2027_jr205939": "2026-10-21",
@@ -1075,6 +1076,7 @@
   "t:disney|disneylandcybersecurityinternspring2027": "2026-10-13",
   "t:docusign|securityintern": "2026-10-21",
   "t:dormanpr|cybersecurityintern": "2026-10-16",
+  "t:dpworld|informationsecurityintern": "2026-10-21",
   "t:draper|classifiedcybersecurityitintern": "2026-10-20",
   "t:draper|classifiedcybersecurityitinternshipsummer2027": "2026-10-21",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-21",
@@ -4219,12 +4221,10 @@
    "https://www.linkedin.com/jobs/view/4462535534",
    "https://www.linkedin.com/jobs/view/4463556460",
    "https://www.linkedin.com/jobs/view/4463573184",
-   "https://www.linkedin.com/jobs/view/4471128909",
    "https://www.linkedin.com/jobs/view/4473505428",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479434038",
-   "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4480709263",
    "https://www.linkedin.com/jobs/view/4480729402",
    "https://www.linkedin.com/jobs/view/4480733321",
@@ -4301,7 +4301,9 @@
   "oracle:egup.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ehac.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:ehif.fa.em2.oraclecloud.com/CX_1": [],
-  "oracle:ehpv.fa.em2.oraclecloud.com/CX_1": [],
+  "oracle:ehpv.fa.em2.oraclecloud.com/CX_1": [
+   "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404"
+  ],
   "oracle:ehtc.fa.ca2.oraclecloud.com/CX_1": [],
   "oracle:ehth.fa.em2.oraclecloud.com/CX_2001": [],
   "oracle:ehtl.fa.us6.oraclecloud.com/CX": [],
@@ -7322,10 +7324,6 @@
  "heartbeat": "2026-10-21 12",
  "recent": [
   [
-   1792505077.3620985,
-   "Northrop Grumman - 2027 Cyber Systems Engineer Intern-Tampa FL"
-  ],
-  [
    1792511716.664823,
    "RSM - Cyber Managed Security Intern - Summer 2027"
   ],
@@ -7404,6 +7402,10 @@
   [
    1792598659.2418568,
    "RWJBarnabas Health - Cybersecurity Intern, Information Security"
+  ],
+  [
+   1792604085.3375406,
+   "DP World - Information Security Intern"
   ]
  ]
 }
