@@ -61,7 +61,7 @@
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-21",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-21",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-20",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-21",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-10-21",
@@ -800,7 +800,7 @@
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-21",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
   "t:accenture|internshipsecurityasoffebruary2027": "2026-10-08",
-  "t:accentur|cybersecurityinternship": "2026-10-20",
+  "t:accentur|cybersecurityinternship": "2026-10-21",
   "t:accentur|intelligencecyberdefenseintern": "2026-10-21",
   "t:aclukentucky|summer2027legalinternnationalsecurityproject": "2026-10-08",
   "t:aclukentucky|summer2027undergraduateinternnationalsecurityproject": "2026-10-08",
@@ -3754,7 +3754,6 @@
    "https://jobs.siemens.com/externaljobs/JobDetail/525197?source=Indeed",
    "https://recruiting.ultipro.com/CRY1001CRYO/JobBoard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/OpportunityDetail?opportunityId=358ab021-580b-4d5b-bd5b-f45ea69dcf0a&postingId=c479495d-765f-45cf-b5a3-962e4c3724f4",
    "https://talent.spa.com/jobs/23731/job",
-   "https://werner.wd501.myworkdayjobs.com/en-US/Werner/job/Omaha-NE/Information-Security-Intern_JR23746",
    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ac6f49c-713a-4d12-b0c7-6284b7f98767&ccId=19000101_000001&jobId=586317&source=IN&lang=en_US"
   ],
   "jobvite:aarete": [],
@@ -7279,7 +7278,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-20 20",
+ "heartbeat": "2026-10-20 22",
  "recent": [
   [
    1792438070.1262023,
