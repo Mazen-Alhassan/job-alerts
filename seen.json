@@ -182,6 +182,7 @@
   "https://careers-sentinel.icims.com/jobs/5132/job": "2026-10-11",
   "https://careers-sentinel.icims.com/jobs/5132/soc-intern/job": "2026-10-21",
   "https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job": "2026-10-21",
+  "https://careers-stifel.icims.com/jobs/9952/information-security-intern--summer-2027/job": "2026-10-21",
   "https://careers-thesilverlining.icims.com/jobs/3792/summer-2027-internship---information-security/job": "2026-10-21",
   "https://careers-uwmcareers.icims.com/jobs/15910/2027-building-security-summer-internship-program/job": "2026-10-21",
   "https://careers-wipfli.icims.com/jobs/8457/soc-security-internship--summer-2027/job": "2026-10-15",
@@ -369,6 +370,7 @@
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-10-21",
   "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/toronto-ontario-can/new-grad-tech-development-program---cybersecurity-stream_r155808": "2026-10-12",
+  "https://intel.wd1.myworkdayjobs.com/external/job/us-california-folsom/information-security-engineer-undergraduate-intern_jr0287588": "2026-10-21",
   "https://interac.wd3.myworkdayjobs.com/interac/job/toronto/information-security-intern_req-2385": "2026-10-21",
   "https://internships-aei.icims.com/jobs/2676/spring-intern%3a-critical-threats-project-%e2%80%93-africa/job": "2026-10-21",
   "https://internships-aei.icims.com/jobs/2677/spring-intern%3a-critical-threats-project---communications-and-operations/job": "2026-10-21",
@@ -1225,6 +1227,7 @@
   "t:inmarintelli|informationsecurityinternshipssummer2027": "2026-10-08",
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-21",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
+  "t:intel|informationsecurityengineerundergraduateintern": "2026-10-21",
   "t:interacc|informationsecurityintern": "2026-10-16",
   "t:interac|informationsecurityintern": "2026-10-21",
   "t:intuit|summer2027cybersecuritycomplianceintern": "2026-10-21",
@@ -1469,6 +1472,7 @@
   "t:spacex|newgraduateengineersoftwaresecurity2627starlink": "2026-10-21",
   "t:spectrum|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-18",
   "t:stellant|2027corporatesecuritysummerinternship": "2026-10-15",
+  "t:stifel|informationsecurityinternsummer2027": "2026-10-21",
   "t:stracta|cybersecuritystudent": "2026-10-19",
   "t:studente|studentworkerinformationsecurityinternbc": "2026-10-21",
   "t:studente|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-21",
@@ -3649,7 +3653,9 @@
   "icims:careers-steampunk.icims.com": [],
   "icims:careers-steeldynamics.icims.com": [],
   "icims:careers-stellantsystems.icims.com": [],
-  "icims:careers-stifel.icims.com": [],
+  "icims:careers-stifel.icims.com": [
+   "https://careers-stifel.icims.com/jobs/9952/information-security-intern--summer-2027/job"
+  ],
   "icims:careers-stonex.icims.com": [],
   "icims:careers-strattec.icims.com": [],
   "icims:careers-structurepoint.icims.com": [],
@@ -3791,10 +3797,10 @@
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
-   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002JwDUAU&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2535222523640873%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8c987-cce6-11f1-9933-e3d908ff1dc0%26rx_job%3Da1KiE0000002JwDUAU%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T200405Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KKPUA2&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1359570553913180%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8efc8-cce6-11f1-93c4-e3d908ff1dc0%26rx_job%3Da1KiE0000002KKPUA2%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T200405Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KQrUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1677981003713152%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d90016-cce6-11f1-94ae-e3d908ff1dc0%26rx_job%3Da1KiE0000002KQrUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T200405Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003YBdUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1079627324896327%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D2c63aaa6-cce6-11f1-8533-e3d908ff1dc0%26rx_job%3Da1KiE0000003YBdUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T200405Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
+   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002JwDUAU&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2535222523640873%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8c987-cce6-11f1-9933-e3d908ff1dc0%26rx_job%3Da1KiE0000002JwDUAU%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T220419Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
+   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KKPUA2&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1359570553913180%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8efc8-cce6-11f1-93c4-e3d908ff1dc0%26rx_job%3Da1KiE0000002KKPUA2%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T220419Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
+   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KQrUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1677981003713152%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d90016-cce6-11f1-94ae-e3d908ff1dc0%26rx_job%3Da1KiE0000002KQrUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T220419Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
+   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003YBdUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1079627324896327%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D2c63aaa6-cce6-11f1-8533-e3d908ff1dc0%26rx_job%3Da1KiE0000003YBdUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T220419Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ac6f49c-713a-4d12-b0c7-6284b7f98767&ccId=19000101_000001&jobId=586317&source=IN&lang=en_US",
    "https://www.rwjbarnabashealthcareers.org/job/155949/cybersecurity-intern-information-security-nurses-us-nj-west-orange-95-old-short-hills-road/"
   ],
@@ -7116,7 +7122,9 @@
   "wd:globalhr/REC_RTX_Ext_Gateway": [],
   "wd:hp/ExternalCareerSite": [],
   "wd:hpe/Jobsathpe": [],
-  "wd:intel/External": [],
+  "wd:intel/External": [
+   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
+  ],
   "wd:leidos/External": [],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
@@ -7323,7 +7331,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-21 16",
+ "heartbeat": "2026-10-21 18",
  "recent": [
   [
    1792530559.4119685,
@@ -7388,6 +7396,14 @@
   [
    1792618720.1594133,
    "BC Pensions - Junior Security Analyst Co-op"
+  ],
+  [
+   1792620530.6764648,
+   "Stifel - Information Security Intern / Summer 2027"
+  ],
+  [
+   1792620530.6764672,
+   "Intel - Information Security Engineer Undergraduate Intern"
   ]
  ]
 }
