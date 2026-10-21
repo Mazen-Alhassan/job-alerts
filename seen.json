@@ -267,6 +267,7 @@
   "https://dmainc.wd5.myworkdayjobs.com/dma/job/fort-wayne-in/cybersecurity-intern---summer-2027_req742": "2026-10-21",
   "https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/classified-cybersecurity-it-internship--summer-2027-_jr003021": "2026-10-21",
   "https://dsp.prng.co/eimvxfb": "2026-10-16",
+  "https://dukeenergy.wd1.myworkdayjobs.com/search/job/hartsville-sc/nuclear-cybersecurity-2027-summer-internship_r42099": "2026-10-21",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/lake-mary-fl/pgo-cybersecurity-spring-2027-co-op_r41837": "2026-10-09",
   "https://easyapply.co/job/cybersecurity-student": "2026-10-15",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11594": "2026-10-21",
@@ -1066,6 +1067,7 @@
   "t:ducharmemcmi|cybersecurityinternsummer2027": "2026-10-08",
   "t:ducharme|cybersecurityinternsummer2027": "2026-10-21",
   "t:dukeenergy|pgocybersecurityspring2027coop": "2026-10-08",
+  "t:dukeener|nuclearcybersecurity2027summerinternship": "2026-10-21",
   "t:dukeener|pgocybersecurityspring2027coop": "2026-10-09",
   "t:eastpenn|itcybersecurityinternshipsummer2027": "2026-10-21",
   "t:echelonr|riskadvisorygrcinternremoteusa": "2026-10-13",
@@ -3773,7 +3775,6 @@
    "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KKPUA2&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1359570553913180%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8efc8-cce6-11f1-93c4-e3d908ff1dc0%26rx_job%3Da1KiE0000002KKPUA2%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T120404Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
    "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002KQrUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1677981003713152%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d90016-cce6-11f1-94ae-e3d908ff1dc0%26rx_job%3Da1KiE0000002KQrUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T120404Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
    "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003YBdUAM&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1079627324896327%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D2c63aaa6-cce6-11f1-8533-e3d908ff1dc0%26rx_job%3Da1KiE0000003YBdUAM%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T120404Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
-   "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000003YBdUAM_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F1079627324896327%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D2c6557ef-cce6-11f1-8f3e-e3d908ff1dc0%26rx_job%3Da1KiE0000003YBdUAM_1001%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261021T120404Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
    "https://recruiting.ultipro.com/CRY1001CRYO/JobBoard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/OpportunityDetail?opportunityId=358ab021-580b-4d5b-bd5b-f45ea69dcf0a&postingId=c479495d-765f-45cf-b5a3-962e4c3724f4",
    "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2ac6f49c-713a-4d12-b0c7-6284b7f98767&ccId=19000101_000001&jobId=586317&source=IN&lang=en_US"
   ],
@@ -7082,7 +7083,9 @@
    "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Stage-au-Bureau-de-la-Scurit-Desjardins--Hiver-2027_R2610591-1"
   ],
   "wd:disney/disneycareer": [],
-  "wd:dukeenergy/search": [],
+  "wd:dukeenergy/search": [
+   "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099"
+  ],
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
@@ -7299,10 +7302,6 @@
  "heartbeat": "2026-10-21 08",
  "recent": [
   [
-   1792491416.3468542,
-   "Collins Aerospace - Cyber Research Internship (Summer 2027) - Onsite"
-  ],
-  [
    1792498176.2361722,
    "Grainger - GTG Intern - Cybersecurity"
   ],
@@ -7381,6 +7380,10 @@
   [
    1792578342.3686354,
    "Airbus - Cyber Security Internships - 2027"
+  ],
+  [
+   1792590097.6903622,
+   "Duke Energy - Nuclear Cybersecurity 2027 Summer Internship"
   ]
  ]
 }
