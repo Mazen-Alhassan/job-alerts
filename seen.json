@@ -210,6 +210,7 @@
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-10",
+  "https://careers.hscpoly.com/job/hemlock-it-infrastructure-&-security-summer-intern-mi-48626/1442692500": "2026-10-22",
   "https://careers.jacobs.com/en_us/careers/jobdetail/vds-voice-data-security-engineering-intern-summer-2027/46462": "2026-10-08",
   "https://careers.jhuapl.edu/jobs/59642": "2026-10-22",
   "https://careers.jhuapl.edu/jobs/59759": "2026-10-22",
@@ -1221,6 +1222,7 @@
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
   "t:healthca|earlycareersvulnerabilitymanagementintern": "2026-10-15",
+  "t:hemlocks|itinfrastructuresecuritysummerintern": "2026-10-22",
   "t:highline|cybersecurityintern": "2026-10-16",
   "t:hireblazer|networksecurityanalystintern": "2026-10-08",
   "t:homeoffi|urbninformationsecurityintern": "2026-10-22",
@@ -3836,6 +3838,7 @@
    "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://careers-stifel.icims.com/jobs/9952/job",
+   "https://careers.hscpoly.com/job/Hemlock-IT-Infrastructure-&-Security-Summer-Intern-MI-48626/1442692500/",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
@@ -7386,10 +7389,6 @@
  "heartbeat": "2026-10-22 12",
  "recent": [
   [
-   1792596460.6867614,
-   "Aerospace Corp - 2027 Hardware Security Engineering Undergrad \u202fIntern"
-  ],
-  [
    1792598659.2418568,
    "RWJBarnabas Health - Cybersecurity Intern, Information Security"
   ],
@@ -7464,6 +7463,10 @@
   [
    1792689235.8351722,
    "C.H. Robinson - Cyber Security Internship 2027"
+  ],
+  [
+   1792690603.1423852,
+   "Hemlock Semiconductor - IT Infrastructure & Security Summer Intern"
   ]
  ]
 }
