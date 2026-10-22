@@ -146,6 +146,7 @@
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--enterprise-cybersecurity-vulnerability-intern_r0249085": "2026-10-22",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/rome-ny/university--2027-summer-games-cyber-security-intern_r0248142": "2026-10-22",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/san-diego-ca/university--2027-summer-games-cyber-security-intern_r0248043": "2026-10-22",
+  "https://bah.wd1.myworkdayjobs.com/confidential/job/mclean-va/enterprise-cybersecurity-data-and-business-intelligence-analyst_r0252250": "2026-10-22",
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-cyber-and-security-summer-internship-programme-knutsford_jr-0000129173": "2026-10-08",
   "https://basspro.wd1.myworkdayjobs.com/careers/job/springfield-mo-bass-pro-shops-base-camp/cybersecurity-intern-summer-2027_r267444": "2026-10-22",
   "https://bcbsla.wd1.myworkdayjobs.com/generation_blue/job/corporate---baton-rouge-la/cw-security-operation-center-engineer-intern--fall-2026--starting-in-december-_r12127": "2026-10-22",
@@ -759,6 +760,7 @@
   "https://mastercard.wd1.myworkdayjobs.com/campus/job/ofallon-missouri/corporate-security-operations-intern--summer-2027---st-louis--mo--us_r-284925": "2026-10-20",
   "https://mastercard.wd1.myworkdayjobs.com/campus/job/ofallon-missouri/security-engineering---enablement-intern--summer-2027---st-louis--mo--us_r-284927": "2026-10-20",
   "https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/london---uk/cyber-security-summer-2027-intern_r-015569": "2026-10-13",
+  "https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/stevenage/cyber-security-analyst-level-6-degree-apprenticeship-2027_r39978": "2026-10-22",
   "https://meijer.wd5.myworkdayjobs.com/meijer/job/grand-rapids-mi/information-security-intern--summer-2027_r000698302": "2026-10-19",
   "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/st-louis-mo/intern---security-analyst_jr1473": "2026-10-22",
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/new-york---1166/cyber-analytics-actuarial-spring-co-op---college-program-2027_r_370066": "2026-10-22",
@@ -1022,6 +1024,7 @@
   "t:boozallen|universitysummer27enterprisecybersecuritydatalosspreventionintern": "2026-10-08",
   "t:boozallen|universitysummer27enterprisecybersecurityitpolicyintern": "2026-10-08",
   "t:boozallen|universitysummer27enterprisecybersecurityvulnerabilityintern": "2026-10-08",
+  "t:boozalle|enterprisecybersecuritydataandbusinessintelligenceanalystintern": "2026-10-22",
   "t:boozalle|enterprisecybersecuritydatalosspreventionintern": "2026-10-22",
   "t:boozalle|enterprisecybersecurityeducationandexecutionintern": "2026-10-22",
   "t:boozalle|university2027summergamescybersecurityinternannapolisjunctionmd": "2026-10-22",
@@ -1365,6 +1368,7 @@
   "t:masterca|corporatesecurityoperationsinternsummer2027stlouismous": "2026-10-20",
   "t:masterca|securityengineeringenablementinternsummer2027stlouismous": "2026-10-20",
   "t:masterca|securityinfrastructureengineeringarchitectureinternsummer2027arlingtonvaus": "2026-10-20",
+  "t:mbda|cybersecurityanalystlevel6degreeapprenticeship2027": "2026-10-22",
   "t:medpace|informationsecurityinternspring2027": "2026-10-15",
   "t:meijer|informationsecurityinternsummer2027": "2026-10-19",
   "t:memx|informationsecurityinternsummer2027hybrid": "2026-10-08",
@@ -4840,6 +4844,7 @@
    "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
   "simplify": [
+   "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
@@ -6381,7 +6386,9 @@
   "wd+:materion/Materion": [],
   "wd+:matthey/Ext_Career_Site": [],
   "wd+:maxar/Vantor": [],
-  "wd+:mbda/MBDA-UK": [],
+  "wd+:mbda/MBDA-UK": [
+   "https://mbda.wd3.myworkdayjobs.com/en-US/MBDA-UK/job/Stevenage/Cyber-Security-Analyst-Level-6-Degree-Apprenticeship-2027_R39978"
+  ],
   "wd+:mcafee/external": [],
   "wd+:mccoys/mccoys_external_careers": [],
   "wd+:mcgill/McGill_Careers": [],
@@ -7564,6 +7571,14 @@
   [
    1792708578.9346712,
    "1Password - Developer Intern - Machine Identity"
+  ],
+  [
+   1792710274.298906,
+   "Booz Allen - Enterprise Cybersecurity Data and Business Intelligence Analyst Intern"
+  ],
+  [
+   1792710274.2989085,
+   "MBDA - Cyber Security Analyst Level 6 Degree Apprenticeship 2027"
   ]
  ]
 }
