@@ -482,6 +482,7 @@
   "https://lifeattiktok.com/search/7667935739300317493": "2026-10-22",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-10-22",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-22",
+  "https://linkedin.com/jobs/view/4414643630": "2026-10-22",
   "https://linkedin.com/jobs/view/4435857047": "2026-10-22",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
@@ -598,6 +599,7 @@
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-22",
+  "https://linkedin.com/jobs/view/4473967974": "2026-10-22",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -1301,6 +1303,7 @@
   "t:lawrence|powersystemsgraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-22",
   "t:lawrence|powersystemsgraduteinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
   "t:lawrence|powersystemsundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-22",
+  "t:legendsg|securityintern": "2026-10-22",
   "t:leidos|cybersecurityengineercoop": "2026-10-09",
   "t:libertym|cybersecuritycoopjanuaryjune2027": "2026-10-22",
   "t:libertym|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-22",
@@ -4261,9 +4264,11 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4369879280",
+   "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4473927780",
+   "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479432755",
@@ -7457,6 +7462,10 @@
   [
    1792683448.5797253,
    "Nissan Global - Cyber Security Intern - Summer 2027 - Smyrna, TN"
+  ],
+  [
+   1792683527.1841688,
+   "Legends Global - Security Intern"
   ]
  ]
 }
