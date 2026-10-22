@@ -717,6 +717,7 @@
   "https://linkedin.com/jobs/view/4482083490": "2026-10-22",
   "https://linkedin.com/jobs/view/4482176819": "2026-10-22",
   "https://linkedin.com/jobs/view/4482455467": "2026-10-22",
+  "https://linkedin.com/jobs/view/4482459824": "2026-10-22",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1575,6 +1576,7 @@
   "t:walmart|summer2027interncybersecurityundergrad": "2026-10-22",
   "t:waveston|internshipwavestoneluxembourgcybersecurityartificialintelligenceconsulting": "2026-10-22",
   "t:waymo|2027summerinternphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-10-22",
+  "t:wealthsp|2027itcybersecurityengineerinternchicagoil": "2026-10-22",
   "t:webstaur|socintern": "2026-10-13",
   "t:wellmark|cybersecurityinternship": "2026-10-22",
   "t:wellmark|securityanalystinternship": "2026-10-22",
@@ -4262,7 +4264,8 @@
    "https://www.linkedin.com/jobs/view/4481169848",
    "https://www.linkedin.com/jobs/view/4482067944",
    "https://www.linkedin.com/jobs/view/4482083490",
-   "https://www.linkedin.com/jobs/view/4482176819"
+   "https://www.linkedin.com/jobs/view/4482176819",
+   "https://www.linkedin.com/jobs/view/4482459824"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7433,6 +7436,10 @@
   [
    1792665370.2625318,
    "Midcontinent Independent System Operator (MISO) - 2027 Summer Intern - Cybersecurity (Unde"
+  ],
+  [
+   1792669092.9061396,
+   "Wealthspire - 2027 IT / Cybersecurity Engineer Intern - Chicago, IL"
   ]
  ]
 }
