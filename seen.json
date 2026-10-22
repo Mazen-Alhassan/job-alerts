@@ -603,6 +603,7 @@
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-22",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-22",
+  "https://linkedin.com/jobs/view/4474340478": "2026-10-22",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -1099,6 +1100,7 @@
   "t:crownequ|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
   "t:crypticvecto|summer2027offensivecyberengineeringinternship": "2026-10-08",
   "t:crypticv|summer2027cyberengineeringinternship": "2026-10-20",
+  "t:crypticv|summer2027cyberengineeringinternshipprogram": "2026-10-22",
   "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-21",
   "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-15",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-22",
@@ -3840,7 +3842,6 @@
    "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://careers-stifel.icims.com/jobs/9952/job",
-   "https://careers.hscpoly.com/job/Hemlock-IT-Infrastructure-&-Security-Summer-Intern-MI-48626/1442692500/",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
@@ -4277,6 +4278,7 @@
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4473927780",
    "https://www.linkedin.com/jobs/view/4473967974",
+   "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4479432755",
    "https://www.linkedin.com/jobs/view/4479438675",
    "https://www.linkedin.com/jobs/view/4479442976",
@@ -7475,6 +7477,10 @@
   [
    1792690858.6077526,
    "Otis - Cybersecurity Ops & Intelligence Intern"
+  ],
+  [
+   1792691316.8216748,
+   "Cryptic Vector - Summer 2027 Cyber Engineering Internship Program"
   ]
  ]
 }
