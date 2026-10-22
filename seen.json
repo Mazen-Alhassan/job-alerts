@@ -346,6 +346,7 @@
   "https://governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern": "2026-10-10",
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-10-22",
   "https://grnh.se/0r8cz2gq1us": "2026-10-17",
+  "https://grnh.se/3rzsdnsm9us": "2026-10-22",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-22",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-22",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-22",
@@ -1318,6 +1319,7 @@
   "t:l3harris|interninformationsecuritysystemsengineersaltlakecityut": "2026-10-22",
   "t:l3harris|internmissionnetworksenterprisesocanalyst": "2026-10-09",
   "t:labelbox|cybersecurityintern": "2026-10-15",
+  "t:langanen|interncoopcybersecurityspring2027": "2026-10-22",
   "t:lawrencelive|nationalsecurityengineeringdivisionnsedgraduateinternsummer2027": "2026-10-08",
   "t:lawrencelive|nationalsecurityengineeringdivisionnsedundergraduateinternsummer2027": "2026-10-08",
   "t:lawrence|criticalinfrastructureanalysisgraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-22",
@@ -3871,6 +3873,7 @@
    "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
+   "https://grnh.se/3rzsdnsm9us",
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
@@ -7437,10 +7440,6 @@
  "heartbeat": "2026-10-22 16",
  "recent": [
   [
-   1792610732.2875974,
-   "The Aerospace Corporation - 2027 Hardware Security Engineering Undergrad Intern"
-  ],
-  [
    1792618720.1594133,
    "BC Pensions - Junior Security Analyst Co-op"
   ],
@@ -7547,6 +7546,10 @@
   [
    1792703245.5230277,
    "CVS Health - Innovation & Technology Internship - Technology & Security \u2013 Summer 2027 (Und"
+  ],
+  [
+   1792704586.099076,
+   "Langan Engineering and Environmental Services - Intern/Co-op - Cyber Security (Spring 2027"
   ]
  ]
 }
