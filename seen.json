@@ -756,6 +756,7 @@
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10257311": "2026-10-22",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate--10-12-weeks--intern---ai-ml-for-cybersecurity_r14563": "2026-10-22",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-10-22",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-10-22",
@@ -1401,7 +1402,7 @@
   "t:nissangl|cybersecurityinternsummer2027smyrnatn": "2026-10-22",
   "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-12",
   "t:northrop|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
-  "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-16",
+  "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-22",
   "t:northrop|2027cybersystemsengineerinterntampafl": "2026-10-20",
   "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-16",
   "t:northrop|cybersystemsengineerintern": "2026-10-22",
@@ -3838,8 +3839,7 @@
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
-   "https://nfpus-careers-aon.icims.com/jobs/110098/job",
-   "https://www.rwjbarnabashealthcareers.org/job/155949/cybersecurity-intern-information-security-nurses-us-nj-west-orange-95-old-short-hills-road/"
+   "https://nfpus-careers-aon.icims.com/jobs/110098/job"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4264,13 +4264,10 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4369879280",
-   "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4473927780",
-   "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4479421552",
-   "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479432755",
    "https://www.linkedin.com/jobs/view/4479434038",
    "https://www.linkedin.com/jobs/view/4479438675",
@@ -6461,7 +6458,9 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [],
+  "wd+:ngc/Northrop_Grumman_External_Site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+  ],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
@@ -7179,7 +7178,9 @@
   ],
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
-  "wd:ngc/northrop_grumman_external_site": [],
+  "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+  ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
