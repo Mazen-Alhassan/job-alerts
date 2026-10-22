@@ -770,6 +770,7 @@
   "https://oneok.wd1.myworkdayjobs.com/oneok_early_careers/job/tulsa-ok/cyber-security-intern---tulsa--ok_r8449": "2026-10-19",
   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1": "2026-10-09",
   "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/oshkosh-wisconsin-united-states/cyber-security-intern_r50267": "2026-10-22",
+  "https://otis.wd504.myworkdayjobs.com/rec_ext_gateway/job/ot999-1cp---farmington-ct-one-carrier-place-farmington-ct-06032-usa/cybersecurity-ops---intelligence-intern_20169120": "2026-10-22",
   "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---cyber-security_r26_0000002175": "2026-10-22",
   "https://paycomonline.net/v4/ats/web.php/portal/d1b7897110ff4b711e6764b6108ef2be/jobs/397756": "2026-10-15",
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-10-22",
@@ -1426,6 +1427,7 @@
   "t:oneok|cybersecurityinterntulsaok": "2026-10-19",
   "t:opensesa|securityanalystinternship": "2026-10-22",
   "t:oshkosh|cybersecurityintern": "2026-10-22",
+  "t:otis|cybersecurityopsintelligenceintern": "2026-10-22",
   "t:palantir|informationsecurityengineerinternship": "2026-10-22",
   "t:panasoni|securityriskintern": "2026-10-11",
   "t:papajohn|2027summerinterncybersecurity": "2026-10-22",
@@ -7192,7 +7194,9 @@
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
-  "wd:otis/REC_Ext_Gateway": [],
+  "wd:otis/REC_Ext_Gateway": [
+   "https://otis.wd504.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Cybersecurity-Ops---Intelligence-Intern_20169120"
+  ],
   "wd:paloaltonetworks/panwexternalcareers": [],
   "wd:pnc/External": [],
   "wd:proofpoint/ProofpointCareers": [],
@@ -7467,6 +7471,10 @@
   [
    1792690603.1423852,
    "Hemlock Semiconductor - IT Infrastructure & Security Summer Intern"
+  ],
+  [
+   1792690858.6077526,
+   "Otis - Cybersecurity Ops & Intelligence Intern"
   ]
  ]
 }
