@@ -589,6 +589,7 @@
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
+  "https://linkedin.com/jobs/view/4473927780": "2026-10-22",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -1052,6 +1053,7 @@
   "t:cnaanaly|cybersecurityinternsummer2027": "2026-10-08",
   "t:cnainsurance|technologyinternshipprogramcybersecurity": "2026-10-08",
   "t:cnainsur|technologyinternshipprogramcybersecurity": "2026-10-22",
+  "t:cnh|itcyberoperationscoop": "2026-10-22",
   "t:cohnrezn|winter2027internshipcybersecurityanddigitaltrust": "2026-10-10",
   "t:collecti|securityoperationsintern": "2026-10-12",
   "t:collinsa|cyberresearchinternshipsummer2027onsite": "2026-10-21",
@@ -4247,6 +4249,7 @@
    "https://www.linkedin.com/jobs/view/4463556460",
    "https://www.linkedin.com/jobs/view/4463573184",
    "https://www.linkedin.com/jobs/view/4473505428",
+   "https://www.linkedin.com/jobs/view/4473927780",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479432755",
@@ -7354,14 +7357,6 @@
  "heartbeat": "2026-10-22 04",
  "recent": [
   [
-   1792552913.378805,
-   "T-Mobile - Summer 2027 Software Engineer \u2013 Cloud Security Summer Internship"
-  ],
-  [
-   1792563797.6444092,
-   "Centene Corporation - Cybersecurity Summer 2027 Intern (Undergraduate)"
-  ],
-  [
    1792577970.631895,
    "Midcontinent Independent System Operator (MISO) - 2027 Summer Intern - Cybersecurity (Grad"
   ],
@@ -7428,6 +7423,10 @@
   [
    1792636648.661013,
    "General Dynamics Land Systems - 2027 Summer Intern \u2013 Cyber Security IT Operations"
+  ],
+  [
+   1792659975.772034,
+   "CNH - IT Cyber Operations Co-op"
   ]
  ]
 }
