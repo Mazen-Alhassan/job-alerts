@@ -761,6 +761,7 @@
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-20",
   "https://nfpus-careers-aon.icims.com/jobs/110098/job": "2026-10-22",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-tampa/xmlname-2027-cyber-software-engineer-intern---tampa-fl_r10249530": "2026-10-22",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-florida-tampa/xmlname-2027-cyber-systems-engineer-intern-tampa-fl_r10249196": "2026-10-22",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-maryland-annapolis/xmlname-2027-s-w-cybersecurity-intern---annapolis-md_r10254705": "2026-10-14",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
@@ -1425,6 +1426,7 @@
   "t:nissan|cybersecurityintern": "2026-10-22",
   "t:northrop|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
   "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-22",
+  "t:northrop|2027cybersoftwareengineerinterntampafl": "2026-10-22",
   "t:northrop|2027cybersystemsengineerinterntampafl": "2026-10-20",
   "t:northrop|2027swcybersecurityinternannapolismd": "2026-10-16",
   "t:northrop|cybersoftwareengineerintern": "2026-10-22",
@@ -6496,6 +6498,7 @@
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
   "wd+:ngc/Northrop_Grumman_External_Site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
    "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
   ],
   "wd+:niagarawater/niagara": [],
@@ -7514,6 +7517,10 @@
   [
    1792698276.9374278,
    "White Cap Supply Holdings - Corporate Intern - Information Security"
+  ],
+  [
+   1792700979.1571846,
+   "Northrop Grumman - 2027 Cyber Software Engineer Intern - Tampa FL"
   ]
  ]
 }
