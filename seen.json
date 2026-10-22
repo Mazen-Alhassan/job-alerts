@@ -815,6 +815,7 @@
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
   "https://shopify.com/careers/us-software-engineering-internships-summer-2027_2c62d9d7-3f52-42b3-a51d-3a7f3ed03679": "2026-10-14",
   "https://snapchat.wd1.myworkdayjobs.com/sourced/job/los-angeles-california/security-engineer-intern--summer-2026_r0044499": "2026-10-22",
+  "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/systems-security-engineer-intern---summer-2027--for-snc-summer-2026-interns-only-_r0030540": "2026-10-22",
   "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/systems-security-engineering-intern--summer-2027-_r0030783": "2026-10-19",
   "https://spe.wd1.myworkdayjobs.com/sonypicturesentertainment/job/culver-city-california/intern--business-resilience--security---safety-department---spring-2027_jr114721-1": "2026-10-08",
   "https://spectrumah.rec.pro.ukg.net/spe1504sphc/jobboard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/opportunitydetail": "2026-10-22",
@@ -1524,6 +1525,7 @@
   "t:siemens|cybersecurityinternsummer2027": "2026-10-21",
   "t:sierranevada|systemssecurityengineeringinternsummer2027": "2026-10-08",
   "t:sierrane|systemssecurityengineeringinternsummer2027": "2026-10-19",
+  "t:sierrane|systemssecurityengineerinternsummer2027forsncsummer2026internsonly": "2026-10-22",
   "t:simventi|2027cybersecurityintern": "2026-10-22",
   "t:snap|securityengineerinternsummer2026": "2026-10-22",
   "t:societyi|cybersecurityintern": "2026-10-22",
@@ -6818,7 +6820,9 @@
   "wd+:smucker/US_External_Careers": [],
   "wd+:snapchat/snap": [],
   "wd+:snapfinance/snap_external_careers": [],
-  "wd+:snc/snc_external_career_site": [],
+  "wd+:snc/snc_external_career_site": [
+   "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"
+  ],
   "wd+:snhu/External_Career_Site": [],
   "wd+:snyk/External": [],
   "wd+:solenis/Solenis": [],
@@ -7528,6 +7532,10 @@
   [
    1792702795.1879897,
    "Preciselink - Cybersecurity Operations Intern"
+  ],
+  [
+   1792702902.338799,
+   "Sierra Nevada Corporation - Systems Security Engineer Intern - Summer 2027 (For SNC Summer"
   ]
  ]
 }
