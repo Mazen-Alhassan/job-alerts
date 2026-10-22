@@ -543,6 +543,7 @@
   "https://linkedin.com/jobs/view/4463112964": "2026-10-18",
   "https://linkedin.com/jobs/view/4463337197": "2026-10-18",
   "https://linkedin.com/jobs/view/4463556460": "2026-10-22",
+  "https://linkedin.com/jobs/view/4463558430": "2026-10-22",
   "https://linkedin.com/jobs/view/4463573184": "2026-10-22",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
@@ -3705,9 +3706,7 @@
   "icims:careers-usu.icims.com": [],
   "icims:careers-uuhc.icims.com": [],
   "icims:careers-uwcu.icims.com": [],
-  "icims:careers-uwmcareers.icims.com": [
-   "https://careers-uwmcareers.icims.com/jobs/15910/2027-building-security-summer-internship-program/job"
-  ],
+  "icims:careers-uwmcareers.icims.com": [],
   "icims:careers-vch.icims.com": [],
   "icims:careers-vhb.icims.com": [],
   "icims:careers-vhchealth.icims.com": [],
@@ -4252,7 +4251,7 @@
    "https://www.linkedin.com/jobs/view/4369879280",
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463556460",
-   "https://www.linkedin.com/jobs/view/4463573184",
+   "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4473505428",
    "https://www.linkedin.com/jobs/view/4473927780",
    "https://www.linkedin.com/jobs/view/4479421552",
@@ -7361,7 +7360,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-22 08",
+ "heartbeat": "2026-10-22 10",
  "recent": [
   [
    1792577970.631895,
