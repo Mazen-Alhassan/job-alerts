@@ -14,7 +14,7 @@
   "gh:5445236008": "2026-10-22",
   "gh:5448019008": "2026-10-22",
   "gh:6116398004": "2026-10-22",
-  "gh:6148707004": "2026-10-17",
+  "gh:6148707004": "2026-10-22",
   "gh:6163325004": "2026-10-22",
   "gh:6212490004": "2026-10-09",
   "gh:6218639004": "2026-10-22",
@@ -269,6 +269,7 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/united-kingdom---london/professional-services-red-team-intern---summer-2027--remote--gbr-_r30404": "2026-10-21",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/chicago-il-usa/cybersecurity-intern_r-71031": "2026-10-22",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/sarasota-fl-usa/incident-response-intern_r-71609": "2026-10-22",
+  "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/innovation---technology-internship---technology---security---summer-2027--undergraduate-_r1081237": "2026-10-22",
   "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/coralville-iowa-united-states/it-security-intern_r1316663": "2026-10-22",
   "https://desjardins.wd10.myworkdayjobs.com/desjardins/job/montral/stage-au-bureau-de-la-scurit-desjardins--hiver-2027_r2610591-1": "2026-10-22",
   "https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/customer-support-center/cybersecurity---summer-2027-corporate-internship_202608793-1": "2026-10-22",
@@ -1118,6 +1119,7 @@
   "t:crypticv|summer2027cyberengineeringinternshipprogram": "2026-10-22",
   "t:crypticv|summer2027offensivecyberengineeringinternship": "2026-10-21",
   "t:cse|summer2027studentopportunitiesinmechanicalelectricalandradiofrequencyengineering": "2026-10-15",
+  "t:cvshealt|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-10-22",
   "t:cylakein|securityresearchintern2027mastersphd": "2026-10-22",
   "t:danaher|itsecurityintern": "2026-10-22",
   "t:delltech|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-22",
@@ -1220,7 +1222,7 @@
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-22",
   "t:guidepoi|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-22",
   "t:guidepoi|gpsucybersecurityinternapplicationsecurity": "2026-10-10",
-  "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-17",
+  "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-22",
   "t:guidepoi|gpsuinternapplicationsecurity": "2026-10-08",
   "t:gulfstreamae|spring2027iefelectronicsystemengineeringcybersecuritycollegiateintern": "2026-10-08",
   "t:harbingermot|interncybersecurity": "2026-10-08",
@@ -2852,6 +2854,7 @@
   "gh:grvty": [],
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
   ],
   "gh:gusto": [],
@@ -5753,9 +5756,13 @@
   "wd+:cubic/cubic_global_careers": [],
   "wd+:curtisswright/cw_external_career_site": [],
   "wd+:customersbank/customersbankcareers": [],
-  "wd+:cvshealth/CVS_Health_Careers": [],
+  "wd+:cvshealth/CVS_Health_Careers": [
+   "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Innovation---Technology-Internship---Technology---Security---Summer-2027--Undergraduate-_R1081237"
+  ],
   "wd+:cvshealth/Private_Postings_Intern_Conversion_ONLY": [],
-  "wd+:cvshealth/cvs_health_careers": [],
+  "wd+:cvshealth/cvs_health_careers": [
+   "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Innovation---Technology-Internship---Technology---Security---Summer-2027--Undergraduate-_R1081237"
+  ],
   "wd+:cw/external": [],
   "wd+:cws/cws_jobs": [],
   "wd+:cyrusone/CyrusOneCareerPortal": [],
@@ -7536,6 +7543,10 @@
   [
    1792702902.338799,
    "Sierra Nevada Corporation - Systems Security Engineer Intern - Summer 2027 (For SNC Summer"
+  ],
+  [
+   1792703245.5230277,
+   "CVS Health - Innovation & Technology Internship - Technology & Security \u2013 Summer 2027 (Und"
   ]
  ]
 }
