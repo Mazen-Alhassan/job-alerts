@@ -697,6 +697,7 @@
   "https://linkedin.com/jobs/view/4479585043": "2026-10-15",
   "https://linkedin.com/jobs/view/4479709136": "2026-10-15",
   "https://linkedin.com/jobs/view/4479860484": "2026-10-15",
+  "https://linkedin.com/jobs/view/4480061946": "2026-10-22",
   "https://linkedin.com/jobs/view/4480125773": "2026-10-16",
   "https://linkedin.com/jobs/view/4480150772": "2026-10-20",
   "https://linkedin.com/jobs/view/4480160706": "2026-10-16",
@@ -957,6 +958,7 @@
   "t:apple|softwareengineeringmastersinternships": "2026-10-22",
   "t:apple|softwareundergradengineeringinternships": "2026-10-22",
   "t:appliedintui|cybersecuritysoftwareengineernewgrad2027": "2026-10-08",
+  "t:appliedi|cybersecurityintern": "2026-10-22",
   "t:appliedi|cybersecuritysoftwareengineernewgrad2027": "2026-10-22",
   "t:appliedt|springinterncybersecurity": "2026-10-15",
   "t:archcapital|securityoperationsintern": "2026-10-08",
@@ -1657,6 +1659,7 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
@@ -3850,6 +3853,7 @@
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://careers-stifel.icims.com/jobs/9952/job",
    "https://careers.hscpoly.com/job/Hemlock-IT-Infrastructure-&-Security-Summer-Intern-MI-48626/1442692500/",
+   "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
@@ -4284,6 +4288,7 @@
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463558430",
+   "https://www.linkedin.com/jobs/view/4465318343",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465327251",
    "https://www.linkedin.com/jobs/view/4473927780",
@@ -4292,6 +4297,7 @@
    "https://www.linkedin.com/jobs/view/4479432755",
    "https://www.linkedin.com/jobs/view/4479438675",
    "https://www.linkedin.com/jobs/view/4479442976",
+   "https://www.linkedin.com/jobs/view/4480061946",
    "https://www.linkedin.com/jobs/view/4481169848",
    "https://www.linkedin.com/jobs/view/4482176819",
    "https://www.linkedin.com/jobs/view/4482455467",
@@ -7493,6 +7499,10 @@
   [
    1792696745.2715914,
    "Amazon - Associate Delivery Consultant Intern, National Security, AWS Professional Service"
+  ],
+  [
+   1792697198.1849618,
+   "Applied IAM - Cybersecurity Intern"
   ]
  ]
 }
