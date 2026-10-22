@@ -235,7 +235,7 @@
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-22",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
   "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/c6fb4492b2f0b714c04b07335a78fb35": "2026-10-22",
-  "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-16",
+  "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-22",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-10-22",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-22",
@@ -4569,7 +4569,9 @@
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
   "phenom:careers.snowflake.com": [],
-  "phenom:careers.thalesgroup.com": [],
+  "phenom:careers.thalesgroup.com": [
+   "https://careers.thalesgroup.com/global/en/job/R0337751"
+  ],
   "phenom:careers.thomsonreuters.com": [],
   "phenom:careers.tranetechnologies.com": [],
   "phenom:careers.united.com": [],
