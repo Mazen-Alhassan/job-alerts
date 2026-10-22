@@ -3842,6 +3842,7 @@
    "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://careers-stifel.icims.com/jobs/9952/job",
+   "https://careers.hscpoly.com/job/Hemlock-IT-Infrastructure-&-Security-Summer-Intern-MI-48626/1442692500/",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
    "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
@@ -7196,9 +7197,7 @@
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
-  "wd:otis/REC_Ext_Gateway": [
-   "https://otis.wd504.myworkdayjobs.com/en-US/REC_Ext_Gateway/job/OT999-1CP---Farmington-CT-One-Carrier-Place-Farmington-CT-06032-USA/Cybersecurity-Ops---Intelligence-Intern_20169120"
-  ],
+  "wd:otis/REC_Ext_Gateway": [],
   "wd:paloaltonetworks/panwexternalcareers": [],
   "wd:pnc/External": [],
   "wd:proofpoint/ProofpointCareers": [],
