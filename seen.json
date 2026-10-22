@@ -245,6 +245,7 @@
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-22",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
+  "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": "2026-10-22",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-22",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-22",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
@@ -1053,6 +1054,7 @@
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-22",
   "t:certik|securityresearchinternship": "2026-10-22",
   "t:charlesr|2028bachelorsmastersgraduatescyberandforensictechnologyconsultinganalystassociateinternsummer2027": "2026-10-22",
+  "t:chrobins|cybersecurityinternship2027": "2026-10-22",
   "t:churchmu|internitapplicationsecurity": "2026-10-16",
   "t:church|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-18",
   "t:church|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-18",
@@ -5608,7 +5610,9 @@
   "wd+:chipotle/ChipotleCareers": [],
   "wd+:choicehotels/External": [],
   "wd+:chordenergy/external": [],
-  "wd+:chrobinson/CHRobinson": [],
+  "wd+:chrobinson/CHRobinson": [
+   "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"
+  ],
   "wd+:churchdwight/chdcareers": [],
   "wd+:cibc/campus": [
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159"
@@ -7380,10 +7384,6 @@
  "heartbeat": "2026-10-22 12",
  "recent": [
   [
-   1792595201.6092165,
-   "Aerospace Corp - 2027 Hardware Security Engineering Grad Intern"
-  ],
-  [
    1792596460.6867614,
    "Aerospace Corp - 2027 Hardware Security Engineering Undergrad \u202fIntern"
   ],
@@ -7458,6 +7458,10 @@
   [
    1792688338.60659,
    "Microsoft - Security Research Intern"
+  ],
+  [
+   1792689235.8351722,
+   "C.H. Robinson - Cyber Security Internship 2027"
   ]
  ]
 }
