@@ -538,6 +538,7 @@
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4462332804": "2026-10-19",
   "https://linkedin.com/jobs/view/4462535534": "2026-10-22",
+  "https://linkedin.com/jobs/view/4462536534": "2026-10-22",
   "https://linkedin.com/jobs/view/4462860529": "2026-10-17",
   "https://linkedin.com/jobs/view/4463112964": "2026-10-18",
   "https://linkedin.com/jobs/view/4463337197": "2026-10-18",
@@ -1343,6 +1344,7 @@
   "t:microsof|softwareengineerinternsecurityidentity": "2026-10-22",
   "t:microsof|softwareengineersecurityidentityinternopportunitiesforuniversitystudentscambridge": "2026-10-22",
   "t:midconti|2027summerinterncybersecuritygraduate": "2026-10-22",
+  "t:midconti|2027summerinterncybersecurityundergraduate": "2026-10-22",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-22",
   "t:mitre|cyberoperationsengineerintern": "2026-10-22",
@@ -4245,8 +4247,7 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4369879280",
-   "https://www.linkedin.com/jobs/view/4435857047",
-   "https://www.linkedin.com/jobs/view/4462535534",
+   "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463556460",
    "https://www.linkedin.com/jobs/view/4463573184",
    "https://www.linkedin.com/jobs/view/4473505428",
@@ -7429,6 +7430,10 @@
   [
    1792659975.772034,
    "CNH - IT Cyber Operations Co-op"
+  ],
+  [
+   1792665370.2625318,
+   "Midcontinent Independent System Operator (MISO) - 2027 Summer Intern - Cybersecurity (Unde"
   ]
  ]
 }
