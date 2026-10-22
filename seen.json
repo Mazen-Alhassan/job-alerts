@@ -812,6 +812,7 @@
   "https://snapchat.wd1.myworkdayjobs.com/sourced/job/los-angeles-california/security-engineer-intern--summer-2026_r0044499": "2026-10-22",
   "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/hagerstown-md/systems-security-engineering-intern--summer-2027-_r0030783": "2026-10-19",
   "https://spe.wd1.myworkdayjobs.com/sonypicturesentertainment/job/culver-city-california/intern--business-resilience--security---safety-department---spring-2027_jr114721-1": "2026-10-08",
+  "https://spectrumah.rec.pro.ukg.net/spe1504sphc/jobboard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/opportunitydetail": "2026-10-22",
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228866": "2026-10-17",
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228867": "2026-10-17",
   "https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-it-security-analyst-intern_sosj12501": "2026-10-22",
@@ -968,6 +969,7 @@
   "t:asterala|cybersecurityengineerintern": "2026-10-22",
   "t:atlassia|securityengineerintern2027summerus": "2026-10-17",
   "t:auctane|cybersecurityinterns": "2026-10-08",
+  "t:automoti|cybersecurityinternspring2027": "2026-10-22",
   "t:autoownersin|itsecurityengineerinternshipsummer2027": "2026-10-08",
   "t:autoowne|itsecurityengineerinternshipsummer2027": "2026-10-22",
   "t:avangrid|2027technologycyberdatainternshipprogram": "2026-10-11",
@@ -3850,7 +3852,8 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
-   "https://nfpus-careers-aon.icims.com/jobs/110098/job"
+   "https://nfpus-careers-aon.icims.com/jobs/110098/job",
+   "https://spectrumah.rec.pro.ukg.net/SPE1504SPHC/JobBoard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/OpportunityDetail?opportunityId=5fdd361c-fdd5-47a2-a56e-85b4e8388458&postingId=830f7bdd-492b-4362-b0c3-82f555dbf797"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -7397,10 +7400,6 @@
  "heartbeat": "2026-10-22 14",
  "recent": [
   [
-   1792598659.2418568,
-   "RWJBarnabas Health - Cybersecurity Intern, Information Security"
-  ],
-  [
    1792604085.3375406,
    "DP World - Information Security Intern"
   ],
@@ -7483,6 +7482,10 @@
   [
    1792691316.8216748,
    "Cryptic Vector - Summer 2027 Cyber Engineering Internship Program"
+  ],
+  [
+   1792695581.1971579,
+   "Automotive Product Consultants - CyberSecurity Intern (Spring 2027)"
   ]
  ]
 }
