@@ -394,6 +394,7 @@
   "https://jobs.apple.com/details/200664785/software-undergrad-engineering-internships": "2026-10-22",
   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": "2026-10-22",
   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1": "2026-10-22",
+  "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847": "2026-10-22",
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": "2026-10-22",
   "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": "2026-10-22",
   "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930": "2026-10-15",
@@ -842,6 +843,7 @@
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-19",
   "t:1passwor|developerinterndatasecuritywinter2027": "2026-10-22",
   "t:1passwor|developerinternmachineidentitywinter2027": "2026-10-22",
+  "t:1passwor|securityinternthreatoperationswinter2027": "2026-10-22",
   "t:7eleven|informationsecurityintern": "2026-10-21",
   "t:abbvie|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-22",
   "t:accenture|intelligencecyberdefenseintern": "2026-10-08",
@@ -1642,7 +1644,8 @@
   ],
   "ashby:1password": [
    "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
-   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1"
+   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+   "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847"
   ],
   "ashby:1x": [],
   "ashby:42dot": [],
@@ -7443,6 +7446,10 @@
   [
    1792683260.4673047,
    "1Password - Developer Intern, Machine Identity - Winter 2027"
+  ],
+  [
+   1792683353.272657,
+   "1Password - Security Intern, Threat Operations - Winter 2027"
   ]
  ]
 }
