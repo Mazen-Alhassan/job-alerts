@@ -373,6 +373,7 @@
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-20",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-22",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-22",
+  "https://indeed.com/viewjob": "2026-10-22",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
@@ -1463,6 +1464,7 @@
   "t:phillips|informationtechnologyinterncybersecuritysummer2027": "2026-10-14",
   "t:plantemo|2027cybersecurityconsultantintern": "2026-10-22",
   "t:portofco|informationtechnologyinterncybersecurity": "2026-10-16",
+  "t:precisel|cybersecurityoperationsintern": "2026-10-22",
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proctergambl|itsecurityinternship": "2026-10-08",
@@ -3868,7 +3870,8 @@
    "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
    "https://nfpus-careers-aon.icims.com/jobs/110098/job",
-   "https://spectrumah.rec.pro.ukg.net/SPE1504SPHC/JobBoard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/OpportunityDetail?opportunityId=5fdd361c-fdd5-47a2-a56e-85b4e8388458&postingId=830f7bdd-492b-4362-b0c3-82f555dbf797"
+   "https://spectrumah.rec.pro.ukg.net/SPE1504SPHC/JobBoard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/OpportunityDetail?opportunityId=5fdd361c-fdd5-47a2-a56e-85b4e8388458&postingId=830f7bdd-492b-4362-b0c3-82f555dbf797",
+   "https://www.indeed.com/viewjob?jk=d1c7ee6ef557194c"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -7521,6 +7524,10 @@
   [
    1792700979.1571846,
    "Northrop Grumman - 2027 Cyber Software Engineer Intern - Tampa FL"
+  ],
+  [
+   1792702795.1879897,
+   "Preciselink - Cybersecurity Operations Intern"
   ]
  ]
 }
