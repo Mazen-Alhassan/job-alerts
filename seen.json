@@ -59,6 +59,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393557019490": "2026-10-09",
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-22",
   "https:/.careers.microsoft.com/careers/job/1970393557044765": "2026-10-22",
+  "https:/.careers.microsoft.com/careers/job/1970393557044769": "2026-10-22",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-22",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-22",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
@@ -1355,6 +1356,7 @@
   "t:microsof|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-10-22",
   "t:microsof|securityassuranceinternctjts": "2026-10-22",
   "t:microsof|securityoperationsengineeringintern": "2026-10-09",
+  "t:microsof|securityresearchintern": "2026-10-22",
   "t:microsof|softwareengineerinternsecurityidentity": "2026-10-22",
   "t:microsof|softwareengineersecurityidentityinternopportunitiesforuniversitystudentscambridge": "2026-10-22",
   "t:midconti|2027summerinterncybersecuritygraduate": "2026-10-22",
@@ -2820,8 +2822,7 @@
   "gh:grvty": [],
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
   ],
   "gh:gusto": [],
   "gh:hackerrank": [],
@@ -3182,9 +3183,7 @@
   "gh:sandstonecare": [],
   "gh:sanmar": [],
   "gh:scaleai": [],
-  "gh:schonfeld": [
-   "https://job-boards.greenhouse.io/schonfeld/jobs/8171696"
-  ],
+  "gh:schonfeld": [],
   "gh:schoolmint": [],
   "gh:scm": [],
   "gh:scopely": [],
@@ -4281,7 +4280,8 @@
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-   "https://apply.careers.microsoft.com/careers/job/1970393557044765"
+   "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+   "https://apply.careers.microsoft.com/careers/job/1970393557044769"
   ],
   "netflix": [
    "https://explore.jobs.netflix.net/careers/job/790318904468"
@@ -7380,18 +7380,6 @@
  "heartbeat": "2026-10-22 12",
  "recent": [
   [
-   1792590097.6903622,
-   "Duke Energy - Nuclear Cybersecurity 2027 Summer Internship"
-  ],
-  [
-   1792592547.7399259,
-   "American National - Blue Team / Cybersecurity Intern"
-  ],
-  [
-   1792592547.7399273,
-   "American National - Threat and Vulnerability Management Intern"
-  ],
-  [
    1792595201.6092165,
    "Aerospace Corp - 2027 Hardware Security Engineering Grad Intern"
   ],
@@ -7466,6 +7454,10 @@
   [
    1792683527.1841688,
    "Legends Global - Security Intern"
+  ],
+  [
+   1792688338.60659,
+   "Microsoft - Security Research Intern"
   ]
  ]
 }
