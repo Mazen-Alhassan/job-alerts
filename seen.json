@@ -326,6 +326,7 @@
   "https://fis.wd5.myworkdayjobs.com/searchjobs/job/us-fl-jax-347/intern--risk-and-cybersecurity--fis-university-program_jr0309680": "2026-10-22",
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-cybersecurity-associate-internship_rq228929-2": "2026-10-22",
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/xmlname-2027-summer-intern---defense-agencies--cybersecurity-_rq230273": "2026-10-15",
+  "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations": "2026-10-22",
   "https://genpt.wd1.myworkdayjobs.com/careers/job/birmingham-al-usa/grc-cybersecurity-analyst-intern_r26_0000029137": "2026-10-22",
   "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/wyoming-michigan/identity-analyst-it-internship_r-57499-1": "2026-10-22",
   "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/united-states---california---foster-city/intern---cfo---it--security--risk--and-compliance-_r0054791": "2026-10-16",
@@ -763,7 +764,7 @@
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-15",
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-22",
-  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-21",
+  "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-22",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-22",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-10-22",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-22",
@@ -1145,6 +1146,7 @@
   "t:galaxy|offcyclefall2026cybersecurityinternship": "2026-10-20",
   "t:garmin|cybersecurityengineerintern": "2026-10-21",
   "t:generaldynam|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-08",
+  "t:generald|2027summerinterncybersecurityitoperations": "2026-10-22",
   "t:generald|2027summerinterndefenseagenciescybersecurity": "2026-10-15",
   "t:generald|cyberengineeringintern": "2026-10-20",
   "t:generald|cyberengineeringinternsummer2027": "2026-10-20",
@@ -1233,6 +1235,7 @@
   "t:inmarint|informationsecurityinternshipssummer2027": "2026-10-22",
   "t:intact|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
   "t:intelcor|informationsecurityengineerundergraduateintern": "2026-10-22",
+  "t:intel|informationsecurityengineerintern": "2026-10-22",
   "t:intel|informationsecurityengineerundergraduateintern": "2026-10-22",
   "t:interacc|informationsecurityintern": "2026-10-16",
   "t:interac|informationsecurityintern": "2026-10-22",
@@ -1331,6 +1334,7 @@
   "t:microsof|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-10-22",
   "t:microsof|securityassuranceinternctjts": "2026-10-22",
   "t:microsof|securityoperationsengineeringintern": "2026-10-09",
+  "t:microsof|softwareengineerinternsecurityidentity": "2026-10-22",
   "t:microsof|softwareengineersecurityidentityinternopportunitiesforuniversitystudentscambridge": "2026-10-22",
   "t:midconti|2027summerinterncybersecuritygraduate": "2026-10-22",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
@@ -1418,7 +1422,7 @@
   "t:qtsdatac|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|informationsecurityoperationsanalystintern": "2026-10-21",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-22",
-  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-21",
+  "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-22",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
@@ -2374,7 +2378,9 @@
   "eightfold:lockheedmartin.eightfold.ai": [],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
-  "eightfold:qualcomm.eightfold.ai": [],
+  "eightfold:qualcomm.eightfold.ai": [
+   "https://qualcomm.eightfold.ai/careers/job/446720740636"
+  ],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
   "eightfold:trimble.eightfold.ai": [],
@@ -3806,6 +3812,7 @@
    "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/C6FB4492B2F0B714C04B07335A78FB35?source=Indeed",
    "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://ehpv.fa.em2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/27404",
+   "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002JwDUAU&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2535222523640873%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8c987-cce6-11f1-9933-e3d908ff1dc0%26rx_job%3Da1KiE0000002JwDUAU%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261022T020407Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
    "https://jsv3.recruitics.com/redirect?rx_cid=3239&rx_jobId=a1KiE0000002JwDUAU_1001&rx_url=https%3A%2F%2Fwww.metacareers.com%2Fjobs%2F2535222523640873%2F%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D187943%26rx_id%3D33d8dcde-cce6-11f1-bd7d-e3d908ff1dc0%26rx_job%3Da1KiE0000002JwDUAU_1001%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20261022T020407Z%26rx_vp%3Dcpc%26utm_campaign%3DJob%252Bboard%26utm_medium%3Djobs%26utm_source%3Dindeedorganic",
@@ -4773,9 +4780,12 @@
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
    "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+   "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+   "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
+   "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://job-boards.greenhouse.io/generalmatter/jobs/5448019008",
    "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
@@ -7419,6 +7429,10 @@
   [
    1792634840.7213626,
    "NFP Corp - 2027 IT / Cybersecurity Engineer Intern - Chicago, IL"
+  ],
+  [
+   1792636648.661013,
+   "General Dynamics Land Systems - 2027 Summer Intern \u2013 Cyber Security IT Operations"
   ]
  ]
 }
