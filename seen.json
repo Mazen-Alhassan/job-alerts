@@ -757,6 +757,7 @@
   "https://linkedin.com/jobs/view/4482713555": "2026-10-23",
   "https://linkedin.com/jobs/view/4482714601": "2026-10-23",
   "https://linkedin.com/jobs/view/4482869637": "2026-10-23",
+  "https://linkedin.com/jobs/view/4482875555": "2026-10-23",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1460,6 +1461,7 @@
   "t:nissangl|corporatesecurityinternsummer2027franklintn": "2026-10-23",
   "t:nissangl|cybersecurityinternsummer2027smyrnatn": "2026-10-23",
   "t:nissanmo|corporatesecurityinternsummer2027franklintn": "2026-10-12",
+  "t:nissanmo|cybersecurityinternsummer2027smyrnatn": "2026-10-23",
   "t:nissan|cybersecurityintern": "2026-10-23",
   "t:northrop|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
   "t:northrop|2027cybersoftwareengineerinternsanantoniotx": "2026-10-23",
@@ -4335,7 +4337,6 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4473967974",
@@ -4350,7 +4351,8 @@
    "https://www.linkedin.com/jobs/view/4482710620",
    "https://www.linkedin.com/jobs/view/4482713555",
    "https://www.linkedin.com/jobs/view/4482714601",
-   "https://www.linkedin.com/jobs/view/4482869637"
+   "https://www.linkedin.com/jobs/view/4482869637",
+   "https://www.linkedin.com/jobs/view/4482875555"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7465,20 +7467,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-23 08",
+ "heartbeat": "2026-10-23 10",
  "recent": [
-  [
-   1792659975.772034,
-   "CNH - IT Cyber Operations Co-op"
-  ],
-  [
-   1792665370.2625318,
-   "Midcontinent Independent System Operator (MISO) - 2027 Summer Intern - Cybersecurity (Unde"
-  ],
-  [
-   1792669092.9061396,
-   "Wealthspire - 2027 IT / Cybersecurity Engineer Intern - Chicago, IL"
-  ],
   [
    1792682638.0451229,
    "1Password - Developer Intern, Data Security - Winter 2027"
@@ -7594,6 +7584,10 @@
   [
    1792749854.0059168,
    "Amway - Information Security & Risk Intern, Summer 2027 (REQ#43463)"
+  ],
+  [
+   1792764284.1472266,
+   "Nissan Motor Corporation - Cyber Security Intern - Summer 2027 - Smyrna, TN"
   ]
  ]
 }
