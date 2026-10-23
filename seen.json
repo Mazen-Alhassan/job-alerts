@@ -219,6 +219,7 @@
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-10",
+  "https://careers.hpe.com/us/en/job/1216080": "2026-10-23",
   "https://careers.hscpoly.com/job/hemlock-it-infrastructure-&-security-summer-intern-mi-48626/1442692500": "2026-10-23",
   "https://careers.jacobs.com/en_us/careers/jobdetail/vds-voice-data-security-engineering-intern-summer-2027/46462": "2026-10-08",
   "https://careers.jhuapl.edu/jobs/59642": "2026-10-23",
@@ -1300,6 +1301,7 @@
   "t:horizonl|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howden|underwritinginterncyber": "2026-10-23",
   "t:howmetae|cybersecurityintern": "2026-10-16",
+  "t:hpejunip|cybersecurityengineeringintern": "2026-10-23",
   "t:hpiq|softwareengineeringinternproductsecuritysummer2027": "2026-10-09",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-23",
   "t:hp|softwareproductsecurityengineerintern": "2026-10-12",
@@ -4652,7 +4654,9 @@
   "phenom:careers.fisglobal.com": [],
   "phenom:careers.freddiemac.com": [],
   "phenom:careers.geaerospace.com": [],
-  "phenom:careers.hpe.com": [],
+  "phenom:careers.hpe.com": [
+   "https://careers.hpe.com/us/en/job/1216080"
+  ],
   "phenom:careers.icf.com": [],
   "phenom:careers.itw.com": [],
   "phenom:careers.mastercard.com": [],
@@ -7481,20 +7485,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-23 16",
+ "heartbeat": "2026-10-23 18",
  "recent": [
-  [
-   1792696745.2715914,
-   "Amazon - Associate Delivery Consultant Intern, National Security, AWS Professional Service"
-  ],
-  [
-   1792697198.1849618,
-   "Applied IAM - Cybersecurity Intern"
-  ],
-  [
-   1792698276.9374278,
-   "White Cap Supply Holdings - Corporate Intern - Information Security"
-  ],
   [
    1792700979.1571846,
    "Northrop Grumman - 2027 Cyber Software Engineer Intern - Tampa FL"
@@ -7594,6 +7586,10 @@
   [
    1792789368.7804737,
    "Hewlett Packard Enterprise - Cybersecurity Engineering Intern"
+  ],
+  [
+   1792793688.6007488,
+   "HPE / Juniper - Cybersecurity Engineering Intern"
   ]
  ]
 }
