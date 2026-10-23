@@ -1740,6 +1740,8 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4362,6 +4364,7 @@
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4474558184",
+   "https://www.linkedin.com/jobs/view/4474561093",
    "https://www.linkedin.com/jobs/view/4480090664",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481611449",
@@ -6161,7 +6164,9 @@
   "wd+:hp/EXTEU-AC-CareerSite": [],
   "wd+:hp/externalcareersite": [],
   "wd+:hpe/acjobsite": [],
-  "wd+:hpe/jobsathpe": [],
+  "wd+:hpe/jobsathpe": [
+   "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080"
+  ],
   "wd+:hpinc/hpinc": [],
   "wd+:hq/Securian_External": [],
   "wd+:hrhub/Euronext_Career_Page": [],
