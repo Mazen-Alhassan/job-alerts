@@ -744,6 +744,7 @@
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
+  "https://linkedin.com/jobs/view/4482714601": "2026-10-23",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -3882,7 +3883,6 @@
    "https://careers-stifel.icims.com/jobs/9952/job",
    "https://careers.hscpoly.com/job/Hemlock-IT-Infrastructure-&-Security-Summer-Intern-MI-48626/1442692500/",
    "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
-   "https://generaldynamics-us-careers.ttcportals.com/jobs/18383337-2027-summer-intern-cyber-security-it-operations?tm_job=15137&tm_event=view&tm_company=48368",
    "https://grnh.se/3rzsdnsm9us",
    "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
@@ -4323,11 +4323,11 @@
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4480090664",
    "https://www.linkedin.com/jobs/view/4480092595",
-   "https://www.linkedin.com/jobs/view/4481169848",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4482455467",
    "https://www.linkedin.com/jobs/view/4482459824",
-   "https://www.linkedin.com/jobs/view/4482483140"
+   "https://www.linkedin.com/jobs/view/4482483140",
+   "https://www.linkedin.com/jobs/view/4482714601"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7449,7 +7449,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-22 20",
+ "heartbeat": "2026-10-22 22",
  "recent": [
   [
    1792634840.7213626,
