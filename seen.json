@@ -1107,6 +1107,7 @@
   "t:certik|blockchainsecurityexpertinternaitrack": "2026-10-23",
   "t:certik|securityresearchinternship": "2026-10-23",
   "t:charlesr|2028bachelorsmastersgraduatescyberandforensictechnologyconsultinganalystassociateinternsummer2027": "2026-10-23",
+  "t:chrobins|cybersecurityintern": "2026-10-23",
   "t:chrobins|cybersecurityinternship2027": "2026-10-23",
   "t:churchmu|internitapplicationsecurity": "2026-10-16",
   "t:church|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-18",
@@ -3912,7 +3913,6 @@
    "https://grnh.se/3rzsdnsm9us",
    "https://ncfta.bamboohr.com/careers/54?source=indeed&src=indeed&postedDate=2026-10-22",
    "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
-   "https://rr.jobsyn.org/48E9318ABFB64044B08DBF0E9F001AE21554",
    "https://rr.jobsyn.org/F979ECA1EBCF46C5A9857784504202271554",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
    "https://spectrumah.rec.pro.ukg.net/SPE1504SPHC/JobBoard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/OpportunityDetail?opportunityId=5fdd361c-fdd5-47a2-a56e-85b4e8388458&postingId=830f7bdd-492b-4362-b0c3-82f555dbf797",
@@ -4341,16 +4341,15 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465323302",
+   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
-   "https://www.linkedin.com/jobs/view/4474322837",
+   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
-   "https://www.linkedin.com/jobs/view/4474340478",
-   "https://www.linkedin.com/jobs/view/4474558184",
+   "https://www.linkedin.com/jobs/view/4474355810",
+   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4482710620",
-   "https://www.linkedin.com/jobs/view/4482713555",
+   "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555"
   ],
   "microsoft": [
@@ -4867,7 +4866,8 @@
   "simplify": [
    "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true"
+   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
+   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
   ],
   "simplify-vansh": [
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
@@ -4878,6 +4878,7 @@
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
    "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+   "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
    "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
@@ -5255,7 +5256,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
