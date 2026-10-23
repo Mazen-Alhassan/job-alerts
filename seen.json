@@ -182,6 +182,8 @@
   "https://careers-gdms.icims.com/jobs/75132/job": "2026-10-10",
   "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job": "2026-10-20",
   "https://careers-gdms.icims.com/jobs/75514/job": "2026-10-15",
+  "https://careers-ice.icims.com/jobs/14063/summer-internship-program-2027---cybersecurity-architect-intern/job": "2026-10-23",
+  "https://careers-ice.icims.com/jobs/14082/summer-internship-program-2027---application-security-intern/job": "2026-10-23",
   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job": "2026-10-23",
   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-15",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-21",
@@ -1329,6 +1331,8 @@
   "t:intel|informationsecurityengineerundergraduateintern": "2026-10-23",
   "t:interacc|informationsecurityintern": "2026-10-16",
   "t:interac|informationsecurityintern": "2026-10-23",
+  "t:intercon|summerinternshipprogram2027applicationsecurityintern": "2026-10-23",
+  "t:intercon|summerinternshipprogram2027cybersecurityarchitectintern": "2026-10-23",
   "t:intuit|summer2027cybersecuritycomplianceintern": "2026-10-23",
   "t:intuit|summer2027softwareengineeringinterncybersecurity": "2026-10-23",
   "t:irvingco|securityanalyststudentwinter2027": "2026-10-23",
@@ -3671,7 +3675,10 @@
   "icims:careers-i2gsystems.icims.com": [],
   "icims:careers-i2xisys.icims.com": [],
   "icims:careers-i3-corps.icims.com": [],
-  "icims:careers-ice.icims.com": [],
+  "icims:careers-ice.icims.com": [
+   "https://careers-ice.icims.com/jobs/14063/summer-internship-program-2027---cybersecurity-architect-intern/job",
+   "https://careers-ice.icims.com/jobs/14082/summer-internship-program-2027---application-security-intern/job"
+  ],
   "icims:careers-ideagenuk.icims.com": [],
   "icims:careers-iehp.icims.com": [],
   "icims:careers-integralfed.icims.com": [],
@@ -3921,7 +3928,6 @@
    "https://grnh.se/3rzsdnsm9us",
    "https://ncfta.bamboohr.com/careers/54?source=indeed&src=indeed&postedDate=2026-10-22",
    "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
-   "https://rr.jobsyn.org/48E9318ABFB64044B08DBF0E9F001AE21554",
    "https://rr.jobsyn.org/F979ECA1EBCF46C5A9857784504202271554",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
    "https://www.indeed.com/viewjob?jk=d1c7ee6ef557194c"
@@ -7473,18 +7479,6 @@
  "heartbeat": "2026-10-23 16",
  "recent": [
   [
-   1792690603.1423852,
-   "Hemlock Semiconductor - IT Infrastructure & Security Summer Intern"
-  ],
-  [
-   1792690858.6077526,
-   "Otis - Cybersecurity Ops & Intelligence Intern"
-  ],
-  [
-   1792691316.8216748,
-   "Cryptic Vector - Summer 2027 Cyber Engineering Internship Program"
-  ],
-  [
    1792695581.1971579,
    "Automotive Product Consultants - CyberSecurity Intern (Spring 2027)"
   ],
@@ -7587,6 +7581,14 @@
   [
    1792784071.8773174,
    "The Aerospace Corporation - 2027 Defensive Cyber Operations Undergrad Intern"
+  ],
+  [
+   1792786314.8413904,
+   "Intercontinental Exchange - Summer Internship Program 2027 /  Application Security Intern"
+  ],
+  [
+   1792786314.8413923,
+   "Intercontinental Exchange - Summer Internship Program 2027 /  Cybersecurity Architect Inte"
   ]
  ]
 }
