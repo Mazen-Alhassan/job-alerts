@@ -705,6 +705,7 @@
   "https://linkedin.com/jobs/view/4479860484": "2026-10-15",
   "https://linkedin.com/jobs/view/4480061946": "2026-10-22",
   "https://linkedin.com/jobs/view/4480090664": "2026-10-23",
+  "https://linkedin.com/jobs/view/4480092595": "2026-10-23",
   "https://linkedin.com/jobs/view/4480125773": "2026-10-16",
   "https://linkedin.com/jobs/view/4480150772": "2026-10-20",
   "https://linkedin.com/jobs/view/4480160706": "2026-10-16",
@@ -1276,6 +1277,7 @@
   "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-23",
+  "t:idahonat|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
   "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemia|cybersecurityinternship": "2026-10-23",
   "t:idrinc|incidentresponseintern": "2026-10-08",
@@ -4321,6 +4323,7 @@
    "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4480090664",
+   "https://www.linkedin.com/jobs/view/4480092595",
    "https://www.linkedin.com/jobs/view/4481169848",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4482455467",
@@ -7450,22 +7453,6 @@
  "heartbeat": "2026-10-22 20",
  "recent": [
   [
-   1792618720.1594133,
-   "BC Pensions - Junior Security Analyst Co-op"
-  ],
-  [
-   1792620530.6764648,
-   "Stifel - Information Security Intern / Summer 2027"
-  ],
-  [
-   1792620530.6764672,
-   "Intel - Information Security Engineer Undergraduate Intern"
-  ],
-  [
-   1792622595.9364777,
-   "Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Stu"
-  ],
-  [
    1792634840.7213626,
    "NFP Corp - 2027 IT / Cybersecurity Engineer Intern - Chicago, IL"
   ],
@@ -7576,6 +7563,10 @@
   [
    1792710274.2989085,
    "MBDA - Cyber Security Analyst Level 6 Degree Apprenticeship 2027"
+  ],
+  [
+   1792719470.186009,
+   "Idaho National Laboratory - Cybersecurity Industrial Controls Internship - Summer 2027"
   ]
  ]
 }
