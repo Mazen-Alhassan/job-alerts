@@ -2938,9 +2938,7 @@
   "gh:idme": [],
   "gh:idmeuniversityrecruiting": [],
   "gh:ieqcapital": [],
-  "gh:iex-interns": [
-   "https://job-boards.greenhouse.io/iex-interns/jobs/8173713"
-  ],
+  "gh:iex-interns": [],
   "gh:imc": [],
   "gh:immersive": [],
   "gh:impact": [],
@@ -3915,7 +3913,6 @@
    "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
    "https://rr.jobsyn.org/F979ECA1EBCF46C5A9857784504202271554",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
-   "https://spectrumah.rec.pro.ukg.net/SPE1504SPHC/JobBoard/2be67fec-c6c7-4129-bca6-f4cf28b3518c/OpportunityDetail?opportunityId=5fdd361c-fdd5-47a2-a56e-85b4e8388458&postingId=830f7bdd-492b-4362-b0c3-82f555dbf797",
    "https://www.indeed.com/viewjob?jk=d1c7ee6ef557194c"
   ],
   "jobvite:aarete": [],
@@ -4342,13 +4339,18 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465318343",
    "https://www.linkedin.com/jobs/view/4465323302",
+   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
+   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
+   "https://www.linkedin.com/jobs/view/4474355810",
+   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480090664",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
+   "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555"
   ],
   "microsoft": [
@@ -5255,9 +5257,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
