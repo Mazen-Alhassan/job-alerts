@@ -563,6 +563,7 @@
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
   "https://linkedin.com/jobs/view/4465323302": "2026-10-23",
   "https://linkedin.com/jobs/view/4465327251": "2026-10-23",
+  "https://linkedin.com/jobs/view/4465811689": "2026-10-23",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
@@ -614,8 +615,10 @@
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-23",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474322897": "2026-10-23",
   "https://linkedin.com/jobs/view/4474338050": "2026-10-23",
   "https://linkedin.com/jobs/view/4474340478": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474360100": "2026-10-23",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -969,6 +972,7 @@
   "t:american|summer2027interncybersecurity": "2026-10-23",
   "t:american|summer2027internitcybersecurity": "2026-10-19",
   "t:american|threatandvulnerabilitymanagementintern": "2026-10-23",
+  "t:amway|informationsecurityriskinternsummer2027req43463": "2026-10-23",
   "t:ankuraconsul|universityinternconstructiondisputesadvisoryforensicaccountingclaimsconsulting": "2026-10-08",
   "t:appian|informationsecurityengineerintern": "2026-10-23",
   "t:applebank|2027summerinterninformationsecurity": "2026-10-08",
@@ -1492,6 +1496,7 @@
   "t:phillips|informationtechnologyinterncybersecuritysummer2027": "2026-10-14",
   "t:plantemo|2027cybersecurityconsultantintern": "2026-10-23",
   "t:portofco|informationtechnologyinterncybersecurity": "2026-10-16",
+  "t:pplcorpo|summer2027cybersecurityintern": "2026-10-23",
   "t:precisel|cybersecurityoperationsintern": "2026-10-23",
   "t:pricewaterho|interncybersecuritysoc": "2026-10-08",
   "t:pricewat|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
@@ -4324,16 +4329,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4369879280",
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465327251",
+   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4473967974",
+   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474340478",
+   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4480092595",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
@@ -4859,8 +4865,7 @@
   "simplify": [
    "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
-   "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true"
   ],
   "simplify-vansh": [
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
@@ -7455,7 +7460,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-23 04",
+ "heartbeat": "2026-10-23 06",
  "recent": [
   [
    1792659975.772034,
@@ -7576,6 +7581,14 @@
   [
    1792749395.792888,
    "SeatGeek - Security Engineer - Internship"
+  ],
+  [
+   1792749854.005915,
+   "PPL Corporation - Summer 2027 - Cybersecurity Intern"
+  ],
+  [
+   1792749854.0059168,
+   "Amway - Information Security & Risk Intern, Summer 2027 (REQ#43463)"
   ]
  ]
 }
