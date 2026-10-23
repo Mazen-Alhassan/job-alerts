@@ -4334,7 +4334,6 @@
    "https://www.linkedin.com/jobs/view/4480092595",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4482455467",
    "https://www.linkedin.com/jobs/view/4482459824",
    "https://www.linkedin.com/jobs/view/4482483140",
    "https://www.linkedin.com/jobs/view/4482710620",
@@ -4877,8 +4876,6 @@
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
-   "https://jobs.smartrecruiters.com/llnl/3743990016165496",
-   "https://jobs.smartrecruiters.com/llnl/3743990016165636",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
    "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
    "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911",
@@ -5548,7 +5545,6 @@
   "wd+:bnl/externa": [],
   "wd+:bobsdf/bobs_careers": [],
   "wd+:boeing/INTERN": [
-   "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791",
    "https://boeing.wd1.myworkdayjobs.com/en-US/INTERN/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717"
   ],
   "wd+:boeing/external_subsidiary": [],
@@ -7217,7 +7213,6 @@
   "wd:bdo/bdo": [],
   "wd:bmo/External": [],
   "wd:boeing/EXTERNAL_CAREERS": [
-   "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1",
    "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   ],
   "wd:caci/External": [],
