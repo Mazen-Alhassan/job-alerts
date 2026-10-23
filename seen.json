@@ -737,6 +737,7 @@
   "https://linkedin.com/jobs/view/4480494475": "2026-10-21",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
+  "https://linkedin.com/jobs/view/4480682789": "2026-10-23",
   "https://linkedin.com/jobs/view/4480709263": "2026-10-21",
   "https://linkedin.com/jobs/view/4480729402": "2026-10-21",
   "https://linkedin.com/jobs/view/4480733321": "2026-10-21",
@@ -1621,6 +1622,7 @@
   "t:texasins|informationtechnologyinternsecurity": "2026-10-23",
   "t:thales|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thales|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-23",
+  "t:theaeros|2027defensivecyberoperationsundergradintern": "2026-10-23",
   "t:theaeros|2027hardwaresecurityengineeringgradintern": "2026-10-22",
   "t:theaeros|2027hardwaresecurityengineeringundergradintern": "2026-10-22",
   "t:thechurc|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-15",
@@ -4346,7 +4348,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465309408",
-   "https://www.linkedin.com/jobs/view/4465318343",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
@@ -4357,6 +4358,7 @@
    "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4474561093",
    "https://www.linkedin.com/jobs/view/4480090664",
+   "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4482869637",
@@ -5266,7 +5268,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -7470,10 +7474,6 @@
  "heartbeat": "2026-10-23 14",
  "recent": [
   [
-   1792689235.8351722,
-   "C.H. Robinson - Cyber Security Internship 2027"
-  ],
-  [
    1792690603.1423852,
    "Hemlock Semiconductor - IT Infrastructure & Security Summer Intern"
   ],
@@ -7584,6 +7584,10 @@
   [
    1792782725.8902094,
    "ByteDance - Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS)"
+  ],
+  [
+   1792784071.8773174,
+   "The Aerospace Corporation - 2027 Defensive Cyber Operations Undergrad Intern"
   ]
  ]
 }
