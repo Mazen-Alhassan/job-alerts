@@ -111,6 +111,7 @@
   "https://amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027": "2026-10-23",
   "https://amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services": "2026-10-23",
   "https://amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027": "2026-10-23",
+  "https://amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern": "2026-10-23",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-23",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-23",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-23",
@@ -922,6 +923,7 @@
   "t:altardstate|spring2027itsecurityanalystintern": "2026-10-08",
   "t:altardst|spring2027itsecurityanalystintern": "2026-10-23",
   "t:amadeus|internshipsecurityengineer": "2026-10-23",
+  "t:amazon|2027amazonairnetworkcontrolcentersupplychainmanagerintern": "2026-10-23",
   "t:amazon|2027appliedscienceinternshiprecommendersystemsinformationretrievalmachinelearningunitedstatesphdstudentsciencerecruiting": "2026-10-08",
   "t:amazon|amazonroboticshardwaredevelopmentengineerinterncoop2027": "2026-10-14",
   "t:amazon|amazonroboticssoftwaredevelopmentengineerinterncoop2027": "2026-10-14",
@@ -1713,6 +1715,7 @@
    "https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027",
    "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
    "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
+   "https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -3911,6 +3914,7 @@
    "https://grnh.se/3rzsdnsm9us",
    "https://ncfta.bamboohr.com/careers/54?source=indeed&src=indeed&postedDate=2026-10-22",
    "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
+   "https://rr.jobsyn.org/48E9318ABFB64044B08DBF0E9F001AE21554",
    "https://rr.jobsyn.org/F979ECA1EBCF46C5A9857784504202271554",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
    "https://www.indeed.com/viewjob?jk=d1c7ee6ef557194c"
@@ -4339,7 +4343,6 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465318343",
    "https://www.linkedin.com/jobs/view/4465323302",
-   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
    "https://www.linkedin.com/jobs/view/4474322897",
@@ -7460,26 +7463,6 @@
  "heartbeat": "2026-10-23 14",
  "recent": [
   [
-   1792682638.0451229,
-   "1Password - Developer Intern, Data Security - Winter 2027"
-  ],
-  [
-   1792683260.4673047,
-   "1Password - Developer Intern, Machine Identity - Winter 2027"
-  ],
-  [
-   1792683353.272657,
-   "1Password - Security Intern, Threat Operations - Winter 2027"
-  ],
-  [
-   1792683448.5797253,
-   "Nissan Global - Cyber Security Intern - Summer 2027 - Smyrna, TN"
-  ],
-  [
-   1792683527.1841688,
-   "Legends Global - Security Intern"
-  ],
-  [
    1792688338.60659,
    "Microsoft - Security Research Intern"
   ],
@@ -7586,6 +7569,10 @@
   [
    1792774354.1027563,
    "1Password - Developer Intern, Data Security"
+  ],
+  [
+   1792781570.4884079,
+   "Amazon - 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern"
   ]
  ]
 }
