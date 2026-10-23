@@ -60,6 +60,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393557022480": "2026-10-23",
   "https:/.careers.microsoft.com/careers/job/1970393557044765": "2026-10-23",
   "https:/.careers.microsoft.com/careers/job/1970393557044769": "2026-10-23",
+  "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-23",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-23",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-23",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
@@ -1132,6 +1133,7 @@
   "t:conagrab|cybersecurityinternshipsummer2027": "2026-10-16",
   "t:coopsatn|coopittechnicalsecurity": "2026-10-23",
   "t:copart|vulnerabilitymanagementengineeringintern": "2026-10-23",
+  "t:coreteks|securityanalystcoopspring2027semesteruniversityofcincinnati": "2026-10-23",
   "t:corewell|digitalservicesinformationsecurityinternshipsummer2027": "2026-10-17",
   "t:costargroup|securityengineerinternrichmondva": "2026-10-08",
   "t:costargr|securityengineerintern": "2026-10-23",
@@ -7328,7 +7330,9 @@
   "workable:cognite": [],
   "workable:coldquanta": [],
   "workable:connectprep": [],
-  "workable:coretek-services": [],
+  "workable:coretek-services": [
+   "https://apply.workable.com/coretek-services/j/D01D911BB0/"
+  ],
   "workable:cornerstone-research-group-inc": [],
   "workable:credence": [],
   "workable:currier-plastics": [],
@@ -7584,6 +7588,10 @@
   [
    1792764284.1472266,
    "Nissan Motor Corporation - Cyber Security Intern - Summer 2027 - Smyrna, TN"
+  ],
+  [
+   1792769635.8897004,
+   "Coretek Services - Security Analyst Co-Op (Spring 2027 Semester) / University of Cincinnat"
   ]
  ]
 }
