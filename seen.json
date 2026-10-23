@@ -406,6 +406,7 @@
   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": "2026-10-23",
   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application": "2026-10-23",
   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1": "2026-10-23",
+  "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application": "2026-10-23",
   "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847": "2026-10-23",
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": "2026-10-23",
   "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": "2026-10-23",
@@ -889,6 +890,7 @@
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html": "2026-10-22",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-19",
+  "t:1passwor|developerinterndatasecurity": "2026-10-23",
   "t:1passwor|developerinterndatasecuritywinter2027": "2026-10-23",
   "t:1passwor|developerinternmachineidentity": "2026-10-23",
   "t:1passwor|developerinternmachineidentitywinter2027": "2026-10-23",
@@ -4341,7 +4343,6 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
    "https://www.linkedin.com/jobs/view/4474322897",
@@ -4881,6 +4882,7 @@
    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
    "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
@@ -4888,6 +4890,8 @@
    "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
    "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application",
+   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application",
    "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
    "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
    "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d",
@@ -7582,6 +7586,10 @@
   [
    1792769635.8897004,
    "Coretek Services - Security Analyst Co-Op (Spring 2027 Semester) / University of Cincinnat"
+  ],
+  [
+   1792774354.1027563,
+   "1Password - Developer Intern, Data Security"
   ]
  ]
 }
