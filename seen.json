@@ -18,7 +18,7 @@
   "gh:6163325004": "2026-10-23",
   "gh:6212490004": "2026-10-09",
   "gh:6218639004": "2026-10-23",
-  "gh:6224196004": "2026-10-22",
+  "gh:6224196004": "2026-10-23",
   "gh:7824766003": "2026-10-23",
   "gh:7977819003": "2026-10-08",
   "gh:7986872003": "2026-10-23",
@@ -1264,7 +1264,7 @@
   "t:guardianlife|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-08",
   "t:guardian|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-23",
   "t:guidepoi|applicationsecurityinterngpsune": "2026-10-23",
-  "t:guidepoi|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-22",
+  "t:guidepoi|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-23",
   "t:guidepoi|gpsucybersecurityinternapplicationsecurity": "2026-10-10",
   "t:guidepoi|gpsucybersecurityspringinternship": "2026-10-23",
   "t:guidepoi|gpsuinternapplicationsecurity": "2026-10-08",
@@ -2910,7 +2910,8 @@
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
   ],
   "gh:gusto": [],
   "gh:hackerrank": [],
@@ -4540,9 +4541,7 @@
   "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [
    "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186"
   ],
-  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [
-   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/75310"
-  ],
+  "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
