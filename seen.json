@@ -565,6 +565,7 @@
   "https://linkedin.com/jobs/view/4463556460": "2026-10-22",
   "https://linkedin.com/jobs/view/4463558430": "2026-10-23",
   "https://linkedin.com/jobs/view/4463573184": "2026-10-22",
+  "https://linkedin.com/jobs/view/4465309408": "2026-10-23",
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
   "https://linkedin.com/jobs/view/4465323302": "2026-10-23",
   "https://linkedin.com/jobs/view/4465327251": "2026-10-23",
@@ -629,6 +630,7 @@
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
   "https://linkedin.com/jobs/view/4474558184": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474561093": "2026-10-23",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
   "https://linkedin.com/jobs/view/4474858025": "2026-10-09",
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
@@ -1085,6 +1087,7 @@
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-23",
   "t:burncoro|cybersecuritystudent": "2026-10-15",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
+  "t:bytedanc|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
   "t:bytedanc|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-23",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-17",
@@ -4342,20 +4345,15 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465327251",
-   "https://www.linkedin.com/jobs/view/4465811689",
+   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
-   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
-   "https://www.linkedin.com/jobs/view/4474355810",
-   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4474558184",
+   "https://www.linkedin.com/jobs/view/4474561093",
    "https://www.linkedin.com/jobs/view/4480090664",
    "https://www.linkedin.com/jobs/view/4481611449",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555"
   ],
   "microsoft": [
@@ -7576,6 +7574,10 @@
   [
    1792782439.2052732,
    "Aerospace Corp - 2027 Defensive Cyber Operations Undergrad Intern"
+  ],
+  [
+   1792782725.8902094,
+   "ByteDance - Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS)"
   ]
  ]
 }
