@@ -68,6 +68,7 @@
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-23",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-10-23",
+  "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-defensive-cyber-operations-undergrad-intern_r017011": "2026-10-23",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-grad-intern_r016953": "2026-10-23",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-undergrad--intern_r016954": "2026-10-23",
   "https://ag.wd3.myworkdayjobs.com/airbus/job/getafe-area/cyber-security-internships---2027_jr10452362": "2026-10-23",
@@ -911,6 +912,7 @@
   "t:adobe|2027internsecurityengineer": "2026-10-23",
   "t:adobe|securityengineerintern": "2026-10-23",
   "t:aeravoxd|cyberprofessionalservicesintern": "2026-10-09",
+  "t:aerospac|2027defensivecyberoperationsundergradintern": "2026-10-23",
   "t:aerospac|2027hardwaresecurityengineeringgradintern": "2026-10-23",
   "t:aerospac|2027hardwaresecurityengineeringundergradintern": "2026-10-23",
   "t:aerospac|cybersecurityinternsummer2027": "2026-10-23",
@@ -3910,7 +3912,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
-   "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "https://grnh.se/3rzsdnsm9us",
    "https://ncfta.bamboohr.com/careers/54?source=indeed&src=indeed&postedDate=2026-10-22",
    "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
@@ -4342,7 +4343,8 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465323302",
+   "https://www.linkedin.com/jobs/view/4465327251",
+   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322837",
    "https://www.linkedin.com/jobs/view/4474322897",
@@ -7204,6 +7206,7 @@
    "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
   ],
   "wd:aero/external": [
+   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954"
   ],
@@ -7463,10 +7466,6 @@
  "heartbeat": "2026-10-23 14",
  "recent": [
   [
-   1792688338.60659,
-   "Microsoft - Security Research Intern"
-  ],
-  [
    1792689235.8351722,
    "C.H. Robinson - Cyber Security Internship 2027"
   ],
@@ -7573,6 +7572,10 @@
   [
    1792781570.4884079,
    "Amazon - 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern"
+  ],
+  [
+   1792782439.2052732,
+   "Aerospace Corp - 2027 Defensive Cyber Operations Undergrad Intern"
   ]
  ]
 }
