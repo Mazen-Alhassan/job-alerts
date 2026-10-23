@@ -607,12 +607,14 @@
   "https://linkedin.com/jobs/view/4472206391": "2026-10-18",
   "https://linkedin.com/jobs/view/4472247698": "2026-10-18",
   "https://linkedin.com/jobs/view/4472769079": "2026-10-20",
+  "https://linkedin.com/jobs/view/4472992536": "2026-10-23",
   "https://linkedin.com/jobs/view/4473008825": "2026-10-21",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-23",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474338050": "2026-10-23",
   "https://linkedin.com/jobs/view/4474340478": "2026-10-23",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
@@ -1538,6 +1540,7 @@
   "t:scotiaba|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seagatet|summerinterncryptographyandsecurity": "2026-10-15",
+  "t:seatgeek|securityengineerinternship": "2026-10-23",
   "t:security|cybersoccoop2027usgreenshift": "2026-10-23",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
@@ -4326,9 +4329,10 @@
    "https://www.linkedin.com/jobs/view/4462536534",
    "https://www.linkedin.com/jobs/view/4463558430",
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465327251",
+   "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4473967974",
+   "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4480092595",
    "https://www.linkedin.com/jobs/view/4481611449",
@@ -5241,9 +5245,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -7570,6 +7572,10 @@
   [
    1792738166.140209,
    "Scot Forge - IT Cybersecurity Intern (Summer 2027)"
+  ],
+  [
+   1792749395.792888,
+   "SeatGeek - Security Engineer - Internship"
   ]
  ]
 }
