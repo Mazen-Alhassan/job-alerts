@@ -586,6 +586,7 @@
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
   "https://linkedin.com/jobs/view/4466253153": "2026-10-10",
+  "https://linkedin.com/jobs/view/4466378804": "2026-10-24",
   "https://linkedin.com/jobs/view/4467288333": "2026-10-08",
   "https://linkedin.com/jobs/view/4467780988": "2026-10-08",
   "https://linkedin.com/jobs/view/4467863757": "2026-10-17",
@@ -1380,6 +1381,7 @@
   "t:johnshop|2027internshipreverseengineeroffensivecybercapabilities": "2026-10-24",
   "t:johnshop|2027internshipwirelesscommunicationsengineerwirelesscybercapabilities": "2026-10-24",
   "t:johnsonc|securitysystemsapprentice": "2026-10-20",
+  "t:johnsonf|informationtechnologysecurityrotationalinternship2027": "2026-10-24",
   "t:johnsonj|medicaldevicecybersecuritycoop": "2026-10-11",
   "t:johnsonmatth|cybersecuritysummer2027intern": "2026-10-08",
   "t:johnsonm|cybersecuritysummer2027intern": "2026-10-13",
@@ -4381,6 +4383,7 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465309408",
+   "https://www.linkedin.com/jobs/view/4466378804",
    "https://www.linkedin.com/jobs/view/4473166453",
    "https://www.linkedin.com/jobs/view/4475047828",
    "https://www.linkedin.com/jobs/view/4475056787",
@@ -7509,18 +7512,6 @@
  "heartbeat": "2026-10-24 14",
  "recent": [
   [
-   1792764284.1472266,
-   "Nissan Motor Corporation - Cyber Security Intern - Summer 2027 - Smyrna, TN"
-  ],
-  [
-   1792769635.8897004,
-   "Coretek Services - Security Analyst Co-Op (Spring 2027 Semester) / University of Cincinnat"
-  ],
-  [
-   1792774354.1027563,
-   "1Password - Developer Intern, Data Security"
-  ],
-  [
    1792781570.4884079,
    "Amazon - 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern"
   ],
@@ -7583,6 +7574,10 @@
   [
    1792854137.60582,
    "The Lubrizol Corporation - Information Security Co-op (Summer 2027)"
+  ],
+  [
+   1792869879.2638004,
+   "Johnson Financial Group - Information Technology / Security Rotational Internship 2027"
   ]
  ]
 }
