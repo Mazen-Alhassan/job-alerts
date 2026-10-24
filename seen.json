@@ -576,6 +576,7 @@
   "https://linkedin.com/jobs/view/4463558430": "2026-10-23",
   "https://linkedin.com/jobs/view/4463573184": "2026-10-22",
   "https://linkedin.com/jobs/view/4463925611": "2026-10-24",
+  "https://linkedin.com/jobs/view/4464593731": "2026-10-24",
   "https://linkedin.com/jobs/view/4465309408": "2026-10-24",
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
   "https://linkedin.com/jobs/view/4465323302": "2026-10-23",
@@ -1662,6 +1663,7 @@
   "t:thechurc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-14",
   "t:thehomedepot|2027summerinternshipcybersecurity": "2026-10-08",
   "t:thehomed|2027summerinternshipcybersecurity": "2026-10-24",
+  "t:thelubri|informationsecuritycoopsummer2027": "2026-10-24",
   "t:themanitowoc|summer2027interncybersecurity": "2026-10-08",
   "t:theoptio|yearroundinternapplicationsecurity": "2026-10-10",
   "t:theoptio|yearroundinterncyberoperations": "2026-10-10",
@@ -4378,8 +4380,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4464593731",
    "https://www.linkedin.com/jobs/view/4465309408",
-   "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4475047828",
    "https://www.linkedin.com/jobs/view/4475056787",
    "https://www.linkedin.com/jobs/view/4475063172",
@@ -7507,18 +7509,6 @@
  "heartbeat": "2026-10-24 10",
  "recent": [
   [
-   1792749395.792888,
-   "SeatGeek - Security Engineer - Internship"
-  ],
-  [
-   1792749854.005915,
-   "PPL Corporation - Summer 2027 - Cybersecurity Intern"
-  ],
-  [
-   1792749854.0059168,
-   "Amway - Information Security & Risk Intern, Summer 2027 (REQ#43463)"
-  ],
-  [
    1792764284.1472266,
    "Nissan Motor Corporation - Cyber Security Intern - Summer 2027 - Smyrna, TN"
   ],
@@ -7589,6 +7579,10 @@
   [
    1792840000.4022014,
    "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Cyber Operations and Analysi"
+  ],
+  [
+   1792854137.60582,
+   "The Lubrizol Corporation - Information Security Co-op (Summer 2027)"
   ]
  ]
 }
