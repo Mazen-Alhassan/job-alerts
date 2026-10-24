@@ -648,6 +648,7 @@
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
   "https://linkedin.com/jobs/view/4475047828": "2026-10-24",
   "https://linkedin.com/jobs/view/4475056787": "2026-10-24",
+  "https://linkedin.com/jobs/view/4475063172": "2026-10-24",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-10",
   "https://linkedin.com/jobs/view/4475278026": "2026-10-10",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
@@ -785,6 +786,7 @@
   "https://linkedin.com/jobs/view/4483160876": "2026-10-24",
   "https://linkedin.com/jobs/view/4483170573": "2026-10-24",
   "https://linkedin.com/jobs/view/4483172515": "2026-10-24",
+  "https://linkedin.com/jobs/view/4483182764": "2026-10-24",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1109,6 +1111,7 @@
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-24",
   "t:burncoro|cybersecuritystudent": "2026-10-15",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
+  "t:bytedanc|networksecuritysoftwareengineerinternsecurityengineering2027fall": "2026-10-24",
   "t:bytedanc|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
   "t:bytedanc|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-24",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
@@ -1464,6 +1467,7 @@
   "t:midconti|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midlandstate|internsecurityanalyst": "2026-10-08",
   "t:midlands|internsecurityanalyst": "2026-10-24",
+  "t:mitlinco|summerresearchprogramintern2027cyberoperationsandanalysistechnologygroup0557": "2026-10-24",
   "t:mitre|cyberoperationsengineerintern": "2026-10-24",
   "t:mitre|cyberoperationsintern": "2026-10-24",
   "t:mitre|cybersecurityengineerintern": "2026-10-16",
@@ -1763,6 +1767,7 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
@@ -4378,14 +4383,17 @@
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4475047828",
    "https://www.linkedin.com/jobs/view/4475056787",
+   "https://www.linkedin.com/jobs/view/4475063172",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481687615",
+   "https://www.linkedin.com/jobs/view/4481962813",
    "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483170573",
-   "https://www.linkedin.com/jobs/view/4483172515"
+   "https://www.linkedin.com/jobs/view/4483172515",
+   "https://www.linkedin.com/jobs/view/4483182764"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7577,6 +7585,14 @@
   [
    1792836846.9449804,
    "Integrated DNA Technologies - IT Security Intern"
+  ],
+  [
+   1792840000.4021995,
+   "ByteDance - Network Security Software Engineer Intern (Security Engineering) - 2027 Fall"
+  ],
+  [
+   1792840000.4022014,
+   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Cyber Operations and Analysi"
   ]
  ]
 }
