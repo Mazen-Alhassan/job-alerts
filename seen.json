@@ -4364,17 +4364,16 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465811689",
+   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4472992536",
-   "https://www.linkedin.com/jobs/view/4474322897",
-   "https://www.linkedin.com/jobs/view/4474338050",
-   "https://www.linkedin.com/jobs/view/4474355810",
-   "https://www.linkedin.com/jobs/view/4474360100",
+   "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4482869637",
+   "https://www.linkedin.com/jobs/view/4481962813",
+   "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876"
+   "https://www.linkedin.com/jobs/view/4483160876",
+   "https://www.linkedin.com/jobs/view/4483170573"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4437,7 +4436,12 @@
   "oracle:egmh.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:egua.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:egud.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [],
+  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913",
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444",
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462"
+  ],
   "oracle:egup.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ehac.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:ehif.fa.em2.oraclecloud.com/CX_1": [],
