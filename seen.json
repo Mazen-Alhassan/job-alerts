@@ -1748,6 +1748,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -3661,10 +3662,7 @@
   "icims:careers-gannettfleming.icims.com": [],
   "icims:careers-gd-ots.icims.com": [],
   "icims:careers-gdbiw.icims.com": [],
-  "icims:careers-gdeb.icims.com": [
-   "https://careers-gdeb.icims.com/jobs/20338/cybersecurity---2027-summer-internship/job",
-   "https://careers-gdeb.icims.com/jobs/20526/security---2027-summer-internship/job"
-  ],
+  "icims:careers-gdeb.icims.com": [],
   "icims:careers-gdms.icims.com": [],
   "icims:careers-geosyntec.icims.com": [],
   "icims:careers-gilbaneco.icims.com": [],
@@ -4365,22 +4363,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474360100",
-   "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4481962813",
-   "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4483160876"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7491,7 +7484,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-23 22",
+ "heartbeat": "2026-10-24 00",
  "recent": [
   [
    1792710274.298906,
