@@ -931,6 +931,7 @@
   "t:aerospac|2027hardwaresecurityengineeringgradintern": "2026-10-24",
   "t:aerospac|2027hardwaresecurityengineeringundergradintern": "2026-10-24",
   "t:aerospac|cybersecurityinternsummer2027": "2026-10-24",
+  "t:aerospac|defensivecyberoperationsintern": "2026-10-24",
   "t:aerospac|hardwaresecurityengineeringintern": "2026-10-24",
   "t:aig|2027earlycareerssummerinternforensicaccountingunitedstatesdallastxchicagoil": "2026-10-08",
   "t:airbus|cybersecurityinternships2027": "2026-10-24",
@@ -1748,11 +1749,10 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -2505,8 +2505,7 @@
   "eightfold:eaton.eightfold.ai": [],
   "eightfold:fortive.eightfold.ai": [],
   "eightfold:jobs.ericsson.com": [
-   "https://jobs.ericsson.com/careers/job/563121777363423",
-   "https://jobs.ericsson.com/careers/job/563121777370331"
+   "https://jobs.ericsson.com/careers/job/563121777363423"
   ],
   "eightfold:johndeere.eightfold.ai": [],
   "eightfold:lockheedmartin.eightfold.ai": [],
@@ -3937,8 +3936,7 @@
    "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
    "https://careers.hpe.com/us/en/job/HPE1US1216080EXTERNALENUS/Cybersecurity-Engineering-Intern",
-   "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security?source=indeed",
-   "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"
+   "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security?source=indeed"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4362,22 +4360,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474360100",
-   "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4481962813",
-   "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4483160876"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -4901,9 +4894,11 @@
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
    "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954",
+   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "https://apply.careers.microsoft.com/careers/job/1970393557044771",
    "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
@@ -4911,6 +4906,7 @@
    "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
    "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
    "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
+   "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
    "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
    "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application",
    "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1/application",
