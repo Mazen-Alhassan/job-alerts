@@ -221,6 +221,7 @@
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-10",
   "https://careers.hpe.com/us/en/job/1216080": "2026-10-24",
+  "https://careers.hpe.com/us/en/job/hpe1us1216080externalenus/cybersecurity-engineering-intern": "2026-10-24",
   "https://careers.hscpoly.com/job/hemlock-it-infrastructure-&-security-summer-intern-mi-48626/1442692500": "2026-10-23",
   "https://careers.jacobs.com/en_us/careers/jobdetail/vds-voice-data-security-engineering-intern-summer-2027/46462": "2026-10-08",
   "https://careers.jhuapl.edu/jobs/59642": "2026-10-24",
@@ -1751,7 +1752,6 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -3938,8 +3938,8 @@
   "jobspy": [
    "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "https://careers.hpe.com/us/en/job/HPE1US1216080EXTERNALENUS/Cybersecurity-Engineering-Intern",
    "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security?source=indeed",
-   "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4578257/Scot-Forge/IT-Cybersecurity-Intern-Summer-2027?source=Indeed_Feed",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540"
   ],
   "jobvite:aarete": [],
@@ -4364,22 +4364,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474360100",
-   "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481656491",
-   "https://www.linkedin.com/jobs/view/4481962813",
-   "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4483160876"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
