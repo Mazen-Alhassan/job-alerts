@@ -645,6 +645,7 @@
   "https://linkedin.com/jobs/view/4474858025": "2026-10-09",
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475056787": "2026-10-24",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-10",
   "https://linkedin.com/jobs/view/4475278026": "2026-10-10",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
@@ -1751,6 +1752,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4365,16 +4367,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465309408",
-   "https://www.linkedin.com/jobs/view/4472992536",
-   "https://www.linkedin.com/jobs/view/4474338050",
-   "https://www.linkedin.com/jobs/view/4474558184",
-   "https://www.linkedin.com/jobs/view/4480682789",
-   "https://www.linkedin.com/jobs/view/4481962813",
-   "https://www.linkedin.com/jobs/view/4481973006",
-   "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4475056787"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
