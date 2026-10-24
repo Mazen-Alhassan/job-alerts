@@ -1749,6 +1749,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4361,21 +4362,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
    "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474360100",
-   "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
-   "https://www.linkedin.com/jobs/view/4481962813",
    "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4483160876"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5283,9 +5280,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
