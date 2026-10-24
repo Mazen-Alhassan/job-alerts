@@ -775,6 +775,7 @@
   "https://linkedin.com/jobs/view/4482869637": "2026-10-24",
   "https://linkedin.com/jobs/view/4482875555": "2026-10-24",
   "https://linkedin.com/jobs/view/4483160876": "2026-10-24",
+  "https://linkedin.com/jobs/view/4483170573": "2026-10-24",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1322,6 +1323,7 @@
   "t:ibm|internsecurityconsultantcyberstrategyrisk2027": "2026-10-18",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-24",
+  "t:ice|summerinternshipprogram2027applicationsecurityintern": "2026-10-24",
   "t:idahonat|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
   "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemia|cybersecurityinternship": "2026-10-24",
@@ -4365,15 +4367,21 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465309408",
+   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
+   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
+   "https://www.linkedin.com/jobs/view/4474355810",
+   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4474558184",
    "https://www.linkedin.com/jobs/view/4480682789",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4481962813",
    "https://www.linkedin.com/jobs/view/4481973006",
+   "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4483160876"
+   "https://www.linkedin.com/jobs/view/4483160876",
+   "https://www.linkedin.com/jobs/view/4483170573"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7487,30 +7495,6 @@
  "heartbeat": "2026-10-23 20",
  "recent": [
   [
-   1792702795.1879897,
-   "Preciselink - Cybersecurity Operations Intern"
-  ],
-  [
-   1792702902.338799,
-   "Sierra Nevada Corporation - Systems Security Engineer Intern - Summer 2027 (For SNC Summer"
-  ],
-  [
-   1792703245.5230277,
-   "CVS Health - Innovation & Technology Internship - Technology & Security \u2013 Summer 2027 (Und"
-  ],
-  [
-   1792704586.099076,
-   "Langan Engineering and Environmental Services - Intern/Co-op - Cyber Security (Spring 2027"
-  ],
-  [
-   1792707390.483165,
-   "Amazon - System Development Engineer Intern/Co-op, ROBOTICS -  2027"
-  ],
-  [
-   1792708578.9346712,
-   "1Password - Developer Intern - Machine Identity"
-  ],
-  [
    1792710274.298906,
    "Booz Allen - Enterprise Cybersecurity Data and Business Intelligence Analyst Intern"
   ],
@@ -7589,6 +7573,10 @@
   [
    1792795138.4664943,
    "Concurrent Technologies Corporation - Technical Intern - Cyber Security"
+  ],
+  [
+   1792802792.1880472,
+   "ICE - Summer Internship Program 2027 - Application Security Intern"
   ]
  ]
 }
