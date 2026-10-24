@@ -645,6 +645,7 @@
   "https://linkedin.com/jobs/view/4474858025": "2026-10-09",
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475047828": "2026-10-24",
   "https://linkedin.com/jobs/view/4475056787": "2026-10-24",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-10",
   "https://linkedin.com/jobs/view/4475278026": "2026-10-10",
@@ -764,6 +765,7 @@
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
   "https://linkedin.com/jobs/view/4481611449": "2026-10-23",
   "https://linkedin.com/jobs/view/4481656491": "2026-10-24",
+  "https://linkedin.com/jobs/view/4481687615": "2026-10-24",
   "https://linkedin.com/jobs/view/4481760805": "2026-10-21",
   "https://linkedin.com/jobs/view/4481786462": "2026-10-21",
   "https://linkedin.com/jobs/view/4481962813": "2026-10-24",
@@ -781,6 +783,7 @@
   "https://linkedin.com/jobs/view/4482875555": "2026-10-24",
   "https://linkedin.com/jobs/view/4483160876": "2026-10-24",
   "https://linkedin.com/jobs/view/4483170573": "2026-10-24",
+  "https://linkedin.com/jobs/view/4483172515": "2026-10-24",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1025,6 +1028,7 @@
   "t:appliedt|springinterncybersecurity": "2026-10-15",
   "t:archcapital|securityoperationsintern": "2026-10-08",
   "t:archcapi|securityoperationsintern": "2026-10-24",
+  "t:archer|collegetocorporateitinternshiprisksecurityanalystpa": "2026-10-24",
   "t:arconic|cybersecurityintern": "2026-10-24",
   "t:arizonap|2027summerinternshipcybersecurity": "2026-10-10",
   "t:artivion|cybersecurityinternparttime": "2026-10-21",
@@ -1330,6 +1334,7 @@
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-10-14",
   "t:ibotta|informationsecurityintern": "2026-10-24",
   "t:ice|summerinternshipprogram2027applicationsecurityintern": "2026-10-24",
+  "t:ice|summerinternshipprogram2027cybersecurityarchitectintern": "2026-10-24",
   "t:idahonat|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
   "t:idahonat|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemia|cybersecurityinternship": "2026-10-24",
@@ -1752,10 +1757,11 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4366,20 +4372,21 @@
   "lever:zushealth": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4465309408",
-   "https://www.linkedin.com/jobs/view/4465811689",
    "https://www.linkedin.com/jobs/view/4472992536",
-   "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474338050",
    "https://www.linkedin.com/jobs/view/4474355810",
-   "https://www.linkedin.com/jobs/view/4474360100",
    "https://www.linkedin.com/jobs/view/4474558184",
+   "https://www.linkedin.com/jobs/view/4475047828",
+   "https://www.linkedin.com/jobs/view/4475056787",
    "https://www.linkedin.com/jobs/view/4480682789",
+   "https://www.linkedin.com/jobs/view/4481687615",
    "https://www.linkedin.com/jobs/view/4481962813",
    "https://www.linkedin.com/jobs/view/4481973006",
    "https://www.linkedin.com/jobs/view/4482869637",
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483170573"
+   "https://www.linkedin.com/jobs/view/4483170573",
+   "https://www.linkedin.com/jobs/view/4483172515"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -5287,7 +5294,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -7495,26 +7504,6 @@
  "heartbeat": "2026-10-24 04",
  "recent": [
   [
-   1792710274.298906,
-   "Booz Allen - Enterprise Cybersecurity Data and Business Intelligence Analyst Intern"
-  ],
-  [
-   1792710274.2989085,
-   "MBDA - Cyber Security Analyst Level 6 Degree Apprenticeship 2027"
-  ],
-  [
-   1792719470.186009,
-   "Idaho National Laboratory - Cybersecurity Industrial Controls Internship - Summer 2027"
-  ],
-  [
-   1792727725.8463125,
-   "NCFTA - Spring 2027 Cyber Intelligence Analyst Internship"
-  ],
-  [
-   1792738166.140209,
-   "Scot Forge - IT Cybersecurity Intern (Summer 2027)"
-  ],
-  [
    1792749395.792888,
    "SeatGeek - Security Engineer - Internship"
   ],
@@ -7577,6 +7566,14 @@
   [
    1792802792.1880472,
    "ICE - Summer Internship Program 2027 - Application Security Intern"
+  ],
+  [
+   1792835950.8180263,
+   "Archer - College to Corporate IT Internship - Risk & Security - Analyst  (PA)"
+  ],
+  [
+   1792835950.818028,
+   "ICE - Summer Internship Program 2027 - Cybersecurity Architect Intern"
   ]
  ]
 }
