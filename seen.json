@@ -4437,12 +4437,7 @@
   "oracle:egmh.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:egua.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:egud.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011893",
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913",
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012444",
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462"
-  ],
+  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:egup.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ehac.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:ehif.fa.em2.oraclecloud.com/CX_1": [],
