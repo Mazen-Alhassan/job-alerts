@@ -533,6 +533,7 @@
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
   "https://linkedin.com/jobs/view/4414643630": "2026-10-23",
   "https://linkedin.com/jobs/view/4435857047": "2026-10-22",
+  "https://linkedin.com/jobs/view/4447213336": "2026-10-25",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-08",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-09",
   "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
@@ -1615,6 +1616,7 @@
   "t:rocketmo|securityservicesinternfall2026": "2026-10-25",
   "t:rockwellauto|interncyberprofessionalserviceslcs": "2026-10-08",
   "t:rockwell|interncyberprofessionalserviceslcs": "2026-10-08",
+  "t:rock|securityservicesinternfall2026": "2026-10-25",
   "t:rsm|cybermanagedsecurityinternsummer2027": "2026-10-20",
   "t:rsm|cybertestinginternsummer2027": "2026-10-09",
   "t:rtxcolli|cyberresearchinternshipsummer2027onsite": "2026-10-25",
@@ -1797,6 +1799,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4404,6 +4407,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
+   "https://www.linkedin.com/jobs/view/4447213336",
    "https://www.linkedin.com/jobs/view/4466378804",
    "https://www.linkedin.com/jobs/view/4473166453",
    "https://www.linkedin.com/jobs/view/4475047828",
@@ -7556,6 +7560,10 @@
   [
    1792922151.3670776,
    "ByteDance - Applied Research Intern - AI Safety Security - Global Frontier Tech Recruitmen"
+  ],
+  [
+   1792923964.007867,
+   "ROCK - Security Services Intern - Fall 2026"
   ]
  ]
 }
