@@ -1769,6 +1769,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -6253,9 +6254,7 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
   "wd+:intelcomgroup/Intelcom": [],
-  "wd+:interac/Interac": [
-   "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385"
-  ],
+  "wd+:interac/Interac": [],
   "wd+:interdigital/InterDigital_Career": [],
   "wd+:interdigital/InterDigital_Intern": [],
   "wd+:interpublic/omc": [],
@@ -7497,7 +7496,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-24 22",
+ "heartbeat": "2026-10-25 00",
  "recent": [
   [
    1792781570.4884079,
