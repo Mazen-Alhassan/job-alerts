@@ -660,6 +660,7 @@
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-23",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474205293": "2026-10-25",
   "https://linkedin.com/jobs/view/4474322837": "2026-10-23",
   "https://linkedin.com/jobs/view/4474322897": "2026-10-24",
   "https://linkedin.com/jobs/view/4474338050": "2026-10-24",
@@ -1757,6 +1758,7 @@
   "t:whitecap|corporateinterninformationsecurity": "2026-10-25",
   "t:wilcoxfl|cybersecuritycomplianceintern": "2026-10-10",
   "t:wipfli|socsecurityinternshipsummer2027": "2026-10-15",
+  "t:woodmenl|2027summercybersecurityintern": "2026-10-25",
   "t:zachrygr|cybersecurityspecialistiintern": "2026-10-25"
  },
  "boards": {
@@ -1803,7 +1805,6 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
@@ -4407,9 +4408,9 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "linkedin": [
-   "https://www.linkedin.com/jobs/view/4447213336",
    "https://www.linkedin.com/jobs/view/4466378804",
-   "https://www.linkedin.com/jobs/view/4473166453"
+   "https://www.linkedin.com/jobs/view/4473166453",
+   "https://www.linkedin.com/jobs/view/4474205293"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7521,26 +7522,6 @@
  "heartbeat": "2026-10-25 08",
  "recent": [
   [
-   1792835950.8180263,
-   "Archer - College to Corporate IT Internship - Risk & Security - Analyst  (PA)"
-  ],
-  [
-   1792835950.818028,
-   "ICE - Summer Internship Program 2027 - Cybersecurity Architect Intern"
-  ],
-  [
-   1792836846.9449804,
-   "Integrated DNA Technologies - IT Security Intern"
-  ],
-  [
-   1792840000.4021995,
-   "ByteDance - Network Security Software Engineer Intern (Security Engineering) - 2027 Fall"
-  ],
-  [
-   1792840000.4022014,
-   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Cyber Operations and Analysi"
-  ],
-  [
    1792854137.60582,
    "The Lubrizol Corporation - Information Security Co-op (Summer 2027)"
   ],
@@ -7559,6 +7540,10 @@
   [
    1792923964.007867,
    "ROCK - Security Services Intern - Fall 2026"
+  ],
+  [
+   1792935746.4924583,
+   "WoodmenLife - 2027 Summer Cybersecurity Intern"
   ]
  ]
 }
