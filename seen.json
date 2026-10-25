@@ -674,7 +674,9 @@
   "https://linkedin.com/jobs/view/4475032385": "2026-10-08",
   "https://linkedin.com/jobs/view/4475041044": "2026-10-08",
   "https://linkedin.com/jobs/view/4475047828": "2026-10-25",
+  "https://linkedin.com/jobs/view/4475049704": "2026-10-25",
   "https://linkedin.com/jobs/view/4475056787": "2026-10-25",
+  "https://linkedin.com/jobs/view/4475060236": "2026-10-25",
   "https://linkedin.com/jobs/view/4475063172": "2026-10-25",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-10",
   "https://linkedin.com/jobs/view/4475278026": "2026-10-10",
@@ -1139,9 +1141,11 @@
   "t:burlingt|securityoperationsinternsummer2027": "2026-10-25",
   "t:burncoro|cybersecuritystudent": "2026-10-15",
   "t:bwxtechn|interncybersecuritysummer2027": "2026-10-15",
+  "t:bytedanc|appliedresearchinternaisafetysecurityglobalfrontiertechrecruitmentprogram2027startphd": "2026-10-25",
   "t:bytedanc|networksecuritysoftwareengineerinternsecurityengineering2027fall": "2026-10-25",
   "t:bytedanc|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
   "t:bytedanc|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-25",
+  "t:bytedanc|softwareengineerprojectinternsecuritydata2026startbsms": "2026-10-25",
   "t:caciinternat|cyberanalystinternsummer2027": "2026-10-08",
   "t:caciinte|cyberanalystinternsummer2027": "2026-10-17",
   "t:caciinte|cybersecurityinternsummer2027": "2026-10-15",
@@ -4404,7 +4408,8 @@
    "https://www.linkedin.com/jobs/view/4466378804",
    "https://www.linkedin.com/jobs/view/4473166453",
    "https://www.linkedin.com/jobs/view/4475047828",
-   "https://www.linkedin.com/jobs/view/4475056787",
+   "https://www.linkedin.com/jobs/view/4475049704",
+   "https://www.linkedin.com/jobs/view/4475060236",
    "https://www.linkedin.com/jobs/view/4475063172",
    "https://www.linkedin.com/jobs/view/4483328126"
   ],
@@ -7518,46 +7523,6 @@
  "heartbeat": "2026-10-25 04",
  "recent": [
   [
-   1792781570.4884079,
-   "Amazon - 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern"
-  ],
-  [
-   1792782439.2052732,
-   "Aerospace Corp - 2027 Defensive Cyber Operations Undergrad Intern"
-  ],
-  [
-   1792782725.8902094,
-   "ByteDance - Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS)"
-  ],
-  [
-   1792784071.8773174,
-   "The Aerospace Corporation - 2027 Defensive Cyber Operations Undergrad Intern"
-  ],
-  [
-   1792786314.8413904,
-   "Intercontinental Exchange - Summer Internship Program 2027 /  Application Security Intern"
-  ],
-  [
-   1792786314.8413923,
-   "Intercontinental Exchange - Summer Internship Program 2027 /  Cybersecurity Architect Inte"
-  ],
-  [
-   1792789368.7804737,
-   "Hewlett Packard Enterprise - Cybersecurity Engineering Intern"
-  ],
-  [
-   1792793688.6007488,
-   "HPE / Juniper - Cybersecurity Engineering Intern"
-  ],
-  [
-   1792795138.4664943,
-   "Concurrent Technologies Corporation - Technical Intern - Cyber Security"
-  ],
-  [
-   1792802792.1880472,
-   "ICE - Summer Internship Program 2027 - Application Security Intern"
-  ],
-  [
    1792835950.8180263,
    "Archer - College to Corporate IT Internship - Risk & Security - Analyst  (PA)"
   ],
@@ -7584,6 +7549,14 @@
   [
    1792869879.2638004,
    "Johnson Financial Group - Information Technology / Security Rotational Internship 2027"
+  ],
+  [
+   1792922151.367076,
+   "ByteDance - Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)"
+  ],
+  [
+   1792922151.3670776,
+   "ByteDance - Applied Research Intern - AI Safety Security - Global Frontier Tech Recruitmen"
   ]
  ]
 }
