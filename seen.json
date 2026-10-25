@@ -683,6 +683,7 @@
   "https://linkedin.com/jobs/view/4475063172": "2026-10-25",
   "https://linkedin.com/jobs/view/4475227979": "2026-10-10",
   "https://linkedin.com/jobs/view/4475278026": "2026-10-10",
+  "https://linkedin.com/jobs/view/4475329936": "2026-10-25",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
   "https://linkedin.com/jobs/view/4475441187": "2026-10-08",
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
@@ -1345,6 +1346,7 @@
   "t:healthca|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healthca|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healthca|earlycareerssecurityengineeringseniorintern": "2026-10-10",
+  "t:healthca|earlycareerssecurityprogrammanagementseniorintern": "2026-10-25",
   "t:healthca|earlycareersvulnerabilitymanagementintern": "2026-10-15",
   "t:hemlocks|itinfrastructuresecuritysummerintern": "2026-10-23",
   "t:hewlettp|cybersecurityengineeringintern": "2026-10-25",
@@ -1802,7 +1804,6 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4412,7 +4413,8 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4473166453",
-   "https://www.linkedin.com/jobs/view/4474205293"
+   "https://www.linkedin.com/jobs/view/4474205293",
+   "https://www.linkedin.com/jobs/view/4475329936"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7524,10 +7526,6 @@
  "heartbeat": "2026-10-25 12",
  "recent": [
   [
-   1792854137.60582,
-   "The Lubrizol Corporation - Information Security Co-op (Summer 2027)"
-  ],
-  [
    1792869879.2638004,
    "Johnson Financial Group - Information Technology / Security Rotational Internship 2027"
   ],
@@ -7546,6 +7544,10 @@
   [
    1792935746.4924583,
    "WoodmenLife - 2027 Summer Cybersecurity Intern"
+  ],
+  [
+   1792947891.914568,
+   "Health Care Service Corporation - Early Careers - Security Program Management Senior Inter"
   ]
  ]
 }
