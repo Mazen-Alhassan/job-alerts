@@ -61,8 +61,8 @@
   "https:/.careers.microsoft.com/careers/job/1970393557044765": "2026-10-25",
   "https:/.careers.microsoft.com/careers/job/1970393557044769": "2026-10-25",
   "https:/.careers.microsoft.com/careers/job/1970393557044771": "2026-10-25",
-  "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-24",
-  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-24",
+  "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-25",
+  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-25",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-25",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-25",
@@ -1173,7 +1173,7 @@
   "t:concurre|technicalinterncybersecurity": "2026-10-25",
   "t:coopsatn|coopittechnicalsecurity": "2026-10-25",
   "t:copart|vulnerabilitymanagementengineeringintern": "2026-10-25",
-  "t:coreteks|securityanalystcoopspring2027semesteruniversityofcincinnati": "2026-10-24",
+  "t:coreteks|securityanalystcoopspring2027semesteruniversityofcincinnati": "2026-10-25",
   "t:corewell|digitalservicesinformationsecurityinternshipsummer2027": "2026-10-17",
   "t:costargroup|securityengineerinternrichmondva": "2026-10-08",
   "t:costargr|securityengineerintern": "2026-10-25",
@@ -1605,7 +1605,7 @@
   "t:seagatet|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seagatet|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatgeek|securityengineerinternship": "2026-10-24",
-  "t:security|cybersoccoop2027usgreenshift": "2026-10-24",
+  "t:security|cybersoccoop2027usgreenshift": "2026-10-25",
   "t:seminole|cybersecurityanalystintern": "2026-10-10",
   "t:sentineltech|cybersecurityintern": "2026-10-08",
   "t:sentinel|cybersecurityintern": "2026-10-25",
@@ -1773,8 +1773,6 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -3957,8 +3955,7 @@
   "jobspy": [
    "https://careers-ice.icims.com/jobs/14063/job",
    "https://careers-ice.icims.com/jobs/14082/job",
-   "https://careers.hpe.com/us/en/job/HPE1US1216080EXTERNALENUS/Cybersecurity-Engineering-Intern",
-   "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security?source=indeed"
+   "https://careers.hpe.com/us/en/job/HPE1US1216080EXTERNALENUS/Cybersecurity-Engineering-Intern"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
