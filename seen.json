@@ -823,6 +823,7 @@
   "https://linkedin.com/jobs/view/4483172515": "2026-10-25",
   "https://linkedin.com/jobs/view/4483182764": "2026-10-25",
   "https://linkedin.com/jobs/view/4483328126": "2026-10-25",
+  "https://linkedin.com/jobs/view/4483396624": "2026-10-25",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1293,6 +1294,7 @@
   "t:fis|internriskandcybersecurityfisuniversityprogram": "2026-10-23",
   "t:fortunebrand|productmanagementinternb2bsecurity": "2026-10-08",
   "t:fortuneb|productmanagementinternb2bsecurity": "2026-10-25",
+  "t:foundati|spring2027cyberandtechnologyinnovationinternship": "2026-10-25",
   "t:galaxy|offcycle2026cybersecurityinternship": "2026-10-25",
   "t:galaxy|offcyclefall2026cybersecurityinternship": "2026-10-20",
   "t:garmin|cybersecurityengineerintern": "2026-10-21",
@@ -4420,7 +4422,8 @@
    "https://www.linkedin.com/jobs/view/4474205293",
    "https://www.linkedin.com/jobs/view/4475329936",
    "https://www.linkedin.com/jobs/view/4481099546",
-   "https://www.linkedin.com/jobs/view/4482692635"
+   "https://www.linkedin.com/jobs/view/4482692635",
+   "https://www.linkedin.com/jobs/view/4483396624"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7562,6 +7565,10 @@
   [
    1792955268.086377,
    "Radiance Technologies - Microelectronics Engineer Intern with Security Clearance"
+  ],
+  [
+   1792955730.5213141,
+   "Foundation for Defense of Democracies (FDD) - Spring 2027 Cyber and Technology Innovation "
   ]
  ]
 }
