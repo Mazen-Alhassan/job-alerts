@@ -789,6 +789,7 @@
   "https://linkedin.com/jobs/view/4480729402": "2026-10-21",
   "https://linkedin.com/jobs/view/4480733321": "2026-10-21",
   "https://linkedin.com/jobs/view/4480754664": "2026-10-22",
+  "https://linkedin.com/jobs/view/4481099546": "2026-10-25",
   "https://linkedin.com/jobs/view/4481138109": "2026-10-22",
   "https://linkedin.com/jobs/view/4481169848": "2026-10-23",
   "https://linkedin.com/jobs/view/4481204489": "2026-10-20",
@@ -1679,6 +1680,7 @@
   "t:td|2027summerinternshipprogramglobaltechnologysolutionscybersecurity": "2026-10-11",
   "t:teckresource|cyberriskanalystcoop": "2026-10-08",
   "t:teckreso|cyberriskanalystcoop": "2026-10-10",
+  "t:teledyne|eadsimsoftwareengineeringinternsummer2027withsecurityclearance": "2026-10-25",
   "t:telilabs|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tencent|cybersecurityengineerintern": "2026-10-25",
   "t:tensorwave|securityengineerintern": "2026-10-08",
@@ -1804,7 +1806,6 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4414,7 +4415,8 @@
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
-   "https://www.linkedin.com/jobs/view/4475329936"
+   "https://www.linkedin.com/jobs/view/4475329936",
+   "https://www.linkedin.com/jobs/view/4481099546"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7548,6 +7550,10 @@
   [
    1792947891.914568,
    "Health Care Service Corporation - Early Careers - Security Program Management Senior Inter"
+  ],
+  [
+   1792952400.1903045,
+   "Teledyne Brown Engineering - EADSIM Software Engineering Intern (Summer 2027) with Securit"
   ]
  ]
 }
