@@ -812,6 +812,7 @@
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
+  "https://linkedin.com/jobs/view/4482692635": "2026-10-25",
   "https://linkedin.com/jobs/view/4482710620": "2026-10-23",
   "https://linkedin.com/jobs/view/4482713555": "2026-10-23",
   "https://linkedin.com/jobs/view/4482714601": "2026-10-23",
@@ -1600,6 +1601,7 @@
   "t:qts|informationsecurityoperationsanalystintern": "2026-10-21",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-25",
   "t:qualcomm|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-22",
+  "t:radiance|microelectronicsengineerinternwithsecurityclearance": "2026-10-25",
   "t:raytheon|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
   "t:raytheon|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redhat|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
@@ -1810,6 +1812,8 @@
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4415,7 +4419,8 @@
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
    "https://www.linkedin.com/jobs/view/4475329936",
-   "https://www.linkedin.com/jobs/view/4481099546"
+   "https://www.linkedin.com/jobs/view/4481099546",
+   "https://www.linkedin.com/jobs/view/4482692635"
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556988203",
@@ -7553,6 +7558,10 @@
   [
    1792952400.1903045,
    "Teledyne Brown Engineering - EADSIM Software Engineering Intern (Summer 2027) with Securit"
+  ],
+  [
+   1792955268.086377,
+   "Radiance Technologies - Microelectronics Engineer Intern with Security Clearance"
   ]
  ]
 }
