@@ -951,10 +951,12 @@
   "https://volarisgroup.wd3.myworkdayjobs.com/goassetworks/job/united-states---tx/it-security-intern_r69295": "2026-10-26",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-masters_r-2630026": "2026-10-26",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-10-26",
+  "https://wd1.myworkdaysite.com/recruiting/wf/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--cybersecurity-_r-583417": "2026-10-26",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://werner.wd501.myworkdayjobs.com/werner/job/omaha-ne/information-security-intern_jr23746": "2026-10-21",
   "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-13",
+  "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--cybersecurity-_r-583417": "2026-10-26",
   "https://whitecap.wd1.myworkdayjobs.com/careers/job/atlanta_30360/corporate-intern---information-security_wcjr-036638": "2026-10-26",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html": "2026-10-22",
@@ -1580,6 +1582,7 @@
   "t:webst|socintern": "2026-10-13",
   "t:wellm|cybersecurityinternship": "2026-10-26",
   "t:wellm|securityanalystinternship": "2026-10-26",
+  "t:wells|2027technologysummerinternshipearlycareerscybersecurity": "2026-10-26",
   "t:werne|informationsecurityintern": "2026-10-21",
   "t:westb|summer2027internshipinformationsecurity": "2026-10-26",
   "t:weste|summer2027internshipphoenixazitsecurity": "2026-10-19",
@@ -7035,8 +7038,12 @@
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
   "wd+:wexinc/WEXInc": [],
-  "wd+:wf/WellsFargoJobs": [],
-  "wd+:wf/wellsfargojobs": [],
+  "wd+:wf/WellsFargoJobs": [
+   "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
+  ],
+  "wd+:wf/wellsfargojobs": [
+   "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
+  ],
   "wd+:wfscorp/wfscareers": [],
   "wd+:wgl/altagas": [],
   "wd+:wgu/External": [],
@@ -7350,18 +7357,6 @@
  "heartbeat": "2026-10-26 08",
  "recent": [
   [
-   1792922151.367076,
-   "ByteDance - Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)"
-  ],
-  [
-   1792922151.3670776,
-   "ByteDance - Applied Research Intern - AI Safety Security - Global Frontier Tech Recruitmen"
-  ],
-  [
-   1792923964.007867,
-   "ROCK - Security Services Intern - Fall 2026"
-  ],
-  [
    1792935746.4924583,
    "WoodmenLife - 2027 Summer Cybersecurity Intern"
   ],
@@ -7396,6 +7391,10 @@
   [
    1793015500.6651263,
    "Apple - Information Security Intern"
+  ],
+  [
+   1793018015.8079827,
+   "Wells Fargo - 2027 Technology Summer Internship - Early Careers (Cybersecurity)"
   ]
  ],
  "stem5": true,
