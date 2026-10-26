@@ -4497,7 +4497,9 @@
   "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
+  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
+   "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"
+  ],
   "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001": [],
   "oracle:gka.fa.us1.oraclecloud.com/CX": [],
   "oracle:hbbq.fa.us2.oraclecloud.com/CX_1": [],
@@ -7483,5 +7485,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "li-companies": [
+   1,
+   1793039744.858227,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ }
 }
