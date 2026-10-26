@@ -7536,11 +7536,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793057408.262486,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- }
+ "streaks": {}
 }
