@@ -59,7 +59,7 @@ INT = re.compile(
     re.I,
 )
 BAD = re.compile(
-    r"(?i:securities|system on chip|security guard|security officer|forensic accounting|ASIC|silicon|tegra|GPU and SOC|"
+    r"(?i:securities|system on chip|security guard|security officer|forensic accounting|critical threats project|degree apprenticeship|ASIC|silicon|tegra|GPU and SOC|"
     r"SOC design|SOC verification|custom SOC)|\bSoC\b"
 )
 FOREIGN = re.compile(
@@ -74,7 +74,7 @@ FOREIGN = re.compile(
     r"Vietnam|Indonesia|Jakarta|Thailand|Bangkok|Argentina|Colombia|Chile|Peru|Turkey|Istanbul|Ukraine|"
     r"Pakistan|Serbia|Greece|Luxembourg|EMEA|APAC|LATAM|Brno|Hamburg|Frankfurt|Stuttgart|Cologne|D[uü]sseldorf|"
     r"Gen[eè]v[ea]|Lausanne|Basel|Le Sentier|Brussels|Antwerp|Assago|Rome|Turin|Lyon|Toulouse|Rotterdam|Eindhoven|"
-    r"Knutsford|Leeds|Glasgow|Ho Chi Minh|Hanoi|Kuala|Penang|Cebu|Bogot[aá]|Medell[ií]n|Buenos Aires|Santiago de|"
+    r"Knutsford|Stevenage|Bristol|Filton|Leeds|Glasgow|Ho Chi Minh|Hanoi|Kuala|Penang|Cebu|Bogot[aá]|Medell[ií]n|Buenos Aires|Santiago de|"
     r"Krak[oó]w|Wroc[lł]aw|Gda[nń]sk|Cluj|Ia[sș]i|Sofia|Belgrade|Zagreb|Bratislava|Tallinn|Vilnius|Riga|Kyiv|Haifa",
     re.I,
 )
@@ -122,8 +122,18 @@ def foreign(loc):
     return bool(parts) and all(FOREIGN.search(p) and not (US.search(p) or CANADA.search(p)) for p in parts)
 
 
+def stale_term(title):
+    """True for postings whose term has already started, e.g. 'Summer 2026' or 'Fall 2026' seen in late 2026."""
+    today = dt.date.today()
+    starts = {"winter": 1, "spring": 4, "summer": 5, "fall": 9, "autumn": 9}
+    for season, year in re.findall(r"(?i)\b(winter|spring|summer|fall|autumn)\s*(20\d\d)\b", title):
+        if (int(year), starts[season.lower()]) < (today.year, today.month):
+            return True
+    return False
+
+
 def want(title, loc=""):
-    return bool(SEC.search(re.sub(r"(?i)(with |w/ |active |requires? )?(security )?clearance", "", title)) and INT.search(title) and not BAD.search(title) and not foreign(loc)
+    return not stale_term(title) and bool(SEC.search(re.sub(r"(?i)(with |w/ |active |requires? )?(security )?clearance", "", title)) and INT.search(title) and not BAD.search(title) and not foreign(loc)
                 and not re.search(r"\([mfwd]/[mfwd]/[mfwd]\)|Werkstudent|Praktikum|Stagiaire ing", title, re.I))
 
 
@@ -1003,7 +1013,7 @@ def sweep(days, only="", label=""):
         seen.update(keys)
         if j["date"] >= cutoff:
             recent.append(j)
-        elif not j["date"]:
+        elif not j["date"] and days >= 7:  # in a short sweep an undated role could be months old
             undated.append(j)
     print(f"sweep: {len(tasks) - len(failed)}/{len(tasks)} sources ok | {len(recent)} posted since {cutoff} | {len(undated)} undated")
     for f in failed[:15]:
