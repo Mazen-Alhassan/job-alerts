@@ -383,6 +383,10 @@
   "https://go.vansh.nyc/hm": "2026-10-26",
   "https://go.vansh.nyc/hn": "2026-10-26",
   "https://go.vansh.nyc/hw": "2026-10-26",
+  "https://go.vansh.nyc/sc": "2026-10-26",
+  "https://go.vansh.nyc/sd": "2026-10-26",
+  "https://go.vansh.nyc/se": "2026-10-26",
+  "https://go.vansh.nyc/sx": "2026-10-26",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1096,6 +1100,7 @@
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-26",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
   "t:boein|boeingsummer2027internshipprogrampaidsecurityfireoperationsfo": "2026-10-26",
+  "t:booza|cybersecurityintern": "2026-10-26",
   "t:booza|enterprisecybersecuritydataandbusinessintelligenceanalystintern": "2026-10-26",
   "t:booza|enterprisecybersecuritydatalosspreventionintern": "2026-10-26",
   "t:booza|enterprisecybersecurityeducationandexecutionintern": "2026-10-26",
@@ -4790,6 +4795,10 @@
    "https://go.vansh.nyc/D7",
    "https://go.vansh.nyc/D9",
    "https://go.vansh.nyc/Hm",
+   "https://go.vansh.nyc/SC",
+   "https://go.vansh.nyc/SD",
+   "https://go.vansh.nyc/SE",
+   "https://go.vansh.nyc/Sx",
    "https://go.vansh.nyc/bA",
    "https://go.vansh.nyc/bk",
    "https://go.vansh.nyc/cL",
@@ -7436,6 +7445,10 @@
   [
    1793032991.9267647,
    "Ciena - Software Engineer (Security) - New Grad"
+  ],
+  [
+   1793034170.453391,
+   "Booz Allen Hamilton - Cyber Security Intern"
   ]
  ],
  "stem5": true,
