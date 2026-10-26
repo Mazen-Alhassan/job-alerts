@@ -676,7 +676,7 @@
   "https://linkedin.com/jobs/view/4474355810": "2026-10-24",
   "https://linkedin.com/jobs/view/4474360100": "2026-10-24",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
-  "https://linkedin.com/jobs/view/4474496328": "2026-10-09",
+  "https://linkedin.com/jobs/view/4474496328": "2026-10-26",
   "https://linkedin.com/jobs/view/4474558184": "2026-10-24",
   "https://linkedin.com/jobs/view/4474561093": "2026-10-23",
   "https://linkedin.com/jobs/view/4474821199": "2026-10-09",
@@ -4251,6 +4251,7 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4464766855",
+   "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4475329936",
    "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4483396624",
@@ -5366,6 +5367,7 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
@@ -7420,10 +7422,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "li-companies": [
+  "netflix": [
    1,
-   1793030897.973476,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+   1793031559.5581708,
+   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  }
 }
