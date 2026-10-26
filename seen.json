@@ -528,6 +528,7 @@
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-defense-associate_r-67301": "2026-10-26",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304": "2026-10-26",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-10-26",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
   "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
   "https://lifeattiktok.com/search/7600535181632457013": "2026-10-26",
   "https://lifeattiktok.com/search/7600536394771564853": "2026-10-26",
@@ -1354,6 +1355,7 @@
   "t:lawre|powersystemsgraduteinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-14",
   "t:lawre|powersystemsundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-26",
   "t:legen|securityintern": "2026-10-23",
+  "t:leido|cybersecurityanalystintern": "2026-10-26",
   "t:leido|cybersecurityengineercoop": "2026-10-09",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-10-26",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-26",
@@ -4594,7 +4596,6 @@
   ],
   "phenom:www.yelp.careers": [],
   "radancy:careers.l3harris.com": [
-   "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101356263456",
    "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101747632512",
    "https://careers.l3harris.com/en/job/salt-lake-city/intern-information-security-systems-engineer-salt-lake-city-ut/4832/101765422480"
   ],
@@ -7154,7 +7155,9 @@
   "wd:intel/External": [
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
-  "wd:leidos/External": [],
+  "wd:leidos/External": [
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00194708"
+  ],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
   "wd:marvell/MarvellCareers2": [
@@ -7363,10 +7366,6 @@
  "heartbeat": "2026-10-26 10",
  "recent": [
   [
-   1792935746.4924583,
-   "WoodmenLife - 2027 Summer Cybersecurity Intern"
-  ],
-  [
    1792947891.914568,
    "Health Care Service Corporation - Early Careers - Security Program Management Senior Inter"
   ],
@@ -7409,8 +7408,18 @@
   [
    1793025191.8404403,
    "C3 - SOC Analyst Internship Program - LSU Students Only"
+  ],
+  [
+   1793029500.232554,
+   "Leidos - Cybersecurity Analyst Intern"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793029410.8113146,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
