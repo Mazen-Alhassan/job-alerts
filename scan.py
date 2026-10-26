@@ -106,7 +106,7 @@ NAMES.update({
 # heavier or rate-limited sources run every Nth cycle (by task-key prefix), staggered so each cycle gets a slice.
 CYCLE = 90
 LOOKBACK_DAYS = 7  # Simplify listings older than this are ignored; LinkedIn searches the last day (sweep widens both)
-EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "linkedin": 5, "jobspy": 5, "icims:": 4, "oracle:": 3, "workable:": 5,
+EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "li-": 5, "jobspy": 5, "icims:": 4, "oracle:": 3, "workable:": 5,
          "rippling:": 3, "phenom:": 2, "eightfold:": 2, "sf:": 3, "jibe:": 2, "radancy:": 2}
 WD_SLOTS = threading.BoundedSemaphore(16)  # Workday rate-limits per IP across all its tenants
 
@@ -122,7 +122,7 @@ def foreign(loc):
 
 
 def want(title, loc=""):
-    return bool(SEC.search(title) and INT.search(title) and not BAD.search(title) and not foreign(loc)
+    return bool(SEC.search(re.sub(r"(?i)(with |w/ |active |requires? )?(security )?clearance", "", title)) and INT.search(title) and not BAD.search(title) and not foreign(loc)
                 and not re.search(r"\([mfwd]/[mfwd]/[mfwd]\)|Werkstudent|Praktikum|Stagiaire ing", title, re.I))
 
 
@@ -618,11 +618,19 @@ JOBSPY_QUERIES = [
 def jobspy_sites(_):
     """Indeed through the python-jobspy package (installed by the workflow; skipped if missing).
     Glassdoor is left out on purpose: it duplicates Indeed and links to its own login-walled pages."""
+    import logging
     from jobspy import scrape_jobs
-    found = {}
+    errors = []
+
+    class Grab(logging.Handler):  # jobspy logs failures instead of raising, so collect them
+        def emit(self, record):
+            errors.append(record.getMessage()[:80])
+    logging.getLogger("JobSpy:Indeed").addHandler(Grab())
+    found, raw = {}, 0
     for term, loc, country in JOBSPY_QUERIES:
         df = scrape_jobs(site_name=["indeed"], search_term=term, location=loc, results_wanted=50,
                          hours_old=24 * max(1, LOOKBACK_DAYS if LOOKBACK_DAYS > 7 else 1), country_indeed=country, verbose=0)
+        raw += len(df)
         for r in df.to_dict("records"):
             title, where = str(r.get("title") or ""), str(r.get("location") or "")
             if not want(title, where):
@@ -632,43 +640,69 @@ def jobspy_sites(_):
             date = r.get("date_posted")
             found[url] = job(url, str(r.get("company") or "?"), title, where, str(date) if date is not None else "",
                              f"via {str(r.get('site')).title()}", raw_company=True)
+    if raw == 0:  # these searches always have results, so zero means Indeed blocked us
+        raise RuntimeError("Indeed returned nothing: " + (errors[-1] if errors else "no error logged"))
     return list(found.values())
 
 
-LI_QUERIES = [
-    ("security intern", "Canada"), ("cybersecurity co-op", "Canada"), ("security intern", "United States"),
-    ("cybersecurity intern", "United States"), ("security engineer intern", "United States"),
+LI_SEARCHES = [
+    ("security intern", "United States"), ("cybersecurity intern", "United States"), ("security engineer intern", "United States"),
+    ("security intern", "Canada"), ("cybersecurity co-op", "Canada"), ("security co-op", "Canada"),
 ]
+# LinkedIn company IDs for big names whose own career sites we can't scan (Tesla, Meta) or that run on
+# fragile custom APIs (a backup if a direct fetcher breaks). Verified Oct 25, 2026 via f_C searches.
+LI_HARD = {"Tesla": 15564, "Meta": 10667, "Uber": 1815218, "SpaceX": 30846, "Palantir": 20708, "Netflix": 165158}
+LI_BACKUP = {"Microsoft": 1035, "Google": 1441, "Apple": 162479, "Amazon": 1586, "NVIDIA": 3608, "IBM": 1009,
+             "Oracle": 1028, "Cisco": 1063, "Salesforce": 3185, "PwC": 1044, "EY": 1073, "Accenture": 1033}
 
 
-def linkedin(_):
-    """LinkedIn's public (no login) job search, last 24h. Catches companies whose own boards we can't reach."""
-    found, ok = {}, False
-    for kw, loc in LI_QUERIES:
-        try:
-            t = http("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-                     + urllib.parse.urlencode({"keywords": kw, "location": loc, "f_TPR": f"r{86400 * (1 if LOOKBACK_DAYS <= 7 else LOOKBACK_DAYS)}", "sortBy": "DD", "start": 0}),
-                     headers={"Accept": "text/html"})
-            ok = True
-        except Exception:
-            continue
-        for card in t.split("<li>")[1:]:
+def li_pages(params, max_pages):
+    """Yield parsed job cards from LinkedIn's public job search (10 per page), newest first."""
+    window = 86400 * (1 if LOOKBACK_DAYS <= 7 else LOOKBACK_DAYS)
+    for page in range(max_pages):
+        t = http("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
+                 + urllib.parse.urlencode(dict(params, f_TPR=f"r{window}", sortBy="DD", start=page * 10)),
+                 headers={"Accept": "text/html"})
+        cards = t.split("<li>")[1:]
+        for card in cards:
             jid = re.search(r"jobPosting:(\d+)", card)
             title = re.search(r'base-search-card__title">\s*(.*?)\s*</h3>', card, re.S)
+            if not (jid and title):
+                continue
             comp = re.search(r'base-search-card__subtitle">.*?>\s*(.*?)\s*</a>', card, re.S)
             where = re.search(r'job-search-card__location">\s*(.*?)\s*</span>', card, re.S)
             when = re.search(r'datetime="([\d-]+)"', card)
-            if not (jid and title):
-                continue
-            title, where = html.unescape(title.group(1)), html.unescape(where.group(1)) if where else ""
-            if want(title, where):
-                found[jid.group(1)] = job(f"https://www.linkedin.com/jobs/view/{jid.group(1)}",
-                                          html.unescape(comp.group(1)) if comp else "?", title, where,
-                                          when.group(1) if when else "", "via LinkedIn", raw_company=True)
-        time.sleep(1)
-    if not ok:
-        raise RuntimeError("all queries blocked")
+            yield (jid.group(1), html.unescape(title.group(1)), html.unescape(comp.group(1)) if comp else "?",
+                   html.unescape(where.group(1)) if where else "", when.group(1) if when else "")
+        time.sleep(1.5)
+        if len(cards) < 10:
+            break
+
+
+def li_collect(searches, max_pages):
+    found, seen_any, errors = {}, False, []
+    for params in searches:
+        try:
+            for jid, title, comp, where, when in li_pages(params, max_pages):
+                seen_any = True
+                if want(title, where):
+                    found[jid] = job(f"https://www.linkedin.com/jobs/view/{jid}", comp, title, where, when, "via LinkedIn", raw_company=True)
+        except Exception as e:
+            errors.append(str(e)[:40])
+    if not seen_any:  # every search came back empty or failed: LinkedIn is blocking us
+        raise RuntimeError("LinkedIn returned nothing" + (f": {errors[-1]}" if errors else ""))
     return list(found.values())
+
+
+def linkedin(_):
+    """LinkedIn's public (no login) job search, last 24h, several pages deep."""
+    return li_collect([{"keywords": kw, "location": loc} for kw, loc in LI_SEARCHES], 4)
+
+
+def linkedin_companies(_):
+    """Every intern posting from the LI_HARD companies, plus security intern postings from the LI_BACKUP ones."""
+    return li_collect([{"keywords": "intern", "f_C": ",".join(map(str, LI_HARD.values()))},
+                       {"keywords": "security intern", "f_C": ",".join(map(str, LI_BACKUP.values()))}], 5)
 
 
 def build_tasks():
@@ -692,7 +726,7 @@ def build_tasks():
     tasks += [(k, simplify, k) for k in SIMPLIFY_FEEDS]
     tasks += [(n, f, None) for n, f in (("amazon-tech", amazon), ("cisco", cisco), ("kinaxis", kinaxis), ("shopify-page", shopify),
                                          ("microsoft", microsoft), ("netflix", netflix), ("google", google), ("apple", apple), ("tiktok", tiktok), ("cse", cse), ("jobspy", jobspy_sites),
-                                         ("linkedin", linkedin))]
+                                         ("li-search", linkedin), ("li-companies", linkedin_companies))]
     return tasks
 
 
@@ -713,9 +747,14 @@ def url_key(u):
     return u.replace("/apply", "")
 
 
+def company_stem(c):
+    """'The Aerospace Corporation' / 'Aerospace Corp' -> 'aeros'; 'Centene Corporation' / 'Centene' -> 'cente'."""
+    c = re.sub(r"[^a-z0-9]", "", c.lower())
+    return (c[3:] if c.startswith("the") and len(c) > 6 else c)[:5]
+
+
 def title_key(j):
-    norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
-    return "t:" + norm(j["company"])[:8] + "|" + norm(j["title"])
+    return "t:" + company_stem(j["company"]) + "|" + re.sub(r"[^a-z0-9]", "", j["title"].lower())
 
 
 # ---------------- notifications ----------------
@@ -772,6 +811,13 @@ def load_state():
     s = json.load(open(STATE_FILE))
     s.setdefault("alerted", {})
     s.pop("updated", None)  # old format kept a timestamp, which forced a commit every run
+    if not s.get("stem5"):  # title keys used to hold an 8-letter company prefix; convert them to the 5-letter stem
+        for k in [k for k in s["alerted"] if k.startswith("t:")]:
+            co, _, title = k[2:].partition("|")
+            co = co[3:] if co.startswith("the") and len(co) > 6 else co
+            s["alerted"].setdefault(f"t:{co[:5]}|{title}", s["alerted"][k])
+            del s["alerted"][k]
+        s["stem5"] = True
     return s
 
 
@@ -784,7 +830,7 @@ def save_state(state):
 
 def scan(state, only=None, cycle=None):
     """One cycle: fetch every due source, alert on anything new. Returns (new_jobs, failed, changed)."""
-    boards, alerted = state["boards"], state["alerted"]
+    boards, alerted, streaks = state["boards"], state["alerted"], state.setdefault("streaks", {})
     now = time.time()
     tasks = [t for t in build_tasks() if (only is None or t[0].startswith(only)) and due(t[0], cycle)]
     results, failed = {}, []
@@ -794,8 +840,11 @@ def scan(state, only=None, cycle=None):
             key = futs[f]
             try:
                 results[key] = f.result()
+                streaks.pop(key, None)
             except Exception as e:  # board unreachable this run: skip, keep old state
                 failed.append(f"{key} ({str(e)[:40]})")
+                if ":" not in key:  # track consecutive failures of the one-of-a-kind sources for the heartbeat
+                    streaks[key] = [streaks.get(key, [0, now])[0] + 1, streaks.get(key, [0, now])[1], str(e)[:60]]
 
     new_jobs, seeded, changed = [], 0, False
     today = str(dt.date.today())
@@ -854,6 +903,9 @@ def heartbeat(state, ran, took, failed):
              f"Last 2h: **{len(last2)}** new role{'s' * (len(last2) != 1)}" + (": " + "; ".join(r[1] for r in last2[:8]) if last2 else ""),
              f"Today: **{len(today)}** new \u00b7 watching {len(build_tasks()):,} sources \u00b7 "
              f"last cycle checked {ran:,} in {took:.0f}s, {len(failed)} unreachable"]
+    broken = [f"{k} (failing {(time.time() - v[1]) / 3600:.0f}h: {v[2]})" for k, v in state.get("streaks", {}).items() if v[0] >= 3]
+    if broken:
+        lines.append("\u26A0\uFE0F Not working: " + "; ".join(broken))
     print("  heartbeat:", " | ".join(lines), flush=True)
     if DISCORD:
         try:  # flags 4096 = silent message: shows up in the channel without a push notification

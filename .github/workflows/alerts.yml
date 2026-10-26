@@ -20,6 +20,10 @@ on:
       sweep_only:
         description: 'Sweep only sources whose key starts with these comma-separated prefixes (e.g. wd)'
         default: ''
+      dry_run:
+        description: 'Sweep: print to the log only, send nothing'
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # commit seen.json
@@ -51,10 +55,10 @@ jobs:
       - name: Send a digest of recent matches
         run: python scan.py --sweep ${{ inputs.sweep_days }} ${{ inputs.sweep_only && format('--only {0}', inputs.sweep_only) || '' }}
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          NTFY_TOPIC: ${{ !inputs.dry_run && secrets.NTFY_TOPIC || '' }}
+          TELEGRAM_BOT_TOKEN: ${{ !inputs.dry_run && secrets.TELEGRAM_BOT_TOKEN || '' }}
+          TELEGRAM_CHAT_ID: ${{ !inputs.dry_run && secrets.TELEGRAM_CHAT_ID || '' }}
+          DISCORD_WEBHOOK_URL: ${{ !inputs.dry_run && secrets.DISCORD_WEBHOOK_URL || '' }}
 
   gate:
     if: ${{ !inputs.test && !inputs.sweep_days }}
