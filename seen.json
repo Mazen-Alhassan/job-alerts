@@ -360,6 +360,9 @@
   "https://go.vansh.nyc/co": "2026-10-26",
   "https://go.vansh.nyc/cp": "2026-10-26",
   "https://go.vansh.nyc/cq": "2026-10-26",
+  "https://go.vansh.nyc/d2": "2026-10-26",
+  "https://go.vansh.nyc/d7": "2026-10-26",
+  "https://go.vansh.nyc/d9": "2026-10-26",
   "https://go.vansh.nyc/dv": "2026-10-26",
   "https://go.vansh.nyc/dw": "2026-10-26",
   "https://go.vansh.nyc/e1": "2026-10-26",
@@ -799,6 +802,7 @@
   "https://linkedin.com/jobs/view/4481252240": "2026-10-20",
   "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
+  "https://linkedin.com/jobs/view/4481450183": "2026-10-26",
   "https://linkedin.com/jobs/view/4481611449": "2026-10-23",
   "https://linkedin.com/jobs/view/4481656491": "2026-10-24",
   "https://linkedin.com/jobs/view/4481687615": "2026-10-24",
@@ -1046,6 +1050,7 @@
   "t:apple|hardwaretechnologiesmastersengineeringinternships": "2026-10-26",
   "t:apple|hardwaretechnologiesundergradengineeringinternships": "2026-10-26",
   "t:apple|hardwareundergradengineeringinternships": "2026-10-26",
+  "t:apple|informationsecurityintern": "2026-10-26",
   "t:apple|machinelearningandartificialintelligencemastersinternships": "2026-10-26",
   "t:apple|machinelearningandartificialintelligenceundergradinternships": "2026-10-26",
   "t:apple|softwareengineeringmastersinternships": "2026-10-26",
@@ -1500,11 +1505,13 @@
   "t:socie|cybersecurityintern": "2026-10-22",
   "t:softw|aisecurityresearchinternsummer2027": "2026-10-09",
   "t:sonyp|internbusinessresiliencesecuritysafetydepartmentspring2027": "2026-10-08",
+  "t:sotal|cybersecurityintern": "2026-10-26",
   "t:south|summer2027cybersecurityengineerinternship": "2026-10-08",
   "t:space|newgraduateengineersecuritysoftwarestarshield": "2026-10-26",
   "t:space|newgraduateengineersoftwaresecurity2627starlink": "2026-10-26",
   "t:spect|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-18",
   "t:stell|2027corporatesecuritysummerinternship": "2026-10-15",
+  "t:stife|informationsecurityintern": "2026-10-26",
   "t:stife|informationsecurityinternsummer2027": "2026-10-26",
   "t:strac|cybersecuritystudent": "2026-10-19",
   "t:stude|studentworkerinformationsecurityinternbc": "2026-10-26",
@@ -4233,6 +4240,7 @@
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
    "https://www.linkedin.com/jobs/view/4475329936",
+   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4483396624"
   ],
   "linkedin": [
@@ -4759,6 +4767,9 @@
    "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true"
   ],
   "simplify-vansh": [
+   "https://go.vansh.nyc/D2",
+   "https://go.vansh.nyc/D7",
+   "https://go.vansh.nyc/D9",
    "https://go.vansh.nyc/bA",
    "https://go.vansh.nyc/bk",
    "https://go.vansh.nyc/cL",
@@ -7371,6 +7382,18 @@
   [
    1793005835.9571986,
    "PricewaterhouseCoopers (PwC) - Intern, Cybersecurity & Privacy Services (Data privacy focu"
+  ],
+  [
+   1793015500.665124,
+   "SoTalent - Cyber Security Intern"
+  ],
+  [
+   1793015500.6651256,
+   "Stifel - Information Security Intern"
+  ],
+  [
+   1793015500.6651263,
+   "Apple - Information Security Intern"
   ]
  ],
  "stem5": true,
