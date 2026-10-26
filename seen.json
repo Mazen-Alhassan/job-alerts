@@ -115,6 +115,7 @@
   "https://amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027": "2026-10-26",
   "https://amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern": "2026-10-26",
   "https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa": "2026-10-26",
+  "https://amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-summer-intern": "2026-10-26",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-26",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-26",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-26",
@@ -1044,6 +1045,7 @@
   "t:amazo|systemdevelopmentengineerinterncooprobotics2027": "2026-10-26",
   "t:amazo|systemsdevelopmentengineerinterncanada2027": "2026-10-26",
   "t:amazo|systemsdevelopmentengineerinternus2027": "2026-10-26",
+  "t:amazo|techopsengineerintern2027summerintern": "2026-10-26",
   "t:ameri|blueteamcybersecurityintern": "2026-10-22",
   "t:ameri|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesatlantaga": "2026-10-26",
   "t:ameri|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesnewyorkny": "2026-10-26",
@@ -1654,6 +1656,7 @@
    "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
    "https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern",
    "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+   "https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-summer-intern",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -7259,9 +7262,7 @@
   "workable:cognite": [],
   "workable:coldquanta": [],
   "workable:connectprep": [],
-  "workable:coretek-services": [
-   "https://apply.workable.com/coretek-services/j/D01D911BB0/"
-  ],
+  "workable:coretek-services": [],
   "workable:cornerstone-research-group-inc": [],
   "workable:credence": [],
   "workable:currier-plastics": [],
@@ -7396,7 +7397,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-26 12",
+ "heartbeat": "2026-10-26 14",
  "recent": [
   [
    1792947891.914568,
@@ -7469,14 +7470,18 @@
   [
    1793036637.4832718,
    "Spirit Defense, A Boeing Company - Spirit Defense - Summer 2027 Internship Program (Paid) "
+  ],
+  [
+   1793037645.6261663,
+   "Amazon - Tech Ops Engineer Intern, 2027 Summer Intern"
   ]
  ],
  "stem5": true,
  "streaks": {
-  "li-companies": [
+  "netflix": [
    1,
-   1793037280.8129234,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+   1793037560.0170774,
+   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  }
 }
