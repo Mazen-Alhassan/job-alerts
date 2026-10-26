@@ -211,6 +211,7 @@
   "https://careers.adobe.com/us/en/job/r173000": "2026-10-26",
   "https://careers.adobe.com/us/en/job/r173001": "2026-10-26",
   "https://careers.aps.com/job/phoenix-2027-summer-internship-cybersecurity-az-85004-3903/1438780300": "2026-10-10",
+  "https://careers.boozallen.com/careers/jobdetail": "2026-10-26",
   "https://careers.bwxt.com/job/lynchburg-intern-cyber-security-%28summer-2027%29-va-24501/1439664100": "2026-10-15",
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
   "https://careers.cisco.com/global/en/job/2024817": "2026-10-23",
@@ -3850,7 +3851,10 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [],
+  "jobspy": [
+   "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
+   "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
+  ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4278,9 +4282,9 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
+   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483396624",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666"
@@ -7483,11 +7487,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793042925.7615414,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- }
+ "streaks": {}
 }
