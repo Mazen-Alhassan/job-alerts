@@ -944,6 +944,7 @@
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228866": "2026-10-17",
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228867": "2026-10-17",
   "https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-it-security-analyst-intern_sosj12501": "2026-10-26",
+  "https://sunlife.wd3.myworkdayjobs.com/campus/job/toronto-ontario/student--software-engineer---security--winter-2027-_jr00129065": "2026-10-26",
   "https://swa.wd1.myworkdayjobs.com/external/job/tx-dallas/summer-2027-cybersecurity-engineer-internship_r-2026-73269": "2026-10-08",
   "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/san-antonio-tx/application-security-intern_r0015572-2": "2026-10-26",
   "https://talent.spa.com/jobs/23731/job": "2026-10-21",
@@ -1555,6 +1556,7 @@
   "t:stude|studentworkerinformationsecurityinternbc": "2026-10-26",
   "t:stude|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-26",
   "t:study|itsecurityoperationsintern": "2026-10-26",
+  "t:sunli|studentsoftwareengineersecuritywinter2027": "2026-10-26",
   "t:swbc|applicationsecurityintern": "2026-10-26",
   "t:syste|cybersecurityinternsummer2027": "2026-10-21",
   "t:tampa|spring2027studentinternshipadicybersecurity": "2026-10-08",
@@ -4282,9 +4284,9 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
+   "https://www.linkedin.com/jobs/view/4483396624",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666"
@@ -4822,7 +4824,6 @@
    "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/Sx",
    "https://go.vansh.nyc/bA",
-   "https://go.vansh.nyc/bk",
    "https://go.vansh.nyc/cL",
    "https://go.vansh.nyc/cM",
    "https://go.vansh.nyc/cO",
@@ -6852,7 +6853,9 @@
   "wd+:stvinc/stv": [],
   "wd+:sumitomopharma/smpa": [],
   "wd+:suncor/Suncor_External": [],
-  "wd+:sunlife/Campus": [],
+  "wd+:sunlife/Campus": [
+   "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
+  ],
   "wd+:sunlife/Experienced-Jobs": [],
   "wd+:swa/external": [],
   "wd+:swbc/swivel": [],
@@ -7406,10 +7409,6 @@
  "heartbeat": "2026-10-26 14",
  "recent": [
   [
-   1792947891.914568,
-   "Health Care Service Corporation - Early Careers - Security Program Management Senior Inter"
-  ],
-  [
    1792952400.1903045,
    "Teledyne Brown Engineering - EADSIM Software Engineering Intern (Summer 2027) with Securit"
   ],
@@ -7484,6 +7483,10 @@
   [
    1793039267.5788023,
    "Amazon - Tech Ops Engineer Intern, 2027 Tech Ops Intern"
+  ],
+  [
+   1793044337.4619913,
+   "Sun Life - Student, Software Engineer - Security (Winter 2027)"
   ]
  ],
  "stem5": true,
