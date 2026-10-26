@@ -832,6 +832,7 @@
   "https://linkedin.com/jobs/view/4483170573": "2026-10-25",
   "https://linkedin.com/jobs/view/4483172515": "2026-10-25",
   "https://linkedin.com/jobs/view/4483182764": "2026-10-25",
+  "https://linkedin.com/jobs/view/4483225168": "2026-10-26",
   "https://linkedin.com/jobs/view/4483328126": "2026-10-25",
   "https://linkedin.com/jobs/view/4483396624": "2026-10-26",
   "https://linkedin.com/jobs/view/4483568549": "2026-10-26",
@@ -1288,7 +1289,7 @@
   "t:healt|earlycareersvulnerabilitymanagementintern": "2026-10-15",
   "t:hemlo|itinfrastructuresecuritysummerintern": "2026-10-23",
   "t:hewle|cybersecurityengineeringintern": "2026-10-26",
-  "t:highl|cybersecurityintern": "2026-10-16",
+  "t:highl|cybersecurityintern": "2026-10-26",
   "t:hireb|networksecurityanalystintern": "2026-10-08",
   "t:homed|2027summerinternshipcybersecurity": "2026-10-26",
   "t:homeo|urbninformationsecurityintern": "2026-10-26",
@@ -4256,6 +4257,7 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4464766855",
+   "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4475329936",
    "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4483396624",
@@ -5604,7 +5606,8 @@
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159"
   ],
   "wd+:ciena/careers": [
-   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
+   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1"
   ],
   "wd+:cigna/cignacareers": [],
   "wd+:cincinnatichildrens/careersatcincinnatichildrens": [],
@@ -6892,9 +6895,7 @@
   "wd+:thisisglobal/Global": [],
   "wd+:thomsonreuters/External_Career_Site": [],
   "wd+:thoughtspot/careers": [],
-  "wd+:thrivent/external": [
-   "https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/MN---Minneapolis/Commercial-Mortgages-and-Securitized-Real-Estate-Assets-Intern---Summer-2027_REQ-48063"
-  ],
+  "wd+:thrivent/external": [],
   "wd+:thyssenkruppmaterialsna/1": [],
   "wd+:tiaa/Search": [],
   "wd+:tibco/cloud_software_group": [],
