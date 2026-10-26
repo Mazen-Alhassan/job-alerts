@@ -830,6 +830,7 @@
   "https://linkedin.com/jobs/view/4483182764": "2026-10-25",
   "https://linkedin.com/jobs/view/4483328126": "2026-10-25",
   "https://linkedin.com/jobs/view/4483396624": "2026-10-26",
+  "https://linkedin.com/jobs/view/4483568549": "2026-10-26",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1120,6 +1121,7 @@
   "t:byted|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
   "t:byted|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-25",
   "t:byted|softwareengineerprojectinternsecuritydata2026startbsms": "2026-10-25",
+  "t:c3|socanalystinternshipprogramlsustudentsonly": "2026-10-26",
   "t:cacii|cyberanalystinternsummer2027": "2026-10-08",
   "t:cacii|cybersecurityinternsummer2027": "2026-10-15",
   "t:cacii|networkcybersecurityinternsummer2027": "2026-10-15",
@@ -4247,7 +4249,8 @@
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4475329936",
    "https://www.linkedin.com/jobs/view/4481450183",
-   "https://www.linkedin.com/jobs/view/4483396624"
+   "https://www.linkedin.com/jobs/view/4483396624",
+   "https://www.linkedin.com/jobs/view/4483568549"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7401,6 +7404,10 @@
   [
    1793021043.484438,
    "DeepNotch - AI & Cybersecurity Engineering Intern"
+  ],
+  [
+   1793025191.8404403,
+   "C3 - SOC Analyst Internship Program - LSU Students Only"
   ]
  ],
  "stem5": true,
