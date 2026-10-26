@@ -26,7 +26,12 @@ phone with an apply link. The point is to apply within minutes of a posting goin
   Microsoft (Eightfold, needs the careers-page cookie first), Google (parses `ds:1` page data), Apple (CSRF token;
   alerts on any new US/CA Students-team internship since Apple's security interns sit inside generic SWE postings),
   TikTok, Simplify feeds (SimplifyJobs + vanshb03 Summer2027 `listings.json`, last 7 days only), LinkedIn guest
-  search (last 24h; links go to the LinkedIn posting, labeled "via LinkedIn").
+  search (`li-search`: 6 searches x 4 pages, the guest API returns only 10 per page; `li-companies`: all intern
+  posts from `LI_HARD` company IDs (Tesla, Meta, Uber...) and security interns from `LI_BACKUP` big names; last
+  24h; links go to the LinkedIn posting, labeled "via LinkedIn"). Indeed (`jobspy`) includes a Tesla-only search.
+- Health: Indeed and LinkedIn raise when they return nothing (so a block shows up as a failure, not as "no
+  jobs"); `seen.json` `streaks` counts consecutive failures of non-board sources and the 2-hourly Discord
+  heartbeat lists any at 3+. Dedupe title keys use a 5-letter company stem (`company_stem`).
 - Speed tricks: Lever is read from the HTML board (API fallback when the page 404s), Ashby from the hosted page's
   `window.__appData` (public API is ~40x bigger, its GraphQL rate-limits at ~100 req), Workday requests are capped
   at 16 concurrent with one 429 retry (Workday rate-limits per IP across all tenants).
@@ -39,6 +44,8 @@ phone with an apply link. The point is to apply within minutes of a posting goin
   GitHub Secrets only. Never write secret values into files in this repo (it's public).
 
 ## Commands
+- Diagnose a source on GitHub without sending anything:
+  `gh workflow run alerts.yml -f sweep_days=3 -f sweep_only=jobspy,li- -f dry_run=true` (results in the run log)
 - One dry-run scan locally (prints instead of sending; full sweep, Workday may 429 from home): `python scan.py`
 - Debug one source, nothing saved: `python scan.py --only microsoft` (any task-key prefix: `gh:`, `wd+:`, `simplify`...)
 - Test alert to all configured channels: `python scan.py --test` (needs the env vars set)
@@ -58,9 +65,9 @@ Verify before adding: `https://boards-api.greenhouse.io/v1/boards/NAME/jobs`, `h
 `https://api.ashbyhq.com/posting-api/job-board/NAME` (404 = wrong name). Add a readable name to `names`.
 
 ## Blind spots
-Tesla (403 from Akamai) and Meta (results come from a lazily loaded GraphQL query) block automated checks (their roles usually still arrive via Simplify/LinkedIn, later), PwC, CSIS,
-Oracle HCM boards (JPMorgan, Goldman) and iCIMS boards other than Kinaxis are only covered via Simplify/LinkedIn,
-and the Carleton co-op portal. `research/jobspy_search.py` covers LinkedIn/Indeed/Glassdoor when run from home.
+Tesla (403 from Akamai, even from home) and Meta (results come from a lazily loaded GraphQL query) can't be
+scanned directly; they're covered through `li-companies`, the Tesla Indeed search and Simplify. IBM, Goldman,
+Deloitte have no usable API either (LinkedIn/Indeed only). The Carleton co-op portal and Handshake need a login. `research/jobspy_search.py` covers LinkedIn/Indeed/Glassdoor when run from home.
 
 ## research/
 - `jobspy_search.py`: searches LinkedIn, Indeed, Glassdoor for security internships posted in the last N hours.
