@@ -236,6 +236,7 @@
   "https://careers.jhuapl.edu/jobs/59779": "2026-10-26",
   "https://careers.jhuapl.edu/jobs/59865": "2026-10-26",
   "https://careers.jhuapl.edu/jobs/59907": "2026-10-26",
+  "https://careers.jhuapl.edu/jobs/60115": "2026-10-26",
   "https://careers.jhuapl.edu/jobs/60339": "2026-10-26",
   "https://careers.jhuapl.edu/jobs/60431": "2026-10-26",
   "https://careers.l3harris.com/en/job/melbourne/intern-mission-networks-enterprise-soc-analyst/4832/101037353824": "2026-10-09",
@@ -1347,6 +1348,7 @@
   "t:johns|2027internshipcybersecuritycyberdominance": "2026-10-26",
   "t:johns|2027internshipcybersecurityengineercriticalinfrastructureprotection": "2026-10-26",
   "t:johns|2027internshipcybersecurityengineermathematicianconstrainedcybersolutions": "2026-10-26",
+  "t:johns|2027internshipcybersecuritysoftwaredeveloper": "2026-10-26",
   "t:johns|2027internshipcybersoftwareengineercapabilitiesdevelopment": "2026-10-26",
   "t:johns|2027internshipmilitarysystemscybersecurityengineer": "2026-10-26",
   "t:johns|2027internshipreverseengineeroffensivecybercapabilities": "2026-10-26",
@@ -3848,6 +3850,7 @@
    "https://careers.jhuapl.edu/jobs/59779",
    "https://careers.jhuapl.edu/jobs/59865",
    "https://careers.jhuapl.edu/jobs/59907",
+   "https://careers.jhuapl.edu/jobs/60115",
    "https://careers.jhuapl.edu/jobs/60339",
    "https://careers.jhuapl.edu/jobs/60431"
   ],
@@ -4284,9 +4287,9 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
+   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483396624",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666"
@@ -7406,7 +7409,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-26 14",
+ "heartbeat": "2026-10-26 16",
  "recent": [
   [
    1792952400.1903045,
@@ -7487,8 +7490,18 @@
   [
    1793044337.4619913,
    "Sun Life - Student, Software Engineer - Security (Winter 2027)"
+  ],
+  [
+   1793044802.8778007,
+   "Johns Hopkins APL - 2027 Internship - Cybersecurity Software Developer"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "kinaxis": [
+   1,
+   1793044725.7642868,
+   "HTTP Error 502: Bad Gateway"
+  ]
+ }
 }
