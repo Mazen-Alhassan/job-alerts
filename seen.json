@@ -803,6 +803,7 @@
   "https://linkedin.com/jobs/view/4481252240": "2026-10-20",
   "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
+  "https://linkedin.com/jobs/view/4481406893": "2026-10-26",
   "https://linkedin.com/jobs/view/4481450183": "2026-10-26",
   "https://linkedin.com/jobs/view/4481611449": "2026-10-23",
   "https://linkedin.com/jobs/view/4481656491": "2026-10-24",
@@ -1175,6 +1176,7 @@
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-10-26",
   "t:cylak|securityresearchintern2027mastersphd": "2026-10-26",
   "t:danah|itsecurityintern": "2026-10-26",
+  "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
   "t:dellt|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-23",
   "t:dellt|cybersecurityundergraduateintern": "2026-10-17",
   "t:dellt|productapplicationsecurityundergraduateintern": "2026-10-17",
@@ -4242,6 +4244,7 @@
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
    "https://www.linkedin.com/jobs/view/4475329936",
+   "https://www.linkedin.com/jobs/view/4481406893",
    "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4483396624"
   ],
@@ -7393,6 +7396,10 @@
   [
    1793018015.8079827,
    "Wells Fargo - 2027 Technology Summer Internship - Early Careers (Cybersecurity)"
+  ],
+  [
+   1793021043.484438,
+   "DeepNotch - AI & Cybersecurity Engineering Intern"
   ]
  ],
  "stem5": true,
