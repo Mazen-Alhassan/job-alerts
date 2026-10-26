@@ -850,6 +850,7 @@
   "https://linkedin.com/jobs/view/4483172515": "2026-10-25",
   "https://linkedin.com/jobs/view/4483182764": "2026-10-25",
   "https://linkedin.com/jobs/view/4483225168": "2026-10-26",
+  "https://linkedin.com/jobs/view/4483254499": "2026-10-26",
   "https://linkedin.com/jobs/view/4483328126": "2026-10-25",
   "https://linkedin.com/jobs/view/4483396624": "2026-10-26",
   "https://linkedin.com/jobs/view/4483568549": "2026-10-26",
@@ -857,6 +858,7 @@
   "https://linkedin.com/jobs/view/4483598666": "2026-10-26",
   "https://linkedin.com/jobs/view/4483716987": "2026-10-26",
   "https://linkedin.com/jobs/view/4483744216": "2026-10-26",
+  "https://linkedin.com/jobs/view/4483747728": "2026-10-26",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1627,6 +1629,7 @@
   "t:verka|securitysoftwareengineeringintern2027": "2026-10-26",
   "t:walma|summer2027interncybersecuritymasters": "2026-10-26",
   "t:walma|summer2027interncybersecurityundergrad": "2026-10-26",
+  "t:washi|metrocollegeinterndmcsdigitalmodernizationcybersecurity": "2026-10-26",
   "t:waves|internshipwavestoneluxembourgcybersecurityartificialintelligenceconsulting": "2026-10-26",
   "t:waymo|2027summerinternphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-10-26",
   "t:wealt|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
@@ -4308,6 +4311,7 @@
    "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
+   "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
@@ -7519,6 +7523,10 @@
   [
    1793049922.7248464,
    "ADT - Cybersecurity & Risk Intern"
+  ],
+  [
+   1793054517.7313337,
+   "Washington Metropolitan Area Transit Authority (WMATA) - Metro College Intern - (DMCS) Dig"
   ]
  ],
  "stem5": true,
