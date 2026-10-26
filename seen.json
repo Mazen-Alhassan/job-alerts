@@ -904,6 +904,7 @@
   "https://richemont.wd3.myworkdayjobs.com/richemont/job/le-sentier/stagiaire-ingnieur-cyberscurit_jr133458-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-2": "2026-10-08",
+  "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514-1": "2026-10-26",
   "https://rr.jobsyn.org/48e9318abfb64044b08dbf0e9f001ae21554": "2026-10-24",
   "https://rr.jobsyn.org/f979eca1ebcf46c5a9857784504202271554": "2026-10-24",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--cybersecurity--governance---risk_req_243186-1": "2026-10-20",
@@ -1487,6 +1488,7 @@
   "t:rocke|securityanalystinternsummer2027": "2026-10-26",
   "t:rocke|securityservicesinternfall2026": "2026-10-26",
   "t:rockw|interncyberprofessionalserviceslcs": "2026-10-08",
+  "t:rockw|interncybersecurity": "2026-10-26",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-10-26",
   "t:rtxco|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|summer2027cyberinternonsite": "2026-10-26",
@@ -6675,7 +6677,9 @@
   "wd+:rochester/UR_Staff": [],
   "wd+:rocket/rocket_careers": [],
   "wd+:rockwellautomation/External-Rockwell-Automation-Early-Careers": [],
-  "wd+:rockwellautomation/External_Rockwell_Automation": [],
+  "wd+:rockwellautomation/External_Rockwell_Automation": [
+   "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1"
+  ],
   "wd+:rockwoolgroup/ROCKWOOL": [],
   "wd+:rogersbh/rbhcareer": [],
   "wd+:roguefitness/RogueFitness_External_Careers": [],
@@ -7418,14 +7422,18 @@
   [
    1793031337.0218146,
    "Booz Allen Hamilton - University - 2027 Summer Games Cyber Security Intern - Lexington, MA"
+  ],
+  [
+   1793032726.421427,
+   "Rockwell Automation - Intern, Cybersecurity"
   ]
  ],
  "stem5": true,
  "streaks": {
-  "netflix": [
+  "li-companies": [
    1,
-   1793031559.5581708,
-   "HTTP Error 429: TOO MANY REQUESTS"
+   1793032284.849192,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  }
 }
