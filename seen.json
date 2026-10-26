@@ -1,6 +1,7 @@
 {
  "alerted": {
   "gh:4430607009": "2026-10-26",
+  "gh:4468040009": "2026-10-26",
   "gh:4719593006": "2026-10-12",
   "gh:4743021005": "2026-10-26",
   "gh:4952609101": "2026-10-14",
@@ -1101,6 +1102,7 @@
   "t:asset|itsecurityintern": "2026-10-26",
   "t:aster|cybersecurityengineerintern": "2026-10-26",
   "t:atlas|securityengineerintern2027summerus": "2026-10-17",
+  "t:atric|itsecurityanalystcoop": "2026-10-26",
   "t:aucta|cybersecurityinterns": "2026-10-08",
   "t:autom|cybersecurityinternspring2027": "2026-10-23",
   "t:autoo|itsecurityengineerinternshipsummer2027": "2026-10-26",
@@ -2550,7 +2552,9 @@
   "gh:atlassand": [],
   "gh:atomicmachines": [],
   "gh:atoms": [],
-  "gh:atricure": [],
+  "gh:atricure": [
+   "https://job-boards.greenhouse.io/atricure/jobs/4468040009"
+  ],
   "gh:attentionarc": [],
   "gh:attentive": [],
   "gh:attotude": [],
@@ -4294,7 +4298,6 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483568549",
@@ -7418,14 +7421,6 @@
  "heartbeat": "2026-10-26 16",
  "recent": [
   [
-   1792952400.1903045,
-   "Teledyne Brown Engineering - EADSIM Software Engineering Intern (Summer 2027) with Securit"
-  ],
-  [
-   1792955268.086377,
-   "Radiance Technologies - Microelectronics Engineer Intern with Security Clearance"
-  ],
-  [
    1792955730.5213141,
    "Foundation for Defense of Democracies (FDD) - Spring 2027 Cyber and Technology Innovation "
   ],
@@ -7512,6 +7507,10 @@
   [
    1793045606.3951106,
    "AbbVie - Cybersecurity Intern, Business Technology Solutions"
+  ],
+  [
+   1793048971.020458,
+   "AtriCure - IT Security Analyst Co-op"
   ]
  ],
  "stem5": true,
