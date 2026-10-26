@@ -105,7 +105,8 @@ NAMES.update({
 # In --loop mode a scan cycle starts every CYCLE seconds. Cheap single-request boards run every cycle;
 # heavier or rate-limited sources run every Nth cycle (by task-key prefix), staggered so each cycle gets a slice.
 CYCLE = 90
-LOOKBACK_DAYS = 7  # Simplify listings older than this are ignored; LinkedIn searches the last day (sweep widens both)
+LOOKBACK_DAYS = 7  # Simplify listings older than this are ignored (sweep sets it to its window)
+SEARCH_DAYS = 1    # how far back LinkedIn/Indeed searches look (sweep sets it to its window)
 EVERY = {"wd:": 2, "wd+:": 7, "sr:": 3, "li-": 5, "jobspy": 5, "icims:": 4, "oracle:": 3, "workable:": 5,
          "rippling:": 3, "phenom:": 2, "eightfold:": 2, "sf:": 3, "jibe:": 2, "radancy:": 2}
 WD_SLOTS = threading.BoundedSemaphore(16)  # Workday rate-limits per IP across all its tenants
@@ -630,7 +631,7 @@ def jobspy_sites(_):
     found, raw = {}, 0
     for term, loc, country in JOBSPY_QUERIES:
         df = scrape_jobs(site_name=["indeed"], search_term=term, location=loc, results_wanted=50,
-                         hours_old=24 * max(1, LOOKBACK_DAYS if LOOKBACK_DAYS > 7 else 1), country_indeed=country, verbose=0)
+                         hours_old=24 * SEARCH_DAYS, country_indeed=country, verbose=0)
         raw += len(df)
         for r in df.to_dict("records"):
             title, where = str(r.get("title") or ""), str(r.get("location") or "")
@@ -659,7 +660,7 @@ LI_BACKUP = {"Microsoft": 1035, "Google": 1441, "Apple": 162479, "Amazon": 1586,
 
 def li_pages(params, max_pages):
     """Yield parsed job cards from LinkedIn's public job search (10 per page), newest first."""
-    window = 86400 * (1 if LOOKBACK_DAYS <= 7 else LOOKBACK_DAYS)
+    window = 86400 * SEARCH_DAYS
     for page in range(max_pages):
         t = http("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
                  + urllib.parse.urlencode(dict(params, f_TPR=f"r{window}", sortBy="DD", start=page * 10)),
@@ -964,8 +965,8 @@ def send_digest(header, lines):
 
 def sweep(days, only="", label=""):
     """Everything matching that was posted in the last N days, sent as one digest. Doesn't touch seen.json."""
-    global LOOKBACK_DAYS
-    LOOKBACK_DAYS = days
+    global LOOKBACK_DAYS, SEARCH_DAYS
+    LOOKBACK_DAYS = SEARCH_DAYS = days
     # shopify-page alerts on non-security roles; `only` is comma-separated task-key prefixes
     tasks = [t for t in build_tasks() if t[0] != "shopify-page" and (not only or t[0].startswith(tuple(only.split(","))))]
     jobs, todo, failed = [], tasks, []

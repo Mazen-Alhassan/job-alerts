@@ -24,6 +24,11 @@ on:
         description: 'Sweep: print to the log only, send nothing'
         type: boolean
         default: false
+      sweep_to:
+        description: 'Sweep: where to send the digest'
+        type: choice
+        options: [both, discord, ntfy]
+        default: both
 
 permissions:
   contents: write   # commit seen.json
@@ -55,10 +60,10 @@ jobs:
       - name: Send a digest of recent matches
         run: python scan.py --sweep ${{ inputs.sweep_days }} ${{ inputs.sweep_only && format('--only {0}', inputs.sweep_only) || '' }}
         env:
-          NTFY_TOPIC: ${{ !inputs.dry_run && secrets.NTFY_TOPIC || '' }}
+          NTFY_TOPIC: ${{ !inputs.dry_run && inputs.sweep_to != 'discord' && secrets.NTFY_TOPIC || '' }}
           TELEGRAM_BOT_TOKEN: ${{ !inputs.dry_run && secrets.TELEGRAM_BOT_TOKEN || '' }}
           TELEGRAM_CHAT_ID: ${{ !inputs.dry_run && secrets.TELEGRAM_CHAT_ID || '' }}
-          DISCORD_WEBHOOK_URL: ${{ !inputs.dry_run && secrets.DISCORD_WEBHOOK_URL || '' }}
+          DISCORD_WEBHOOK_URL: ${{ !inputs.dry_run && inputs.sweep_to != 'ntfy' && secrets.DISCORD_WEBHOOK_URL || '' }}
 
   gate:
     if: ${{ !inputs.test && !inputs.sweep_days }}
