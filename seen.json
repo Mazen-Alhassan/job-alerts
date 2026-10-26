@@ -264,6 +264,7 @@
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": "2026-10-26",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-26",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-26",
+  "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----new-grad_r031979-1": "2026-10-26",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-26",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
@@ -903,6 +904,7 @@
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
   "https://richemont.wd3.myworkdayjobs.com/richemont/job/le-sentier/stagiaire-ingnieur-cyberscurit_jr133458-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
+  "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514": "2026-10-26",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-2": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514-1": "2026-10-26",
   "https://rr.jobsyn.org/48e9318abfb64044b08dbf0e9f001ae21554": "2026-10-24",
@@ -1152,6 +1154,7 @@
   "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-26",
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-10-26",
+  "t:ciena|softwareengineersecuritynewgrad": "2026-10-26",
   "t:cigna|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-08",
   "t:cityo|itstudentcybersecuritycontract": "2026-10-09",
   "t:cleco|interncybersecurity": "2026-10-26",
@@ -4253,7 +4256,6 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4464766855",
-   "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4475329936",
    "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4483396624",
@@ -6676,7 +6678,9 @@
   "wd+:roche/roche-ext": [],
   "wd+:rochester/UR_Staff": [],
   "wd+:rocket/rocket_careers": [],
-  "wd+:rockwellautomation/External-Rockwell-Automation-Early-Careers": [],
+  "wd+:rockwellautomation/External-Rockwell-Automation-Early-Careers": [
+   "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External-Rockwell-Automation-Early-Careers/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514"
+  ],
   "wd+:rockwellautomation/External_Rockwell_Automation": [
    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1"
   ],
@@ -7139,7 +7143,8 @@
   "wd:capitalone/Capital_One": [],
   "wd:cibc/search": [],
   "wd:ciena/Careers": [
-   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
+   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----New-Grad_R031979-1"
   ],
   "wd:cleco/ClecoJobs": [
    "https://cleco.wd5.myworkdayjobs.com/en-US/ClecoJobs/job/Pineville-LA/Intern---Cybersecurity_13331"
@@ -7426,14 +7431,12 @@
   [
    1793032726.421427,
    "Rockwell Automation - Intern, Cybersecurity"
+  ],
+  [
+   1793032991.9267647,
+   "Ciena - Software Engineer (Security) - New Grad"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793032284.849192,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- }
+ "streaks": {}
 }
