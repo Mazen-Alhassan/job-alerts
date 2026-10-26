@@ -386,6 +386,7 @@
   "https://go.vansh.nyc/sc": "2026-10-26",
   "https://go.vansh.nyc/sd": "2026-10-26",
   "https://go.vansh.nyc/se": "2026-10-26",
+  "https://go.vansh.nyc/sn": "2026-10-26",
   "https://go.vansh.nyc/sx": "2026-10-26",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -813,6 +814,7 @@
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
   "https://linkedin.com/jobs/view/4481406893": "2026-10-26",
   "https://linkedin.com/jobs/view/4481450183": "2026-10-26",
+  "https://linkedin.com/jobs/view/4481482050": "2026-10-26",
   "https://linkedin.com/jobs/view/4481611449": "2026-10-23",
   "https://linkedin.com/jobs/view/4481656491": "2026-10-24",
   "https://linkedin.com/jobs/view/4481687615": "2026-10-24",
@@ -1431,6 +1433,7 @@
   "t:netfl|machinelearningaiinfrastructureengineeringinternaiplatformphdwinter2027": "2026-10-08",
   "t:netfl|softwareengineerinternsummer2027": "2026-10-26",
   "t:netsm|securityanalystfuturesummer2027internship": "2026-10-26",
+  "t:netsm|securityanalystintern": "2026-10-26",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:night|vulnerabilityresearcherintern2026": "2026-10-08",
   "t:nissa|corporatesecurityinternsummer2027franklintn": "2026-10-26",
@@ -4263,8 +4266,8 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4464766855",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4475329936",
-   "https://www.linkedin.com/jobs/view/4481450183",
+   "https://www.linkedin.com/jobs/view/4481482050",
+   "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483396624",
    "https://www.linkedin.com/jobs/view/4483568549"
   ],
@@ -4798,6 +4801,7 @@
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
+   "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/Sx",
    "https://go.vansh.nyc/bA",
    "https://go.vansh.nyc/bk",
@@ -7449,6 +7453,10 @@
   [
    1793034170.453391,
    "Booz Allen Hamilton - Cyber Security Intern"
+  ],
+  [
+   1793034818.186822,
+   "Netsmart - Security Analyst Intern"
   ]
  ],
  "stem5": true,
