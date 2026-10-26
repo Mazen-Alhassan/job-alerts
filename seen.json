@@ -674,6 +674,7 @@
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-23",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-23",
+  "https://linkedin.com/jobs/view/4474085048": "2026-10-26",
   "https://linkedin.com/jobs/view/4474205293": "2026-10-26",
   "https://linkedin.com/jobs/view/4474322837": "2026-10-23",
   "https://linkedin.com/jobs/view/4474322897": "2026-10-24",
@@ -1539,6 +1540,7 @@
   "t:space|newgraduateengineersecuritysoftwarestarshield": "2026-10-26",
   "t:space|newgraduateengineersoftwaresecurity2627starlink": "2026-10-26",
   "t:spect|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-18",
+  "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-26",
   "t:stell|2027corporatesecuritysummerinternship": "2026-10-15",
   "t:stife|informationsecurityintern": "2026-10-26",
   "t:stife|informationsecurityinternsummer2027": "2026-10-26",
@@ -4265,7 +4267,18 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [],
-  "li-search": [],
+  "li-search": [
+   "https://www.linkedin.com/jobs/view/4464766855",
+   "https://www.linkedin.com/jobs/view/4474085048",
+   "https://www.linkedin.com/jobs/view/4474496328",
+   "https://www.linkedin.com/jobs/view/4481450183",
+   "https://www.linkedin.com/jobs/view/4481482050",
+   "https://www.linkedin.com/jobs/view/4483225168",
+   "https://www.linkedin.com/jobs/view/4483396624",
+   "https://www.linkedin.com/jobs/view/4483568549",
+   "https://www.linkedin.com/jobs/view/4483596688",
+   "https://www.linkedin.com/jobs/view/4483598666"
+  ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
@@ -7452,8 +7465,18 @@
   [
    1793034818.186822,
    "Netsmart - Security Analyst Intern"
+  ],
+  [
+   1793036637.4832718,
+   "Spirit Defense, A Boeing Company - Spirit Defense - Summer 2027 Internship Program (Paid) "
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "li-companies": [
+   2,
+   1793035922.704052,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ }
 }
