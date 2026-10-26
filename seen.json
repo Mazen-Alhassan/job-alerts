@@ -475,7 +475,7 @@
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-10-26",
-  "https://jobs.ericsson.com/careers/job/563121777370331": "2026-10-24",
+  "https://jobs.ericsson.com/careers/job/563121777370331": "2026-10-26",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192": "2026-10-26",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616": "2026-10-26",
   "https://jobs.janushenderson.com/job/denver-identity-security-intern-co-80206/1441677300": "2026-10-21",
@@ -502,6 +502,7 @@
   "https://jobs.siemens-energy.com/en_us/careersmarketplace/folderdetail/cybersecurity-data-analytics-ai-analyst-12-month-internship/304831": "2026-10-10",
   "https://jobs.siemens.com/externaljobs/jobdetail/525197": "2026-10-21",
   "https://jobs.smartrecruiters.com/abbvie/3743990015679246": "2026-10-26",
+  "https://jobs.smartrecruiters.com/abbvie/3743990016414086": "2026-10-26",
   "https://jobs.smartrecruiters.com/beumergroup1/744000154188459": "2026-10-26",
   "https://jobs.smartrecruiters.com/boschgroup/744000154435119": "2026-10-26",
   "https://jobs.smartrecruiters.com/boschgroup/744000154756439-information-security-and-privacy-intern": "2026-10-10",
@@ -1239,7 +1240,7 @@
   "t:equif|securityintern": "2026-10-09",
   "t:equin|summerinternship2027norwayitcybernetics": "2026-10-15",
   "t:erics|cybersecurityanalystintern": "2026-10-26",
-  "t:erics|securityanalystintern": "2026-10-24",
+  "t:erics|securityanalystintern": "2026-10-26",
   "t:excel|collegeinternsummer2027cyberdefense": "2026-10-08",
   "t:excel|collegeinternsummer2027cyberriskmanagement": "2026-10-08",
   "t:exped|securityengineeringintern": "2026-10-20",
@@ -2425,7 +2426,8 @@
   "eightfold:eaton.eightfold.ai": [],
   "eightfold:fortive.eightfold.ai": [],
   "eightfold:jobs.ericsson.com": [
-   "https://jobs.ericsson.com/careers/job/563121777363423"
+   "https://jobs.ericsson.com/careers/job/563121777363423",
+   "https://jobs.ericsson.com/careers/job/563121777370331"
   ],
   "eightfold:johndeere.eightfold.ai": [],
   "eightfold:lockheedmartin.eightfold.ai": [],
@@ -3848,9 +3850,7 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [
-   "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
-  ],
+  "jobspy": [],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4278,7 +4278,6 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483396624",
@@ -4854,7 +4853,7 @@
   "sr:ASOS": [],
   "sr:ASSYSTEM": [],
   "sr:AbbVie": [
-   "https://jobs.smartrecruiters.com/AbbVie/3743990015679246"
+   "https://jobs.smartrecruiters.com/AbbVie/3743990016414086"
   ],
   "sr:AbercrombieAndFitchCo": [],
   "sr:AbsoluteFacilitySolutionsLLC": [],
@@ -6060,8 +6059,7 @@
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
-   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512",
-   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Vulnerability-Management-Intern_R0059514"
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512"
   ],
   "wd+:hdsupply/External": [],
   "wd+:healthcare/private": [],
@@ -7488,7 +7486,7 @@
  "streaks": {
   "li-companies": [
    1,
-   1793039744.858227,
+   1793042925.7615414,
    "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  }
