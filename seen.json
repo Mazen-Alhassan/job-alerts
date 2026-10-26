@@ -851,6 +851,7 @@
   "https://linkedin.com/jobs/view/4483568549": "2026-10-26",
   "https://linkedin.com/jobs/view/4483596688": "2026-10-26",
   "https://linkedin.com/jobs/view/4483598666": "2026-10-26",
+  "https://linkedin.com/jobs/view/4483716987": "2026-10-26",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1319,6 +1320,7 @@
   "t:howme|cybersecurityintern": "2026-10-16",
   "t:hpeju|cybersecurityengineeringintern": "2026-10-26",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-26",
+  "t:hp|softwareproductsecurityengineerintern": "2026-10-26",
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-26",
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-26",
   "t:iatin|cybersecurityinternship": "2026-10-26",
@@ -4292,7 +4294,8 @@
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
-   "https://www.linkedin.com/jobs/view/4483598666"
+   "https://www.linkedin.com/jobs/view/4483598666",
+   "https://www.linkedin.com/jobs/view/4483716987"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -6856,9 +6859,7 @@
   "wd+:stvinc/stv": [],
   "wd+:sumitomopharma/smpa": [],
   "wd+:suncor/Suncor_External": [],
-  "wd+:sunlife/Campus": [
-   "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
-  ],
+  "wd+:sunlife/Campus": [],
   "wd+:sunlife/Experienced-Jobs": [],
   "wd+:swa/external": [],
   "wd+:swbc/swivel": [],
@@ -7494,14 +7495,12 @@
   [
    1793044802.8778007,
    "Johns Hopkins APL - 2027 Internship - Cybersecurity Software Developer"
+  ],
+  [
+   1793044995.3902109,
+   "HP - Software Product Security Engineer Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "kinaxis": [
-   1,
-   1793044725.7642868,
-   "HTTP Error 502: Bad Gateway"
-  ]
- }
+ "streaks": {}
 }
