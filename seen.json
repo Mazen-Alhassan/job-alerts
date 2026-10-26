@@ -4835,7 +4835,6 @@
    "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/SW",
    "https://go.vansh.nyc/Sx",
-   "https://go.vansh.nyc/bA",
    "https://go.vansh.nyc/cL",
    "https://go.vansh.nyc/cM",
    "https://go.vansh.nyc/cO",
@@ -6865,7 +6864,9 @@
   "wd+:stvinc/stv": [],
   "wd+:sumitomopharma/smpa": [],
   "wd+:suncor/Suncor_External": [],
-  "wd+:sunlife/Campus": [],
+  "wd+:sunlife/Campus": [
+   "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
+  ],
   "wd+:sunlife/Experienced-Jobs": [],
   "wd+:swa/external": [],
   "wd+:swbc/swivel": [],
