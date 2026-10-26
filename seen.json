@@ -2820,8 +2820,7 @@
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
   ],
   "gh:gusto": [],
   "gh:hackerrank": [],
@@ -7415,11 +7414,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793029410.8113146,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- }
+ "streaks": {}
 }
