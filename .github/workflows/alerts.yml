@@ -25,7 +25,7 @@ on:
         type: boolean
         default: false
       sweep_to:
-        description: 'Sweep: where to send the digest'
+        description: 'Sweep or test: where to send'
         type: choice
         options: [both, discord, ntfy]
         default: both
@@ -43,10 +43,10 @@ jobs:
       - name: Send a test alert
         run: python3 scan.py --test
         env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOPIC: ${{ inputs.sweep_to != 'discord' && secrets.NTFY_TOPIC || '' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ inputs.sweep_to != 'ntfy' && secrets.DISCORD_WEBHOOK_URL || '' }}
 
   sweep:
     if: inputs.sweep_days != ''
