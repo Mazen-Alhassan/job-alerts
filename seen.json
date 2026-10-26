@@ -142,6 +142,7 @@
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/fort-walton-beach-fl/university---2027-summer-games-cyber-security-intern---ft-walton-beach--fl_r0248416": "2026-10-23",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/honolulu-hi/university---2027-summer-games-cyber-security-intern---honolulu--hi_r0248411": "2026-10-26",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/huntsville-al/university---2027-summer-games-cyber-security-intern---huntsville--al_r0248412": "2026-10-26",
+  "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/lexington-ma/university---2027-summer-games-cyber-security-intern---lexington--ma_r0252278": "2026-10-26",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/enterprise-cybersecurity-data-loss-prevention-intern_r0249131-1": "2026-10-26",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/enterprise-cybersecurity-education-and-execution-intern_r0249071": "2026-10-26",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---2027-summer-games-cyber-security-intern---mclean--va_r0248034": "2026-10-23",
@@ -1102,6 +1103,7 @@
   "t:booza|university2027summergamescybersecurityinternftwaltonbeachfl": "2026-10-08",
   "t:booza|university2027summergamescybersecurityinternhonoluluhi": "2026-10-26",
   "t:booza|university2027summergamescybersecurityinternhuntsvilleal": "2026-10-26",
+  "t:booza|university2027summergamescybersecurityinternlexingtonma": "2026-10-26",
   "t:booza|university2027summergamescybersecurityinternmcleanva": "2026-10-08",
   "t:booza|university2027summergamescybersecurityinternromeny": "2026-10-26",
   "t:booza|university2027summergamescybersecurityinternsandiegoca": "2026-10-26",
@@ -5379,6 +5381,7 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
+   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
@@ -7154,9 +7157,7 @@
   "wd:intel/External": [
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
-  "wd:leidos/External": [
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00194708"
-  ],
+  "wd:leidos/External": [],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
   "wd:marvell/MarvellCareers2": [
@@ -7362,7 +7363,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-26 10",
+ "heartbeat": "2026-10-26 12",
  "recent": [
   [
    1792947891.914568,
@@ -7411,8 +7412,18 @@
   [
    1793029500.232554,
    "Leidos - Cybersecurity Analyst Intern"
+  ],
+  [
+   1793031337.0218146,
+   "Booz Allen Hamilton - University - 2027 Summer Games Cyber Security Intern - Lexington, MA"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "li-companies": [
+   1,
+   1793030897.973476,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ }
 }
