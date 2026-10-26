@@ -391,6 +391,7 @@
   "https://go.vansh.nyc/sd": "2026-10-26",
   "https://go.vansh.nyc/se": "2026-10-26",
   "https://go.vansh.nyc/sn": "2026-10-26",
+  "https://go.vansh.nyc/sw": "2026-10-26",
   "https://go.vansh.nyc/sx": "2026-10-26",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -996,6 +997,7 @@
   "t:1pass|securityinternthreatoperationswinter2027": "2026-10-26",
   "t:7elev|informationsecurityintern": "2026-10-21",
   "t:abbvi|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-26",
+  "t:abbvi|cybersecurityinternbusinesstechnologysolutions": "2026-10-26",
   "t:accen|cybersecurityinternship": "2026-10-26",
   "t:accen|intelligencecyberdefenseintern": "2026-10-08",
   "t:accen|internshipsecurityasoffebruary2027": "2026-10-08",
@@ -4297,8 +4299,7 @@
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
-   "https://www.linkedin.com/jobs/view/4483598666",
-   "https://www.linkedin.com/jobs/view/4483716987"
+   "https://www.linkedin.com/jobs/view/4483598666"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -4831,6 +4832,7 @@
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
    "https://go.vansh.nyc/SN",
+   "https://go.vansh.nyc/SW",
    "https://go.vansh.nyc/Sx",
    "https://go.vansh.nyc/bA",
    "https://go.vansh.nyc/cL",
@@ -7506,6 +7508,10 @@
   [
    1793045252.4380984,
    "Enterprise Bank & Trust - IT Information Security Intern - Summer 2027"
+  ],
+  [
+   1793045606.3951106,
+   "AbbVie - Cybersecurity Intern, Business Technology Solutions"
   ]
  ],
  "stem5": true,
