@@ -329,6 +329,7 @@
   "https://expedia.wd108.myworkdayjobs.com/search/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310-1": "2026-10-20",
   "https://explore.jobs.netflix.net/careers/job/790317917022": "2026-10-08",
   "https://explore.jobs.netflix.net/careers/job/790318904468": "2026-10-26",
+  "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/3022588": "2026-10-26",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32304": "2026-10-26",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32329": "2026-10-26",
   "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/32334": "2026-10-26",
@@ -1007,6 +1008,7 @@
   "t:activ|activision2027summerinternshipsinformationsecurity": "2026-10-19",
   "t:adobe|2027internsecurityengineer": "2026-10-26",
   "t:adobe|securityengineerintern": "2026-10-26",
+  "t:adt|cybersecurityriskintern": "2026-10-26",
   "t:aerav|cyberprofessionalservicesintern": "2026-10-09",
   "t:aeros|2027defensivecyberoperationsundergradintern": "2026-10-26",
   "t:aeros|2027hardwaresecurityengineeringgradintern": "2026-10-26",
@@ -4298,6 +4300,7 @@
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
+   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483568549",
@@ -4456,7 +4459,9 @@
   "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
+  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
+   "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588"
+  ],
   "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001": [],
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/CX_2": [],
   "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
@@ -7421,10 +7426,6 @@
  "heartbeat": "2026-10-26 16",
  "recent": [
   [
-   1792955730.5213141,
-   "Foundation for Defense of Democracies (FDD) - Spring 2027 Cyber and Technology Innovation "
-  ],
-  [
    1793005835.9571986,
    "PricewaterhouseCoopers (PwC) - Intern, Cybersecurity & Privacy Services (Data privacy focu"
   ],
@@ -7511,6 +7512,10 @@
   [
    1793048971.020458,
    "AtriCure - IT Security Analyst Co-op"
+  ],
+  [
+   1793049922.7248464,
+   "ADT - Cybersecurity & Risk Intern"
   ]
  ],
  "stem5": true,
