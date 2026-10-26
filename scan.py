@@ -612,6 +612,7 @@ JOBSPY_QUERIES = [
     ("cybersecurity intern", "Canada", "Canada"), ("security co-op", "Canada", "Canada"), ("cyber security student", "Canada", "Canada"),
     ("cybersecurity intern", "United States", "USA"), ("security engineer intern", "United States", "USA"),
     ("information security intern", "United States", "USA"),
+    ("Tesla internship", "United States", "USA"),  # Tesla blocks direct scans, but Indeed carries its postings
 ]
 
 
