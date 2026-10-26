@@ -396,6 +396,7 @@
   "https://go.vansh.nyc/sn": "2026-10-26",
   "https://go.vansh.nyc/sw": "2026-10-26",
   "https://go.vansh.nyc/sx": "2026-10-26",
+  "https://go.vansh.nyc/ti": "2026-10-26",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1573,6 +1574,7 @@
   "t:stude|studentworkerinformationsecurityinternbc": "2026-10-26",
   "t:stude|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-26",
   "t:study|itsecurityoperationsintern": "2026-10-26",
+  "t:sunli|softwareengineercoopsecurity": "2026-10-26",
   "t:sunli|studentsoftwareengineersecuritywinter2027": "2026-10-26",
   "t:swbc|applicationsecurityintern": "2026-10-26",
   "t:syste|cybersecurityinternsummer2027": "2026-10-21",
@@ -3875,6 +3877,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
    "https://careers.leidos.com/jobs/18404797-cybersecurity-analyst-intern?tm_job=R-00194708&tm_event=view&tm_company=2502",
    "https://osv-enterprise.wd1.myworkdayjobs.com/en-US/EnterpriseBankTrust_Jobs/job/St-Louis-MO/IT-Information-Security-Intern---Summer-2027_REQ-5532",
@@ -4842,7 +4845,8 @@
    "https://apply.careers.microsoft.com/careers/job/1970393557044771",
    "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/Enterprise-Cybersecurity-Data-and-Business-Intelligence-Analyst_R0252250",
    "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true"
+   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
+   "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
   ],
   "simplify-vansh": [
    "https://go.vansh.nyc/D2",
@@ -4855,6 +4859,7 @@
    "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/SW",
    "https://go.vansh.nyc/Sx",
+   "https://go.vansh.nyc/Ti",
    "https://go.vansh.nyc/cL",
    "https://go.vansh.nyc/cM",
    "https://go.vansh.nyc/cO",
