@@ -878,6 +878,7 @@
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/college-of-ist-cyber-100-genai-impact-evaluation-student-assistant_req_0000083099-1": "2026-10-12",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-10-26",
   "https://ptc.wd1.myworkdayjobs.com/ptc/job/boston-ma-usa/global-security-co-op_jr112886": "2026-10-26",
+  "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/hanoi/intern--cybersecurity---privacy-services--data-privacy-focus-_769911wd": "2026-10-26",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": "2026-10-08",
   "https://pwc.wd3.myworkdayjobs.com/global_campus_careers/job/neuilly-sur-seine/stagiaire-ssi---operations-security---janvier-2027---f-h_767267wd": "2026-10-15",
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-26",
@@ -1444,6 +1445,7 @@
   "t:porto|informationtechnologyinterncybersecurity": "2026-10-16",
   "t:pplco|summer2027cybersecurityintern": "2026-10-24",
   "t:preci|cybersecurityoperationsintern": "2026-10-23",
+  "t:price|interncybersecurityprivacyservicesdataprivacyfocus": "2026-10-26",
   "t:price|interncybersecuritysoc": "2026-10-08",
   "t:price|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proct|itsecurityinternship": "2026-10-26",
@@ -6579,7 +6581,9 @@
   "wd+:pultegroup/PGI": [],
   "wd+:pureinsurance/pure": [],
   "wd+:pvh/PVH_Careers": [],
-  "wd+:pwc/Global_Campus_Careers": [],
+  "wd+:pwc/Global_Campus_Careers": [
+   "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity---Privacy-Services--Data-privacy-focus-_769911WD"
+  ],
   "wd+:pwc/Global_Experienced_Careers": [],
   "wd+:pwc/US_Entry_Level_Careers": [],
   "wd+:pwc/US_Experienced_Careers": [],
@@ -7334,12 +7338,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-26 02",
+ "heartbeat": "2026-10-26 04",
  "recent": [
-  [
-   1792869879.2638004,
-   "Johnson Financial Group - Information Technology / Security Rotational Internship 2027"
-  ],
   [
    1792922151.367076,
    "ByteDance - Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)"
@@ -7371,6 +7371,10 @@
   [
    1792955730.5213141,
    "Foundation for Defense of Democracies (FDD) - Spring 2027 Cyber and Technology Innovation "
+  ],
+  [
+   1793005835.9571986,
+   "PricewaterhouseCoopers (PwC) - Intern, Cybersecurity & Privacy Services (Data privacy focu"
   ]
  ],
  "stem5": true,
