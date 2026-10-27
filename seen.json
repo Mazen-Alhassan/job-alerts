@@ -3890,7 +3890,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
-   "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
    "https://careers.leidos.com/jobs/18404797-cybersecurity-analyst-intern?tm_job=R-00194708&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
@@ -4324,19 +4323,12 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4464766855",
-   "https://www.linkedin.com/jobs/view/4474084044",
-   "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483568549",
-   "https://www.linkedin.com/jobs/view/4483596688",
-   "https://www.linkedin.com/jobs/view/4483598666",
-   "https://www.linkedin.com/jobs/view/4483716987",
    "https://www.linkedin.com/jobs/view/4483744216",
    "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984"
@@ -7563,5 +7555,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "li-companies": [
+   1,
+   1793077653.9841716,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ }
 }
