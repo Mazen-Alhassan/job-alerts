@@ -561,6 +561,7 @@
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
   "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195523": "2026-10-27",
   "https://lifeattiktok.com/search/7600535181632457013": "2026-10-27",
   "https://lifeattiktok.com/search/7600536394771564853": "2026-10-27",
   "https://lifeattiktok.com/search/7667935739300317493": "2026-10-27",
@@ -3926,6 +3927,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
@@ -4358,9 +4360,11 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4464766855",
    "https://www.linkedin.com/jobs/view/4467715984",
+   "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
@@ -7307,7 +7311,9 @@
   "wd:intel/External": [
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
-  "wd:leidos/External": [],
+  "wd:leidos/External": [
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00195523"
+  ],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
   "wd:marvell/MarvellCareers2": [
