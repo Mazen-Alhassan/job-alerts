@@ -261,6 +261,7 @@
   "https://careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--": "2026-10-27",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-27",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
+  "https://careers.rtx.com/global/en/job/01884942": "2026-10-27",
   "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/c6fb4492b2f0b714c04b07335a78fb35": "2026-10-22",
   "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-10-27",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
@@ -411,6 +412,7 @@
   "https://go.vansh.nyc/vj": "2026-10-27",
   "https://go.vansh.nyc/vn": "2026-10-27",
   "https://go.vansh.nyc/vo": "2026-10-27",
+  "https://go.vansh.nyc/vq": "2026-10-27",
   "https://go.vansh.nyc/vu": "2026-10-27",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1587,6 +1589,7 @@
   "t:rockw|interncyberprofessionalserviceslcs": "2026-10-08",
   "t:rockw|interncybersecurity": "2026-10-27",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-10-27",
+  "t:rtxco|securesoftwareinternsummer2027": "2026-10-27",
   "t:rtxco|systemssecurityengineeringinternsummer2027": "2026-10-13",
   "t:rtx|securesoftwareintern": "2026-10-27",
   "t:rtx|securesoftwareinternsummer2027": "2026-10-27",
@@ -4719,7 +4722,8 @@
   "phenom:careers.rbi.com": [],
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
-   "https://careers.rtx.com/global/en/job/01872177"
+   "https://careers.rtx.com/global/en/job/01872177",
+   "https://careers.rtx.com/global/en/job/01884942"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -4954,6 +4958,7 @@
    "https://go.vansh.nyc/VJ",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
+   "https://go.vansh.nyc/VQ",
    "https://go.vansh.nyc/Vd",
    "https://go.vansh.nyc/Vu",
    "https://go.vansh.nyc/cL",
@@ -7697,6 +7702,10 @@
   [
    1793117610.0466595,
    "ProPetro Services, Inc - Cybersecurity Intern"
+  ],
+  [
+   1793118174.1391034,
+   "RTX (Collins, Pratt & Whitney, Raytheon) - Secure Software Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
