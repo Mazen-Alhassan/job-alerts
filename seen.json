@@ -584,6 +584,7 @@
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00195574": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/pearl-harbor-hi/cybersecurity-analyst-intern_r-00195607": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195523": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195529": "2026-10-27",
   "https://lifeattiktok.com/search/7600535181632457013": "2026-10-27",
@@ -3989,7 +3990,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
-   "https://careers.leidos.com/jobs/18410201-cybersecurity-intern?tm_job=R-00195531&tm_event=view&tm_company=2502",
+   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
@@ -7384,7 +7385,8 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
   "wd:leidos/External": [
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531"
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531",
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00195607"
   ],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
@@ -7759,5 +7761,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793135731.205369,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
