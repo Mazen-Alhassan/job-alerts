@@ -613,6 +613,7 @@
   "https://linkedin.com/jobs/view/4460202658": "2026-10-27",
   "https://linkedin.com/jobs/view/4460204642": "2026-10-27",
   "https://linkedin.com/jobs/view/4460233941": "2026-10-27",
+  "https://linkedin.com/jobs/view/4460235483": "2026-10-27",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
   "https://linkedin.com/jobs/view/4460254050": "2026-10-27",
@@ -864,11 +865,13 @@
   "https://linkedin.com/jobs/view/4481786462": "2026-10-21",
   "https://linkedin.com/jobs/view/4481812444": "2026-10-27",
   "https://linkedin.com/jobs/view/4481857113": "2026-10-27",
+  "https://linkedin.com/jobs/view/4481895706": "2026-10-27",
   "https://linkedin.com/jobs/view/4481962813": "2026-10-24",
   "https://linkedin.com/jobs/view/4481973006": "2026-10-24",
   "https://linkedin.com/jobs/view/4482067944": "2026-10-22",
   "https://linkedin.com/jobs/view/4482083490": "2026-10-22",
   "https://linkedin.com/jobs/view/4482176819": "2026-10-22",
+  "https://linkedin.com/jobs/view/4482206285": "2026-10-27",
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
@@ -1560,6 +1563,7 @@
   "t:price|interncybersecuritysoc": "2026-10-08",
   "t:price|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
   "t:proct|itsecurityinternship": "2026-10-27",
+  "t:prope|cybersecurityintern": "2026-10-27",
   "t:ptc|globalsecuritycoop": "2026-10-26",
   "t:qtsda|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-27",
@@ -4370,10 +4374,14 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4465248410"
+  ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
@@ -4386,6 +4394,8 @@
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
+   "https://www.linkedin.com/jobs/view/4481895706",
+   "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483254499",
@@ -7534,7 +7544,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 10",
+ "heartbeat": "2026-10-27 12",
  "recent": [
   [
    1793025191.8404403,
@@ -7683,6 +7693,10 @@
   [
    1793116635.5779269,
    "IBM - AI-Native Security Research Intern 2027"
+  ],
+  [
+   1793117610.0466595,
+   "ProPetro Services, Inc - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
