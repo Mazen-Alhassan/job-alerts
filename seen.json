@@ -420,6 +420,7 @@
   "https://go.vansh.nyc/vv": "2026-10-27",
   "https://go.vansh.nyc/w2": "2026-10-27",
   "https://go.vansh.nyc/w5": "2026-10-27",
+  "https://go.vansh.nyc/w8": "2026-10-27",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -572,6 +573,7 @@
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304": "2026-10-27",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00195574": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195523": "2026-10-27",
@@ -1565,6 +1567,7 @@
   "t:palan|informationsecurityengineerinternship": "2026-10-27",
   "t:panas|securityriskintern": "2026-10-11",
   "t:papaj|2027summerinterncybersecurity": "2026-10-27",
+  "t:papaj|cybersecurityintern": "2026-10-27",
   "t:peckh|itsecurityintern": "2026-10-20",
   "t:pecna|securityriskintern": "2026-10-10",
   "t:penns|collegeofistcyber100genaiimpactevaluationstudentassistant": "2026-10-08",
@@ -4991,7 +4994,7 @@
    "https://go.vansh.nyc/Vu",
    "https://go.vansh.nyc/W2",
    "https://go.vansh.nyc/W5",
-   "https://go.vansh.nyc/cL",
+   "https://go.vansh.nyc/W8",
    "https://go.vansh.nyc/cM",
    "https://go.vansh.nyc/cO",
    "https://go.vansh.nyc/cQ",
@@ -5867,10 +5870,7 @@
   "wd+:corteva/corteva": [],
   "wd+:corteva/ctp": [],
   "wd+:costar/CoStarCareers": [],
-  "wd+:costar/Costar_Campus": [
-   "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
-   "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
-  ],
+  "wd+:costar/Costar_Campus": [],
   "wd+:costar/confidential": [],
   "wd+:countryfinancial/COUNTRYCorporateExternal": [],
   "wd+:countryfinancial/COUNTRYCorporateInternships": [],
@@ -7367,6 +7367,7 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
   "wd:leidos/External": [
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00195574",
    "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531"
   ],
   "wd:lumentum/LITE": [],
@@ -7573,18 +7574,6 @@
  "heartbeat": "2026-10-27 14",
  "recent": [
   [
-   1793031337.0218146,
-   "Booz Allen Hamilton - University - 2027 Summer Games Cyber Security Intern - Lexington, MA"
-  ],
-  [
-   1793032726.421427,
-   "Rockwell Automation - Intern, Cybersecurity"
-  ],
-  [
-   1793032991.9267647,
-   "Ciena - Software Engineer (Security) - New Grad"
-  ],
-  [
    1793034170.453391,
    "Booz Allen Hamilton - Cyber Security Intern"
   ],
@@ -7747,6 +7736,10 @@
   [
    1793124414.8273842,
    "Amazon - Database Engineer Intern - Summer 2027"
+  ],
+  [
+   1793126812.5922303,
+   "Papa John's - Cyber Security Intern"
   ]
  ],
  "stem5": true,
