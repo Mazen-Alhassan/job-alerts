@@ -596,6 +596,7 @@
   "https://lifeattiktok.com/search/7600536394771564853": "2026-10-27",
   "https://lifeattiktok.com/search/7667935739300317493": "2026-10-27",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-10-27",
+  "https://lifeattiktok.com/search/7691158108957641013": "2026-10-27",
   "https://linkedin.com/jobs/view/4366561915": "2026-10-23",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
   "https://linkedin.com/jobs/view/4414643630": "2026-10-23",
@@ -1716,6 +1717,7 @@
   "t:thale|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-27",
   "t:thriv|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-26",
   "t:tikto|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-10-27",
+  "t:tikto|physicalsecuritysystemstechnologyprojectinternpsst2027start": "2026-10-27",
   "t:tikto|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-10-27",
   "t:tikto|securityengineerinternsecurityprivacy2027summer": "2026-10-15",
   "t:tikto|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-10-27",
@@ -4444,6 +4446,8 @@
    "https://www.linkedin.com/jobs/view/4465248410"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
@@ -4457,12 +4461,18 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
+   "https://www.linkedin.com/jobs/view/4482210010",
+   "https://www.linkedin.com/jobs/view/4482239974",
+   "https://www.linkedin.com/jobs/view/4482244882",
+   "https://www.linkedin.com/jobs/view/4482252407",
    "https://www.linkedin.com/jobs/view/4482255367",
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483674744",
    "https://www.linkedin.com/jobs/view/4483760984",
+   "https://www.linkedin.com/jobs/view/4483793063",
    "https://www.linkedin.com/jobs/view/4483793873",
+   "https://www.linkedin.com/jobs/view/4483809502",
    "https://www.linkedin.com/jobs/view/4484006252",
    "https://www.linkedin.com/jobs/view/4484098764",
    "https://www.linkedin.com/jobs/view/4484205843",
@@ -5372,7 +5382,8 @@
    "https://lifeattiktok.com/search/7600535181632457013",
    "https://lifeattiktok.com/search/7600536394771564853",
    "https://lifeattiktok.com/search/7667935739300317493",
-   "https://lifeattiktok.com/search/7670729943510829317"
+   "https://lifeattiktok.com/search/7670729943510829317",
+   "https://lifeattiktok.com/search/7691158108957641013"
   ],
   "wd+:2020companies/external_careers": [],
   "wd+:23andme/23": [],
@@ -7753,6 +7764,10 @@
   [
    1793144704.5229194,
    "AlayaCare - Intern, Security Analyst - Winter Semester 2027"
+  ],
+  [
+   1793145222.4048085,
+   "TikTok - Physical Security Systems & Technology Project Intern (PSST) - 2027 Start"
   ]
  ],
  "stem5": true,
