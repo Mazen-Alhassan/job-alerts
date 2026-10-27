@@ -402,6 +402,7 @@
   "https://go.vansh.nyc/ub": "2026-10-27",
   "https://go.vansh.nyc/uf": "2026-10-27",
   "https://go.vansh.nyc/uh": "2026-10-27",
+  "https://go.vansh.nyc/vd": "2026-10-27",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1546,6 +1547,7 @@
   "t:rocke|securityanalystinternspring2027": "2026-10-27",
   "t:rocke|securityanalystinternsummer2027": "2026-10-27",
   "t:rocke|securityservicesinternfall2026": "2026-10-26",
+  "t:rockw|cybersecurityintern": "2026-10-27",
   "t:rockw|interncyberprofessionalserviceslcs": "2026-10-08",
   "t:rockw|interncybersecurity": "2026-10-27",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-10-27",
@@ -4328,26 +4330,14 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4464766855",
-   "https://www.linkedin.com/jobs/view/4474084044",
-   "https://www.linkedin.com/jobs/view/4474085048",
-   "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4475983653",
-   "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483254499",
-   "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
-   "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483716987",
-   "https://www.linkedin.com/jobs/view/4483744216",
    "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984",
-   "https://www.linkedin.com/jobs/view/4483793873",
    "https://www.linkedin.com/jobs/view/4484006252"
   ],
   "linkedin": [
@@ -4887,6 +4877,7 @@
    "https://go.vansh.nyc/UB",
    "https://go.vansh.nyc/UF",
    "https://go.vansh.nyc/UH",
+   "https://go.vansh.nyc/Vd",
    "https://go.vansh.nyc/cL",
    "https://go.vansh.nyc/cM",
    "https://go.vansh.nyc/cO",
@@ -7460,7 +7451,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 04",
+ "heartbeat": "2026-10-27 06",
  "recent": [
   [
    1793005835.9571986,
@@ -7573,8 +7564,18 @@
   [
    1793083826.4034798,
    "Archer - College to Corporate IT Internship - Risk & Security - Analyst  (NC)"
+  ],
+  [
+   1793095888.4409847,
+   "Rockwell Automation - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793095831.8381238,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
