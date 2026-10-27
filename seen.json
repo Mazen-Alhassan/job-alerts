@@ -19,7 +19,7 @@
   "gh:6163325004": "2026-10-27",
   "gh:6212490004": "2026-10-09",
   "gh:6218639004": "2026-10-27",
-  "gh:6224196004": "2026-10-26",
+  "gh:6224196004": "2026-10-27",
   "gh:7824766003": "2026-10-27",
   "gh:7977819003": "2026-10-08",
   "gh:7986872003": "2026-10-27",
@@ -879,6 +879,7 @@
   "https://linkedin.com/jobs/view/4482083490": "2026-10-22",
   "https://linkedin.com/jobs/view/4482176819": "2026-10-22",
   "https://linkedin.com/jobs/view/4482206285": "2026-10-27",
+  "https://linkedin.com/jobs/view/4482210010": "2026-10-27",
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
@@ -1362,7 +1363,7 @@
   "t:guard|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-10-27",
   "t:guide|applicationsecurityinterngpsune": "2026-10-27",
   "t:guide|cybersecurityintern": "2026-10-27",
-  "t:guide|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-26",
+  "t:guide|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-10-27",
   "t:guide|gpsucybersecurityinternapplicationsecurity": "2026-10-10",
   "t:guide|gpsucybersecurityspringinternship": "2026-10-27",
   "t:guide|gpsuinternapplicationsecurity": "2026-10-08",
@@ -2956,7 +2957,8 @@
   "gh:guidepoint": [],
   "gh:guidepointsecurity": [
    "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
-   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004"
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+   "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004"
   ],
   "gh:gusto": [],
   "gh:hackerrank": [],
@@ -4416,6 +4418,7 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
+   "https://www.linkedin.com/jobs/view/4482210010",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483596688",
@@ -7355,9 +7358,7 @@
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
-  "wd:globalhr/REC_RTX_Ext_Gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
-  ],
+  "wd:globalhr/REC_RTX_Ext_Gateway": [],
   "wd:hp/ExternalCareerSite": [],
   "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [
