@@ -4428,9 +4428,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4465248410"
-  ],
+  "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460204642",
@@ -4452,7 +4450,6 @@
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483674744",
-   "https://www.linkedin.com/jobs/view/4483744216",
    "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984",
    "https://www.linkedin.com/jobs/view/4483793873",
@@ -7586,7 +7583,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 16",
+ "heartbeat": "2026-10-27 18",
  "recent": [
   [
    1793039267.5788023,
