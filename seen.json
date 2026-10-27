@@ -898,6 +898,10 @@
   "https://linkedin.com/jobs/view/4482176819": "2026-10-22",
   "https://linkedin.com/jobs/view/4482206285": "2026-10-27",
   "https://linkedin.com/jobs/view/4482210010": "2026-10-27",
+  "https://linkedin.com/jobs/view/4482239974": "2026-10-27",
+  "https://linkedin.com/jobs/view/4482244882": "2026-10-27",
+  "https://linkedin.com/jobs/view/4482252407": "2026-10-27",
+  "https://linkedin.com/jobs/view/4482255367": "2026-10-27",
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
@@ -927,6 +931,7 @@
   "https://linkedin.com/jobs/view/4483760984": "2026-10-27",
   "https://linkedin.com/jobs/view/4483793063": "2026-10-27",
   "https://linkedin.com/jobs/view/4483793873": "2026-10-27",
+  "https://linkedin.com/jobs/view/4483809502": "2026-10-27",
   "https://linkedin.com/jobs/view/4484006252": "2026-10-27",
   "https://linkedin.com/jobs/view/4484098764": "2026-10-27",
   "https://linkedin.com/jobs/view/4484205843": "2026-10-27",
@@ -1103,6 +1108,7 @@
   "t:aeros|hardwaresecurityengineeringintern": "2026-10-27",
   "t:airbu|cybersecurityinternships2027": "2026-10-26",
   "t:airpr|summerinternitcyberaudit2027": "2026-10-27",
+  "t:alaya|internsecurityanalystwintersemester2027": "2026-10-27",
   "t:allia|nationalsecuritypolicyinternvolunteer": "2026-10-27",
   "t:allis|itsecurityanalystinternshipsummer2027": "2026-10-27",
   "t:altar|spring2027itsecurityanalystintern": "2026-10-27",
@@ -4438,9 +4444,7 @@
    "https://www.linkedin.com/jobs/view/4465248410"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
@@ -4453,12 +4457,11 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
-   "https://www.linkedin.com/jobs/view/4482210010",
+   "https://www.linkedin.com/jobs/view/4482255367",
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483674744",
    "https://www.linkedin.com/jobs/view/4483760984",
-   "https://www.linkedin.com/jobs/view/4483793063",
    "https://www.linkedin.com/jobs/view/4483793873",
    "https://www.linkedin.com/jobs/view/4484006252",
    "https://www.linkedin.com/jobs/view/4484098764",
@@ -7600,14 +7603,6 @@
  "heartbeat": "2026-10-27 18",
  "recent": [
   [
-   1793048971.020458,
-   "AtriCure - IT Security Analyst Co-op"
-  ],
-  [
-   1793049922.7248464,
-   "ADT - Cybersecurity & Risk Intern"
-  ],
-  [
    1793054517.7313337,
    "Washington Metropolitan Area Transit Authority (WMATA) - Metro College Intern - (DMCS) Dig"
   ],
@@ -7754,6 +7749,10 @@
   [
    1793141986.154925,
    "Alliance for American Leadership (A4AL) - National Security Policy Intern (Volunteer)"
+  ],
+  [
+   1793144704.5229194,
+   "AlayaCare - Intern, Security Analyst - Winter Semester 2027"
   ]
  ],
  "stem5": true,
