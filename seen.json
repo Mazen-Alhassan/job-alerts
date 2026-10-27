@@ -598,6 +598,8 @@
   "https://linkedin.com/jobs/view/4459296440": "2026-10-14",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460200734": "2026-10-27",
+  "https://linkedin.com/jobs/view/4460204642": "2026-10-27",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
   "https://linkedin.com/jobs/view/4460307152": "2026-10-11",
@@ -1640,6 +1642,8 @@
   "t:unive|internshipprojectssecuritytechnologysummer2027": "2026-10-12",
   "t:unive|studentsecuritycoordinator": "2026-10-23",
   "t:upbou|cybersecurityintern": "2026-10-09",
+  "t:ups|upsinformationsecuritysummer2027internshipky": "2026-10-27",
+  "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-10-27",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:usfoo|interncybersecurityriskhybridonsiteremote": "2026-10-12",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-10-17",
@@ -3899,6 +3903,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
    "https://careers.leidos.com/jobs/18404797-cybersecurity-analyst-intern?tm_job=R-00194708&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
@@ -4332,18 +4337,16 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4464766855",
    "https://www.linkedin.com/jobs/view/4474084044",
-   "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
-   "https://www.linkedin.com/jobs/view/4474622439",
-   "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
@@ -7470,10 +7473,6 @@
  "heartbeat": "2026-10-27 08",
  "recent": [
   [
-   1793005835.9571986,
-   "PricewaterhouseCoopers (PwC) - Intern, Cybersecurity & Privacy Services (Data privacy focu"
-  ],
-  [
    1793015500.665124,
    "SoTalent - Cyber Security Intern"
   ],
@@ -7584,6 +7583,14 @@
   [
    1793095888.4409847,
    "Rockwell Automation - Cybersecurity Intern"
+  ],
+  [
+   1793104279.829119,
+   "UPS - UPS Information Security Summer 2027 Internship - NJ"
+  ],
+  [
+   1793104279.829121,
+   "UPS - UPS Information Security Summer 2027 Internship - KY"
   ]
  ],
  "stem5": true,
