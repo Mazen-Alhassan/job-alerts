@@ -311,6 +311,7 @@
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11623": "2026-10-27",
   "https://ebxr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/214487": "2026-10-27",
   "https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25017626": "2026-10-27",
+  "https://edxn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_5001/job/26173": "2026-10-27",
   "https://eese.fa.us8.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/731": "2026-10-27",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011893": "2026-10-27",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011913": "2026-10-27",
@@ -1178,6 +1179,7 @@
   "t:booza|universitysummer27enterprisecybersecurityvulnerabilityintern": "2026-10-27",
   "t:bosch|informationsecurityandprivacyintern": "2026-10-27",
   "t:bosch|itinterncybersecurityaifm": "2026-10-27",
+  "t:bosto|cybersecuritycoop": "2026-10-27",
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-27",
   "t:bracc|productsecurityengineeringintern": "2026-10-27",
   "t:brain|aisecurityengineercoop": "2026-10-21",
@@ -4351,11 +4353,8 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4464766855",
-   "https://www.linkedin.com/jobs/view/4467715984",
-   "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474622439",
@@ -4365,12 +4364,10 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483225168",
-   "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
    "https://www.linkedin.com/jobs/view/4483608456",
-   "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483716987",
    "https://www.linkedin.com/jobs/view/4483744216",
    "https://www.linkedin.com/jobs/view/4483747728",
@@ -4425,7 +4422,9 @@
   "oracle:edel.fa.us2.oraclecloud.com/CX_2001": [],
   "oracle:edmn.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:edqv.fa.us2.oraclecloud.com/CX": [],
-  "oracle:edxn.fa.us2.oraclecloud.com/CX_5001": [],
+  "oracle:edxn.fa.us2.oraclecloud.com/CX_5001": [
+   "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173"
+  ],
   "oracle:edyy.fa.us2.oraclecloud.com/CX_2002": [],
   "oracle:eedu.fa.em3.oraclecloud.com/CX_1003": [],
   "oracle:eeho.fa.us2.oraclecloud.com/CX_45001": [],
@@ -7496,20 +7495,8 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 08",
+ "heartbeat": "2026-10-27 10",
  "recent": [
-  [
-   1793015500.665124,
-   "SoTalent - Cyber Security Intern"
-  ],
-  [
-   1793015500.6651256,
-   "Stifel - Information Security Intern"
-  ],
-  [
-   1793015500.6651263,
-   "Apple - Information Security Intern"
-  ],
   [
    1793018015.8079827,
    "Wells Fargo - 2027 Technology Summer Internship - Early Careers (Cybersecurity)"
@@ -7633,6 +7620,10 @@
   [
    1793108355.398411,
    "UHS Physician Careers - Information Security Analyst Intern*"
+  ],
+  [
+   1793109981.3973732,
+   "Boston Properties - Cyber Security Co-Op"
   ]
  ],
  "stem5": true,
