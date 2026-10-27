@@ -564,6 +564,7 @@
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304": "2026-10-27",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195523": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195529": "2026-10-27",
@@ -1443,6 +1444,7 @@
   "t:legen|securityintern": "2026-10-23",
   "t:leido|cybersecurityanalystintern": "2026-10-27",
   "t:leido|cybersecurityengineercoop": "2026-10-09",
+  "t:leido|cybersecurityintern": "2026-10-27",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-10-27",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-27",
   "t:lockh|softwareengineercyberintern": "2026-10-08",
@@ -7317,6 +7319,7 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
   "wd:leidos/External": [
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531",
    "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00195529"
   ],
   "wd:lumentum/LITE": [],
@@ -7523,10 +7526,6 @@
  "heartbeat": "2026-10-27 10",
  "recent": [
   [
-   1793021043.484438,
-   "DeepNotch - AI & Cybersecurity Engineering Intern"
-  ],
-  [
    1793025191.8404403,
    "C3 - SOC Analyst Internship Program - LSU Students Only"
   ],
@@ -7657,8 +7656,18 @@
   [
    1793111966.3940654,
    "RTX - Secure Software Intern"
+  ],
+  [
+   1793115988.7818449,
+   "Leidos - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "li-companies": [
+   1,
+   1793115901.6260784,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ }
 }
