@@ -1028,6 +1028,7 @@
   "t:adobe|2027internsecurityengineer": "2026-10-27",
   "t:adobe|securityengineerintern": "2026-10-27",
   "t:adt|cybersecurityriskintern": "2026-10-27",
+  "t:adt|cybersecurityriskinternjobid3022588": "2026-10-27",
   "t:aerav|cyberprofessionalservicesintern": "2026-10-09",
   "t:aeros|2027defensivecyberoperationsundergradintern": "2026-10-27",
   "t:aeros|2027hardwaresecurityengineeringgradintern": "2026-10-27",
@@ -4332,7 +4333,6 @@
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4475983653",
-   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
@@ -7576,11 +7576,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   2,
-   1793092137.3998632,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- }
+ "streaks": {}
 }
