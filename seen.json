@@ -444,7 +444,7 @@
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-20",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-10-27",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-10-27",
-  "https://indeed.com/viewjob": "2026-10-23",
+  "https://indeed.com/viewjob": "2026-10-27",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
@@ -875,6 +875,7 @@
   "https://linkedin.com/jobs/view/4483596688": "2026-10-27",
   "https://linkedin.com/jobs/view/4483598666": "2026-10-27",
   "https://linkedin.com/jobs/view/4483608456": "2026-10-27",
+  "https://linkedin.com/jobs/view/4483645347": "2026-10-27",
   "https://linkedin.com/jobs/view/4483716987": "2026-10-27",
   "https://linkedin.com/jobs/view/4483744216": "2026-10-27",
   "https://linkedin.com/jobs/view/4483747728": "2026-10-27",
@@ -1534,7 +1535,7 @@
   "t:plant|2027cybersecurityconsultantintern": "2026-10-27",
   "t:porto|informationtechnologyinterncybersecurity": "2026-10-16",
   "t:pplco|summer2027cybersecurityintern": "2026-10-24",
-  "t:preci|cybersecurityoperationsintern": "2026-10-23",
+  "t:preci|cybersecurityoperationsintern": "2026-10-27",
   "t:price|interncybersecurityprivacyservicesdataprivacyfocus": "2026-10-27",
   "t:price|interncybersecuritysoc": "2026-10-08",
   "t:price|stagiairessioperationssecurityjanvier2027fh": "2026-10-15",
@@ -1640,6 +1641,7 @@
   "t:toget|hardwaresecurityengineerinternsummer2027": "2026-10-27",
   "t:toget|hardwaresecurityengineernewgrad2027": "2026-10-27",
   "t:triae|cybersecurityintern": "2026-10-09",
+  "t:uhsph|informationsecurityanalystintern": "2026-10-27",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-10-27",
   "t:unite|2027buildingsecuritysummerinternshipprogram": "2026-10-22",
   "t:unite|upsinformationsecuritysummer2027internshipga": "2026-10-27",
@@ -3922,7 +3924,8 @@
    "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern/",
    "https://osv-enterprise.wd1.myworkdayjobs.com/en-US/EnterpriseBankTrust_Jobs/job/St-Louis-MO/IT-Information-Security-Intern---Summer-2027_REQ-5532",
    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1",
-   "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
+   "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417",
+   "https://www.indeed.com/viewjob?jk=1b1d5adbabfe0af6"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4347,15 +4350,30 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4464766855",
+   "https://www.linkedin.com/jobs/view/4474084044",
+   "https://www.linkedin.com/jobs/view/4474085048",
+   "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474622439",
+   "https://www.linkedin.com/jobs/view/4475983653",
+   "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4483160876",
+   "https://www.linkedin.com/jobs/view/4483225168",
+   "https://www.linkedin.com/jobs/view/4483254499",
+   "https://www.linkedin.com/jobs/view/4483568549",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
+   "https://www.linkedin.com/jobs/view/4483608456",
+   "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483716987",
+   "https://www.linkedin.com/jobs/view/4483744216",
    "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984",
+   "https://www.linkedin.com/jobs/view/4483793873",
    "https://www.linkedin.com/jobs/view/4484006252"
   ],
   "linkedin": [
@@ -7609,6 +7627,10 @@
   [
    1793106088.5295572,
    "Peraton - Spring & Summer 2027 Cybersecurity Engineer Co-op"
+  ],
+  [
+   1793108355.398411,
+   "UHS Physician Careers - Information Security Analyst Intern*"
   ]
  ],
  "stem5": true,
