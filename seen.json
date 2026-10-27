@@ -905,6 +905,7 @@
   "https://linkedin.com/jobs/view/4483760984": "2026-10-27",
   "https://linkedin.com/jobs/view/4483793873": "2026-10-27",
   "https://linkedin.com/jobs/view/4484006252": "2026-10-27",
+  "https://linkedin.com/jobs/view/4484098764": "2026-10-27",
   "https://linkedin.com/jobs/view/4484213000": "2026-10-27",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1211,6 +1212,7 @@
   "t:burli|securityoperationsinternsummer2027": "2026-10-27",
   "t:burnc|cybersecuritystudent": "2026-10-15",
   "t:bwxte|interncybersecuritysummer2027": "2026-10-15",
+  "t:bxpin|cybersecuritycoop": "2026-10-27",
   "t:byted|appliedresearchinternaisafetysecurityglobalfrontiertechrecruitmentprogram2027startphd": "2026-10-25",
   "t:byted|networksecuritysoftwareengineerinternsecurityengineering2027fall": "2026-10-25",
   "t:byted|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
@@ -4401,7 +4403,6 @@
    "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
-   "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4474622439",
    "https://www.linkedin.com/jobs/view/4475983653",
    "https://www.linkedin.com/jobs/view/4481482050",
@@ -4410,6 +4411,7 @@
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4483160876",
+   "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
@@ -4421,6 +4423,7 @@
    "https://www.linkedin.com/jobs/view/4483760984",
    "https://www.linkedin.com/jobs/view/4483793873",
    "https://www.linkedin.com/jobs/view/4484006252",
+   "https://www.linkedin.com/jobs/view/4484098764",
    "https://www.linkedin.com/jobs/view/4484213000"
   ],
   "linkedin": [
@@ -6246,9 +6249,7 @@
   "wd+:hp/EXTEU-AC-CareerSite": [],
   "wd+:hp/externalcareersite": [],
   "wd+:hpe/acjobsite": [],
-  "wd+:hpe/jobsathpe": [
-   "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080"
-  ],
+  "wd+:hpe/jobsathpe": [],
   "wd+:hpinc/hpinc": [],
   "wd+:hq/Securian_External": [],
   "wd+:hrhub/Euronext_Career_Page": [],
@@ -7725,6 +7726,10 @@
   [
    1793120787.320637,
    "Raytheon - Secure Software Intern (Summer 2027)"
+  ],
+  [
+   1793121268.7675931,
+   "BXP, Inc. - Cyber Security Co-Op"
   ]
  ],
  "stem5": true,
