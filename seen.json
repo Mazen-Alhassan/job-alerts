@@ -189,6 +189,7 @@
   "https://careers-gdms.icims.com/jobs/75132/job": "2026-10-10",
   "https://careers-gdms.icims.com/jobs/75514/cyber-engineering-intern-%28summer-2027%29/job": "2026-10-20",
   "https://careers-gdms.icims.com/jobs/75514/job": "2026-10-15",
+  "https://careers-gdms.icims.com/jobs/75667/cybersecurity-systems-engineer-intern/job": "2026-10-27",
   "https://careers-ice.icims.com/jobs/14063/job": "2026-10-25",
   "https://careers-ice.icims.com/jobs/14063/summer-internship-program-2027---cybersecurity-architect-intern/job": "2026-10-27",
   "https://careers-ice.icims.com/jobs/14082/job": "2026-10-25",
@@ -1331,6 +1332,7 @@
   "t:gener|cyberengineeringintern": "2026-10-20",
   "t:gener|cyberengineeringinternsummer2027": "2026-10-20",
   "t:gener|cybersecurity2027summerinternship": "2026-10-24",
+  "t:gener|cybersecuritysystemsengineerintern": "2026-10-27",
   "t:gener|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-10-27",
   "t:gener|informationsecurityengineerintern": "2026-10-22",
   "t:gener|internengineercyber": "2026-10-12",
@@ -3676,7 +3678,9 @@
   "icims:careers-gd-ots.icims.com": [],
   "icims:careers-gdbiw.icims.com": [],
   "icims:careers-gdeb.icims.com": [],
-  "icims:careers-gdms.icims.com": [],
+  "icims:careers-gdms.icims.com": [
+   "https://careers-gdms.icims.com/jobs/75667/cybersecurity-systems-engineer-intern/job"
+  ],
   "icims:careers-geosyntec.icims.com": [],
   "icims:careers-gilbaneco.icims.com": [],
   "icims:careers-goldbeltapex.icims.com": [],
@@ -7706,6 +7710,10 @@
   [
    1793118174.1391034,
    "RTX (Collins, Pratt & Whitney, Raytheon) - Secure Software Intern (Summer 2027)"
+  ],
+  [
+   1793118631.1623492,
+   "General Dynamics Mission Systems - Cybersecurity Systems Engineer Intern"
   ]
  ],
  "stem5": true,
