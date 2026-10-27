@@ -1002,6 +1002,10 @@
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/dallasft-worth-tx/college-to-corporate-it-internship---risk---security---engineer_181851": "2026-10-27",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/malvern-pa/college-to-corporate-it-internship---risk---security---analyst---pa-_181762": "2026-10-27",
   "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/malvern-pa/college-to-corporate-it-internship-risk---security-engineer--pa-_182784": "2026-10-27",
+  "https://visa.wd5.myworkdayjobs.com/visa/job/us---ashburn-va/network-and-security-engineering-intern---2027--ashburn--va_ref089778w": "2026-10-27",
+  "https://visa.wd5.myworkdayjobs.com/visa/job/us---denver-co/network-and-security-engineering-intern---2027--highlands-ranch--co_ref089779w-1": "2026-10-27",
+  "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---ashburn-va/network-and-security-engineering-intern---2027--ashburn--va_ref089778w-2": "2026-10-27",
+  "https://visa.wd5.myworkdayjobs.com/visa_early_careers/job/us---denver-co/network-and-security-engineering-intern---2027--highlands-ranch--co_ref089779w": "2026-10-27",
   "https://volarisgroup.wd3.myworkdayjobs.com/goassetworks/job/united-states---tx/it-security-intern_r69295": "2026-10-27",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-masters_r-2630026": "2026-10-27",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-10-27",
@@ -1656,6 +1660,8 @@
   "t:varda|cybersecurityinternshipsummer2027": "2026-10-27",
   "t:veeam|platformsecurityaiengineeringinternsummer2027": "2026-10-08",
   "t:verka|securitysoftwareengineeringintern2027": "2026-10-27",
+  "t:visa|networkandsecurityengineeringintern2027ashburnva": "2026-10-27",
+  "t:visa|networkandsecurityengineeringintern2027highlandsranchco": "2026-10-27",
   "t:walma|summer2027interncybersecuritymasters": "2026-10-27",
   "t:walma|summer2027interncybersecurityundergrad": "2026-10-27",
   "t:washi|metrocollegeinterndmcsdigitalmodernizationcybersecurity": "2026-10-27",
@@ -7113,8 +7119,14 @@
   "wd+:viatris/External": [],
   "wd+:viavisolutions/careers": [],
   "wd+:vibrant/VEH_EXTERNAL_CAREER_SITE": [],
-  "wd+:visa/Visa": [],
-  "wd+:visa/Visa_Early_Careers": [],
+  "wd+:visa/Visa": [
+   "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W",
+   "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1"
+  ],
+  "wd+:visa/Visa_Early_Careers": [
+   "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
+   "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W"
+  ],
   "wd+:vishay/VishayCareers": [],
   "wd+:vitalant/Careers": [],
   "wd+:vizient/Vizient_Careers": [],
@@ -7585,6 +7597,14 @@
   [
    1793104279.829121,
    "UPS - UPS Information Security Summer 2027 Internship - KY"
+  ],
+  [
+   1793105354.9651673,
+   "Visa - Network and Security Engineering Intern - 2027, Highlands Ranch, CO"
+  ],
+  [
+   1793105354.965169,
+   "Visa - Network and Security Engineering Intern - 2027, Ashburn, VA"
   ]
  ],
  "stem5": true,
