@@ -612,6 +612,7 @@
   "https://linkedin.com/jobs/view/4460200734": "2026-10-27",
   "https://linkedin.com/jobs/view/4460202658": "2026-10-27",
   "https://linkedin.com/jobs/view/4460204642": "2026-10-27",
+  "https://linkedin.com/jobs/view/4460233941": "2026-10-27",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
   "https://linkedin.com/jobs/view/4460254050": "2026-10-27",
@@ -650,6 +651,7 @@
   "https://linkedin.com/jobs/view/4463925611": "2026-10-24",
   "https://linkedin.com/jobs/view/4464593731": "2026-10-24",
   "https://linkedin.com/jobs/view/4464766855": "2026-10-27",
+  "https://linkedin.com/jobs/view/4465248410": "2026-10-27",
   "https://linkedin.com/jobs/view/4465309408": "2026-10-24",
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
   "https://linkedin.com/jobs/view/4465323302": "2026-10-23",
@@ -1383,6 +1385,7 @@
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-27",
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-27",
   "t:iatin|cybersecurityinternship": "2026-10-27",
+  "t:ibm|ainativesecurityresearchintern2027": "2026-10-27",
   "t:ibott|informationsecurityintern": "2026-10-27",
   "t:idaho|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
   "t:idaho|nuccybersecurityinternfall2026": "2026-10-15",
@@ -4369,9 +4372,10 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460254050",
-   "https://www.linkedin.com/jobs/view/4464766855",
+   "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
    "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474084044",
@@ -7675,14 +7679,12 @@
   [
    1793116357.5455608,
    "Sierra Nevada Corporation - Cybersecurity Analyst Intern"
+  ],
+  [
+   1793116635.5779269,
+   "IBM - AI-Native Security Research Intern 2027"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793115901.6260784,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- }
+ "streaks": {}
 }
