@@ -419,6 +419,7 @@
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-26",
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-10-27",
   "https://highlinewarren.hrmdirect.com/employment/view.php": "2026-10-16",
+  "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/camp-hill-pa-17011-center-street-building-1b/summer-2027-cyber-risk-management-analyst-undergraduate-intern_j286841": "2026-10-27",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-26",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-27",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-12",
@@ -1326,6 +1327,7 @@
   "t:hemlo|itinfrastructuresecuritysummerintern": "2026-10-23",
   "t:hewle|cybersecurityengineeringintern": "2026-10-27",
   "t:highl|cybersecurityintern": "2026-10-27",
+  "t:highm|summer2027cyberriskmanagementanalystundergraduateintern": "2026-10-27",
   "t:hireb|networksecurityanalystintern": "2026-10-08",
   "t:homed|2027summerinternshipcybersecurity": "2026-10-26",
   "t:homeo|urbninformationsecurityintern": "2026-10-27",
@@ -6115,7 +6117,9 @@
   "wd+:hendrick/HMSCareers": [],
   "wd+:henryschein/External_Careers": [],
   "wd+:hhmi/external": [],
-  "wd+:highmarkhealth/highmark": [],
+  "wd+:highmarkhealth/highmark": [
+   "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841"
+  ],
   "wd+:hindscc/HCCExternalCareersSite": [],
   "wd+:hiscox/Hiscox_External_Site": [],
   "wd+:hitachi/hitachi": [],
@@ -7537,6 +7541,10 @@
   [
    1793054517.7313337,
    "Washington Metropolitan Area Transit Authority (WMATA) - Metro College Intern - (DMCS) Dig"
+  ],
+  [
+   1793063787.5261228,
+   "Highmark Health - Summer 2027 Cyber Risk Management Analyst Undergraduate Intern"
   ]
  ],
  "stem5": true,
