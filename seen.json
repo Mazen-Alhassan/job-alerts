@@ -1010,7 +1010,7 @@
   "https://rr.jobsyn.org/f979eca1ebcf46c5a9857784504202271554": "2026-10-24",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--cybersecurity--governance---risk_req_243186-1": "2026-10-20",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--security-operations---security-engineering_req_243190": "2026-10-20",
-  "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op_req_244351-1": "2026-10-21",
+  "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op_req_244351-1": "2026-10-27",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman-campus/rit-co-op--identity-access---management_req_243191": "2026-10-22",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/chicago/cyber-managed-security-intern---summer-2027_jr122028": "2026-10-20",
   "https://rsm.wd1.myworkdayjobs.com/rsmcareers/job/des-moines/cyber-testing-intern---summer-2027_jr117183": "2026-10-09",
@@ -1628,7 +1628,7 @@
   "t:robin|securityriskmanagementinternsummer2027": "2026-10-08",
   "t:roche|ritcoopcybersecuritygovernancerisk": "2026-10-20",
   "t:roche|ritcoopidentityaccessmanagement": "2026-10-22",
-  "t:roche|ritcoopsecurityengineering": "2026-10-21",
+  "t:roche|ritcoopsecurityengineering": "2026-10-27",
   "t:roche|ritcoopsecurityoperationssecurityengineering": "2026-10-20",
   "t:rocke|securityanalystinternspring2027": "2026-10-27",
   "t:rocke|securityanalystinternsummer2027": "2026-10-27",
@@ -3998,7 +3998,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
-   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
@@ -4451,7 +4450,6 @@
    "https://www.linkedin.com/jobs/view/4474617801",
    "https://www.linkedin.com/jobs/view/4474622439",
    "https://www.linkedin.com/jobs/view/4475983653",
-   "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
@@ -4459,7 +4457,6 @@
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483645347",
    "https://www.linkedin.com/jobs/view/4483674744",
-   "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984",
    "https://www.linkedin.com/jobs/view/4483793063",
    "https://www.linkedin.com/jobs/view/4483793873",
@@ -6911,7 +6908,9 @@
   "wd+:rollsroyce/Intern_Graduate": [],
   "wd+:rollsroyce/professional": [],
   "wd+:roswellpark/ExternalCareers": [],
-  "wd+:rrhs/RRH": [],
+  "wd+:rrhs/RRH": [
+   "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1"
+  ],
   "wd+:rrts/careers": [],
   "wd+:rsm/RSMCareers": [],
   "wd+:rxo/rxojobs": [],
@@ -7758,11 +7757,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793142805.0921464,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- }
+ "streaks": {}
 }
