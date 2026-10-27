@@ -406,6 +406,7 @@
   "https://go.vansh.nyc/uf": "2026-10-27",
   "https://go.vansh.nyc/uh": "2026-10-27",
   "https://go.vansh.nyc/vd": "2026-10-27",
+  "https://go.vansh.nyc/vg": "2026-10-27",
   "https://go.vansh.nyc/vu": "2026-10-27",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1570,6 +1571,7 @@
   "t:rockw|interncybersecurity": "2026-10-27",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-10-27",
   "t:rtxco|systemssecurityengineeringinternsummer2027": "2026-10-13",
+  "t:rtx|securesoftwareintern": "2026-10-27",
   "t:rtx|securesoftwareinternsummer2027": "2026-10-27",
   "t:rtx|summer2027cyberinternonsite": "2026-10-27",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
@@ -3925,7 +3927,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
-   "https://careers.leidos.com/jobs/18404797-cybersecurity-analyst-intern?tm_job=R-00194708&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
    "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011/requisitions/preview/327",
@@ -3980,9 +3981,7 @@
   "jobvite:windriver": [],
   "jobvite:xylem": [],
   "jobvite:zynga": [],
-  "kinaxis": [
-   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job"
-  ],
+  "kinaxis": [],
   "lever:3pillarglobal": [],
   "lever:acceldata": [],
   "lever:acds": [],
@@ -4358,11 +4357,10 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4464766855",
    "https://www.linkedin.com/jobs/view/4467715984",
-   "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474084044",
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
@@ -4925,6 +4923,7 @@
    "https://go.vansh.nyc/UB",
    "https://go.vansh.nyc/UF",
    "https://go.vansh.nyc/UH",
+   "https://go.vansh.nyc/VG",
    "https://go.vansh.nyc/Vd",
    "https://go.vansh.nyc/Vu",
    "https://go.vansh.nyc/cL",
@@ -7513,10 +7512,6 @@
  "heartbeat": "2026-10-27 10",
  "recent": [
   [
-   1793018015.8079827,
-   "Wells Fargo - 2027 Technology Summer Internship - Early Careers (Cybersecurity)"
-  ],
-  [
    1793021043.484438,
    "DeepNotch - AI & Cybersecurity Engineering Intern"
   ],
@@ -7647,14 +7642,12 @@
   [
    1793111069.6005983,
    "UPS - UPS Information Security Summer 2027 Internship - GA"
+  ],
+  [
+   1793111966.3940654,
+   "RTX - Secure Software Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793110979.4663632,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- }
+ "streaks": {}
 }
