@@ -520,6 +520,7 @@
   "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33": "2026-10-27",
   "https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754": "2026-10-27",
   "https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd": "2026-10-13",
+  "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370": "2026-10-27",
   "https://jobs.lever.co/geocomply-2/0c7660a9-a200-4dd0-9452-f0b87c536fcd": "2026-10-27",
   "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": "2026-10-27",
   "https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968": "2026-10-27",
@@ -1343,6 +1344,7 @@
   "t:fifth|informationsecuritycoopcodesecurityspring2027": "2026-10-08",
   "t:fifth|informationsecuritycoopidentityaccessmanagementspring2027": "2026-10-08",
   "t:figur|securityengineerinternwinter2027": "2026-10-12",
+  "t:filev|securityspecialistintern": "2026-10-27",
   "t:fireh|itcybersecurityinternshipsummer2027": "2026-10-10",
   "t:fortu|productmanagementinternb2bsecurity": "2026-10-27",
   "t:found|spring2027cyberandtechnologyinnovationinternship": "2026-10-26",
@@ -3982,6 +3984,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
    "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011/requisitions/preview/327",
@@ -4151,7 +4154,9 @@
   "lever:fampay": [],
   "lever:farfetch": [],
   "lever:field-ai": [],
-  "lever:filevine": [],
+  "lever:filevine": [
+   "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370"
+  ],
   "lever:finquery": [],
   "lever:firemon": [],
   "lever:fiscalnote": [],
@@ -7580,18 +7585,6 @@
  "heartbeat": "2026-10-27 16",
  "recent": [
   [
-   1793034818.186822,
-   "Netsmart - Security Analyst Intern"
-  ],
-  [
-   1793036637.4832718,
-   "Spirit Defense, A Boeing Company - Spirit Defense - Summer 2027 Internship Program (Paid) "
-  ],
-  [
-   1793037645.6261663,
-   "Amazon - Tech Ops Engineer Intern, 2027 Summer Intern"
-  ],
-  [
    1793039267.5788023,
    "Amazon - Tech Ops Engineer Intern, 2027 Tech Ops Intern"
   ],
@@ -7754,6 +7747,10 @@
   [
    1793128227.6487393,
    "Centene - Cloud Security Analyst Intern (Undergraduate Summer 2027)"
+  ],
+  [
+   1793132522.4123514,
+   "Filevine - Security Specialist, Intern"
   ]
  ],
  "stem5": true,
