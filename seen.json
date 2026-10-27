@@ -62,6 +62,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393557044765": "2026-10-27",
   "https:/.careers.microsoft.com/careers/job/1970393557044769": "2026-10-27",
   "https:/.careers.microsoft.com/careers/job/1970393557044771": "2026-10-27",
+  "https:/.netflixhouse.com/careers/job/790318904468": "2026-10-27",
   "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-26",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-26",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-27",
@@ -3887,7 +3888,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
+   "https://careers.boozallen.com/careers/JobDetail?jobId=132298",
    "https://careers.leidos.com/jobs/18404797-cybersecurity-analyst-intern?tm_job=R-00194708&tm_event=view&tm_company=2502",
    "https://click.appcast.io/t/ArDezvzYMGOZ1EeVrtV5EX2Z3zTytgW259zbGmjq4k0=",
    "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011/requisitions/preview/327",
@@ -4324,6 +4325,7 @@
    "https://www.linkedin.com/jobs/view/4474085048",
    "https://www.linkedin.com/jobs/view/4474496328",
    "https://www.linkedin.com/jobs/view/4475983653",
+   "https://www.linkedin.com/jobs/view/4481450183",
    "https://www.linkedin.com/jobs/view/4481482050",
    "https://www.linkedin.com/jobs/view/4481812444",
    "https://www.linkedin.com/jobs/view/4483160876",
@@ -7565,5 +7567,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793072253.9785557,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
