@@ -910,6 +910,8 @@
   "https://linkedin.com/jobs/view/4483793873": "2026-10-27",
   "https://linkedin.com/jobs/view/4484006252": "2026-10-27",
   "https://linkedin.com/jobs/view/4484098764": "2026-10-27",
+  "https://linkedin.com/jobs/view/4484205843": "2026-10-27",
+  "https://linkedin.com/jobs/view/4484210930": "2026-10-27",
   "https://linkedin.com/jobs/view/4484213000": "2026-10-27",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -4405,7 +4407,6 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -4420,7 +4421,6 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
-   "https://www.linkedin.com/jobs/view/4482210010",
    "https://www.linkedin.com/jobs/view/4483160876",
    "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483596688",
@@ -4434,6 +4434,8 @@
    "https://www.linkedin.com/jobs/view/4483793873",
    "https://www.linkedin.com/jobs/view/4484006252",
    "https://www.linkedin.com/jobs/view/4484098764",
+   "https://www.linkedin.com/jobs/view/4484205843",
+   "https://www.linkedin.com/jobs/view/4484210930",
    "https://www.linkedin.com/jobs/view/4484213000"
   ],
   "linkedin": [
@@ -4727,9 +4729,7 @@
   "phenom:careers.fisglobal.com": [],
   "phenom:careers.freddiemac.com": [],
   "phenom:careers.geaerospace.com": [],
-  "phenom:careers.hpe.com": [
-   "https://careers.hpe.com/us/en/job/1216080"
-  ],
+  "phenom:careers.hpe.com": [],
   "phenom:careers.icf.com": [],
   "phenom:careers.itw.com": [],
   "phenom:careers.mastercard.com": [],
