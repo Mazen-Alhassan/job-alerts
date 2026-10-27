@@ -274,7 +274,7 @@
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/applications-security-engineer-intern--undergraduate-summer-2027-_1667746": "2026-10-27",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-analyst-intern--undergraduate-summer-2027-_1667744": "2026-10-27",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
-  "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-26",
+  "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-27",
   "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl": "2026-10-14",
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": "2026-10-27",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-27",
@@ -1248,7 +1248,7 @@
   "t:cente|cloudsecurityanalystinternundergraduatesummer2027": "2026-10-27",
   "t:cente|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
   "t:cente|cybersecurityintern": "2026-10-26",
-  "t:cente|cybersecuritysummer2027internundergraduate": "2026-10-26",
+  "t:cente|cybersecuritysummer2027internundergraduate": "2026-10-27",
   "t:centr|securityintern": "2026-10-27",
   "t:certi|blockchainsecurityexpertinternaitrack": "2026-10-27",
   "t:certi|securityresearchinternship": "2026-10-27",
@@ -3988,6 +3988,7 @@
    "https://ibpbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2011/requisitions/preview/327",
    "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern/",
    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1",
+   "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
    "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
    "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W",
@@ -4417,9 +4418,9 @@
    "https://www.linkedin.com/jobs/view/4465248410"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
@@ -4433,6 +4434,7 @@
    "https://www.linkedin.com/jobs/view/4481857113",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
+   "https://www.linkedin.com/jobs/view/4482210010",
    "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483645347",
@@ -5779,7 +5781,8 @@
   "wd+:cenovus/careers": [],
   "wd+:centene/Centene_External": [
    "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746",
-   "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Security-Analyst-Intern--Undergraduate-Summer-2027-_1667744"
+   "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Security-Analyst-Intern--Undergraduate-Summer-2027-_1667744",
+   "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
   ],
   "wd+:centerstone/centerstonecareers": [],
   "wd+:centific/Centific_Global": [],
