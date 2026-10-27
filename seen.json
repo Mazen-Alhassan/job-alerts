@@ -905,6 +905,7 @@
   "https://linkedin.com/jobs/view/4483760984": "2026-10-27",
   "https://linkedin.com/jobs/view/4483793873": "2026-10-27",
   "https://linkedin.com/jobs/view/4484006252": "2026-10-27",
+  "https://linkedin.com/jobs/view/4484213000": "2026-10-27",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1578,6 +1579,7 @@
   "t:qualc|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-22",
   "t:radia|microelectronicsengineerinternwithsecurityclearance": "2026-10-26",
   "t:rayth|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
+  "t:rayth|securesoftwareinternsummer2027": "2026-10-27",
   "t:rayth|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redha|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
@@ -3591,9 +3593,7 @@
   "icims:careers-barrios.icims.com": [],
   "icims:careers-benjaminmoore.icims.com": [],
   "icims:careers-berkley.icims.com": [],
-  "icims:careers-berrydunn.icims.com": [
-   "https://careers-berrydunn.icims.com/jobs/4020/summer-2027-consulting-internship---cybersecurity/job"
-  ],
+  "icims:careers-berrydunn.icims.com": [],
   "icims:careers-beyondsoft.icims.com": [],
   "icims:careers-bgca.icims.com": [],
   "icims:careers-biorad.icims.com": [],
@@ -3963,6 +3963,8 @@
    "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern/",
    "https://osv-enterprise.wd1.myworkdayjobs.com/en-US/EnterpriseBankTrust_Jobs/job/St-Louis-MO/IT-Information-Security-Intern---Summer-2027_REQ-5532",
    "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Milwaukee-South-2nd-Street/Intern--Cybersecurity_R26-8514-1",
+   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
+   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W",
    "https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--",
    "https://www.indeed.com/viewjob?jk=1b1d5adbabfe0af6"
   ],
@@ -4408,7 +4410,6 @@
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4483160876",
-   "https://www.linkedin.com/jobs/view/4483225168",
    "https://www.linkedin.com/jobs/view/4483254499",
    "https://www.linkedin.com/jobs/view/4483596688",
    "https://www.linkedin.com/jobs/view/4483598666",
@@ -4419,7 +4420,8 @@
    "https://www.linkedin.com/jobs/view/4483747728",
    "https://www.linkedin.com/jobs/view/4483760984",
    "https://www.linkedin.com/jobs/view/4483793873",
-   "https://www.linkedin.com/jobs/view/4484006252"
+   "https://www.linkedin.com/jobs/view/4484006252",
+   "https://www.linkedin.com/jobs/view/4484213000"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7350,9 +7352,7 @@
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Secure-Software-Intern--Summer-2027-_01884942"
   ],
   "wd:hp/ExternalCareerSite": [],
-  "wd:hpe/Jobsathpe": [
-   "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080"
-  ],
+  "wd:hpe/Jobsathpe": [],
   "wd:intel/External": [
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
@@ -7721,6 +7721,10 @@
   [
    1793119407.1234868,
    "Galaxy - Cybersecurity Intern"
+  ],
+  [
+   1793120787.320637,
+   "Raytheon - Secure Software Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
