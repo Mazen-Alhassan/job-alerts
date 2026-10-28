@@ -637,6 +637,7 @@
   "https://linkedin.com/jobs/view/4458986159": "2026-10-12",
   "https://linkedin.com/jobs/view/4458987322": "2026-10-11",
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
+  "https://linkedin.com/jobs/view/4459075188": "2026-10-28",
   "https://linkedin.com/jobs/view/4459075219": "2026-10-28",
   "https://linkedin.com/jobs/view/4459271371": "2026-10-15",
   "https://linkedin.com/jobs/view/4459280255": "2026-10-14",
@@ -1463,6 +1464,7 @@
   "t:homeo|urbninformationsecurityintern": "2026-10-28",
   "t:honey|cybersecurityinternsummer2027": "2026-10-14",
   "t:honey|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-20",
+  "t:honey|informationsystemsitcyberengineerdatasciencesummer2027internuspersonrequired": "2026-10-28",
   "t:horiz|cyberprofessionalservicesinternship": "2026-10-11",
   "t:howde|underwritinginterncyber": "2026-10-28",
   "t:howme|cybersecurityintern": "2026-10-16",
@@ -4039,6 +4041,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://careers.rivian.com/jobs/31067/job",
@@ -4472,6 +4475,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448312441",
    "https://www.linkedin.com/jobs/view/4448658904",
+   "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
@@ -4482,7 +4486,6 @@
    "https://www.linkedin.com/jobs/view/4476315409",
    "https://www.linkedin.com/jobs/view/4476320269",
    "https://www.linkedin.com/jobs/view/4476389083",
-   "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4482239974",
    "https://www.linkedin.com/jobs/view/4482244882",
@@ -7631,26 +7634,6 @@
  "heartbeat": "2026-10-28 12",
  "recent": [
   [
-   1793108355.398411,
-   "UHS Physician Careers - Information Security Analyst Intern*"
-  ],
-  [
-   1793109981.3973732,
-   "Boston Properties - Cyber Security Co-Op"
-  ],
-  [
-   1793110686.141302,
-   "RTX - Secure Software Intern (Summer 2027)"
-  ],
-  [
-   1793111069.6005983,
-   "UPS - UPS Information Security Summer 2027 Internship - GA"
-  ],
-  [
-   1793111966.3940654,
-   "RTX - Secure Software Intern"
-  ],
-  [
    1793115988.7818449,
    "Leidos - Cybersecurity Intern"
   ],
@@ -7785,6 +7768,10 @@
   [
    1793201399.4773252,
    "Regeneron Pharmaceuticals - 2027 Summer Intern IT, Digital Enablement & Information Securi"
+  ],
+  [
+   1793206119.8192708,
+   "Honeywell Technologies - Information Systems, IT, Cyber Engineer & Data Science - Summer 2"
   ]
  ],
  "stem5": true,
