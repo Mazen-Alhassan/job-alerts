@@ -4047,8 +4047,7 @@
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
    "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
-   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W",
-   "https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--"
+   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -6070,9 +6069,7 @@
   "wd+:ensigninfosecurity/Ensign_Careers": [
    "https://ensigninfosecurity.wd3.myworkdayjobs.com/en-US/Ensign_Careers/job/Intern--Vulnerability-Research_JOBREQ-0002885"
   ],
-  "wd+:entegris/entegriscareers": [
-   "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Chaska-MN/Cybersecurity-Engineer-Co-Op_REQ-14472-1"
-  ],
+  "wd+:entegris/entegriscareers": [],
   "wd+:entrust/entrustcareers": [],
   "wd+:envista/envistacareers": [],
   "wd+:eosenergystorage/eos": [],
@@ -7811,5 +7808,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793200290.369782,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
