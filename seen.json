@@ -801,6 +801,7 @@
   "https://linkedin.com/jobs/view/4476320269": "2026-10-28",
   "https://linkedin.com/jobs/view/4476325014": "2026-10-28",
   "https://linkedin.com/jobs/view/4476389083": "2026-10-28",
+  "https://linkedin.com/jobs/view/4476509041": "2026-10-28",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-28",
   "https://linkedin.com/jobs/view/4476669520": "2026-10-15",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
@@ -1359,6 +1360,7 @@
   "t:dicks|cybersecuritysummer2027corporateinternship": "2026-10-28",
   "t:disne|cybersecurityinternspring2027": "2026-10-14",
   "t:disne|disneylandcybersecurityinternspring2027": "2026-10-13",
+  "t:dmadu|cybersecurityinternsummer2027": "2026-10-28",
   "t:docus|securityintern": "2026-10-28",
   "t:dorma|cybersecurityintern": "2026-10-16",
   "t:dpwor|informationsecurityintern": "2026-10-28",
@@ -4496,21 +4498,19 @@
    "https://www.linkedin.com/jobs/view/4475126073",
    "https://www.linkedin.com/jobs/view/4476315409",
    "https://www.linkedin.com/jobs/view/4476320269",
+   "https://www.linkedin.com/jobs/view/4476509041",
    "https://www.linkedin.com/jobs/view/4476520484",
    "https://www.linkedin.com/jobs/view/4482239974",
    "https://www.linkedin.com/jobs/view/4482244882",
    "https://www.linkedin.com/jobs/view/4482252407",
    "https://www.linkedin.com/jobs/view/4482255367",
    "https://www.linkedin.com/jobs/view/4482273657",
-   "https://www.linkedin.com/jobs/view/4483674744",
    "https://www.linkedin.com/jobs/view/4483691418",
    "https://www.linkedin.com/jobs/view/4483809502",
    "https://www.linkedin.com/jobs/view/4483832830",
    "https://www.linkedin.com/jobs/view/4483852427",
    "https://www.linkedin.com/jobs/view/4483881194",
    "https://www.linkedin.com/jobs/view/4483890920",
-   "https://www.linkedin.com/jobs/view/4484205843",
-   "https://www.linkedin.com/jobs/view/4484210930",
    "https://www.linkedin.com/jobs/view/4484451005",
    "https://www.linkedin.com/jobs/view/4484717410",
    "https://www.linkedin.com/jobs/view/4484718247"
@@ -5633,7 +5633,10 @@
   "wd+:bacardi/Jobs_Bacardi": [],
   "wd+:badgermeter/US_CareerSite": [],
   "wd+:bah/BAH_Jobs": [
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
@@ -7745,6 +7748,10 @@
   [
    1793213101.2866116,
    "The Nuclear Company - Security Engineer Intern"
+  ],
+  [
+   1793214192.1412768,
+   "DMA - DuCharme, McMillen & Associates, Inc. - Cybersecurity Intern - Summer 2027"
   ]
  ],
  "stem5": true,
