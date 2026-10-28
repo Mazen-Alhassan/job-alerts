@@ -64,7 +64,7 @@
   "https:/.careers.microsoft.com/careers/job/1970393557044771": "2026-10-28",
   "https:/.netflixhouse.com/careers/job/790318904468": "2026-10-27",
   "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-26",
-  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-27",
+  "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-28",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-28",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-28",
@@ -1667,7 +1667,7 @@
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-10-27",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-10-28",
   "t:semin|cybersecurityanalystintern": "2026-10-10",
   "t:senti|cybersecurityintern": "2026-10-28",
   "t:senti|socintern": "2026-10-28",
@@ -4017,15 +4017,11 @@
    "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
-   "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern/",
    "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370?lever-source=Indeed",
    "https://jobs.mercedes-benz.com/cyber-security-intern-244183-MER00049Y0",
-   "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
    "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
-   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W",
-   "https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--",
-   "https://www.indeed.com/viewjob?jk=1b1d5adbabfe0af6"
+   "https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4453,9 +4449,7 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
@@ -5010,7 +5004,6 @@
    "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/D7",
    "https://go.vansh.nyc/D9",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
@@ -7619,7 +7612,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 22",
+ "heartbeat": "2026-10-28 00",
  "recent": [
   [
    1793063787.5261228,
