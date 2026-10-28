@@ -233,6 +233,7 @@
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-10",
+  "https://careers.hpe.com/us/en/job/1214044": "2026-10-28",
   "https://careers.hpe.com/us/en/job/1216080": "2026-10-27",
   "https://careers.hpe.com/us/en/job/hpe1us1216080externalenus/cybersecurity-engineering-intern": "2026-10-25",
   "https://careers.hscpoly.com/job/hemlock-it-infrastructure-&-security-summer-intern-mi-48626/1442692500": "2026-10-23",
@@ -1436,6 +1437,7 @@
   "t:howde|underwritinginterncyber": "2026-10-28",
   "t:howme|cybersecurityintern": "2026-10-16",
   "t:hpeju|cybersecurityengineeringintern": "2026-10-27",
+  "t:hpeju|salescybersecurityintern": "2026-10-28",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-28",
   "t:hp|softwareproductsecurityengineerintern": "2026-10-27",
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-28",
@@ -4010,6 +4012,7 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
+   "https://careers.leidos.com/jobs/18410084-cybersecurity-analyst-intern?tm_job=R-00195529&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410201-cybersecurity-intern?tm_job=R-00195531&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
@@ -4450,9 +4453,9 @@
    "https://www.linkedin.com/jobs/view/4465248410"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
@@ -4770,7 +4773,9 @@
   "phenom:careers.fisglobal.com": [],
   "phenom:careers.freddiemac.com": [],
   "phenom:careers.geaerospace.com": [],
-  "phenom:careers.hpe.com": [],
+  "phenom:careers.hpe.com": [
+   "https://careers.hpe.com/us/en/job/1214044"
+  ],
   "phenom:careers.icf.com": [],
   "phenom:careers.itw.com": [],
   "phenom:careers.mastercard.com": [],
@@ -7615,7 +7620,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-27 20",
+ "heartbeat": "2026-10-27 22",
  "recent": [
   [
    1793063787.5261228,
@@ -7772,6 +7777,10 @@
   [
    1793149060.9933803,
    "Hewlett Packard Enterprise - Sales Cyber Security Intern"
+  ],
+  [
+   1793153547.0617254,
+   "HPE / Juniper - Sales Cyber Security Intern"
   ]
  ],
  "stem5": true,
