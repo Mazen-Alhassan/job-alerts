@@ -4499,7 +4499,6 @@
    "https://www.linkedin.com/jobs/view/4483890920",
    "https://www.linkedin.com/jobs/view/4484205843",
    "https://www.linkedin.com/jobs/view/4484210930",
-   "https://www.linkedin.com/jobs/view/4484213000",
    "https://www.linkedin.com/jobs/view/4484451005"
   ],
   "linkedin": [
@@ -5624,7 +5623,6 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
@@ -7429,9 +7427,7 @@
   ],
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
-  "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Industrial-Security_R10257954"
-  ],
+  "wd:ngc/northrop_grumman_external_site": [],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -7625,7 +7621,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-28 12",
+ "heartbeat": "2026-10-28 14",
  "recent": [
   [
    1793115988.7818449,
