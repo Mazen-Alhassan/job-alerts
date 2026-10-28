@@ -453,6 +453,7 @@
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-10-28",
   "https://grnh.se/0r8cz2gq1us": "2026-10-17",
   "https://grnh.se/3rzsdnsm9us": "2026-10-23",
+  "https://grnh.se/bng9sqd88us": "2026-10-28",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-28",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-28",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-28",
@@ -4070,6 +4071,7 @@
    "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-CI-Cybersecurity%2C-Energy-Systems-%28Group-47%29-MA-02420/1444705900/",
    "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Electric-Grid-Communications-Security%2C-Energy-Systems-%28Gr-47%29-MA-02420/1444706900/",
    "https://careers.rivian.com/jobs/31067/job",
+   "https://grnh.se/bng9sqd88us",
    "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370?lever-source=Indeed",
    "https://jobs.mercedes-benz.com/cyber-security-intern-244183-MER00049Y0"
   ],
@@ -5671,6 +5673,7 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
+   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
@@ -7779,5 +7782,11 @@
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793221502.4059293,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
