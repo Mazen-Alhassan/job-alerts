@@ -4041,7 +4041,6 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
-   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://careers.rivian.com/jobs/31067/job",
@@ -4480,7 +4479,6 @@
    "https://www.linkedin.com/jobs/view/4448312441",
    "https://www.linkedin.com/jobs/view/4448658904",
    "https://www.linkedin.com/jobs/view/4459075219",
-   "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
@@ -7637,7 +7635,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-28 10",
+ "heartbeat": "2026-10-28 12",
  "recent": [
   [
    1793108355.398411,
@@ -7797,11 +7795,5 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793201959.003715,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- }
+ "streaks": {}
 }
