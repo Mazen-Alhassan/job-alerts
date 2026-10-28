@@ -14,6 +14,7 @@
   "gh:5421861008": "2026-10-16",
   "gh:5445236008": "2026-10-28",
   "gh:5448019008": "2026-10-28",
+  "gh:5466153008": "2026-10-28",
   "gh:6116398004": "2026-10-28",
   "gh:6148707004": "2026-10-28",
   "gh:6163325004": "2026-10-28",
@@ -437,6 +438,7 @@
   "https://go.vansh.nyc/wv": "2026-10-28",
   "https://go.vansh.nyc/xg": "2026-10-28",
   "https://go.vansh.nyc/xh": "2026-10-28",
+  "https://go.vansh.nyc/xi": "2026-10-28",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1621,6 +1623,7 @@
   "t:north|cybersecurityinternship": "2026-10-28",
   "t:north|cybersoftwareengineerintern": "2026-10-25",
   "t:north|cybersystemsengineerintern": "2026-10-24",
+  "t:nucle|spring2027securityengineerintern": "2026-10-28",
   "t:nvidi|phdresearchinternsecurityandprivacy2027": "2026-10-28",
   "t:nxpse|embeddedswdeveloperinternsecurity": "2026-10-28",
   "t:nxpse|workingstudentfmdnpuphysicalsecuritytesting": "2026-10-08",
@@ -3515,7 +3518,9 @@
   "gh:thehealthmanagementacademy": [],
   "gh:themjcos": [],
   "gh:thenewyorktimes": [],
-  "gh:thenuclearcompany": [],
+  "gh:thenuclearcompany": [
+   "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008"
+  ],
   "gh:thetradedesk": [],
   "gh:think-cell": [],
   "gh:thinkacademyus": [],
@@ -5034,7 +5039,6 @@
    "https://go.vansh.nyc/SE",
    "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/SW",
-   "https://go.vansh.nyc/Sx",
    "https://go.vansh.nyc/UB",
    "https://go.vansh.nyc/UF",
    "https://go.vansh.nyc/UH",
@@ -5050,6 +5054,7 @@
    "https://go.vansh.nyc/W2",
    "https://go.vansh.nyc/W5",
    "https://go.vansh.nyc/W8",
+   "https://go.vansh.nyc/XI",
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/e1",
@@ -7624,22 +7629,6 @@
  "heartbeat": "2026-10-28 14",
  "recent": [
   [
-   1793115988.7818449,
-   "Leidos - Cybersecurity Intern"
-  ],
-  [
-   1793116357.5455594,
-   "Sierra Nevada Corporation - Security Specialist Intern (Summer 2027)"
-  ],
-  [
-   1793116357.5455608,
-   "Sierra Nevada Corporation - Cybersecurity Analyst Intern"
-  ],
-  [
-   1793116635.5779269,
-   "IBM - AI-Native Security Research Intern 2027"
-  ],
-  [
    1793117610.0466595,
    "ProPetro Services, Inc - Cybersecurity Intern"
   ],
@@ -7762,6 +7751,10 @@
   [
    1793206119.8192708,
    "Honeywell Technologies - Information Systems, IT, Cyber Engineer & Data Science - Summer 2"
+  ],
+  [
+   1793210939.56822,
+   "The Nuclear Company - Spring 2027 Security Engineer Intern"
   ]
  ],
  "stem5": true,
