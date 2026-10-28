@@ -4507,6 +4507,8 @@
    "https://www.linkedin.com/jobs/view/4459075219",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
@@ -4519,8 +4521,6 @@
    "https://www.linkedin.com/jobs/view/4476509041",
    "https://www.linkedin.com/jobs/view/4476520484",
    "https://www.linkedin.com/jobs/view/4482239974",
-   "https://www.linkedin.com/jobs/view/4482244882",
-   "https://www.linkedin.com/jobs/view/4482252407",
    "https://www.linkedin.com/jobs/view/4482255367",
    "https://www.linkedin.com/jobs/view/4482273657",
    "https://www.linkedin.com/jobs/view/4483809502",
@@ -6214,7 +6214,9 @@
   "wd+:gartner/EXT": [],
   "wd+:gcu/GCU": [],
   "wd+:gdit/external_career_site": [],
-  "wd+:gdit/gdit_earlytalent": [],
+  "wd+:gdit/gdit_earlytalent": [
+   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"
+  ],
   "wd+:geaerospace/ge_externalsite": [],
   "wd+:geha/GEHACareers": [],
   "wd+:gehc/GEHC_ExternalSite": [],
