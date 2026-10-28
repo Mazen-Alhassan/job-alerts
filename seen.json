@@ -440,6 +440,7 @@
   "https://go.vansh.nyc/xh": "2026-10-28",
   "https://go.vansh.nyc/xi": "2026-10-28",
   "https://go.vansh.nyc/xl": "2026-10-28",
+  "https://go.vansh.nyc/xu": "2026-10-28",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -599,7 +600,7 @@
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00195574": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": "2026-10-28",
-  "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-09",
+  "https://leidos.wd5.myworkdayjobs.com/external/job/bethesda-md/cybersecurity-engineer-co-op_r-00190764": "2026-10-28",
   "https://leidos.wd5.myworkdayjobs.com/external/job/pearl-harbor-hi/cybersecurity-analyst-intern_r-00195607": "2026-10-28",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195523": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/whitehall-oh/cybersecurity-analyst-intern_r-00195529": "2026-10-27",
@@ -1532,6 +1533,7 @@
   "t:kyndr|earlycareerconsultprogramcybersecuritydefenseassociate": "2026-10-28",
   "t:kyndr|earlycareerconsultprogramcybersecurityengineer": "2026-10-28",
   "t:kyndr|earlycareerconsultprogramcybersecurityinfrastructureassociate": "2026-10-28",
+  "t:l3har|informationsecuritysystemsengineerintern": "2026-10-28",
   "t:l3har|interninformationsecuritysystemsengineersaltlakecityut": "2026-10-28",
   "t:l3har|internmissionnetworksenterprisesocanalyst": "2026-10-09",
   "t:label|cybersecurityintern": "2026-10-15",
@@ -1548,7 +1550,7 @@
   "t:lawre|powersystemsundergraduateinterncyberandcriticalinfrastructuresummerinstitutesummer2027": "2026-10-28",
   "t:legen|securityintern": "2026-10-23",
   "t:leido|cybersecurityanalystintern": "2026-10-28",
-  "t:leido|cybersecurityengineercoop": "2026-10-09",
+  "t:leido|cybersecurityengineercoop": "2026-10-28",
   "t:leido|cybersecurityintern": "2026-10-28",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-10-28",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-10-28",
@@ -4055,7 +4057,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
-   "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://careers.rivian.com/jobs/31067/job",
@@ -5065,6 +5066,7 @@
    "https://go.vansh.nyc/W8",
    "https://go.vansh.nyc/XI",
    "https://go.vansh.nyc/XL",
+   "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/e1",
@@ -7424,7 +7426,8 @@
    "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
   ],
   "wd:leidos/External": [
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531"
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531",
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
   ],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
@@ -7630,10 +7633,6 @@
  "heartbeat": "2026-10-28 14",
  "recent": [
   [
-   1793120787.320637,
-   "Raytheon - Secure Software Intern (Summer 2027)"
-  ],
-  [
    1793121268.7675931,
    "BXP, Inc. - Cyber Security Co-Op"
   ],
@@ -7752,6 +7751,10 @@
   [
    1793214192.1412768,
    "DMA - DuCharme, McMillen & Associates, Inc. - Cybersecurity Intern - Summer 2027"
+  ],
+  [
+   1793214549.1783214,
+   "L3Harris Technologies - Information Security Systems Engineer Intern"
   ]
  ],
  "stem5": true,
