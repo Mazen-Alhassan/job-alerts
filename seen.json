@@ -693,6 +693,7 @@
   "https://linkedin.com/jobs/view/4465327251": "2026-10-23",
   "https://linkedin.com/jobs/view/4465513920": "2026-10-28",
   "https://linkedin.com/jobs/view/4465527875": "2026-10-28",
+  "https://linkedin.com/jobs/view/4465593711": "2026-10-28",
   "https://linkedin.com/jobs/view/4465811689": "2026-10-24",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
@@ -1289,6 +1290,7 @@
   "t:carne|aisecurityresearchinternsummer2027": "2026-10-10",
   "t:carne|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-28",
+  "t:cedar|securityinternships": "2026-10-28",
   "t:cente|applicationssecurityengineerinternundergraduatesummer2027": "2026-10-28",
   "t:cente|cloudsecurityanalystinternundergraduatesummer2027": "2026-10-28",
   "t:cente|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
@@ -2720,9 +2722,7 @@
   "gh:atlassand": [],
   "gh:atomicmachines": [],
   "gh:atoms": [],
-  "gh:atricure": [
-   "https://job-boards.greenhouse.io/atricure/jobs/4468040009"
-  ],
+  "gh:atricure": [],
   "gh:attentionarc": [],
   "gh:attentive": [],
   "gh:attotude": [],
@@ -4038,8 +4038,9 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
+   "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410084-cybersecurity-analyst-intern?tm_job=R-00195529&tm_event=view&tm_company=2502",
-   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
+   "https://careers.leidos.com/jobs/18410201-cybersecurity-intern?tm_job=R-00195531&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://careers.rivian.com/jobs/31067/job",
@@ -4485,7 +4486,7 @@
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
-   "https://www.linkedin.com/jobs/view/4467715984",
+   "https://www.linkedin.com/jobs/view/4465593711",
    "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474617801",
@@ -7818,6 +7819,10 @@
   [
    1793193890.0958283,
    "CornerStone Technology Talent Services - Security Administrator( Intern)  \u2013 Identity & Acc"
+  ],
+  [
+   1793195788.4308434,
+   "Cedar Point Amusement Park - Security Internships"
   ]
  ],
  "stem5": true,
