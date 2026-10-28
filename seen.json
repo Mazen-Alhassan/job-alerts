@@ -788,6 +788,7 @@
   "https://linkedin.com/jobs/view/4476037721": "2026-10-13",
   "https://linkedin.com/jobs/view/4476065632": "2026-10-15",
   "https://linkedin.com/jobs/view/4476076233": "2026-10-15",
+  "https://linkedin.com/jobs/view/4476325014": "2026-10-28",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
   "https://linkedin.com/jobs/view/4476669520": "2026-10-15",
   "https://linkedin.com/jobs/view/4476747951": "2026-10-08",
@@ -1401,6 +1402,7 @@
   "t:geoco|browsersecurityengineerinternwinter2026": "2026-10-08",
   "t:geoco|browsersecurityengineerinternwinter2027": "2026-10-28",
   "t:georg|generalcybersecuritygraduateinterncipherspring2027": "2026-10-10",
+  "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-10-17",
   "t:geron|itsecurityanalystintern": "2026-10-15",
   "t:gilea|interncfoitsecurityriskandcompliance": "2026-10-08",
@@ -4467,6 +4469,7 @@
    "https://www.linkedin.com/jobs/view/4448312441",
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
@@ -4475,6 +4478,7 @@
    "https://www.linkedin.com/jobs/view/4474617801",
    "https://www.linkedin.com/jobs/view/4474622439",
    "https://www.linkedin.com/jobs/view/4475983653",
+   "https://www.linkedin.com/jobs/view/4476325014",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4482210010",
@@ -7629,7 +7633,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-28 04",
+ "heartbeat": "2026-10-28 06",
  "recent": [
   [
    1793095888.4409847,
@@ -7786,8 +7790,18 @@
   [
    1793178235.9035683,
    "Rivian - Early Career - Cybersecurity Application Security Engineer"
+  ],
+  [
+   1793182271.023257,
+   "Georgia Tech Research Institute - Hardware Security and Trust Co-op - Spring 2027 - CIPHER"
   ]
  ],
  "stem5": true,
- "streaks": {}
+ "streaks": {
+  "netflix": [
+   1,
+   1793182161.702616,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ }
 }
