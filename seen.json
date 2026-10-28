@@ -1032,6 +1032,7 @@
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
   "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-10",
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
+  "https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-summer-intern-it--digital-enablement---information-security_r52561-1": "2026-10-28",
   "https://richemont.wd3.myworkdayjobs.com/richemont/job/le-sentier/stagiaire-ingnieur-cyberscurit_jr133458-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514": "2026-10-28",
@@ -1663,6 +1664,7 @@
   "t:rayth|securesoftwareinternsummer2027": "2026-10-28",
   "t:rayth|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redha|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
+  "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-10-28",
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
   "t:riche|stagiaireingnieurcyberscurit": "2026-10-08",
   "t:rivia|cybersecuritysummer2027internships": "2026-10-10",
@@ -6892,7 +6894,9 @@
   "wd+:recar/SLATEcareers": [],
   "wd+:redhat/jobs": [],
   "wd+:regalrexnord/careers": [],
-  "wd+:regeneron/Careers": [],
+  "wd+:regeneron/Careers": [
+   "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-IT--Digital-Enablement---Information-Security_R52561-1"
+  ],
   "wd+:regions/regions_careers": [],
   "wd+:rehlko/Reh": [],
   "wd+:reliaquest/ReliaQuest_Careers": [],
@@ -7635,26 +7639,6 @@
  "heartbeat": "2026-10-28 10",
  "recent": [
   [
-   1793104279.829119,
-   "UPS - UPS Information Security Summer 2027 Internship - NJ"
-  ],
-  [
-   1793104279.829121,
-   "UPS - UPS Information Security Summer 2027 Internship - KY"
-  ],
-  [
-   1793105354.9651673,
-   "Visa - Network and Security Engineering Intern - 2027, Highlands Ranch, CO"
-  ],
-  [
-   1793105354.965169,
-   "Visa - Network and Security Engineering Intern - 2027, Ashburn, VA"
-  ],
-  [
-   1793106088.5295572,
-   "Peraton - Spring & Summer 2027 Cybersecurity Engineer Co-op"
-  ],
-  [
    1793108355.398411,
    "UHS Physician Careers - Information Security Analyst Intern*"
   ],
@@ -7805,14 +7789,12 @@
   [
    1793195788.4308434,
    "Cedar Point Amusement Park - Security Internships"
+  ],
+  [
+   1793201399.4773252,
+   "Regeneron Pharmaceuticals - 2027 Summer Intern IT, Digital Enablement & Information Securi"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793200290.369782,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- }
+ "streaks": {}
 }
