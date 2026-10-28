@@ -980,6 +980,7 @@
   "https://linkedin.com/jobs/view/4484718247": "2026-10-28",
   "https://linkedin.com/jobs/view/4484733965": "2026-10-28",
   "https://linkedin.com/jobs/view/4484745247": "2026-10-28",
+  "https://linkedin.com/jobs/view/4484752301": "2026-10-28",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1684,6 +1685,7 @@
   "t:ptc|globalsecuritycoop": "2026-10-26",
   "t:qtsda|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-15",
   "t:qts|summer2027internshipinformationsecurityoperationsanalyst": "2026-10-28",
+  "t:quadr|cybersecuritywinter2027torontocoopinternship4months": "2026-10-28",
   "t:qualc|securityproductsystemscyberengineeringinternshipsummer2027": "2026-10-22",
   "t:radia|microelectronicsengineerinternwithsecurityclearance": "2026-10-26",
   "t:rayth|internshipraytheonsystemssecurityengineeronsite": "2026-10-08",
@@ -4504,6 +4506,9 @@
    "https://www.linkedin.com/jobs/view/4448658904",
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
@@ -4529,7 +4534,8 @@
    "https://www.linkedin.com/jobs/view/4484717410",
    "https://www.linkedin.com/jobs/view/4484718247",
    "https://www.linkedin.com/jobs/view/4484733965",
-   "https://www.linkedin.com/jobs/view/4484745247"
+   "https://www.linkedin.com/jobs/view/4484745247",
+   "https://www.linkedin.com/jobs/view/4484752301"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7663,26 +7669,6 @@
  "heartbeat": "2026-10-28 18",
  "recent": [
   [
-   1793126812.5922303,
-   "Papa John's - Cyber Security Intern"
-  ],
-  [
-   1793126900.147526,
-   "Centene - Applications Security Engineer Intern (Undergraduate Summer 2027)"
-  ],
-  [
-   1793127012.3477151,
-   "Amazon - Network Development Engineer Intern, 2027 Summer"
-  ],
-  [
-   1793128227.6487393,
-   "Centene - Cloud Security Analyst Intern (Undergraduate Summer 2027)"
-  ],
-  [
-   1793132522.4123514,
-   "Filevine - Security Specialist, Intern"
-  ],
-  [
    1793141145.2439113,
    "Northrop Grumman - 2027 Intern Industrial Security"
   ],
@@ -7781,6 +7767,10 @@
   [
    1793218675.7352316,
    "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Electric Grid Communications"
+  ],
+  [
+   1793227127.7479439,
+   "QuadReal Property Group - Cyber Security, Winter 2027 - Toronto (Co-op/Internship) - 4 Mon"
   ]
  ],
  "stem5": true,
