@@ -439,6 +439,7 @@
   "https://go.vansh.nyc/xg": "2026-10-28",
   "https://go.vansh.nyc/xh": "2026-10-28",
   "https://go.vansh.nyc/xi": "2026-10-28",
+  "https://go.vansh.nyc/xl": "2026-10-28",
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
@@ -1626,6 +1627,7 @@
   "t:north|cybersecurityinternship": "2026-10-28",
   "t:north|cybersoftwareengineerintern": "2026-10-25",
   "t:north|cybersystemsengineerintern": "2026-10-24",
+  "t:nucle|securityengineerintern": "2026-10-28",
   "t:nucle|spring2027securityengineerintern": "2026-10-28",
   "t:nvidi|phdresearchinternsecurityandprivacy2027": "2026-10-28",
   "t:nxpse|embeddedswdeveloperinternsecurity": "2026-10-28",
@@ -5061,6 +5063,7 @@
    "https://go.vansh.nyc/W5",
    "https://go.vansh.nyc/W8",
    "https://go.vansh.nyc/XI",
+   "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/e1",
@@ -5629,18 +5632,12 @@
   "wd+:bacardi/Jobs_Bacardi": [],
   "wd+:badgermeter/US_CareerSite": [],
   "wd+:bah/BAH_Jobs": [
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"
   ],
   "wd+:bah/Confidential": [],
   "wd+:bah/bah_jobs": [
@@ -7625,10 +7622,6 @@
  "heartbeat": "2026-10-28 14",
  "recent": [
   [
-   1793119407.1234868,
-   "Galaxy - Cybersecurity Intern"
-  ],
-  [
    1793120787.320637,
    "Raytheon - Secure Software Intern (Summer 2027)"
   ],
@@ -7743,6 +7736,10 @@
   [
    1793212755.489741,
    "Mativ - Cybersecurity Intern"
+  ],
+  [
+   1793213101.2866116,
+   "The Nuclear Company - Security Engineer Intern"
   ]
  ],
  "stem5": true,
