@@ -261,6 +261,8 @@
   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern": "2026-10-28",
   "https://careers.leidos.com/jobs/18410203-cybersecurity-intern": "2026-10-28",
   "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern": "2026-10-28",
+  "https://careers.ll.mit.edu/job/lexington-summer-research-program-intern-2027%2c-ci-cybersecurity%2c-energy-systems-%28group-47%29-ma-02420/1444705900": "2026-10-28",
+  "https://careers.ll.mit.edu/job/lexington-summer-research-program-intern-2027%2c-electric-grid-communications-security%2c-energy-systems-%28gr-47%29-ma-02420/1444706900": "2026-10-28",
   "https://careers.lumen.com/careers/job/1133916380525": "2026-10-17",
   "https://careers.mastercard.com/us/en/job/r-284924": "2026-10-20",
   "https://careers.mastercard.com/us/en/job/r-284925": "2026-10-20",
@@ -1590,7 +1592,9 @@
   "t:midco|2027summerinterncybersecuritygraduate": "2026-10-22",
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-10-28",
+  "t:mitli|summerresearchprogramintern2027cicybersecurityenergysystemsgroup47": "2026-10-28",
   "t:mitli|summerresearchprogramintern2027cyberoperationsandanalysistechnologygroup0557": "2026-10-25",
+  "t:mitli|summerresearchprogramintern2027electricgridcommunicationssecurityenergysystemsgr47": "2026-10-28",
   "t:mitre|cyberoperationsengineerintern": "2026-10-28",
   "t:mitre|cyberoperationsintern": "2026-10-28",
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-10-28",
@@ -4061,8 +4065,11 @@
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.fedex.com/global-security-intern-summer-2027/job/P25-391830-1",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
+   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
+   "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-CI-Cybersecurity%2C-Energy-Systems-%28Group-47%29-MA-02420/1444705900/",
+   "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Electric-Grid-Communications-Security%2C-Energy-Systems-%28Gr-47%29-MA-02420/1444706900/",
    "https://careers.rivian.com/jobs/31067/job",
    "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370?lever-source=Indeed",
    "https://jobs.mercedes-benz.com/cyber-security-intern-244183-MER00049Y0"
@@ -6887,9 +6894,7 @@
   "wd+:pwc/US_Experienced_Careers": [],
   "wd+:q2ebanking/Q2": [],
   "wd+:qbe/qbe-careers": [],
-  "wd+:qtsdatacenters/qts": [
-   "https://qtsdatacenters.wd5.myworkdayjobs.com/en-US/qts/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273"
-  ],
+  "wd+:qtsdatacenters/qts": [],
   "wd+:qualifacts/Qualifacts_External_Careers": [],
   "wd+:quickenloans/rocket_careers": [],
   "wd+:qvc/QRG": [],
@@ -7653,14 +7658,6 @@
  "heartbeat": "2026-10-28 16",
  "recent": [
   [
-   1793123051.8105602,
-   "Kudu Dynamics - Cybersecurity Intern"
-  ],
-  [
-   1793124414.8273842,
-   "Amazon - Database Engineer Intern - Summer 2027"
-  ],
-  [
    1793126812.5922303,
    "Papa John's - Cyber Security Intern"
   ],
@@ -7771,6 +7768,14 @@
   [
    1793216361.3623252,
    "FedEx - Global Security Intern Summer 2027"
+  ],
+  [
+   1793218675.73523,
+   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, CI Cybersecurity, Energy Sys"
+  ],
+  [
+   1793218675.7352316,
+   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Electric Grid Communications"
   ]
  ],
  "stem5": true,
