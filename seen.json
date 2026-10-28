@@ -788,6 +788,7 @@
   "https://linkedin.com/jobs/view/4476037721": "2026-10-13",
   "https://linkedin.com/jobs/view/4476065632": "2026-10-15",
   "https://linkedin.com/jobs/view/4476076233": "2026-10-15",
+  "https://linkedin.com/jobs/view/4476315409": "2026-10-28",
   "https://linkedin.com/jobs/view/4476320269": "2026-10-28",
   "https://linkedin.com/jobs/view/4476325014": "2026-10-28",
   "https://linkedin.com/jobs/view/4476520484": "2026-10-08",
@@ -953,6 +954,7 @@
   "https://linkedin.com/jobs/view/4484210930": "2026-10-28",
   "https://linkedin.com/jobs/view/4484213000": "2026-10-28",
   "https://linkedin.com/jobs/view/4484416521": "2026-10-28",
+  "https://linkedin.com/jobs/view/4484451005": "2026-10-28",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1404,6 +1406,7 @@
   "t:geoco|browsersecurityengineerinternwinter2027": "2026-10-28",
   "t:georg|embeddedsystemscybersecuritycoopspring2027cipher": "2026-10-28",
   "t:georg|generalcybersecuritygraduateinterncipherspring2027": "2026-10-10",
+  "t:georg|generalcybersecurityinternspring2027cipher": "2026-10-28",
   "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-10-17",
   "t:geron|itsecurityanalystintern": "2026-10-15",
@@ -4470,10 +4473,9 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448312441",
    "https://www.linkedin.com/jobs/view/4448658904",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460254050",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
    "https://www.linkedin.com/jobs/view/4470984389",
@@ -4481,11 +4483,11 @@
    "https://www.linkedin.com/jobs/view/4474617801",
    "https://www.linkedin.com/jobs/view/4474622439",
    "https://www.linkedin.com/jobs/view/4475983653",
+   "https://www.linkedin.com/jobs/view/4476315409",
    "https://www.linkedin.com/jobs/view/4476320269",
    "https://www.linkedin.com/jobs/view/4476325014",
    "https://www.linkedin.com/jobs/view/4481895706",
    "https://www.linkedin.com/jobs/view/4482206285",
-   "https://www.linkedin.com/jobs/view/4482210010",
    "https://www.linkedin.com/jobs/view/4482239974",
    "https://www.linkedin.com/jobs/view/4482244882",
    "https://www.linkedin.com/jobs/view/4482252407",
@@ -4499,7 +4501,8 @@
    "https://www.linkedin.com/jobs/view/4484205843",
    "https://www.linkedin.com/jobs/view/4484210930",
    "https://www.linkedin.com/jobs/view/4484213000",
-   "https://www.linkedin.com/jobs/view/4484416521"
+   "https://www.linkedin.com/jobs/view/4484416521",
+   "https://www.linkedin.com/jobs/view/4484451005"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7802,6 +7805,10 @@
   [
    1793183188.599361,
    "Georgia Tech Research Institute - Embedded Systems Cyber Security Co-Op - Spring 2027 - CI"
+  ],
+  [
+   1793184560.2034292,
+   "Georgia Tech Research Institute - General Cybersecurity Intern - Spring 2027 - CIPHER"
   ]
  ],
  "stem5": true,
