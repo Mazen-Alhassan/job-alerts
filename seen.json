@@ -271,6 +271,7 @@
   "https://careers.mitre.org/us/en/job/r117737": "2026-10-28",
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-09",
   "https://careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--": "2026-10-28",
+  "https://careers.rivian.com/jobs/31067/job": "2026-10-28",
   "https://careers.rtx.com/global/en/job/01872177": "2026-10-28",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
   "https://careers.rtx.com/global/en/job/01884942": "2026-10-28",
@@ -1645,6 +1646,7 @@
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
   "t:riche|stagiaireingnieurcyberscurit": "2026-10-08",
   "t:rivia|cybersecuritysummer2027internships": "2026-10-10",
+  "t:rivia|earlycareercybersecurityapplicationsecurityengineer": "2026-10-28",
   "t:robin|securityriskmanagementinternsummer2027": "2026-10-08",
   "t:roche|ritcoopcybersecuritygovernancerisk": "2026-10-20",
   "t:roche|ritcoopidentityaccessmanagement": "2026-10-22",
@@ -4021,12 +4023,15 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
+   "https://careers.leidos.com/jobs/18409724-cybersecurity-analyst-intern?tm_job=R-00195523&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
+   "https://careers.rivian.com/jobs/31067/job",
    "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370?lever-source=Indeed",
    "https://jobs.mercedes-benz.com/cyber-security-intern-244183-MER00049Y0",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250",
    "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269",
+   "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2",
    "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W",
    "https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--",
    "https://www.indeed.com/viewjob?jk=1b1d5adbabfe0af6"
@@ -4456,6 +4461,7 @@
    "https://www.linkedin.com/jobs/view/4465248410"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -4470,6 +4476,8 @@
    "https://www.linkedin.com/jobs/view/4482206285",
    "https://www.linkedin.com/jobs/view/4482210010",
    "https://www.linkedin.com/jobs/view/4482239974",
+   "https://www.linkedin.com/jobs/view/4482244882",
+   "https://www.linkedin.com/jobs/view/4482252407",
    "https://www.linkedin.com/jobs/view/4482255367",
    "https://www.linkedin.com/jobs/view/4482273657",
    "https://www.linkedin.com/jobs/view/4483674744",
@@ -7622,10 +7630,6 @@
  "heartbeat": "2026-10-28 04",
  "recent": [
   [
-   1793083826.4034798,
-   "Archer - College to Corporate IT Internship - Risk & Security - Analyst  (NC)"
-  ],
-  [
    1793095888.4409847,
    "Rockwell Automation - Cybersecurity Intern"
   ],
@@ -7776,6 +7780,10 @@
   [
    1793174775.537003,
    "Haystack - Cyber Security Analyst Internship"
+  ],
+  [
+   1793178235.9035683,
+   "Rivian - Early Career - Cybersecurity Application Security Engineer"
   ]
  ],
  "stem5": true,
