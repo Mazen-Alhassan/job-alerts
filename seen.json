@@ -967,6 +967,8 @@
   "https://linkedin.com/jobs/view/4484213000": "2026-10-28",
   "https://linkedin.com/jobs/view/4484416521": "2026-10-28",
   "https://linkedin.com/jobs/view/4484451005": "2026-10-28",
+  "https://linkedin.com/jobs/view/4484717410": "2026-10-28",
+  "https://linkedin.com/jobs/view/4484718247": "2026-10-28",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1562,6 +1564,7 @@
   "t:maste|corporatesecurityoperationsinternsummer2027stlouismous": "2026-10-08",
   "t:maste|securityengineeringenablementinternsummer2027stlouismous": "2026-10-08",
   "t:maste|securityinfrastructureengineeringarchitectureinternsummer2027arlingtonvaus": "2026-10-08",
+  "t:mativ|cybersecurityintern": "2026-10-28",
   "t:mbda|cybersecurityanalystlevel6degreeapprenticeship2027": "2026-10-26",
   "t:medpa|informationsecurityinternspring2027": "2026-10-15",
   "t:meije|informationsecurityinternsummer2027": "2026-10-19",
@@ -4048,7 +4051,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
-   "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://careers.rivian.com/jobs/31067/job",
@@ -4506,7 +4508,9 @@
    "https://www.linkedin.com/jobs/view/4483890920",
    "https://www.linkedin.com/jobs/view/4484205843",
    "https://www.linkedin.com/jobs/view/4484210930",
-   "https://www.linkedin.com/jobs/view/4484451005"
+   "https://www.linkedin.com/jobs/view/4484451005",
+   "https://www.linkedin.com/jobs/view/4484717410",
+   "https://www.linkedin.com/jobs/view/4484718247"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5640,17 +5644,12 @@
   ],
   "wd+:bah/Confidential": [],
   "wd+:bah/bah_jobs": [
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
   ],
   "wd+:baincapital/External_Public": [],
@@ -7377,9 +7376,7 @@
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954"
   ],
   "wd:aig/aig": [],
-  "wd:archgroup/careers": [
-   "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Greensboro-NC-United-States-of-America/Security-Operations-Intern_R26_1016"
-  ],
+  "wd:archgroup/careers": [],
   "wd:arcticwolf/External": [],
   "wd:atcllc/atcllc": [
    "https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
@@ -7628,18 +7625,6 @@
  "heartbeat": "2026-10-28 14",
  "recent": [
   [
-   1793117610.0466595,
-   "ProPetro Services, Inc - Cybersecurity Intern"
-  ],
-  [
-   1793118174.1391034,
-   "RTX (Collins, Pratt & Whitney, Raytheon) - Secure Software Intern (Summer 2027)"
-  ],
-  [
-   1793118631.1623492,
-   "General Dynamics Mission Systems - Cybersecurity Systems Engineer Intern"
-  ],
-  [
    1793119407.1234868,
    "Galaxy - Cybersecurity Intern"
   ],
@@ -7754,6 +7739,10 @@
   [
    1793210939.56822,
    "The Nuclear Company - Spring 2027 Security Engineer Intern"
+  ],
+  [
+   1793212755.489741,
+   "Mativ - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
