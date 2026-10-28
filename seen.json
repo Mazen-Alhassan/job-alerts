@@ -722,7 +722,7 @@
   "https://linkedin.com/jobs/view/4470618994": "2026-10-14",
   "https://linkedin.com/jobs/view/4470621870": "2026-10-14",
   "https://linkedin.com/jobs/view/4470725818": "2026-10-16",
-  "https://linkedin.com/jobs/view/4470984389": "2026-10-10",
+  "https://linkedin.com/jobs/view/4470984389": "2026-10-28",
   "https://linkedin.com/jobs/view/4471125435": "2026-10-15",
   "https://linkedin.com/jobs/view/4471128909": "2026-10-21",
   "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
@@ -1707,7 +1707,7 @@
   "t:sunli|studentsoftwareengineersecuritywinter2027": "2026-10-28",
   "t:swbc|applicationsecurityintern": "2026-10-28",
   "t:syste|cybersecurityinternsummer2027": "2026-10-21",
-  "t:tampa|spring2027studentinternshipadicybersecurity": "2026-10-08",
+  "t:tampa|spring2027studentinternshipadicybersecurity": "2026-10-28",
   "t:tampa|spring2027studentinternshipcybersecurity": "2026-10-18",
   "t:taniu|cloudsecurityintern": "2026-10-28",
   "t:teckr|cyberriskanalystcoop": "2026-10-08",
@@ -4018,6 +4018,7 @@
   "jobspy": [
    "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
+   "https://careers.leidos.com/jobs/18410202-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D2824&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18410203-cybersecurity-intern?tm_job=R-00195531-OTHLOC-PL-2D0394&tm_event=view&tm_company=2502",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
    "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern/",
@@ -4457,11 +4458,10 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465248410",
    "https://www.linkedin.com/jobs/view/4467715984",
+   "https://www.linkedin.com/jobs/view/4470984389",
    "https://www.linkedin.com/jobs/view/4474003313",
    "https://www.linkedin.com/jobs/view/4474617801",
    "https://www.linkedin.com/jobs/view/4474622439",
@@ -4477,7 +4477,6 @@
    "https://www.linkedin.com/jobs/view/4482273657",
    "https://www.linkedin.com/jobs/view/4483608456",
    "https://www.linkedin.com/jobs/view/4483674744",
-   "https://www.linkedin.com/jobs/view/4483793063",
    "https://www.linkedin.com/jobs/view/4483809502",
    "https://www.linkedin.com/jobs/view/4483832830",
    "https://www.linkedin.com/jobs/view/4484098764",
@@ -5015,7 +5014,6 @@
    "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/D9",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7623,7 +7621,7 @@
   "workable:zego": [],
   "workable:zippd": []
  },
- "heartbeat": "2026-10-28 00",
+ "heartbeat": "2026-10-28 02",
  "recent": [
   [
    1793083826.4034798,
