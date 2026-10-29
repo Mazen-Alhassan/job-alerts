@@ -4553,6 +4553,7 @@
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -6395,7 +6396,9 @@
   "wd+:hp/EXTEU-AC-CareerSite": [
    "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1"
   ],
-  "wd+:hp/externalcareersite": [],
+  "wd+:hp/externalcareersite": [
+   "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
+  ],
   "wd+:hpe/acjobsite": [],
   "wd+:hpe/jobsathpe": [
    "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Westford-Massachusetts-United-States-of-America/Sales-Cyber-Security-Intern_1214044"
@@ -7712,6 +7715,13 @@
   "workable:zaizi": [],
   "workable:zego": [],
   "workable:zippd": []
+ },
+ "collisions": {
+  "https://sunlife.wd3.myworkdayjobs.com/campus/job/toronto-ontario/student--software-engineer---security--winter-2027-_jr00129065": [
+   "2026-10-29",
+   "t:sunli|softwareengineercoopsecurity",
+   "t:sunli|studentsoftwareengineersecuritywinter2027"
+  ]
  },
  "heartbeat": "2026-10-28 20",
  "recent": [
