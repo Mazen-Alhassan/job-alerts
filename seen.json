@@ -510,6 +510,7 @@
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---security-data-classification-intern_r0059513": "2026-10-29",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---security-engineering-senior-intern_r0059512": "2026-10-29",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-26",
+  "https://hdks.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/9468": "2026-10-29",
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-10-29",
   "https://highlinewarren.hrmdirect.com/employment/view.php": "2026-10-16",
   "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/camp-hill-pa-17011-center-street-building-1b/summer-2027-cyber-risk-management-analyst-undergraduate-intern_j286841": "2026-10-29",
@@ -693,6 +694,7 @@
   "https://linkedin.com/jobs/view/4458987324": "2026-10-11",
   "https://linkedin.com/jobs/view/4459075188": "2026-10-29",
   "https://linkedin.com/jobs/view/4459075219": "2026-10-29",
+  "https://linkedin.com/jobs/view/4459159613": "2026-10-29",
   "https://linkedin.com/jobs/view/4459271371": "2026-10-15",
   "https://linkedin.com/jobs/view/4459280255": "2026-10-14",
   "https://linkedin.com/jobs/view/4459280256": "2026-10-14",
@@ -870,6 +872,7 @@
   "https://linkedin.com/jobs/view/4476853761": "2026-10-10",
   "https://linkedin.com/jobs/view/4476855092": "2026-10-10",
   "https://linkedin.com/jobs/view/4476865440": "2026-10-10",
+  "https://linkedin.com/jobs/view/4476988984": "2026-10-29",
   "https://linkedin.com/jobs/view/4477015643": "2026-10-15",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-17",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-09",
@@ -1416,6 +1419,7 @@
   "t:cylak|securityresearchintern2027mastersphd": "2026-10-29",
   "t:danah|itsecurityintern": "2026-10-29",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
+  "t:defin|incidentissuemanagementanalystwinter2027coopintern": "2026-10-29",
   "t:dellt|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-23",
   "t:dellt|cybersecurityundergraduateintern": "2026-10-17",
   "t:dellt|productapplicationsecurityundergraduateintern": "2026-10-17",
@@ -1572,7 +1576,7 @@
   "t:intui|summer2027cybersecuritycomplianceintern": "2026-10-29",
   "t:intui|summer2027softwareengineeringinterncybersecurity": "2026-10-29",
   "t:irvin|securityanalyststudentwinter2027": "2026-10-29",
-  "t:jacob|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-08",
+  "t:jacob|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-29",
   "t:janus|identitysecurityintern": "2026-10-21",
   "t:jeffe|cybersecuritystudentintern": "2026-10-09",
   "t:johns|2027internshipcyberphysicalsystems": "2026-10-29",
@@ -4567,10 +4571,10 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4393994090",
    "https://www.linkedin.com/jobs/view/4459075188",
+   "https://www.linkedin.com/jobs/view/4459159613",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465937066",
    "https://www.linkedin.com/jobs/view/4467288333",
@@ -4580,6 +4584,7 @@
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476509041",
    "https://www.linkedin.com/jobs/view/4476520484",
+   "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483890920",
    "https://www.linkedin.com/jobs/view/4484242579",
@@ -4837,7 +4842,9 @@
   "oracle:hdhl.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:hdid.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hdjq.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:hdks.fa.ca2.oraclecloud.com/CX_1": [],
+  "oracle:hdks.fa.ca2.oraclecloud.com/CX_1": [
+   "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9468"
+  ],
   "oracle:hdnn.fa.us6.oraclecloud.com/CX": [
    "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114154"
   ],
@@ -7817,6 +7824,10 @@
   [
    1793288126.0519285,
    "Stratolaunch - Security Intern- Summer 2027"
+  ],
+  [
+   1793288714.5810745,
+   "Definity Financial - Incident & Issue Management Analyst - Winter 2027 Co-op/Intern"
   ]
  ],
  "stem5": true,
