@@ -751,6 +751,7 @@
   "https://linkedin.com/jobs/view/4465811689": "2026-10-24",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
+  "https://linkedin.com/jobs/view/4465937066": "2026-10-29",
   "https://linkedin.com/jobs/view/4466225169": "2026-10-09",
   "https://linkedin.com/jobs/view/4466253153": "2026-10-10",
   "https://linkedin.com/jobs/view/4466378804": "2026-10-25",
@@ -1456,6 +1457,7 @@
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-10-29",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-29",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
+  "t:fenne|itcybersecurityanalystinternsummer2027": "2026-10-29",
   "t:fidel|internriskandcybersecurityfisuniversityprogram": "2026-10-08",
   "t:fifth|informationsecuritycoopcodesecurityspring2027": "2026-10-08",
   "t:fifth|informationsecuritycoopidentityaccessmanagementspring2027": "2026-10-08",
@@ -1934,13 +1936,11 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4556,17 +4556,16 @@
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
+   "https://www.linkedin.com/jobs/view/4465937066",
    "https://www.linkedin.com/jobs/view/4467288333",
    "https://www.linkedin.com/jobs/view/4467915763",
    "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4475126073",
    "https://www.linkedin.com/jobs/view/4476315409",
-   "https://www.linkedin.com/jobs/view/4476320269",
    "https://www.linkedin.com/jobs/view/4476509041",
    "https://www.linkedin.com/jobs/view/4476520484",
    "https://www.linkedin.com/jobs/view/4479550735",
@@ -7817,6 +7816,10 @@
   [
    1793269974.579294,
    "CloserStill Media - Content Intern - Billington CyberSecurity"
+  ],
+  [
+   1793271345.2269802,
+   "Fenner Precision Polymers - IT Cybersecurity Analyst Intern - Summer 2027"
   ]
  ],
  "stem5": true,
