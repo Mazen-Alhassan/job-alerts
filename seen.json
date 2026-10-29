@@ -6193,7 +6193,9 @@
   "wd+:exactsciences/Exact_Sciences": [],
   "wd+:exclusivenetworks/Exclusive-Networks-Career": [],
   "wd+:exelixis/exel": [],
-  "wd+:expedia/private": [],
+  "wd+:expedia/private": [
+   "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310"
+  ],
   "wd+:expedia/search": [],
   "wd+:extraspace/ESS_External": [],
   "wd+:factset/FactSetCareers": [],
@@ -6757,9 +6759,7 @@
   "wd+:murex/MurexCareerPage1": [],
   "wd+:musc/MUSC": [],
   "wd+:mvphealthcare/mvphealthcare": [],
-  "wd+:my7elevenhr/Careers": [
-   "https://my7elevenhr.wd12.myworkdayjobs.com/en-US/Careers/job/SSC-Irving-TX/Information-Security-Intern_R26_5976"
-  ],
+  "wd+:my7elevenhr/Careers": [],
   "wd+:mydpr/11212017": [],
   "wd+:myhcm/Betway": [],
   "wd+:myhrabc/Global": [],
@@ -7728,7 +7728,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-29 14",
+ "heartbeat": "2026-10-29 16",
  "recent": [
   [
    1793206119.8192708,
