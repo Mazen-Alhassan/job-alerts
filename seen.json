@@ -983,6 +983,7 @@
   "https://linkedin.com/jobs/view/4484733965": "2026-10-29",
   "https://linkedin.com/jobs/view/4484745247": "2026-10-29",
   "https://linkedin.com/jobs/view/4484752301": "2026-10-29",
+  "https://linkedin.com/jobs/view/4484766767": "2026-10-29",
   "https://linkedin.com/jobs/view/4484770272": "2026-10-29",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1409,6 +1410,7 @@
   "t:exped|securityengineeringintern": "2026-10-20",
   "t:exped|securityengineeringintern2027seattle": "2026-10-29",
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
+  "t:feder|globalsecurityinternsummer2027": "2026-10-29",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-10-29",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-29",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
@@ -4075,7 +4077,6 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers-gdms.icims.com/jobs/75667/job",
    "https://careers.fedex.com/global-security-intern-summer-2027/job/P25-391830-1",
    "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
    "https://careers.leidos.com/jobs/18412193-cybersecurity-analyst-intern?tm_job=R-00195607&tm_event=view&tm_company=2502",
@@ -4513,10 +4514,8 @@
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
@@ -4540,6 +4539,7 @@
    "https://www.linkedin.com/jobs/view/4484733965",
    "https://www.linkedin.com/jobs/view/4484745247",
    "https://www.linkedin.com/jobs/view/4484752301",
+   "https://www.linkedin.com/jobs/view/4484766767",
    "https://www.linkedin.com/jobs/view/4484770272"
   ],
   "linkedin": [
@@ -7672,18 +7672,6 @@
  "heartbeat": "2026-10-28 20",
  "recent": [
   [
-   1793141145.2439113,
-   "Northrop Grumman - 2027 Intern Industrial Security"
-  ],
-  [
-   1793141788.3483725,
-   "Mercedes-Benz Group - Cyber Security Intern"
-  ],
-  [
-   1793141986.154925,
-   "Alliance for American Leadership (A4AL) - National Security Policy Intern (Volunteer)"
-  ],
-  [
    1793144704.5229194,
    "AlayaCare - Intern, Security Analyst - Winter Semester 2027"
   ],
@@ -7786,6 +7774,10 @@
   [
    1793232668.035339,
    "Figma - PhD Intern, Security Engineer (2027)"
+  ],
+  [
+   1793236358.543752,
+   "Federal Express Corporation - Global Security Intern Summer 2027"
   ]
  ],
  "stem5": true,
