@@ -423,6 +423,7 @@
   "https://go.vansh.nyc/XZ": "2026-10-29",
   "https://go.vansh.nyc/Xg": "2026-10-29",
   "https://go.vansh.nyc/Xh": "2026-10-29",
+  "https://go.vansh.nyc/YE": "2026-10-29",
   "https://go.vansh.nyc/ba": "2026-10-26",
   "https://go.vansh.nyc/bk": "2026-10-26",
   "https://go.vansh.nyc/cl": "2026-10-27",
@@ -1533,6 +1534,7 @@
   "t:howme|cybersecurityintern": "2026-10-16",
   "t:hpeju|cybersecurityengineeringintern": "2026-10-27",
   "t:hpeju|salescybersecurityintern": "2026-10-29",
+  "t:hpinc|softwareproductsecurityinternhpiq": "2026-10-29",
   "t:hpiq|softwareengineeringinternsecurityinternsummer2027": "2026-10-29",
   "t:hp|softwareproductsecurityengineerintern": "2026-10-27",
   "t:hp|softwareproductsecurityinternhpiq": "2026-10-29",
@@ -5137,6 +5139,7 @@
    "https://go.vansh.nyc/XZ",
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
+   "https://go.vansh.nyc/YE",
    "https://go.vansh.nyc/eB",
    "https://go.vansh.nyc/eD",
    "https://go.vansh.nyc/eI",
@@ -7727,14 +7730,6 @@
  "heartbeat": "2026-10-28 22",
  "recent": [
   [
-   1793144704.5229194,
-   "AlayaCare - Intern, Security Analyst - Winter Semester 2027"
-  ],
-  [
-   1793145222.4048085,
-   "TikTok - Physical Security Systems & Technology Project Intern (PSST) - 2027 Start"
-  ],
-  [
    1793149060.9933803,
    "Hewlett Packard Enterprise - Sales Cyber Security Intern"
   ],
@@ -7837,6 +7832,10 @@
   [
    1793237490.6723578,
    "HP - Software Product Security Intern - HP IQ"
+  ],
+  [
+   1793240048.871637,
+   "HP Inc. - Software Product Security Intern, HP IQ"
   ]
  ],
  "stem5": true,
