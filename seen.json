@@ -505,6 +505,7 @@
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-29",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-29",
   "https://hcpd.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/careers/job/12360": "2026-10-29",
+  "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---cybersecurity-operations-intern_r0059508": "2026-10-29",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---governance--risk---compliance--grc--intern_r0059509": "2026-10-29",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--intern_r0059510": "2026-10-29",
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/il---chicago/early-careers---identify---access-management--iam--senior-intern_r0059511": "2026-10-29",
@@ -1527,6 +1528,7 @@
   "t:hawor|informationsecuritysystemsintern": "2026-10-08",
   "t:hayst|cybersecurityanalystinternship": "2026-10-29",
   "t:hayst|cybersecurityintern": "2026-10-13",
+  "t:hcsc|earlycareerscybersecurityoperationsintern": "2026-10-29",
   "t:hcsc|earlycareersgovernanceriskcompliancegrcintern": "2026-10-29",
   "t:hcsc|earlycareersidentifyaccessmanagementiamintern": "2026-10-29",
   "t:hcsc|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-29",
@@ -4148,7 +4150,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.mativ.com/job/Cybersecurity-Intern/2180-en_US",
-   "https://grnh.se/bng9sqd88us",
    "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
   ],
   "jobvite:aarete": [],
@@ -4577,8 +4578,8 @@
    "https://www.linkedin.com/jobs/view/4393994090",
    "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4459159613",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465937066",
@@ -6368,6 +6369,7 @@
   ],
   "wd+:hcpss/hcpss": [],
   "wd+:hcsc/HCSC_External": [
+   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Governance--Risk---Compliance--GRC--Intern_R0059509",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Intern_R0059510",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
@@ -7731,22 +7733,6 @@
  "heartbeat": "2026-10-29 16",
  "recent": [
   [
-   1793206119.8192708,
-   "Honeywell Technologies - Information Systems, IT, Cyber Engineer & Data Science - Summer 2"
-  ],
-  [
-   1793210939.56822,
-   "The Nuclear Company - Spring 2027 Security Engineer Intern"
-  ],
-  [
-   1793212755.489741,
-   "Mativ - Cybersecurity Intern"
-  ],
-  [
-   1793213101.2866116,
-   "The Nuclear Company - Security Engineer Intern"
-  ],
-  [
    1793214192.1412768,
    "DMA - DuCharme, McMillen & Associates, Inc. - Cybersecurity Intern - Summer 2027"
   ],
@@ -7829,6 +7815,10 @@
   [
    1793297367.9947138,
    "Regeneron Pharmaceuticals - IT, Digital Enablement & Information Security Intern"
+  ],
+  [
+   1793307272.466367,
+   "HCSC - Early Careers - Cybersecurity Operations Intern"
   ]
  ],
  "stem5": true,
