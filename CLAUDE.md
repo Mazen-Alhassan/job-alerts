@@ -32,6 +32,9 @@ phone with an apply link. The point is to apply within minutes of a posting goin
 - Health: Indeed and LinkedIn raise when they return nothing (so a block shows up as a failure, not as "no
   jobs"); `seen.json` `streaks` counts consecutive failures of non-board sources and the 2-hourly Discord
   heartbeat lists any at 3+. Dedupe title keys use a 5-letter company stem (`company_stem`).
+  URL keys (`url_key`) unwrap tracking redirects (`unwrap`) and keep identifying query params, dropping only
+  `TRACKING` ones; never key on the bare path of a query-identified URL (that merged 4 Meta roles into one on
+  Oct 21, 2026). The heartbeat warns if one URL key covers different titles in a cycle (`collisions`).
 - Speed tricks: Lever is read from the HTML board (API fallback when the page 404s), Ashby from the hosted page's
   `window.__appData` (public API is ~40x bigger, its GraphQL rate-limits at ~100 req), Workday requests are capped
   at 16 concurrent with one 429 retry (Workday rate-limits per IP across all tenants).
