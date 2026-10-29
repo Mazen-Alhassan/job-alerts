@@ -4556,6 +4556,7 @@
    "https://www.linkedin.com/jobs/view/4448658904",
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -5944,9 +5945,7 @@
    "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"
   ],
   "wd+:churchdwight/chdcareers": [],
-  "wd+:cibc/campus": [
-   "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159"
-  ],
+  "wd+:cibc/campus": [],
   "wd+:ciena/careers": [
    "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
@@ -7030,9 +7029,7 @@
   "wd+:rollsroyce/Intern_Graduate": [],
   "wd+:rollsroyce/professional": [],
   "wd+:roswellpark/ExternalCareers": [],
-  "wd+:rrhs/RRH": [
-   "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1"
-  ],
+  "wd+:rrhs/RRH": [],
   "wd+:rrts/careers": [],
   "wd+:rsm/RSMCareers": [],
   "wd+:rxo/rxojobs": [],
@@ -7726,7 +7723,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-28 22",
+ "heartbeat": "2026-10-29 00",
  "recent": [
   [
    1793153547.0617254,
