@@ -648,7 +648,7 @@ def jobspy_sites(_):
             if not want(title, where):
                 continue
             direct = r.get("job_url_direct")
-            url = direct if isinstance(direct, str) and direct.startswith("http") else r.get("job_url")
+            url = clean_url(direct) if isinstance(direct, str) and direct.startswith("http") else r.get("job_url")
             date = r.get("date_posted")
             found[url] = job(url, str(r.get("company") or "?"), title, where, str(date) if date is not None else "",
                              f"via {str(r.get('site')).title()}", raw_company=True)
@@ -750,13 +750,46 @@ def due(key, cycle):
 
 
 # ---------------- dedupe across sources ----------------
+# Query parameters that only track where a click came from. Everything else in the query is kept, because some
+# sites identify the job there (indeed.com/viewjob?jk=..., ADP ?r=..., UltiPro ?opportunityId=..., PeopleSoft).
+TRACKING = re.compile(r"^(utm_.*|rx_.*|source|src|gh_src|lever-.*|ref|referrer|trk|trackingid|refid|position|pagenum|"
+                      r"feedid|icims|in_iframe|locale|lang|rb|codes|iis|iisn|mode|from|campaign|medium|ccuid|domain|embed)$")
+CASE_SENSITIVE_HOSTS = {"go.vansh.nyc", "bit.ly", "tinyurl.com", "t.co", "lnkd.in"}
+
+
+def unwrap(u):
+    """Follow tracking redirects (recruitics, appcast-style ?url=...) to the real posting URL, when it's in the link."""
+    for _ in range(3):
+        q = urllib.parse.parse_qs(urllib.parse.urlsplit(u).query)
+        target = next((v[0] for k, v in q.items() if k.lower() in ("rx_url", "url", "u", "dest", "destination", "redirect", "target")
+                       and v and v[0].startswith("http")), None)
+        if not target:
+            break
+        u = target
+    return u
+
+
+def clean_url(u):
+    """The real posting URL without tracking parameters, for alert links."""
+    parts = urllib.parse.urlsplit(unwrap(u))
+    query = [(k, v) for k, v in urllib.parse.parse_qsl(parts.query) if not TRACKING.match(k.lower())]
+    return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, urllib.parse.urlencode(query), ""))
+
+
 def url_key(u):
-    u = u.lower().split("#")[0]
+    u = unwrap(u.split("#")[0])
     m = re.search(r"gh_jid=(\d+)", u) or re.search(r"greenhouse\.io/.*?/jobs/(\d+)", u)
     if m:
         return "gh:" + m.group(1)
-    u = u.split("?")[0].rstrip("/").replace("/en-us/", "/").replace("://www.", "://")
-    return u.replace("/apply", "")
+    parts = urllib.parse.urlsplit(u)
+    query = sorted((k.lower(), v) for k, v in urllib.parse.parse_qsl(parts.query) if not TRACKING.match(k.lower()))
+    host = parts.netloc.lower().replace("www.", "", 1)
+    # paths are compared lowercase (Workday mixes /External/ and /external/ for one job), except on short-link
+    # hosts where case is the whole identity (go.vansh.nyc/vU and /Vu are different postings)
+    path = parts.path if host in CASE_SENSITIVE_HOSTS else parts.path.lower()
+    path = re.sub(r"(?i)/[a-z]{2}-[a-z]{2}(?=/)", "", path, count=1).rstrip("/")
+    base = host + re.sub(r"(?i)/apply$", "", path)
+    return "https://" + base + ("?" + urllib.parse.urlencode(query) if query else "")
 
 
 def company_stem(c):
@@ -827,9 +860,18 @@ def load_state():
         for k in [k for k in s["alerted"] if k.startswith("t:")]:
             co, _, title = k[2:].partition("|")
             co = co[3:] if co.startswith("the") and len(co) > 6 else co
-            s["alerted"].setdefault(f"t:{co[:5]}|{title}", s["alerted"][k])
-            del s["alerted"][k]
+            new = f"t:{co[:5]}|{title}"
+            if new != k:
+                s["alerted"].setdefault(new, s["alerted"].pop(k))
         s["stem5"] = True
+    if not s.get("urlkey2"):
+        # The old url_key dropped the whole query string and lowercased short links, so these keys each stood for
+        # several different postings (found by replaying every board URL in the git history on Oct 28, 2026).
+        for k in ("https://jsv3.recruitics.com/redirect", "https://indeed.com/viewjob", "https://go.vansh.nyc/vu",
+                  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html",
+                  "https://cg.sandia.gov/psc/applicant/employee/hrms/c/hrs_hram_fl.hrs_cg_search_fl.gbl"):
+            s["alerted"].pop(k, None)
+        s["urlkey2"] = True
     return s
 
 
@@ -860,6 +902,13 @@ def scan(state, only=None, cycle=None):
 
     new_jobs, seeded, changed = [], 0, False
     today = str(dt.date.today())
+    by_key = {}
+    for jobs in results.values():
+        for j in jobs:
+            by_key.setdefault(url_key(j["url"]), set()).add(title_key(j))
+    clashes = {k: sorted(v)[:3] for k, v in by_key.items() if len(v) > 1}
+    if clashes:  # one url key standing for several different roles would hide all but the first
+        state.setdefault("collisions", {}).update({k: [today] + v for k, v in clashes.items()})
     for key, jobs in sorted(results.items()):
         urls = sorted({j["url"] for j in jobs})
         first = key not in boards
@@ -918,6 +967,10 @@ def heartbeat(state, ran, took, failed):
     broken = [f"{k} (failing {(time.time() - v[1]) / 3600:.0f}h: {v[2]})" for k, v in state.get("streaks", {}).items() if v[0] >= 3]
     if broken:
         lines.append("\u26A0\uFE0F Not working: " + "; ".join(broken))
+    recent_clash = {k: v for k, v in state.get("collisions", {}).items() if v[0] >= str(dt.date.today() - dt.timedelta(days=1))}
+    if recent_clash:
+        lines.append(f"\u26A0\uFE0F Dedupe clash on {len(recent_clash)} link(s), roles may be hidden: " +
+                     "; ".join(f"{k[:60]} ({', '.join(t.split('|', 1)[1][:30] for t in v[1:])})" for k, v in list(recent_clash.items())[:3]))
     print("  heartbeat:", " | ".join(lines), flush=True)
     if DISCORD:
         try:  # flags 4096 = silent message: shows up in the channel without a push notification
