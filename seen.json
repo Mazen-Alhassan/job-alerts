@@ -842,6 +842,7 @@
   "https://linkedin.com/jobs/view/4475329936": "2026-10-26",
   "https://linkedin.com/jobs/view/4475423858": "2026-10-08",
   "https://linkedin.com/jobs/view/4475441187": "2026-10-08",
+  "https://linkedin.com/jobs/view/4475473333": "2026-10-29",
   "https://linkedin.com/jobs/view/4475594002": "2026-10-08",
   "https://linkedin.com/jobs/view/4475629653": "2026-10-12",
   "https://linkedin.com/jobs/view/4475636071": "2026-10-11",
@@ -1888,6 +1889,7 @@
   "t:visa|networkandsecurityengineeringintern": "2026-10-29",
   "t:visa|networkandsecurityengineeringintern2027ashburnva": "2026-10-29",
   "t:visa|networkandsecurityengineeringintern2027highlandsranchco": "2026-10-29",
+  "t:vulca|2027summerinternshipcybersecurity": "2026-10-29",
   "t:walma|summer2027interncybersecuritymasters": "2026-10-29",
   "t:walma|summer2027interncybersecurityundergrad": "2026-10-29",
   "t:washi|metrocollegeinterndmcsdigitalmodernizationcybersecurity": "2026-10-28",
@@ -4582,6 +4584,7 @@
    "https://www.linkedin.com/jobs/view/4467915763",
    "https://www.linkedin.com/jobs/view/4468279385",
    "https://www.linkedin.com/jobs/view/4473973646",
+   "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476509041",
    "https://www.linkedin.com/jobs/view/4476520484",
@@ -7732,10 +7735,6 @@
  "heartbeat": "2026-10-29 12",
  "recent": [
   [
-   1793195788.4308434,
-   "Cedar Point Amusement Park - Security Internships"
-  ],
-  [
    1793201399.4773252,
    "Regeneron Pharmaceuticals - 2027 Summer Intern IT, Digital Enablement & Information Securi"
   ],
@@ -7826,6 +7825,10 @@
   [
    1793288714.5810745,
    "Definity Financial - Incident & Issue Management Analyst - Winter 2027 Co-op/Intern"
+  ],
+  [
+   1793291573.8418357,
+   "Vulcan Materials Company - 2027 Summer Internship-Cybersecurity"
   ]
  ],
  "stem5": true,
