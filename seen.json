@@ -658,6 +658,7 @@
   "https://lifeattiktok.com/search/7691158108957641013": "2026-10-29",
   "https://linkedin.com/jobs/view/4366561915": "2026-10-23",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
+  "https://linkedin.com/jobs/view/4393994090": "2026-10-29",
   "https://linkedin.com/jobs/view/4414643630": "2026-10-23",
   "https://linkedin.com/jobs/view/4435857047": "2026-10-22",
   "https://linkedin.com/jobs/view/4447213336": "2026-10-25",
@@ -1710,6 +1711,7 @@
   "t:panas|securityriskintern": "2026-10-11",
   "t:papaj|2027summerinterncybersecurity": "2026-10-29",
   "t:papaj|cybersecurityintern": "2026-10-29",
+  "t:param|cybersecuritysolutionengineerintern": "2026-10-29",
   "t:peckh|itsecurityintern": "2026-10-20",
   "t:pecna|securityriskintern": "2026-10-10",
   "t:penns|collegeofistcyber100genaiimpactevaluationstudentassistant": "2026-10-08",
@@ -4550,11 +4552,11 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4393994090",
    "https://www.linkedin.com/jobs/view/4448312441",
    "https://www.linkedin.com/jobs/view/4448658904",
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -7729,10 +7731,6 @@
  "heartbeat": "2026-10-28 22",
  "recent": [
   [
-   1793149060.9933803,
-   "Hewlett Packard Enterprise - Sales Cyber Security Intern"
-  ],
-  [
    1793153547.0617254,
    "HPE / Juniper - Sales Cyber Security Intern"
   ],
@@ -7835,6 +7833,10 @@
   [
    1793240048.871637,
    "HP Inc. - Software Product Security Intern, HP IQ"
+  ],
+  [
+   1793242715.9637434,
+   "Paramify - Cyber Security Solution Engineer (Intern)"
   ]
  ],
  "stem5": true,
