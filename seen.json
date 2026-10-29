@@ -804,6 +804,7 @@
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
   "https://linkedin.com/jobs/view/4473927780": "2026-10-23",
   "https://linkedin.com/jobs/view/4473967974": "2026-10-23",
+  "https://linkedin.com/jobs/view/4473973646": "2026-10-29",
   "https://linkedin.com/jobs/view/4474003313": "2026-10-28",
   "https://linkedin.com/jobs/view/4474084044": "2026-10-27",
   "https://linkedin.com/jobs/view/4474085048": "2026-10-27",
@@ -1377,6 +1378,7 @@
   "t:cityo|itstudentcybersecuritycontract": "2026-10-09",
   "t:cleco|interncybersecurity": "2026-10-29",
   "t:clima|cybersecurityintern": "2026-10-08",
+  "t:close|contentinternbillingtoncybersecurity": "2026-10-29",
   "t:cnaan|cybersecurityinternsummer2027": "2026-10-08",
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-10-29",
   "t:cohnr|winter2027internshipcybersecurityanddigitaltrust": "2026-10-10",
@@ -4553,12 +4555,15 @@
    "https://www.linkedin.com/jobs/view/4393994090",
    "https://www.linkedin.com/jobs/view/4459075188",
    "https://www.linkedin.com/jobs/view/4459075219",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
+   "https://www.linkedin.com/jobs/view/4465593711",
    "https://www.linkedin.com/jobs/view/4467288333",
    "https://www.linkedin.com/jobs/view/4467915763",
+   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4475126073",
    "https://www.linkedin.com/jobs/view/4476315409",
    "https://www.linkedin.com/jobs/view/4476509041",
@@ -4572,6 +4577,7 @@
    "https://www.linkedin.com/jobs/view/4484733965",
    "https://www.linkedin.com/jobs/view/4484745247",
    "https://www.linkedin.com/jobs/view/4484752301",
+   "https://www.linkedin.com/jobs/view/4484766767",
    "https://www.linkedin.com/jobs/view/4484770272"
   ],
   "linkedin": [
@@ -7712,18 +7718,6 @@
  "heartbeat": "2026-10-29 06",
  "recent": [
   [
-   1793153547.0617254,
-   "HPE / Juniper - Sales Cyber Security Intern"
-  ],
-  [
-   1793164226.2031217,
-   "Arkion Identity Systems - Embedded Systems & Drone Security R&D Intern"
-  ],
-  [
-   1793174775.537003,
-   "Haystack - Cyber Security Analyst Internship"
-  ],
-  [
    1793178235.9035683,
    "Rivian - Early Career - Cybersecurity Application Security Engineer"
   ],
@@ -7818,6 +7812,10 @@
   [
    1793242715.9637434,
    "Paramify - Cyber Security Solution Engineer (Intern)"
+  ],
+  [
+   1793269974.579294,
+   "CloserStill Media - Content Intern - Billington CyberSecurity"
   ]
  ],
  "stem5": true,
