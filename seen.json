@@ -995,6 +995,8 @@
   "https://linkedin.com/jobs/view/4482455467": "2026-10-23",
   "https://linkedin.com/jobs/view/4482459824": "2026-10-23",
   "https://linkedin.com/jobs/view/4482483140": "2026-10-23",
+  "https://linkedin.com/jobs/view/4482577951": "2026-10-29",
+  "https://linkedin.com/jobs/view/4482580963": "2026-10-29",
   "https://linkedin.com/jobs/view/4482592401": "2026-10-29",
   "https://linkedin.com/jobs/view/4482692635": "2026-10-26",
   "https://linkedin.com/jobs/view/4482710620": "2026-10-23",
@@ -1714,7 +1716,7 @@
   "t:north|2027cybersoftwareengineerinternsanantoniotx": "2026-10-25",
   "t:north|2027cybersoftwareengineerinterntampafl": "2026-10-26",
   "t:north|2027cybersystemsengineerinterntampafl": "2026-10-20",
-  "t:north|2027internindustrialsecurity": "2026-10-28",
+  "t:north|2027internindustrialsecurity": "2026-10-29",
   "t:north|2027swcybersecurityinternannapolismd": "2026-10-16",
   "t:north|cybersecurityinternship": "2026-10-29",
   "t:north|cybersoftwareengineerintern": "2026-10-25",
@@ -4582,8 +4584,6 @@
    "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4459159613",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465937066",
    "https://www.linkedin.com/jobs/view/4468279385",
@@ -4592,6 +4592,8 @@
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4479550735",
+   "https://www.linkedin.com/jobs/view/4482577951",
+   "https://www.linkedin.com/jobs/view/4482580963",
    "https://www.linkedin.com/jobs/view/4482592401",
    "https://www.linkedin.com/jobs/view/4484420604",
    "https://www.linkedin.com/jobs/view/4484733965",
@@ -7820,6 +7822,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793313942.9020216,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
