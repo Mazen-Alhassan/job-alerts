@@ -4121,7 +4121,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.fedex.com/global-security-intern-summer-2027/job/P25-391830-1",
-   "https://careers.hpe.com/us/en/job/HPE1US1214044EXTERNALENUS/Sales-Cyber-Security-Intern",
    "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-CI-Cybersecurity%2C-Energy-Systems-%28Group-47%29-MA-02420/1444705900/",
    "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Electric-Grid-Communications-Security%2C-Energy-Systems-%28Gr-47%29-MA-02420/1444706900/",
    "https://careers.mativ.com/job/Cybersecurity-Intern/2180-en_US",
@@ -7840,6 +7839,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "kinaxis": [
+   3,
+   1793243175.17569,
+   "HTTP Error 503: Service Unavailable"
+  ]
+ },
  "urlkey2": true
 }
