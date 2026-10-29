@@ -15,6 +15,7 @@
   "gh:5445236008": "2026-10-28",
   "gh:5448019008": "2026-10-29",
   "gh:5466153008": "2026-10-29",
+  "gh:5466978008": "2026-10-29",
   "gh:6116398004": "2026-10-29",
   "gh:6148707004": "2026-10-29",
   "gh:6163325004": "2026-10-29",
@@ -1814,6 +1815,7 @@
   "t:stife|informationsecurityintern": "2026-10-28",
   "t:stife|informationsecurityinternsummer2027": "2026-10-29",
   "t:strac|cybersecuritystudent": "2026-10-19",
+  "t:strat|securityinternsummer2027": "2026-10-29",
   "t:stude|studentworkerinformationsecurityinternbc": "2026-10-29",
   "t:stude|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-10-29",
   "t:study|itsecurityoperationsintern": "2026-10-29",
@@ -3557,7 +3559,9 @@
   "gh:stokespacetechnologies": [],
   "gh:strandtherapeutics": [],
   "gh:stratacareers": [],
-  "gh:stratolaunch": [],
+  "gh:stratolaunch": [
+   "https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008"
+  ],
   "gh:stripe": [],
   "gh:stubhubinc": [],
   "gh:studiokraftonboard": [],
@@ -7723,10 +7727,6 @@
  "heartbeat": "2026-10-29 10",
  "recent": [
   [
-   1793193890.0958283,
-   "CornerStone Technology Talent Services - Security Administrator( Intern)  \u2013 Identity & Acc"
-  ],
-  [
    1793195788.4308434,
    "Cedar Point Amusement Park - Security Internships"
   ],
@@ -7813,20 +7813,13 @@
   [
    1793286998.3634973,
    "Cisco - Security Consulting Engineer I (Intern) - United States"
+  ],
+  [
+   1793288126.0519285,
+   "Stratolaunch - Security Intern- Summer 2027"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793287180.2711754,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ],
-  "tiktok": [
-   1,
-   1793287180.2711754,
-   "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
