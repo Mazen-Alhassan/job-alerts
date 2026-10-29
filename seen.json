@@ -229,7 +229,7 @@
   "https://careers.boozallen.com/careers/jobdetail": "2026-10-27",
   "https://careers.bwxt.com/job/lynchburg-intern-cyber-security-%28summer-2027%29-va-24501/1439664100": "2026-10-15",
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
-  "https://careers.cisco.com/global/en/job/2024817": "2026-10-23",
+  "https://careers.cisco.com/global/en/job/2024817": "2026-10-29",
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
   "https://careers.corewellhealth.org/us/en/job/r228866": "2026-10-13",
@@ -2693,7 +2693,9 @@
   "ashby:zilch": [],
   "ashby:zip": [],
   "ashby:zuru": [],
-  "cisco": [],
+  "cisco": [
+   "https://careers.cisco.com/global/en/job/2024817"
+  ],
   "cse": [],
   "eightfold:bostonscientific.eightfold.ai": [],
   "eightfold:climate.eightfold.ai": [],
@@ -7814,6 +7816,17 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793287180.2711754,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ],
+  "tiktok": [
+   1,
+   1793287180.2711754,
+   "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert"
+  ]
+ },
  "urlkey2": true
 }
