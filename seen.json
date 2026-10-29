@@ -124,6 +124,7 @@
   "https://amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern": "2026-10-29",
   "https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027": "2026-10-29",
   "https://amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer": "2026-10-29",
+  "https://amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast": "2026-10-29",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-10-29",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-10-29",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-10-29",
@@ -1230,6 +1231,7 @@
   "t:amazo|cloudhardwaredevelopmentengineerinternannapurnalabs2027": "2026-10-29",
   "t:amazo|databaseengineerinternsummer2027": "2026-10-29",
   "t:amazo|datacenterengineeringoperationstechnicianinternship": "2026-10-29",
+  "t:amazo|datacenterinfrastructureengineerinternsummer2027midwestsoutheast": "2026-10-29",
   "t:amazo|dataengineerinternship2027us": "2026-10-29",
   "t:amazo|hardwaredevelopmentengineerinterncooprobotics2027": "2026-10-29",
   "t:amazo|hardwaredevelopmentengineerinternsummer2027": "2026-10-29",
@@ -1952,6 +1954,7 @@
    "https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern",
    "https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027",
    "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
+   "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
@@ -7732,14 +7735,6 @@
  "heartbeat": "2026-10-29 16",
  "recent": [
   [
-   1793214192.1412768,
-   "DMA - DuCharme, McMillen & Associates, Inc. - Cybersecurity Intern - Summer 2027"
-  ],
-  [
-   1793214549.1783214,
-   "L3Harris Technologies - Information Security Systems Engineer Intern"
-  ],
-  [
    1793216361.3623252,
    "FedEx - Global Security Intern Summer 2027"
   ],
@@ -7818,6 +7813,10 @@
   [
    1793307272.466367,
    "HCSC - Early Careers - Cybersecurity Operations Intern"
+  ],
+  [
+   1793308619.573553,
+   "Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast"
   ]
  ],
  "stem5": true,
