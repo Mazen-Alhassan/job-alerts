@@ -1049,6 +1049,7 @@
   "https://linkedin.com/jobs/view/4484766767": "2026-10-29",
   "https://linkedin.com/jobs/view/4484770272": "2026-10-29",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-29",
+  "https://linkedin.com/jobs/view/4485230919": "2026-10-29",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1480,6 +1481,7 @@
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
   "t:feder|globalsecurityinternsummer2027": "2026-10-29",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-10-29",
+  "t:feder|summer2027internsecurityanalystit": "2026-10-29",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-29",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
   "t:fenne|itcybersecurityanalystinternsummer2027": "2026-10-29",
@@ -4593,14 +4595,14 @@
    "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4482576991",
-   "https://www.linkedin.com/jobs/view/4482577951",
    "https://www.linkedin.com/jobs/view/4482580959",
    "https://www.linkedin.com/jobs/view/4482580963",
    "https://www.linkedin.com/jobs/view/4482592401",
    "https://www.linkedin.com/jobs/view/4484420604",
    "https://www.linkedin.com/jobs/view/4484766767",
    "https://www.linkedin.com/jobs/view/4484770272",
-   "https://www.linkedin.com/jobs/view/4484987073"
+   "https://www.linkedin.com/jobs/view/4484987073",
+   "https://www.linkedin.com/jobs/view/4485230919"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7736,18 +7738,6 @@
  "heartbeat": "2026-10-29 18",
  "recent": [
   [
-   1793216361.3623252,
-   "FedEx - Global Security Intern Summer 2027"
-  ],
-  [
-   1793218675.73523,
-   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, CI Cybersecurity, Energy Sys"
-  ],
-  [
-   1793218675.7352316,
-   "MIT Lincoln Laboratory - Summer Research Program Intern 2027, Electric Grid Communications"
-  ],
-  [
    1793227127.7479439,
    "QuadReal Property Group - Cyber Security, Winter 2027 - Toronto (Co-op/Internship) - 4 Mon"
   ],
@@ -7818,9 +7808,19 @@
   [
    1793308619.573553,
    "Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast"
+  ],
+  [
+   1793317647.517024,
+   "Federal Reserve Board - Summer 2027 Intern \u2013 Security Analyst \u2013 IT"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793317559.2009804,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
