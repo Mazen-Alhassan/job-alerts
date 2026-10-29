@@ -141,6 +141,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-10-29",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-10-29",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-29",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-29",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-29",
@@ -513,6 +514,7 @@
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-29",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-2": "2026-10-29",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-12",
+  "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": "2026-10-29",
   "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/spring-texas-united-states-of-america/cybersecurity-engineering-intern_1216080": "2026-10-27",
   "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/westford-massachusetts-united-states-of-america/sales-cyber-security-intern_1214044": "2026-10-29",
   "https://hubcareers-docusign.icims.com/jobs/30540/security-intern/job": "2026-10-29",
@@ -1770,7 +1772,7 @@
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-10-28",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-10-29",
   "t:semin|cybersecurityanalystintern": "2026-10-10",
   "t:senti|cybersecurityintern": "2026-10-29",
   "t:senti|socintern": "2026-10-29",
@@ -4553,6 +4555,7 @@
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465513920",
    "https://www.linkedin.com/jobs/view/4465527875",
    "https://www.linkedin.com/jobs/view/4465593711",
@@ -6389,7 +6392,9 @@
   "wd+:homedepot/careerdepot": [],
   "wd+:horizonmedia/CareerOpportunities": [],
   "wd+:howard/HU": [],
-  "wd+:hp/EXTEU-AC-CareerSite": [],
+  "wd+:hp/EXTEU-AC-CareerSite": [
+   "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-1"
+  ],
   "wd+:hp/externalcareersite": [],
   "wd+:hpe/acjobsite": [],
   "wd+:hpe/jobsathpe": [
