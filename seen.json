@@ -304,6 +304,7 @@
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-29",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----new-grad_r031979-1": "2026-10-27",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
+  "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/rtp-north-carolina-us/security-consulting-engineer-i--intern----united-states_2024817": "2026-10-29",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-10-29",
   "https://click.appcast.io/t/ardezvzymgoz1eevrtv5ex2z3ztytgw259zbgmjq4k0=": "2026-10-28",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
@@ -1379,6 +1380,7 @@
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-10-29",
   "t:ciena|softwareengineersecuritynewgrad": "2026-10-27",
   "t:cigna|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-08",
+  "t:cisco|securityconsultingengineeriinternunitedstates": "2026-10-29",
   "t:cityo|itstudentcybersecuritycontract": "2026-10-09",
   "t:cleco|interncybersecurity": "2026-10-29",
   "t:clima|cybersecurityintern": "2026-10-08",
@@ -5950,7 +5952,9 @@
   "wd+:circle/Circle": [],
   "wd+:circlek/circlekstorejobs": [],
   "wd+:circles/Circles": [],
-  "wd+:cisco/cisco_careers": [],
+  "wd+:cisco/cisco_careers": [
+   "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817"
+  ],
   "wd+:cisecurity/CIS_External_Career_Site": [],
   "wd+:cisive/Cisive": [],
   "wd+:citi/2": [],
@@ -7717,22 +7721,6 @@
  "heartbeat": "2026-10-29 10",
  "recent": [
   [
-   1793178235.9035683,
-   "Rivian - Early Career - Cybersecurity Application Security Engineer"
-  ],
-  [
-   1793182271.023257,
-   "Georgia Tech Research Institute - Hardware Security and Trust Co-op - Spring 2027 - CIPHER"
-  ],
-  [
-   1793183188.599361,
-   "Georgia Tech Research Institute - Embedded Systems Cyber Security Co-Op - Spring 2027 - CI"
-  ],
-  [
-   1793184560.2034292,
-   "Georgia Tech Research Institute - General Cybersecurity Intern - Spring 2027 - CIPHER"
-  ],
-  [
    1793193890.0958283,
    "CornerStone Technology Talent Services - Security Administrator( Intern)  \u2013 Identity & Acc"
   ],
@@ -7819,6 +7807,10 @@
   [
    1793271345.2269802,
    "Fenner Precision Polymers - IT Cybersecurity Analyst Intern - Summer 2027"
+  ],
+  [
+   1793286998.3634973,
+   "Cisco - Security Consulting Engineer I (Intern) - United States"
   ]
  ],
  "stem5": true,
