@@ -426,6 +426,8 @@
   "https://go.vansh.nyc/Xg": "2026-10-29",
   "https://go.vansh.nyc/Xh": "2026-10-29",
   "https://go.vansh.nyc/YE": "2026-10-29",
+  "https://go.vansh.nyc/Zg": "2026-10-29",
+  "https://go.vansh.nyc/Zk": "2026-10-29",
   "https://go.vansh.nyc/ba": "2026-10-26",
   "https://go.vansh.nyc/bk": "2026-10-26",
   "https://go.vansh.nyc/cl": "2026-10-27",
@@ -1387,6 +1389,7 @@
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-10-29",
   "t:ciena|softwareengineersecuritynewgrad": "2026-10-27",
   "t:cigna|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-10-08",
+  "t:cisco|securityconsultingengineeriintern": "2026-10-29",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-10-29",
   "t:cityo|itstudentcybersecuritycontract": "2026-10-09",
   "t:cleco|interncybersecurity": "2026-10-29",
@@ -1761,6 +1764,7 @@
   "t:rayth|systemssecurityengineeringinternsummer2027": "2026-10-09",
   "t:redha|softwareengineeringinterndeveloperhubsecurityteambrnoczechrepublic": "2026-10-08",
   "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-10-29",
+  "t:regen|itdigitalenablementinformationsecurityintern": "2026-10-29",
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
   "t:riche|stagiaireingnieurcyberscurit": "2026-10-08",
   "t:rivia|cybersecuritysummer2027internships": "2026-10-10",
@@ -5155,6 +5159,8 @@
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/YE",
+   "https://go.vansh.nyc/Zg",
+   "https://go.vansh.nyc/Zk",
    "https://go.vansh.nyc/eD",
    "https://go.vansh.nyc/h5",
    "https://go.vansh.nyc/hN"
@@ -7728,12 +7734,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-29 12",
+ "heartbeat": "2026-10-29 14",
  "recent": [
-  [
-   1793201399.4773252,
-   "Regeneron Pharmaceuticals - 2027 Summer Intern IT, Digital Enablement & Information Securi"
-  ],
   [
    1793206119.8192708,
    "Honeywell Technologies - Information Systems, IT, Cyber Engineer & Data Science - Summer 2"
@@ -7825,6 +7827,14 @@
   [
    1793291573.8418357,
    "Vulcan Materials Company - 2027 Summer Internship-Cybersecurity"
+  ],
+  [
+   1793297367.9947119,
+   "Cisco - Security Consulting Engineer I Intern"
+  ],
+  [
+   1793297367.9947138,
+   "Regeneron Pharmaceuticals - IT, Digital Enablement & Information Security Intern"
   ]
  ],
  "stem5": true,
