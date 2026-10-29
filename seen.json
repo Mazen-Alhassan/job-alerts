@@ -6463,9 +6463,7 @@
   "wd+:integralads/IAScareers": [],
   "wd+:integralife/careers": [],
   "wd+:integritymarketing/Integrity": [],
-  "wd+:intel/external": [
-   "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
-  ],
+  "wd+:intel/external": [],
   "wd+:intelcomgroup/Intelcom": [],
   "wd+:interac/Interac": [],
   "wd+:interdigital/InterDigital_Career": [],
@@ -7501,9 +7499,7 @@
   "wd:hpe/Jobsathpe": [
    "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Westford-Massachusetts-United-States-of-America/Sales-Cyber-Security-Intern_1214044"
   ],
-  "wd:intel/External": [
-   "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588"
-  ],
+  "wd:intel/External": [],
   "wd:leidos/External": [
    "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Cybersecurity-Intern_R-00195531",
    "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
@@ -7716,7 +7712,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-29 08",
+ "heartbeat": "2026-10-29 10",
  "recent": [
   [
    1793178235.9035683,
