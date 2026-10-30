@@ -35,6 +35,7 @@
   "gh:7986963003": "2026-10-30",
   "gh:7986965003": "2026-10-30",
   "gh:8005821003": "2026-10-30",
+  "gh:8035929003": "2026-10-30",
   "gh:8088496": "2026-10-30",
   "gh:8128811": "2026-10-30",
   "gh:8171696": "2026-10-22",
@@ -1500,6 +1501,7 @@
   "t:galax|offcycle2026cybersecurityinternship": "2026-10-30",
   "t:galax|offcyclefall2026cybersecurityinternship": "2026-10-20",
   "t:garmi|cybersecurityengineerintern": "2026-10-21",
+  "t:gcmgr|2027cybersecuritysummerintern": "2026-10-30",
   "t:gener|2027summerinterncybersecurityitoperations": "2026-10-23",
   "t:gener|2027summerinterndefenseagenciescybersecurity": "2026-10-15",
   "t:gener|cyberengineeringintern": "2026-10-20",
@@ -3087,7 +3089,9 @@
   "gh:gardacp": [],
   "gh:garnerhealth": [],
   "gh:gassouth": [],
-  "gh:gcmgrosvenor": [],
+  "gh:gcmgrosvenor": [
+   "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003"
+  ],
   "gh:gelbergroup": [],
   "gh:gelberhandshake": [],
   "gh:gemini": [],
@@ -7795,6 +7799,10 @@
   [
    1793369568.143076,
    "Mott MacDonald - Cybersecurity Internship - 2027"
+  ],
+  [
+   1793369723.0963776,
+   "GCM Grosvenor - 2027 Cybersecurity Summer Intern"
   ]
  ],
  "stem5": true,
