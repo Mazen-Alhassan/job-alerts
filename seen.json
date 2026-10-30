@@ -1132,6 +1132,7 @@
   "https://recruiting.paylocity.com/recruiting/jobs/details/4578257/scot-forge/it-cybersecurity-intern-summer-2027": "2026-10-24",
   "https://recruiting.ultipro.com/cry1001cryo/jobboard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/opportunitydetail": "2026-10-21",
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
+  "https://recruiting.ultipro.com/sts1000sco/jobboard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/opportunitydetail?opportunityid=458b5fae-3a73-448a-8133-a863d4df3fa0&postingid=c55fc317-83c6-42ff-8946-e9b7349e6211": "2026-10-30",
   "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-10",
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
   "https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-summer-intern-it--digital-enablement---information-security_r52561-1": "2026-10-30",
@@ -1214,6 +1215,7 @@
   "t:1pass|developerinternmachineidentitywinter2027": "2026-10-30",
   "t:1pass|securityinternthreatoperations": "2026-10-29",
   "t:1pass|securityinternthreatoperationswinter2027": "2026-10-30",
+  "t:1stso|interninformationsecuritysouthbendinsummer2027": "2026-10-30",
   "t:7elev|informationsecurityintern": "2026-10-29",
   "t:abbvi|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-30",
   "t:abbvi|cybersecurityinternbusinesstechnologysolutions": "2026-10-30",
@@ -4126,7 +4128,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
+   "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
   "jobvite:aarete": [],
@@ -7702,14 +7704,6 @@
  "heartbeat": "2026-10-30 08",
  "recent": [
   [
-   1793269974.579294,
-   "CloserStill Media - Content Intern - Billington CyberSecurity"
-  ],
-  [
-   1793271345.2269802,
-   "Fenner Precision Polymers - IT Cybersecurity Analyst Intern - Summer 2027"
-  ],
-  [
    1793286998.3634973,
    "Cisco - Security Consulting Engineer I (Intern) - United States"
   ],
@@ -7784,6 +7778,10 @@
   [
    1793362021.9178622,
    "Molina Healthcare - Cybersecurity Internship (Remote) \u2013 Summer 2027 (Undergraduate)"
+  ],
+  [
+   1793366582.3633053,
+   "1st Source Bank - Intern, Information Security, South Bend, IN (Summer 2027)"
   ]
  ],
  "stem5": true,
