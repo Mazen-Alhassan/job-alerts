@@ -16,6 +16,7 @@
   "gh:5448019008": "2026-10-30",
   "gh:5466153008": "2026-10-30",
   "gh:5466978008": "2026-10-30",
+  "gh:5467125008": "2026-10-30",
   "gh:6116398004": "2026-10-30",
   "gh:6148707004": "2026-10-30",
   "gh:6163325004": "2026-10-30",
@@ -1468,7 +1469,7 @@
   "t:emers|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emers|cybersecurityengineeringintern": "2026-10-15",
   "t:encom|itsecuritystudentinternsummer2027": "2026-10-14",
-  "t:ensco|informationsecurityintern": "2026-10-16",
+  "t:ensco|informationsecurityintern": "2026-10-30",
   "t:ensig|internvulnerabilityresearch": "2026-10-30",
   "t:enteg|cybersecurityengineercoop": "2026-10-28",
   "t:enteg|cyberthreatanalystcoop": "2026-10-12",
@@ -3014,7 +3015,9 @@
   "gh:enigmaio": [],
   "gh:ennoblecare": [],
   "gh:enova": [],
-  "gh:ensco": [],
+  "gh:ensco": [
+   "https://job-boards.greenhouse.io/ensco/jobs/5467125008"
+  ],
   "gh:ensemble": [],
   "gh:eosfitness": [],
   "gh:epicgames": [],
@@ -4128,6 +4131,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -7785,6 +7789,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793366962.7149913,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
