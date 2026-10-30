@@ -1194,6 +1194,7 @@
   "https://talentmanagementsolution.wd3.myworkdayjobs.com/perseus-careers/job/remote---usa/cyber-security-intern_r52980-2": "2026-10-14",
   "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-spring-co-op---global-technology---solutions---cyber-security_r_1510103": "2026-10-11",
   "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---cyber-security_r_1510795": "2026-10-11",
+  "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/toronto-ontario/cyber-security-co-op---intern---winter-2027-_r_1509810": "2026-10-30",
   "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-1": "2026-10-30",
   "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-2": "2026-10-30",
   "https://thales.wd3.myworkdayjobs.com/careers/job/crawley/xmlname-2027-cloud-assurance-and-cyber-security-apprentice_r0337751": "2026-10-30",
@@ -1855,6 +1856,7 @@
   "t:tampa|spring2027studentinternshipadicybersecurity": "2026-10-29",
   "t:tampa|spring2027studentinternshipcybersecurity": "2026-10-18",
   "t:taniu|cloudsecurityintern": "2026-10-30",
+  "t:td|cybersecurityinterncoopwinter2027": "2026-10-30",
   "t:teled|eadsimsoftwareengineeringinternsummer2027withsecurityclearance": "2026-10-26",
   "t:telil|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tence|cybersecurityengineerintern": "2026-10-30",
@@ -1974,7 +1976,6 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4100,9 +4101,7 @@
   "icims:globalcareers-sas.icims.com": [],
   "icims:graduate-roi-dawnmeats.icims.com": [],
   "icims:gsk-us-earlytalent.icims.com": [],
-  "icims:homeoffice-na-urbn.icims.com": [
-   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job"
-  ],
+  "icims:homeoffice-na-urbn.icims.com": [],
   "icims:hubcareers-docusign.icims.com": [
    "https://hubcareers-docusign.icims.com/jobs/30540/security-intern/job"
   ],
@@ -5539,7 +5538,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -7553,7 +7554,9 @@
    "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
   ],
   "wd:target/targetcareers": [],
-  "wd:td/TD_Bank_Careers": [],
+  "wd:td/TD_Bank_Careers": [
+   "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810"
+  ],
   "wd:travelers/External": [],
   "wd:trendmicro/External": [],
   "wd:upbound/Upbound": [],
@@ -7836,9 +7839,19 @@
   [
    1793393674.9746406,
    "BRAIN - AI Security Engineer Intern (Summer 2027)"
+  ],
+  [
+   1793394365.470557,
+   "TD - Cyber Security Intern/Co-op (Winter 2027)"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793394258.3322463,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
