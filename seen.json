@@ -1071,6 +1071,7 @@
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-30",
   "https://linkedin.com/jobs/view/4485284958": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485357475": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1405,6 +1406,7 @@
   "t:cente|cloudsecurityincidentresponseanalystinternundergraduatesummer2027": "2026-10-15",
   "t:cente|cybersecurityintern": "2026-10-26",
   "t:cente|cybersecuritysummer2027internundergraduate": "2026-10-30",
+  "t:cente|springinterncriticalmineralssecurityprogram": "2026-10-30",
   "t:centr|securityintern": "2026-10-30",
   "t:certi|blockchainsecurityexpertinternaitrack": "2026-10-30",
   "t:certi|securityresearchinternship": "2026-10-30",
@@ -4574,13 +4576,14 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448869906",
    "https://www.linkedin.com/jobs/view/4459072266",
-   "https://www.linkedin.com/jobs/view/4459159613",
+   "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
+   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4484542141",
@@ -4590,7 +4593,8 @@
    "https://www.linkedin.com/jobs/view/4485230919",
    "https://www.linkedin.com/jobs/view/4485254140",
    "https://www.linkedin.com/jobs/view/4485272467",
-   "https://www.linkedin.com/jobs/view/4485284958"
+   "https://www.linkedin.com/jobs/view/4485284958",
+   "https://www.linkedin.com/jobs/view/4485357475"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7817,6 +7821,10 @@
   [
    1793376777.3207,
    "Carnegie Mellon University - Cyber Range Development Intern"
+  ],
+  [
+   1793376911.7835357,
+   "Center for Strategic and International Studies (CSIS) - Spring Intern, Critical Minerals S"
   ]
  ],
  "stem5": true,
