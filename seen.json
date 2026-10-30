@@ -515,6 +515,7 @@
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-30",
   "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040171": "2026-10-30",
   "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040172": "2026-10-30",
+  "https://hckd.fa.us2.oraclecloud.com:443/hcmui/candidateexperience/en/job/2040172": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-30",
@@ -1971,7 +1972,6 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4164,6 +4164,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
+   "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -5534,9 +5535,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
