@@ -405,6 +405,7 @@
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/secure-software-intern--summer-2027-_01884942": "2026-10-30",
   "https://go.vansh.nyc/10C": "2026-10-30",
   "https://go.vansh.nyc/10E": "2026-10-30",
+  "https://go.vansh.nyc/10M": "2026-10-30",
   "https://go.vansh.nyc/SC": "2026-10-30",
   "https://go.vansh.nyc/SD": "2026-10-30",
   "https://go.vansh.nyc/SE": "2026-10-30",
@@ -5129,6 +5130,7 @@
   "simplify-vansh": [
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10E",
+   "https://go.vansh.nyc/10M",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -5203,9 +5205,7 @@
   "sr:AxleInformaticsLLC": [],
   "sr:BAESystems3": [],
   "sr:BCforward3": [],
-  "sr:BEUMERGroup1": [
-   "https://jobs.smartrecruiters.com/BEUMERGroup1/744000154188459"
-  ],
+  "sr:BEUMERGroup1": [],
   "sr:Bertelsmann-Jobs": [],
   "sr:Bet3651": [],
   "sr:BetaSoftSystems3": [],
