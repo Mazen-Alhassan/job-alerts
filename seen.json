@@ -1053,6 +1053,7 @@
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485272467": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1462,6 +1463,7 @@
   "t:exped|securityengineeringintern": "2026-10-20",
   "t:exped|securityengineeringintern2027seattle": "2026-10-30",
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
+  "t:feder|aviationsecurityintern": "2026-10-30",
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-10-30",
   "t:feder|summer2027internsecurityanalystit": "2026-10-30",
@@ -1914,13 +1916,11 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4539,7 +4539,6 @@
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
-   "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4482576991",
    "https://www.linkedin.com/jobs/view/4482577951",
    "https://www.linkedin.com/jobs/view/4482580959",
@@ -4552,7 +4551,8 @@
    "https://www.linkedin.com/jobs/view/4484770272",
    "https://www.linkedin.com/jobs/view/4484987073",
    "https://www.linkedin.com/jobs/view/4485230919",
-   "https://www.linkedin.com/jobs/view/4485254140"
+   "https://www.linkedin.com/jobs/view/4485254140",
+   "https://www.linkedin.com/jobs/view/4485272467"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7688,10 +7688,6 @@
  "heartbeat": "2026-10-29 20",
  "recent": [
   [
-   1793227127.7479439,
-   "QuadReal Property Group - Cyber Security, Winter 2027 - Toronto (Co-op/Internship) - 4 Mon"
-  ],
-  [
    1793232202.0812957,
    "Nintendo - Intern - Software Engineer, Platform Security (NTD)"
   ],
@@ -7766,6 +7762,10 @@
   [
    1793320128.0546591,
    "New Jersey Courts - Cybersecurity Engineering Intern (Hourly)"
+  ],
+  [
+   1793321521.7249274,
+   "Federal Express Corporation - Aviation Security Intern"
   ]
  ],
  "stem5": true,
