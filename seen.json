@@ -1032,6 +1032,7 @@
   "https://linkedin.com/jobs/view/4483328126": "2026-10-25",
   "https://linkedin.com/jobs/view/4483396624": "2026-10-26",
   "https://linkedin.com/jobs/view/4483451177": "2026-10-30",
+  "https://linkedin.com/jobs/view/4483490568": "2026-10-30",
   "https://linkedin.com/jobs/view/4483568549": "2026-10-27",
   "https://linkedin.com/jobs/view/4483596688": "2026-10-27",
   "https://linkedin.com/jobs/view/4483598666": "2026-10-27",
@@ -1835,6 +1836,7 @@
   "t:spect|2027summerinternoperationsanalystcorporatephysicalsecurity": "2026-10-18",
   "t:spect|2027summerinternsecurityengineer": "2026-10-30",
   "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-27",
+  "t:steal|cybersecurityintern": "2026-10-30",
   "t:stell|2027corporatesecuritysummerinternship": "2026-10-15",
   "t:stife|informationsecurityintern": "2026-10-28",
   "t:stife|informationsecurityinternsummer2027": "2026-10-30",
@@ -4162,7 +4164,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4596,9 +4597,11 @@
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
+   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
+   "https://www.linkedin.com/jobs/view/4483490568",
    "https://www.linkedin.com/jobs/view/4484830152",
    "https://www.linkedin.com/jobs/view/4484850845",
    "https://www.linkedin.com/jobs/view/4484868825",
@@ -5728,10 +5731,8 @@
   "wd+:bah/BAH_Jobs": [
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
@@ -5740,18 +5741,14 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"
   ],
   "wd+:bah/Confidential": [],
   "wd+:bah/bah_jobs": [
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
@@ -5761,7 +5758,6 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
   ],
   "wd+:baincapital/External_Public": [],
@@ -5976,9 +5972,7 @@
   "wd+:circle/Circle": [],
   "wd+:circlek/circlekstorejobs": [],
   "wd+:circles/Circles": [],
-  "wd+:cisco/cisco_careers": [
-   "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817"
-  ],
+  "wd+:cisco/cisco_careers": [],
   "wd+:cisecurity/CIS_External_Career_Site": [],
   "wd+:cisive/Cisive": [],
   "wd+:citi/2": [],
@@ -7849,6 +7843,10 @@
   [
    1793386845.4646811,
    "City of Long Beach - ADMINISTRATIVE INTERN - (NON-CAREER) - SECURITY"
+  ],
+  [
+   1793389686.4494073,
+   "Stealth Startup - Cyber Security Intern"
   ]
  ],
  "stem5": true,
