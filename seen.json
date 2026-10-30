@@ -1006,6 +1006,7 @@
   "https://linkedin.com/jobs/view/4482714601": "2026-10-23",
   "https://linkedin.com/jobs/view/4482869637": "2026-10-24",
   "https://linkedin.com/jobs/view/4482875555": "2026-10-24",
+  "https://linkedin.com/jobs/view/4483088272": "2026-10-30",
   "https://linkedin.com/jobs/view/4483160876": "2026-10-27",
   "https://linkedin.com/jobs/view/4483170573": "2026-10-25",
   "https://linkedin.com/jobs/view/4483172515": "2026-10-25",
@@ -1352,6 +1353,7 @@
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-30",
   "t:bracc|productsecurityengineeringintern": "2026-10-30",
   "t:brain|aisecurityengineercoop": "2026-10-21",
+  "t:brigh|cybersecurityintern": "2026-10-30",
   "t:build|productsecurityintern": "2026-10-16",
   "t:burli|securityoperationsinternsummer2027": "2026-10-30",
   "t:burnc|cybersecuritystudent": "2026-10-15",
@@ -4545,6 +4547,7 @@
    "https://www.linkedin.com/jobs/view/4482580959",
    "https://www.linkedin.com/jobs/view/4482580963",
    "https://www.linkedin.com/jobs/view/4482592401",
+   "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4484155957",
    "https://www.linkedin.com/jobs/view/4484174105",
    "https://www.linkedin.com/jobs/view/4484420604",
@@ -7766,6 +7769,10 @@
   [
    1793321521.7249274,
    "Federal Express Corporation - Aviation Security Intern"
+  ],
+  [
+   1793323842.8665617,
+   "Bright Network Consulting - Cyber Security Intern"
   ]
  ],
  "stem5": true,
