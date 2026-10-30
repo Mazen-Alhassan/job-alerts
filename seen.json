@@ -306,6 +306,7 @@
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-30",
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": "2026-10-30",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-29",
+  "https://cibc.wd3.myworkdayjobs.com/search/job/toronto-on/corporate-security-coordinator-co-op_2622551-1": "2026-10-30",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-30",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----new-grad_r031979-1": "2026-10-27",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
@@ -1069,6 +1070,7 @@
   "https://linkedin.com/jobs/view/4484830152": "2026-10-30",
   "https://linkedin.com/jobs/view/4484850845": "2026-10-30",
   "https://linkedin.com/jobs/view/4484868825": "2026-10-30",
+  "https://linkedin.com/jobs/view/4484884364": "2026-10-30",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
@@ -1420,6 +1422,7 @@
   "t:churc|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-18",
   "t:churc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-18",
   "t:churc|internitapplicationsecurity": "2026-10-16",
+  "t:cibc|corporatesecuritycoordinatorcoop": "2026-10-30",
   "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-29",
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-10-30",
@@ -4151,7 +4154,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4593,6 +4595,7 @@
    "https://www.linkedin.com/jobs/view/4484830152",
    "https://www.linkedin.com/jobs/view/4484850845",
    "https://www.linkedin.com/jobs/view/4484868825",
+   "https://www.linkedin.com/jobs/view/4484884364",
    "https://www.linkedin.com/jobs/view/4485230919",
    "https://www.linkedin.com/jobs/view/4485254140",
    "https://www.linkedin.com/jobs/view/4485272467",
@@ -5129,7 +5132,6 @@
   ],
   "simplify-vansh": [
    "https://go.vansh.nyc/10C",
-   "https://go.vansh.nyc/10E",
    "https://go.vansh.nyc/10M",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
@@ -7485,7 +7487,9 @@
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
   ],
   "wd:capitalone/Capital_One": [],
-  "wd:cibc/search": [],
+  "wd:cibc/search": [
+   "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1"
+  ],
   "wd:ciena/Careers": [
    "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
@@ -7818,9 +7822,19 @@
   [
    1793383559.6641572,
    "Software Engineering Institute | Carnegie Mellon University - Cyber Range Development Inte"
+  ],
+  [
+   1793385024.9329243,
+   "CIBC - Corporate Security Coordinator Co-op"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793384961.9522405,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
