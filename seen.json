@@ -1085,6 +1085,7 @@
   "https://linkedin.com/jobs/view/4485357475": "2026-10-30",
   "https://linkedin.com/jobs/view/4485381912": "2026-10-30",
   "https://linkedin.com/jobs/view/4485601040": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485614759": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1975,11 +1976,13 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4167,7 +4170,6 @@
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
    "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4613,7 +4615,6 @@
    "https://www.linkedin.com/jobs/view/4485254140",
    "https://www.linkedin.com/jobs/view/4485272467",
    "https://www.linkedin.com/jobs/view/4485284958",
-   "https://www.linkedin.com/jobs/view/4485357475",
    "https://www.linkedin.com/jobs/view/4485601040"
   ],
   "linkedin": [
@@ -7529,9 +7530,7 @@
   "wd:mastercard/CorporateCareers": [],
   "wd:motorolasolutions/Careers": [],
   "wd:ngc/northrop_grumman_external_site": [],
-  "wd:nvidia/NVIDIAExternalCareerSite": [
-   "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
-  ],
+  "wd:nvidia/NVIDIAExternalCareerSite": [],
   "wd:otis/REC_Ext_Gateway": [],
   "wd:paloaltonetworks/panwexternalcareers": [],
   "wd:pnc/External": [],
