@@ -143,7 +143,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-10-30",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-10-30",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-29",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-30",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-30",
@@ -1052,6 +1052,7 @@
   "https://linkedin.com/jobs/view/4484770272": "2026-10-30",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1669,6 +1670,7 @@
   "t:netfl|softwareengineerinternsummer2027": "2026-10-30",
   "t:netsm|securityanalystfuturesummer2027internship": "2026-10-30",
   "t:netsm|securityanalystintern": "2026-10-30",
+  "t:newje|cybersecurityengineeringinternhourly": "2026-10-30",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:ninte|internsoftwareengineerplatformsecurityntd": "2026-10-30",
   "t:nissa|corporatesecurityinternsummer2027franklintn": "2026-10-30",
@@ -1758,7 +1760,7 @@
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-10-29",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-10-30",
   "t:semin|cybersecurityanalystintern": "2026-10-10",
   "t:senti|cybersecurityintern": "2026-10-30",
   "t:senti|socintern": "2026-10-30",
@@ -1913,7 +1915,6 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
-   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4549,7 +4550,8 @@
    "https://www.linkedin.com/jobs/view/4484766767",
    "https://www.linkedin.com/jobs/view/4484770272",
    "https://www.linkedin.com/jobs/view/4484987073",
-   "https://www.linkedin.com/jobs/view/4485230919"
+   "https://www.linkedin.com/jobs/view/4485230919",
+   "https://www.linkedin.com/jobs/view/4485254140"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7759,6 +7761,10 @@
   [
    1793317647.517024,
    "Federal Reserve Board - Summer 2027 Intern \u2013 Security Analyst \u2013 IT"
+  ],
+  [
+   1793320128.0546591,
+   "New Jersey Courts - Cybersecurity Engineering Intern (Hourly)"
   ]
  ],
  "stem5": true,
