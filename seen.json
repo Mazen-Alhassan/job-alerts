@@ -502,6 +502,7 @@
   "https://grnh.se/3rzsdnsm9us": "2026-10-23",
   "https://grnh.se/bng9sqd88us": "2026-10-29",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-30",
+  "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040171": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-30",
@@ -1663,6 +1664,7 @@
   "t:mitre|cyberoperationsintern": "2026-10-30",
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-10-30",
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-10-30",
+  "t:molin|cybersecurityinternshipremotesummer2027undergraduate": "2026-10-30",
   "t:monol|securityanalystintern": "2026-10-30",
   "t:motio|grccybersecurityanalystintern": "2026-10-15",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-10-30",
@@ -4122,9 +4124,7 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician"
-  ],
+  "jobspy": [],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4793,7 +4793,9 @@
   "oracle:hccz.fa.em3.oraclecloud.com/CX_2": [],
   "oracle:hcgn.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcjy.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [],
+  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [
+   "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040171"
+  ],
   "oracle:hckz.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcmn.fa.ap1.oraclecloud.com/CX_1001": [],
   "oracle:hcog.fa.em2.oraclecloud.com/CX_1": [],
@@ -7693,7 +7695,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-30 06",
+ "heartbeat": "2026-10-30 08",
  "recent": [
   [
    1793269974.579294,
@@ -7774,6 +7776,10 @@
   [
    1793361295.1411057,
    "Spectrum - 2027 Summer Intern:\u00a0Security Engineer"
+  ],
+  [
+   1793362021.9178622,
+   "Molina Healthcare - Cybersecurity Internship (Remote) \u2013 Summer 2027 (Undergraduate)"
   ]
  ],
  "stem5": true,
