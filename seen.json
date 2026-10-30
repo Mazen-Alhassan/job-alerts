@@ -880,6 +880,7 @@
   "https://linkedin.com/jobs/view/4476865440": "2026-10-10",
   "https://linkedin.com/jobs/view/4476988984": "2026-10-30",
   "https://linkedin.com/jobs/view/4477015643": "2026-10-15",
+  "https://linkedin.com/jobs/view/4477195554": "2026-10-30",
   "https://linkedin.com/jobs/view/4477406995": "2026-10-17",
   "https://linkedin.com/jobs/view/4477415557": "2026-10-09",
   "https://linkedin.com/jobs/view/4477426178": "2026-10-17",
@@ -1507,6 +1508,7 @@
   "t:georg|generalcybersecurityinternspring2027cipher": "2026-10-29",
   "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-10-17",
+  "t:georg|wirelesssecurityengineeringstudentassistantspring2027cipher": "2026-10-30",
   "t:geron|itsecurityanalystintern": "2026-10-15",
   "t:gmfin|interncybersecurity": "2026-10-30",
   "t:googl|securityconsultantinternbsmssummer2027": "2026-10-12",
@@ -4116,9 +4118,7 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician"
-  ],
+  "jobspy": [],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4549,6 +4549,7 @@
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
+   "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4484542141",
    "https://www.linkedin.com/jobs/view/4484546998",
@@ -7754,6 +7755,10 @@
   [
    1793343649.2044168,
    "Archer - College to Corporate IT Internship - Risk & Security - Engineer"
+  ],
+  [
+   1793357355.0335975,
+   "Georgia Tech Research Institute - Wireless Security Engineering Student Assistant - Spring"
   ]
  ],
  "stem5": true,
