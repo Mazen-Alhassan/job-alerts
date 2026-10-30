@@ -70,7 +70,7 @@
   "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-26",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-28",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-10-30",
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-08",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-30",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-10-30",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-10-30",
@@ -1221,6 +1221,7 @@
   "t:abbvi|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-30",
   "t:abbvi|cybersecurityinternbusinesstechnologysolutions": "2026-10-30",
   "t:accen|cybersecurityinternship": "2026-10-30",
+  "t:accen|internshipsecurityasoffebruary2027": "2026-10-30",
   "t:acluk|summer2027legalinternnationalsecurityproject": "2026-10-30",
   "t:acluk|summer2027undergraduateinternnationalsecurityproject": "2026-10-30",
   "t:activ|activision2027summerinternshipsinformationsecurity": "2026-10-19",
@@ -5500,6 +5501,7 @@
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
   "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897",
    "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
   ],
   "wd+:accenture/AvanadeCareers": [],
@@ -7789,12 +7791,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793366962.7149913,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
