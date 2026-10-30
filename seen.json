@@ -403,6 +403,8 @@
   "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ma-cambridge-bbn05--10--50-moulton-st--moulton-b5/summer-2027-cyber-intern---onsite_01879253": "2026-10-30",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-fullerton-675--1801-hughes-dr--bldg-675/systems-security-engineering-intern---summer-2027-_01878922": "2026-10-09",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/secure-software-intern--summer-2027-_01884942": "2026-10-30",
+  "https://go.vansh.nyc/10C": "2026-10-30",
+  "https://go.vansh.nyc/10E": "2026-10-30",
   "https://go.vansh.nyc/SC": "2026-10-30",
   "https://go.vansh.nyc/SD": "2026-10-30",
   "https://go.vansh.nyc/SE": "2026-10-30",
@@ -1395,6 +1397,7 @@
   "t:canad|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
   "t:carne|aisecurityresearchinternsummer2027": "2026-10-10",
   "t:carne|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
+  "t:carne|cyberrangedevelopmentintern": "2026-10-30",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
   "t:cedar|securityinternships": "2026-10-29",
   "t:cente|applicationssecurityengineerinternundergraduatesummer2027": "2026-10-28",
@@ -4143,7 +4146,6 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4573,15 +4575,12 @@
    "https://www.linkedin.com/jobs/view/4448869906",
    "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4459159613",
-   "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475963978",
-   "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
-   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4484542141",
@@ -5121,6 +5120,8 @@
    "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
   ],
   "simplify-vansh": [
+   "https://go.vansh.nyc/10C",
+   "https://go.vansh.nyc/10E",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -5514,7 +5515,6 @@
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
   "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897",
    "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
   ],
   "wd+:accenture/AvanadeCareers": [],
@@ -7106,9 +7106,7 @@
   "wd+:smucker/US_External_Careers": [],
   "wd+:snapchat/snap": [],
   "wd+:snapfinance/snap_external_careers": [],
-  "wd+:snc/snc_external_career_site": [
-   "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269"
-  ],
+  "wd+:snc/snc_external_career_site": [],
   "wd+:snhu/External_Career_Site": [],
   "wd+:snyk/External": [],
   "wd+:solenis/Solenis": [],
@@ -7722,7 +7720,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-30 10",
+ "heartbeat": "2026-10-30 12",
  "recent": [
   [
    1793286998.3634973,
@@ -7815,6 +7813,10 @@
   [
    1793374195.9352555,
    "Amazon - Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summe"
+  ],
+  [
+   1793376777.3207,
+   "Carnegie Mellon University - Cyber Range Development Intern"
   ]
  ],
  "stem5": true,
