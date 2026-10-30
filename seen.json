@@ -305,6 +305,7 @@
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cloud-security-incident-response-analyst-intern--undergraduate---summer-2027-_1667738-1": "2026-10-15",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/cybersecurity-summer-2027-intern--undergraduate-_1660514": "2026-10-30",
   "https://chrobinson.wd5.myworkdayjobs.com/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": "2026-10-30",
+  "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/corporate-security-coordinator-co-op_2622551": "2026-10-30",
   "https://cibc.wd3.myworkdayjobs.com/campus/job/toronto-on/information-security-analyst-winter-2027-co-op_2621159": "2026-10-29",
   "https://cibc.wd3.myworkdayjobs.com/search/job/toronto-on/corporate-security-coordinator-co-op_2622551-1": "2026-10-30",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-10-30",
@@ -407,6 +408,7 @@
   "https://go.vansh.nyc/10C": "2026-10-30",
   "https://go.vansh.nyc/10E": "2026-10-30",
   "https://go.vansh.nyc/10M": "2026-10-30",
+  "https://go.vansh.nyc/10U": "2026-10-30",
   "https://go.vansh.nyc/SC": "2026-10-30",
   "https://go.vansh.nyc/SD": "2026-10-30",
   "https://go.vansh.nyc/SE": "2026-10-30",
@@ -512,6 +514,7 @@
   "https://grnh.se/fy78hwlm8us": "2026-10-30",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-10-30",
   "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040171": "2026-10-30",
+  "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040172": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---air-group-building-kyarp/ups-information-security-summer-2027-internship---ky_r26029765": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-corporate-offices-gacor/ups-information-security-summer-2027-internship---ga_r26029762": "2026-10-30",
   "https://hcmportal.wd5.myworkdayjobs.com/search/job/us---ups-technology-headquarters--datacenter-njrar/ups-information-security-summer-2027-internship---nj_r26029761": "2026-10-30",
@@ -1517,6 +1520,7 @@
   "t:galax|offcyclefall2026cybersecurityinternship": "2026-10-20",
   "t:garmi|cybersecurityengineerintern": "2026-10-21",
   "t:gcmgr|2027cybersecuritysummerintern": "2026-10-30",
+  "t:gcmgr|cybersecurityintern": "2026-10-30",
   "t:gener|2027summerinterncybersecurityitoperations": "2026-10-23",
   "t:gener|2027summerinterndefenseagenciescybersecurity": "2026-10-15",
   "t:gener|cyberengineeringintern": "2026-10-20",
@@ -4154,6 +4158,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
+   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4587,7 +4592,6 @@
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
-   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
@@ -4829,7 +4833,9 @@
   "oracle:hccz.fa.em3.oraclecloud.com/CX_2": [],
   "oracle:hcgn.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcjy.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [],
+  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [
+   "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172"
+  ],
   "oracle:hckz.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcmn.fa.ap1.oraclecloud.com/CX_1001": [],
   "oracle:hcog.fa.em2.oraclecloud.com/CX_1": [],
@@ -5133,6 +5139,7 @@
   "simplify-vansh": [
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10M",
+   "https://go.vansh.nyc/10U",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -5953,7 +5960,9 @@
    "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"
   ],
   "wd+:churchdwight/chdcareers": [],
-  "wd+:cibc/campus": [],
+  "wd+:cibc/campus": [
+   "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551"
+  ],
   "wd+:ciena/careers": [
    "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
@@ -7732,10 +7741,6 @@
  "heartbeat": "2026-10-30 14",
  "recent": [
   [
-   1793291573.8418357,
-   "Vulcan Materials Company - 2027 Summer Internship-Cybersecurity"
-  ],
-  [
    1793297367.9947119,
    "Cisco - Security Consulting Engineer I Intern"
   ],
@@ -7826,15 +7831,13 @@
   [
    1793385024.9329243,
    "CIBC - Corporate Security Coordinator Co-op"
+  ],
+  [
+   1793385997.9803407,
+   "GCM Grosvenor - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793384961.9522405,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
