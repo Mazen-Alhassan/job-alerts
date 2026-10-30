@@ -1053,6 +1053,7 @@
   "https://linkedin.com/jobs/view/4484752301": "2026-10-29",
   "https://linkedin.com/jobs/view/4484766767": "2026-10-30",
   "https://linkedin.com/jobs/view/4484770272": "2026-10-30",
+  "https://linkedin.com/jobs/view/4484830152": "2026-10-30",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
@@ -1308,6 +1309,7 @@
   "t:archc|securityoperationsintern": "2026-10-28",
   "t:arche|collegetocorporateitinternshiprisksecurityanalystnc": "2026-10-28",
   "t:arche|collegetocorporateitinternshiprisksecurityanalystpa": "2026-10-24",
+  "t:arche|collegetocorporateitinternshiprisksecurityengineer": "2026-10-30",
   "t:arcon|cybersecurityintern": "2026-10-30",
   "t:arizo|2027summerinternshipcybersecurity": "2026-10-10",
   "t:arkio|embeddedsystemsdronesecurityrdintern": "2026-10-29",
@@ -4548,10 +4550,10 @@
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4483088272",
-   "https://www.linkedin.com/jobs/view/4484420604",
    "https://www.linkedin.com/jobs/view/4484542141",
    "https://www.linkedin.com/jobs/view/4484546998",
    "https://www.linkedin.com/jobs/view/4484766767",
+   "https://www.linkedin.com/jobs/view/4484830152",
    "https://www.linkedin.com/jobs/view/4484987073",
    "https://www.linkedin.com/jobs/view/4485230919",
    "https://www.linkedin.com/jobs/view/4485254140",
@@ -5114,7 +5116,6 @@
    "https://go.vansh.nyc/YE",
    "https://go.vansh.nyc/Zg",
    "https://go.vansh.nyc/Zk",
-   "https://go.vansh.nyc/h5",
    "https://go.vansh.nyc/hN"
   ],
   "sr:3SBusinessCorporationInc1": [],
@@ -7750,6 +7751,10 @@
   [
    1793340725.0955732,
    "New age Group - Apprentice Security Systems Technician"
+  ],
+  [
+   1793343649.2044168,
+   "Archer - College to Corporate IT Internship - Risk & Security - Engineer"
   ]
  ],
  "stem5": true,
