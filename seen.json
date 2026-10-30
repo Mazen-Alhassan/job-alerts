@@ -583,6 +583,7 @@
   "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847": "2026-10-30",
   "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e": "2026-10-30",
   "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": "2026-10-30",
+  "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a": "2026-10-30",
   "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930": "2026-10-15",
   "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930/application": "2026-10-21",
   "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d": "2026-10-30",
@@ -1390,6 +1391,7 @@
   "t:bound|itoperationssecurityinternsummer2027": "2026-10-30",
   "t:bracc|productsecurityengineeringintern": "2026-10-30",
   "t:brain|aisecurityengineercoop": "2026-10-21",
+  "t:brain|aisecurityengineerinternsummer2027": "2026-10-30",
   "t:brigh|cybersecurityintern": "2026-10-30",
   "t:build|productsecurityintern": "2026-10-16",
   "t:burli|securityoperationsinternsummer2027": "2026-10-30",
@@ -1972,6 +1974,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4165,6 +4168,7 @@
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
+   "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -7730,14 +7734,6 @@
  "heartbeat": "2026-10-30 16",
  "recent": [
   [
-   1793297367.9947119,
-   "Cisco - Security Consulting Engineer I Intern"
-  ],
-  [
-   1793297367.9947138,
-   "Regeneron Pharmaceuticals - IT, Digital Enablement & Information Security Intern"
-  ],
-  [
    1793307272.466367,
    "HCSC - Early Careers - Cybersecurity Operations Intern"
   ],
@@ -7836,6 +7832,10 @@
   [
    1793389686.4494073,
    "Stealth Startup - Cyber Security Intern"
+  ],
+  [
+   1793393674.9746406,
+   "BRAIN - AI Security Engineer Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
