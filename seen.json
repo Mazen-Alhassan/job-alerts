@@ -886,6 +886,7 @@
   "https://linkedin.com/jobs/view/4477426178": "2026-10-17",
   "https://linkedin.com/jobs/view/4477458704": "2026-10-09",
   "https://linkedin.com/jobs/view/4477477163": "2026-10-09",
+  "https://linkedin.com/jobs/view/4477497151": "2026-10-30",
   "https://linkedin.com/jobs/view/4477503033": "2026-10-13",
   "https://linkedin.com/jobs/view/4477505522": "2026-10-12",
   "https://linkedin.com/jobs/view/4477568999": "2026-10-13",
@@ -1378,6 +1379,7 @@
   "t:cae|stagiairespcialistedelintgrationencyberscurit": "2026-10-30",
   "t:caico|cybersecurityanalystintern": "2026-10-13",
   "t:cai|cybersecurityanalystintern": "2026-10-30",
+  "t:calpo|securedwatchlicensedtrackstudentassistantsolanocampus": "2026-10-30",
   "t:canad|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
   "t:carne|aisecurityresearchinternsummer2027": "2026-10-10",
   "t:carne|aisecuritysoftwareengineerinternsummer2027": "2026-10-10",
@@ -4545,11 +4547,11 @@
    "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4459159613",
    "https://www.linkedin.com/jobs/view/4465937066",
-   "https://www.linkedin.com/jobs/view/4468279385",
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4477195554",
+   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4484542141",
    "https://www.linkedin.com/jobs/view/4484546998",
@@ -7759,15 +7761,13 @@
   [
    1793357355.0335975,
    "Georgia Tech Research Institute - Wireless Security Engineering Student Assistant - Spring"
+  ],
+  [
+   1793359200.6232004,
+   "Cal Poly Maritime Academy - Secured Watch (Licensed Track) Student Assistant-Solano Campus"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793357990.6293395,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
