@@ -1102,6 +1102,7 @@
   "https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/stevenage/cyber-security-analyst-level-6-degree-apprenticeship-2027_r39978": "2026-10-26",
   "https://meijer.wd5.myworkdayjobs.com/meijer/job/grand-rapids-mi/information-security-intern--summer-2027_r000698302": "2026-10-19",
   "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/st-louis-mo/intern---security-analyst_jr1473": "2026-10-30",
+  "https://mmc.wd1.myworkdayjobs.com/mmc/job/boise---broadway/xmlname-2027-summer-internship-program---cyber-risk-management_r_371099": "2026-10-30",
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/new-york---1166/cyber-analytics-actuarial-spring-co-op---college-program-2027_r_370066": "2026-10-30",
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-10-30",
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-29",
@@ -1666,6 +1667,7 @@
   "t:lyond|2027cybersecurityintern": "2026-10-09",
   "t:manit|summer2027interncybersecurity": "2026-10-29",
   "t:manul|springcoop2027softwareengineeringsecurityoperations": "2026-10-19",
+  "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-10-30",
   "t:marsh|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-30",
   "t:marve|securityverificationvalidationengineerinternbssummer2027": "2026-10-30",
   "t:mativ|cybersecurityintern": "2026-10-29",
@@ -4592,6 +4594,7 @@
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
+   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
@@ -6723,6 +6726,7 @@
   "wd+:mksinst/mkscareersamericas": [],
   "wd+:mlse/MLSE": [],
   "wd+:mmc/MMC": [
+   "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099",
    "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
   ],
   "wd+:mmc/mmc": [
@@ -7835,6 +7839,10 @@
   [
    1793385997.9803407,
    "GCM Grosvenor - Cybersecurity Intern"
+  ],
+  [
+   1793386549.6495562,
+   "Marsh & McLennan - 2027 Summer Internship Program - Cyber Risk Management"
   ]
  ],
  "stem5": true,
