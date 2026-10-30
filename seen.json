@@ -1074,6 +1074,7 @@
   "https://linkedin.com/jobs/view/4485272467": "2026-10-30",
   "https://linkedin.com/jobs/view/4485284958": "2026-10-30",
   "https://linkedin.com/jobs/view/4485357475": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485601040": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1815,6 +1816,7 @@
   "t:snap|securityengineerinternsummer2026": "2026-10-26",
   "t:socie|cybersecurityintern": "2026-10-22",
   "t:softw|aisecurityresearchinternsummer2027": "2026-10-09",
+  "t:softw|cyberrangedevelopmentintern": "2026-10-30",
   "t:sotal|cybersecurityintern": "2026-10-27",
   "t:space|newgraduateengineersecuritysoftwarestarshield": "2026-10-30",
   "t:space|newgraduateengineersoftwaresecurity2627starlink": "2026-10-30",
@@ -1955,6 +1957,7 @@
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
+   "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
@@ -4147,6 +4150,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://grnh.se/fy78hwlm8us",
+   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -4574,7 +4578,6 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448869906",
-   "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4468826267",
@@ -4582,6 +4585,7 @@
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477497151",
+   "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483088272",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4484546998",
@@ -4592,7 +4596,8 @@
    "https://www.linkedin.com/jobs/view/4485254140",
    "https://www.linkedin.com/jobs/view/4485272467",
    "https://www.linkedin.com/jobs/view/4485284958",
-   "https://www.linkedin.com/jobs/view/4485357475"
+   "https://www.linkedin.com/jobs/view/4485357475",
+   "https://www.linkedin.com/jobs/view/4485601040"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7720,20 +7725,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-30 12",
+ "heartbeat": "2026-10-30 14",
  "recent": [
-  [
-   1793286998.3634973,
-   "Cisco - Security Consulting Engineer I (Intern) - United States"
-  ],
-  [
-   1793288126.0519285,
-   "Stratolaunch - Security Intern- Summer 2027"
-  ],
-  [
-   1793288714.5810745,
-   "Definity Financial - Incident & Issue Management Analyst - Winter 2027 Co-op/Intern"
-  ],
   [
    1793291573.8418357,
    "Vulcan Materials Company - 2027 Summer Internship-Cybersecurity"
@@ -7821,6 +7814,10 @@
   [
    1793376911.7835357,
    "Center for Strategic and International Studies (CSIS) - Spring Intern, Critical Minerals S"
+  ],
+  [
+   1793383559.6641572,
+   "Software Engineering Institute | Carnegie Mellon University - Cyber Range Development Inte"
   ]
  ],
  "stem5": true,
