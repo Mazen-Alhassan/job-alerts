@@ -1057,6 +1057,7 @@
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485284958": "2026-10-30",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1328,6 +1329,7 @@
   "t:bcpen|juniorsecurityanalystcoop": "2026-10-30",
   "t:berry|summer2027consultinginternshipcybersecurity": "2026-10-27",
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-30",
+  "t:biosp|2027summerinternitdigitalenablementinformationsecurity": "2026-10-30",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
   "t:boein|boeingsummer2027internshipprogrampaidsecurityfireoperationsfo": "2026-10-30",
   "t:booza|cybersecurityintern": "2026-10-28",
@@ -4541,20 +4543,18 @@
    "https://www.linkedin.com/jobs/view/4475473333",
    "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4476988984",
-   "https://www.linkedin.com/jobs/view/4482576991",
-   "https://www.linkedin.com/jobs/view/4482580959",
+   "https://www.linkedin.com/jobs/view/4482577951",
    "https://www.linkedin.com/jobs/view/4482580963",
    "https://www.linkedin.com/jobs/view/4482592401",
    "https://www.linkedin.com/jobs/view/4483088272",
-   "https://www.linkedin.com/jobs/view/4484155957",
-   "https://www.linkedin.com/jobs/view/4484174105",
    "https://www.linkedin.com/jobs/view/4484542141",
    "https://www.linkedin.com/jobs/view/4484546998",
    "https://www.linkedin.com/jobs/view/4484766767",
    "https://www.linkedin.com/jobs/view/4484987073",
    "https://www.linkedin.com/jobs/view/4485230919",
    "https://www.linkedin.com/jobs/view/4485254140",
-   "https://www.linkedin.com/jobs/view/4485272467"
+   "https://www.linkedin.com/jobs/view/4485272467",
+   "https://www.linkedin.com/jobs/view/4485284958"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7686,34 +7686,6 @@
  "heartbeat": "2026-10-30 00",
  "recent": [
   [
-   1793232202.0812957,
-   "Nintendo - Intern - Software Engineer, Platform Security (NTD)"
-  ],
-  [
-   1793232202.0812974,
-   "MSU Federal Credit Union - Identity and Access Management Intern - Winter/Spring 2027"
-  ],
-  [
-   1793232668.035339,
-   "Figma - PhD Intern, Security Engineer (2027)"
-  ],
-  [
-   1793236358.543752,
-   "Federal Express Corporation - Global Security Intern Summer 2027"
-  ],
-  [
-   1793237490.6723578,
-   "HP - Software Product Security Intern - HP IQ"
-  ],
-  [
-   1793240048.871637,
-   "HP Inc. - Software Product Security Intern, HP IQ"
-  ],
-  [
-   1793242715.9637434,
-   "Paramify - Cyber Security Solution Engineer (Intern)"
-  ],
-  [
    1793269974.579294,
    "CloserStill Media - Content Intern - Billington CyberSecurity"
   ],
@@ -7768,6 +7740,10 @@
   [
    1793323842.8665617,
    "Bright Network Consulting - Cyber Security Intern"
+  ],
+  [
+   1793338644.827299,
+   "BioSpace - 2027 Summer Intern IT, Digital Enablement & Information Security"
   ]
  ],
  "stem5": true,
