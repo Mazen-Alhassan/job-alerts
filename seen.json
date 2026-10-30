@@ -495,6 +495,7 @@
   "https://google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
   "https://google.com/about/careers/applications/jobs/results/94308684170961606-security-consultant-intern-bs-ms-summer-2027": "2026-10-12",
+  "https://governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly": "2026-10-30",
   "https://governmentjobs.com/careers/portofcc/jobs/5257188/information-technology-intern-cybersecurity": "2026-10-16",
   "https://governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern": "2026-10-10",
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-10-30",
@@ -777,7 +778,7 @@
   "https://linkedin.com/jobs/view/4468279385": "2026-10-30",
   "https://linkedin.com/jobs/view/4468290890": "2026-10-09",
   "https://linkedin.com/jobs/view/4468297828": "2026-10-09",
-  "https://linkedin.com/jobs/view/4468321989": "2026-10-09",
+  "https://linkedin.com/jobs/view/4468321989": "2026-10-30",
   "https://linkedin.com/jobs/view/4468401153": "2026-10-12",
   "https://linkedin.com/jobs/view/4468664815": "2026-10-09",
   "https://linkedin.com/jobs/view/4468798732": "2026-10-14",
@@ -4125,7 +4126,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician"
+   "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4552,8 +4553,8 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4459072266",
    "https://www.linkedin.com/jobs/view/4459159613",
+   "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4475473333",
-   "https://www.linkedin.com/jobs/view/4475748011",
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4476988984",
    "https://www.linkedin.com/jobs/view/4477195554",
@@ -4795,9 +4796,7 @@
   "oracle:hccz.fa.em3.oraclecloud.com/CX_2": [],
   "oracle:hcgn.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcjy.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [
-   "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040171"
-  ],
+  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hckz.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcmn.fa.ap1.oraclecloud.com/CX_1001": [],
   "oracle:hcog.fa.em2.oraclecloud.com/CX_1": [],
