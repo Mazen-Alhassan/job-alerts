@@ -244,6 +244,7 @@
   "https://careers.fedex.com/global-security-intern-summer-2027/job/p25-391830-1": "2026-10-29",
   "https://careers.fisglobal.com/us/en/job/jr0309680": "2026-10-23",
   "https://careers.garmin.com/jobs/20420/job": "2026-10-21",
+  "https://careers.hcsc.com/job/chicago/early-careers-cybersecurity-operations-intern/43046/102631076352": "2026-10-31",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-intern/43046/101700856112": "2026-10-10",
   "https://careers.hcsc.com/job/chicago/early-careers-identify-and-access-management-iam-senior-intern/43046/101700856336": "2026-10-10",
   "https://careers.hcsc.com/job/richardson/early-careers-security-engineering-senior-intern/43046/101700856400": "2026-10-10",
@@ -1574,6 +1575,7 @@
   "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-31",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-31",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-26",
+  "t:healt|earlycareerscybersecurityoperationsintern": "2026-10-31",
   "t:healt|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healt|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
   "t:healt|earlycareerssecurityengineeringseniorintern": "2026-10-10",
@@ -4165,6 +4167,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers.hcsc.com/job/chicago/early-careers-cybersecurity-operations-intern/43046/102631076352",
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1",
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
@@ -7849,6 +7852,10 @@
   [
    1793407467.986083,
    "Sandia National Laboratories - Intern, Business Undergraduate  Year-Round - Personnel Secu"
+  ],
+  [
+   1793408165.137715,
+   "Health Care Service Corporation - Early Careers - Cybersecurity Operations Intern"
   ]
  ],
  "stem5": true,
