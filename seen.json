@@ -1078,6 +1078,7 @@
   "https://linkedin.com/jobs/view/4484868825": "2026-10-31",
   "https://linkedin.com/jobs/view/4484884364": "2026-10-31",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485105921": "2026-10-31",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-31",
@@ -1088,6 +1089,7 @@
   "https://linkedin.com/jobs/view/4485613850": "2026-10-31",
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
   "https://linkedin.com/jobs/view/4485642280": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485648239": "2026-10-31",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1621,6 +1623,7 @@
   "t:jacob|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-30",
   "t:janus|identitysecurityintern": "2026-10-21",
   "t:jeffe|cybersecuritystudentintern": "2026-10-31",
+  "t:jewel|grcanalystinternsummerof2027": "2026-10-31",
   "t:johns|2027internshipcyberphysicalsystems": "2026-10-31",
   "t:johns|2027internshipcybersecuritycyberdominance": "2026-10-31",
   "t:johns|2027internshipcybersecurityengineercriticalinfrastructureprotection": "2026-10-31",
@@ -1691,6 +1694,7 @@
   "t:midco|2027summerinterncybersecuritygraduate": "2026-10-22",
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-10-31",
+  "t:missi|2027cybersecurityengineeringinternsophomorejuniorsenior": "2026-10-31",
   "t:mitli|summerresearchprogramintern2027cicybersecurityenergysystemsgroup47": "2026-10-29",
   "t:mitli|summerresearchprogramintern2027cyberoperationsandanalysistechnologygroup0557": "2026-10-25",
   "t:mitli|summerresearchprogramintern2027electricgridcommunicationssecurityenergysystemsgr47": "2026-10-29",
@@ -4163,6 +4167,7 @@
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
    "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
+   "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
   "jobvite:aarete": [],
@@ -4603,13 +4608,15 @@
    "https://www.linkedin.com/jobs/view/4484850845",
    "https://www.linkedin.com/jobs/view/4484868825",
    "https://www.linkedin.com/jobs/view/4484884364",
+   "https://www.linkedin.com/jobs/view/4485105921",
    "https://www.linkedin.com/jobs/view/4485272467",
    "https://www.linkedin.com/jobs/view/4485284958",
    "https://www.linkedin.com/jobs/view/4485357475",
    "https://www.linkedin.com/jobs/view/4485601040",
    "https://www.linkedin.com/jobs/view/4485613850",
    "https://www.linkedin.com/jobs/view/4485614759",
-   "https://www.linkedin.com/jobs/view/4485642280"
+   "https://www.linkedin.com/jobs/view/4485642280",
+   "https://www.linkedin.com/jobs/view/4485648239"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7727,14 +7734,6 @@
  "heartbeat": "2026-10-30 20",
  "recent": [
   [
-   1793307272.466367,
-   "HCSC - Early Careers - Cybersecurity Operations Intern"
-  ],
-  [
-   1793308619.573553,
-   "Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast"
-  ],
-  [
    1793317647.517024,
    "Federal Reserve Board - Summer 2027 Intern \u2013 Security Analyst \u2013 IT"
   ],
@@ -7833,15 +7832,17 @@
   [
    1793394365.470557,
    "TD - Cyber Security Intern/Co-op (Winter 2027)"
+  ],
+  [
+   1793406112.851021,
+   "Mission Technologies, a division of HII - 2027 - Cybersecurity Engineering Intern - Sophom"
+  ],
+  [
+   1793406112.8510232,
+   "Jewelers Mutual Group - GRC Analyst Intern - Summer of 2027"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793405390.947744,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
