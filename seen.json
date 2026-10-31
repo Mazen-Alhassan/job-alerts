@@ -369,7 +369,7 @@
   "https://epej.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/376509": "2026-10-18",
   "https://equifax.wd5.myworkdayjobs.com/ur_external/job/usa---georgia---alpharetta---30005/security-intern_j00178958": "2026-10-09",
   "https://equinor.wd3.myworkdayjobs.com/eqnr/job/stavanger-norway/summer-internship-2027-norway---it---cybernetics_jr107238": "2026-10-15",
-  "https://expedia.wd108.myworkdayjobs.com/private/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310": "2026-10-30",
+  "https://expedia.wd108.myworkdayjobs.com/private/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310": "2026-10-31",
   "https://expedia.wd108.myworkdayjobs.com/search/job/washington---seattle-campus/security-engineering-intern---2027---seattle_r-110310-1": "2026-10-20",
   "https://explore.jobs.netflix.net/careers/job/790317917022": "2026-10-08",
   "https://explore.jobs.netflix.net/careers/job/790318904468": "2026-10-31",
@@ -1536,7 +1536,7 @@
   "t:erics|cybersecurityanalystintern": "2026-10-31",
   "t:erics|securityanalystintern": "2026-10-31",
   "t:exped|securityengineeringintern": "2026-10-20",
-  "t:exped|securityengineeringintern2027seattle": "2026-10-30",
+  "t:exped|securityengineeringintern2027seattle": "2026-10-31",
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
   "t:feder|aviationsecurityintern": "2026-10-31",
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
@@ -6242,7 +6242,9 @@
   "wd+:exactsciences/Exact_Sciences": [],
   "wd+:exclusivenetworks/Exclusive-Networks-Career": [],
   "wd+:exelixis/exel": [],
-  "wd+:expedia/private": [],
+  "wd+:expedia/private": [
+   "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310"
+  ],
   "wd+:expedia/search": [],
   "wd+:extraspace/ESS_External": [],
   "wd+:factset/FactSetCareers": [],
@@ -7930,6 +7932,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793430012.6920042,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
