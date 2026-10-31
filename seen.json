@@ -411,6 +411,8 @@
   "https://go.vansh.nyc/10M": "2026-10-31",
   "https://go.vansh.nyc/10U": "2026-10-31",
   "https://go.vansh.nyc/11K": "2026-10-31",
+  "https://go.vansh.nyc/11W": "2026-10-31",
+  "https://go.vansh.nyc/11Z": "2026-10-31",
   "https://go.vansh.nyc/SC": "2026-10-31",
   "https://go.vansh.nyc/SD": "2026-10-31",
   "https://go.vansh.nyc/SE": "2026-10-31",
@@ -1568,6 +1570,7 @@
   "t:guide|gpsucybersecurityspringinternship": "2026-10-31",
   "t:hayst|cybersecurityanalystinternship": "2026-10-29",
   "t:hayst|cybersecurityintern": "2026-10-13",
+  "t:hcsc|cybersecurityoperationsintern": "2026-10-31",
   "t:hcsc|earlycareerscybersecurityoperationsintern": "2026-10-31",
   "t:hcsc|earlycareersgovernanceriskcompliancegrcintern": "2026-10-31",
   "t:hcsc|earlycareersidentifyaccessmanagementiamintern": "2026-10-31",
@@ -1682,7 +1685,7 @@
   "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-10-31",
   "t:marsh|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-31",
   "t:marve|securityverificationvalidationengineerinternbssummer2027": "2026-10-31",
-  "t:mativ|cybersecurityintern": "2026-10-29",
+  "t:mativ|cybersecurityintern": "2026-10-31",
   "t:mbda|cybersecurityanalystlevel6degreeapprenticeship2027": "2026-10-26",
   "t:medpa|informationsecurityinternspring2027": "2026-10-15",
   "t:meije|informationsecurityinternsummer2027": "2026-10-19",
@@ -5155,6 +5158,8 @@
    "https://go.vansh.nyc/10M",
    "https://go.vansh.nyc/10U",
    "https://go.vansh.nyc/11K",
+   "https://go.vansh.nyc/11W",
+   "https://go.vansh.nyc/11Z",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7740,12 +7745,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-30 20",
+ "heartbeat": "2026-10-30 22",
  "recent": [
-  [
-   1793317647.517024,
-   "Federal Reserve Board - Summer 2027 Intern \u2013 Security Analyst \u2013 IT"
-  ],
   [
    1793320128.0546591,
    "New Jersey Courts - Cybersecurity Engineering Intern (Hourly)"
@@ -7861,6 +7862,10 @@
   [
    1793408974.1676676,
    "Molina Healthcare - Cybersecurity Internship (Remote) \u2013(Undergraduate)"
+  ],
+  [
+   1793412702.9904468,
+   "HCSC - Cybersecurity Operations Intern"
   ]
  ],
  "stem5": true,
