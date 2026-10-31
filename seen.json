@@ -723,7 +723,7 @@
   "https://linkedin.com/jobs/view/4454871309": "2026-10-18",
   "https://linkedin.com/jobs/view/4455264622": "2026-10-21",
   "https://linkedin.com/jobs/view/4458365956": "2026-10-09",
-  "https://linkedin.com/jobs/view/4458679656": "2026-10-11",
+  "https://linkedin.com/jobs/view/4458679656": "2026-10-31",
   "https://linkedin.com/jobs/view/4458967970": "2026-10-11",
   "https://linkedin.com/jobs/view/4458981214": "2026-10-12",
   "https://linkedin.com/jobs/view/4458983369": "2026-10-11",
@@ -4660,12 +4660,12 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448869906",
+   "https://www.linkedin.com/jobs/view/4458679656",
    "https://www.linkedin.com/jobs/view/4460112362",
    "https://www.linkedin.com/jobs/view/4460312104",
    "https://www.linkedin.com/jobs/view/4460370875",
    "https://www.linkedin.com/jobs/view/4460512391",
    "https://www.linkedin.com/jobs/view/4467821360",
-   "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468821567",
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476853761",
@@ -7802,7 +7802,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-31 08",
+ "heartbeat": "2026-10-31 10",
  "recent": [
   [
    1793361295.1411057,
