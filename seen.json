@@ -410,6 +410,7 @@
   "https://go.vansh.nyc/10E": "2026-10-30",
   "https://go.vansh.nyc/10M": "2026-10-31",
   "https://go.vansh.nyc/10U": "2026-10-31",
+  "https://go.vansh.nyc/11K": "2026-10-31",
   "https://go.vansh.nyc/SC": "2026-10-31",
   "https://go.vansh.nyc/SD": "2026-10-31",
   "https://go.vansh.nyc/SE": "2026-10-31",
@@ -1706,6 +1707,7 @@
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-10-31",
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-10-31",
   "t:molin|cybersecurityinternshipremotesummer2027undergraduate": "2026-10-31",
+  "t:molin|cybersecurityinternshipremoteundergraduate": "2026-10-31",
   "t:monol|securityanalystintern": "2026-10-31",
   "t:motio|grccybersecurityanalystintern": "2026-10-15",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
@@ -4167,7 +4169,6 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers.hcsc.com/job/chicago/early-careers-cybersecurity-operations-intern/43046/102631076352",
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1",
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
@@ -4609,7 +4610,6 @@
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4483490568",
-   "https://www.linkedin.com/jobs/view/4484830152",
    "https://www.linkedin.com/jobs/view/4484850845",
    "https://www.linkedin.com/jobs/view/4484868825",
    "https://www.linkedin.com/jobs/view/4484884364",
@@ -5154,6 +5154,7 @@
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10M",
    "https://go.vansh.nyc/10U",
+   "https://go.vansh.nyc/11K",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7856,6 +7857,10 @@
   [
    1793408165.137715,
    "Health Care Service Corporation - Early Careers - Cybersecurity Operations Intern"
+  ],
+  [
+   1793408974.1676676,
+   "Molina Healthcare - Cybersecurity Internship (Remote) \u2013(Undergraduate)"
   ]
  ],
  "stem5": true,
