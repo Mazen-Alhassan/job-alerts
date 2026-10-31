@@ -821,6 +821,7 @@
   "https://linkedin.com/jobs/view/4468798732": "2026-10-14",
   "https://linkedin.com/jobs/view/4468801515": "2026-10-10",
   "https://linkedin.com/jobs/view/4468811301": "2026-10-10",
+  "https://linkedin.com/jobs/view/4468821567": "2026-10-31",
   "https://linkedin.com/jobs/view/4468826267": "2026-10-31",
   "https://linkedin.com/jobs/view/4468903013": "2026-10-14",
   "https://linkedin.com/jobs/view/4469315805": "2026-10-15",
@@ -1355,6 +1356,7 @@
   "t:ameri|interncybersecuritypolicyanalyst": "2026-10-31",
   "t:ameri|interncybersecuritysummer2027": "2026-10-31",
   "t:ameri|itinterninformationsecurity": "2026-10-31",
+  "t:ameri|itinternsapsecurity": "2026-10-31",
   "t:ameri|skillbridgecybersecurityinterntransitioningmilitary": "2026-10-31",
   "t:ameri|springinternasiansecurityandtechnology": "2026-10-31",
   "t:ameri|springinterncriticalthreatsprojectafrica": "2026-10-26",
@@ -4664,6 +4666,7 @@
    "https://www.linkedin.com/jobs/view/4460512391",
    "https://www.linkedin.com/jobs/view/4467821360",
    "https://www.linkedin.com/jobs/view/4468262120",
+   "https://www.linkedin.com/jobs/view/4468821567",
    "https://www.linkedin.com/jobs/view/4468826267",
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476853761",
@@ -7804,14 +7807,6 @@
  "heartbeat": "2026-10-31 08",
  "recent": [
   [
-   1793357355.0335975,
-   "Georgia Tech Research Institute - Wireless Security Engineering Student Assistant - Spring"
-  ],
-  [
-   1793359200.6232004,
-   "Cal Poly Maritime Academy - Secured Watch (Licensed Track) Student Assistant-Solano Campus"
-  ],
-  [
    1793361295.1411057,
    "Spectrum - 2027 Summer Intern:\u00a0Security Engineer"
   ],
@@ -7966,6 +7961,10 @@
   [
    1793442340.5955226,
    "HDR - ICT/Security Intern"
+  ],
+  [
+   1793453166.7760625,
+   "American Equity - IT Intern, SAP Security"
   ]
  ],
  "stem5": true,
