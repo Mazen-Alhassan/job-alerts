@@ -1120,7 +1120,7 @@
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-29",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://ncfta.bamboohr.com/careers/54": "2026-10-24",
-  "https://newagegroup.applytojob.com/apply/tswhnp71hn/apprentice-security-systems-technician": "2026-10-30",
+  "https://newagegroup.applytojob.com/apply/tswhnp71hn/apprentice-security-systems-technician": "2026-10-31",
   "https://nfg.wd504.myworkdayjobs.com/nassau/job/hartford-office/intern---cybersecurity-risk_jr100025": "2026-10-20",
   "https://nfpus-careers-aon.icims.com/jobs/110098/job": "2026-10-23",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-palmdale/xmlname-2027-intern-industrial-security_r10257954": "2026-10-28",
@@ -1731,7 +1731,7 @@
   "t:netfl|softwareengineerinternsummer2027": "2026-10-31",
   "t:netsm|securityanalystfuturesummer2027internship": "2026-10-31",
   "t:netsm|securityanalystintern": "2026-10-31",
-  "t:newag|apprenticesecuritysystemstechnician": "2026-10-30",
+  "t:newag|apprenticesecuritysystemstechnician": "2026-10-31",
   "t:newje|cybersecurityengineeringinternhourly": "2026-10-31",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:ninte|internsoftwareengineerplatformsecurityntd": "2026-10-30",
@@ -4169,10 +4169,12 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers.hcsc.com/job/chicago/early-careers-cybersecurity-operations-intern/43046/102631076352",
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1",
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
    "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
+   "https://newagegroup.applytojob.com/apply/tsWHNp71hN/Apprentice-Security-Systems-Technician",
    "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
   ],
@@ -7864,6 +7866,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "shopify-page": [
+   1,
+   1793409642.9478955,
+   "HTTP Error 503: Service Unavailable"
+  ]
+ },
  "urlkey2": true
 }
