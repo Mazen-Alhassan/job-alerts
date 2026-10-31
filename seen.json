@@ -2,6 +2,7 @@
  "alerted": {
   "gh:4430607009": "2026-10-31",
   "gh:4468040009": "2026-10-28",
+  "gh:4469778009": "2026-10-31",
   "gh:4719593006": "2026-10-12",
   "gh:4743021005": "2026-10-31",
   "gh:4952609101": "2026-10-14",
@@ -945,7 +946,7 @@
   "https://linkedin.com/jobs/view/4477940240": "2026-10-13",
   "https://linkedin.com/jobs/view/4477977111": "2026-10-14",
   "https://linkedin.com/jobs/view/4477981831": "2026-10-13",
-  "https://linkedin.com/jobs/view/4478081281": "2026-10-11",
+  "https://linkedin.com/jobs/view/4478081281": "2026-10-31",
   "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
   "https://linkedin.com/jobs/view/4478106761": "2026-10-14",
   "https://linkedin.com/jobs/view/4478135096": "2026-10-21",
@@ -1775,6 +1776,7 @@
   "t:newje|cybersecurityengineeringinternhourly": "2026-10-31",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:ninte|internsoftwareengineerplatformsecurityntd": "2026-10-30",
+  "t:ninte|softwareengineerinternplatformsecurity": "2026-10-31",
   "t:nissa|corporatesecurityinternsummer2027franklintn": "2026-10-31",
   "t:nissa|cybersecurityintern": "2026-10-29",
   "t:nissa|cybersecurityinternsummer2027smyrnatn": "2026-10-31",
@@ -4660,21 +4662,32 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458679656",
+   "https://www.linkedin.com/jobs/view/4460112362",
+   "https://www.linkedin.com/jobs/view/4460312104",
+   "https://www.linkedin.com/jobs/view/4460370875",
    "https://www.linkedin.com/jobs/view/4460512391",
+   "https://www.linkedin.com/jobs/view/4467821360",
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
+   "https://www.linkedin.com/jobs/view/4468821567",
    "https://www.linkedin.com/jobs/view/4475227979",
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476853761",
+   "https://www.linkedin.com/jobs/view/4477810555",
    "https://www.linkedin.com/jobs/view/4477841517",
    "https://www.linkedin.com/jobs/view/4477854009",
+   "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4483490568",
    "https://www.linkedin.com/jobs/view/4485105921",
+   "https://www.linkedin.com/jobs/view/4485119606",
    "https://www.linkedin.com/jobs/view/4485141074",
    "https://www.linkedin.com/jobs/view/4485613850",
    "https://www.linkedin.com/jobs/view/4485614759",
    "https://www.linkedin.com/jobs/view/4485642280",
+   "https://www.linkedin.com/jobs/view/4485648239",
+   "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
+   "https://www.linkedin.com/jobs/view/4485666251",
    "https://www.linkedin.com/jobs/view/4485670149",
    "https://www.linkedin.com/jobs/view/4485686040",
    "https://www.linkedin.com/jobs/view/4485905798"
@@ -5202,6 +5215,7 @@
    "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
   ],
   "simplify-vansh": [
+   "https://careers.nintendo.com/?gh_jid=4469778009",
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10M",
    "https://go.vansh.nyc/10U",
@@ -7794,38 +7808,6 @@
  "heartbeat": "2026-10-31 14",
  "recent": [
   [
-   1793361295.1411057,
-   "Spectrum - 2027 Summer Intern:\u00a0Security Engineer"
-  ],
-  [
-   1793362021.9178622,
-   "Molina Healthcare - Cybersecurity Internship (Remote) \u2013 Summer 2027 (Undergraduate)"
-  ],
-  [
-   1793366582.3633053,
-   "1st Source Bank - Intern, Information Security, South Bend, IN (Summer 2027)"
-  ],
-  [
-   1793369568.143076,
-   "Mott MacDonald - Cybersecurity Internship - 2027"
-  ],
-  [
-   1793369723.0963776,
-   "GCM Grosvenor - 2027 Cybersecurity Summer Intern"
-  ],
-  [
-   1793374195.9352555,
-   "Amazon - Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summe"
-  ],
-  [
-   1793376777.3207,
-   "Carnegie Mellon University - Cyber Range Development Intern"
-  ],
-  [
-   1793376911.7835357,
-   "Center for Strategic and International Studies (CSIS) - Spring Intern, Critical Minerals S"
-  ],
-  [
    1793383559.6641572,
    "Software Engineering Institute | Carnegie Mellon University - Cyber Range Development Inte"
   ],
@@ -7952,6 +7934,10 @@
   [
    1793453166.7760625,
    "American Equity - IT Intern, SAP Security"
+  ],
+  [
+   1793474454.5799935,
+   "Nintendo - Software Engineer Intern, Platform Security"
   ]
  ],
  "stem5": true,
