@@ -621,6 +621,7 @@
   "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d": "2026-10-31",
   "https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def": "2026-10-31",
   "https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c": "2026-10-31",
+  "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c": "2026-10-31",
   "https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3": "2026-10-31",
   "https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1": "2026-10-31",
   "https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22": "2026-10-31",
@@ -1087,6 +1088,7 @@
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485105921": "2026-10-31",
   "https://linkedin.com/jobs/view/4485119606": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485141074": "2026-10-31",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-31",
@@ -1098,6 +1100,8 @@
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
   "https://linkedin.com/jobs/view/4485642280": "2026-10-31",
   "https://linkedin.com/jobs/view/4485648239": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485654560": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485669213": "2026-10-31",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1823,6 +1827,7 @@
   "t:sandi|internbusinessundergraduateyearroundpersonnelsecurityonsite": "2026-10-31",
   "t:sandi|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:sandi|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
+  "t:savan|2027summerinterncomputerscienceinformationtechnologycybersecurity": "2026-10-31",
   "t:scotf|itcybersecurityinternsummer2027": "2026-10-24",
   "t:scoti|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
@@ -1875,6 +1880,7 @@
   "t:tevor|cybersecurityinternshipsummer2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027federal": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027healthcare": "2026-10-31",
+  "t:tevor|cybersecurityinternshipsummer2027internationalorganizationforstandardizationiso": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027federal": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027healthcare": "2026-10-31",
@@ -4546,6 +4552,7 @@
    "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
    "https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def",
    "https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c",
+   "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
    "https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3",
    "https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1",
    "https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22",
@@ -4619,7 +4626,6 @@
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
-   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4483490568",
@@ -4628,13 +4634,15 @@
    "https://www.linkedin.com/jobs/view/4484884364",
    "https://www.linkedin.com/jobs/view/4485105921",
    "https://www.linkedin.com/jobs/view/4485119606",
+   "https://www.linkedin.com/jobs/view/4485141074",
    "https://www.linkedin.com/jobs/view/4485284958",
-   "https://www.linkedin.com/jobs/view/4485357475",
    "https://www.linkedin.com/jobs/view/4485601040",
    "https://www.linkedin.com/jobs/view/4485613850",
    "https://www.linkedin.com/jobs/view/4485614759",
    "https://www.linkedin.com/jobs/view/4485642280",
-   "https://www.linkedin.com/jobs/view/4485648239"
+   "https://www.linkedin.com/jobs/view/4485648239",
+   "https://www.linkedin.com/jobs/view/4485654560",
+   "https://www.linkedin.com/jobs/view/4485669213"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7887,6 +7895,14 @@
   [
    1793413233.4183893,
    "Tevora - Cybersecurity Internship Summer 2027 - Healthcare"
+  ],
+  [
+   1793413358.764801,
+   "Tevora - Cybersecurity Internship Summer 2027 - International Organization for Standardiza"
+  ],
+  [
+   1793413358.7648032,
+   "Savannah River Mission Completion - 2027 Summer Intern-Computer Science, Information Techn"
   ]
  ],
  "stem5": true,
@@ -7895,11 +7911,6 @@
    1,
    1793413089.941157,
    "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ],
-  "netflix": [
-   1,
-   1793413179.941283,
-   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
  "urlkey2": true
