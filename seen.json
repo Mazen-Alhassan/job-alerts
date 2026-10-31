@@ -1079,6 +1079,7 @@
   "https://linkedin.com/jobs/view/4484884364": "2026-10-31",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485105921": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485119606": "2026-10-31",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-31",
@@ -1809,6 +1810,7 @@
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
   "t:sales|softwareengineerinternsecuritygovernment": "2026-10-26",
   "t:sales|summer2027internsoftwareengineersecuritygovernment": "2026-10-31",
+  "t:sandi|internbusinessundergraduateyearroundpersonnelsecurityonsite": "2026-10-31",
   "t:sandi|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:sandi|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:scotf|itcybersecurityinternsummer2027": "2026-10-24",
@@ -4600,6 +4602,7 @@
    "https://www.linkedin.com/jobs/view/4475963978",
    "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
+   "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4483451177",
    "https://www.linkedin.com/jobs/view/4483490568",
@@ -4608,8 +4611,10 @@
    "https://www.linkedin.com/jobs/view/4484868825",
    "https://www.linkedin.com/jobs/view/4484884364",
    "https://www.linkedin.com/jobs/view/4485105921",
+   "https://www.linkedin.com/jobs/view/4485119606",
    "https://www.linkedin.com/jobs/view/4485272467",
    "https://www.linkedin.com/jobs/view/4485284958",
+   "https://www.linkedin.com/jobs/view/4485357475",
    "https://www.linkedin.com/jobs/view/4485601040",
    "https://www.linkedin.com/jobs/view/4485613850",
    "https://www.linkedin.com/jobs/view/4485614759",
@@ -7840,6 +7845,10 @@
   [
    1793406112.8510232,
    "Jewelers Mutual Group - GRC Analyst Intern - Summer of 2027"
+  ],
+  [
+   1793407467.986083,
+   "Sandia National Laboratories - Intern, Business Undergraduate  Year-Round - Personnel Secu"
   ]
  ],
  "stem5": true,
