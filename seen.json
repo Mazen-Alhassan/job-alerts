@@ -146,7 +146,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-10-31",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-10-31",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-30",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-31",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-10-31",
@@ -1843,7 +1843,7 @@
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
   "t:seatt|informationsecurityintern": "2026-10-31",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-10-30",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-10-31",
   "t:semin|cybersecurityanalystintern": "2026-10-10",
   "t:senti|cybersecurityintern": "2026-10-31",
   "t:senti|socintern": "2026-10-31",
@@ -2767,10 +2767,7 @@
   "eightfold:climate.eightfold.ai": [],
   "eightfold:eaton.eightfold.ai": [],
   "eightfold:fortive.eightfold.ai": [],
-  "eightfold:jobs.ericsson.com": [
-   "https://jobs.ericsson.com/careers/job/563121777363423",
-   "https://jobs.ericsson.com/careers/job/563121777370331"
-  ],
+  "eightfold:jobs.ericsson.com": [],
   "eightfold:johndeere.eightfold.ai": [],
   "eightfold:lockheedmartin.eightfold.ai": [],
   "eightfold:morganstanley.eightfold.ai": [],
@@ -6476,10 +6473,7 @@
   ],
   "wd+:hypertherm/hypertherm-careers": [],
   "wd+:hysteryale/hyster-yalecareers": [],
-  "wd+:hyvee/HyVeeCareers": [
-   "https://hyvee.wd1.myworkdayjobs.com/en-US/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
-   "https://hyvee.wd1.myworkdayjobs.com/en-US/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/IT-Security-Loss-Prevention-Intern---Summer-2027_R250154"
-  ],
+  "wd+:hyvee/HyVeeCareers": [],
   "wd+:ia/Professional_US": [],
   "wd+:iatinsurancegroup/iat": [
    "https://iatinsurancegroup.wd1.myworkdayjobs.com/en-US/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"
