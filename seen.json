@@ -625,6 +625,7 @@
   "https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22": "2026-10-31",
   "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a": "2026-10-31",
   "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76": "2026-10-31",
+  "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c": "2026-10-31",
   "https://jobs.mercedes-benz.com/cyber-security-intern-244183-mer00049y0": "2026-10-28",
   "https://jobs.merck.com/us/en/job/r413043": "2026-10-09",
   "https://jobs.merck.com/us/en/job/r413091": "2026-10-09",
@@ -1869,6 +1870,7 @@
   "t:telil|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tence|cybersecurityengineerintern": "2026-10-31",
   "t:tenso|securityengineerintern": "2026-10-31",
+  "t:tevor|cybersecurityinternshipsummer2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027federal": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027healthcare": "2026-10-31",
@@ -4543,7 +4545,8 @@
    "https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1",
    "https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22",
    "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a",
-   "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76"
+   "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76",
+   "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"
   ],
   "lever:thea.energy": [],
   "lever:theinformationlab": [],
@@ -7866,6 +7869,10 @@
   [
    1793412702.9904468,
    "HCSC - Cybersecurity Operations Intern"
+  ],
+  [
+   1793413052.829148,
+   "Tevora - Cybersecurity Internship Summer 2027 - Enterprise Risk Management"
   ]
  ],
  "stem5": true,
