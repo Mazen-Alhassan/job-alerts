@@ -1094,6 +1094,7 @@
   "https://linkedin.com/jobs/view/4485105921": "2026-10-31",
   "https://linkedin.com/jobs/view/4485119606": "2026-10-31",
   "https://linkedin.com/jobs/view/4485141074": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485148515": "2026-10-31",
   "https://linkedin.com/jobs/view/4485230919": "2026-10-30",
   "https://linkedin.com/jobs/view/4485254140": "2026-10-30",
   "https://linkedin.com/jobs/view/4485272467": "2026-10-31",
@@ -1112,6 +1113,7 @@
   "https://linkedin.com/jobs/view/4485666251": "2026-10-31",
   "https://linkedin.com/jobs/view/4485669213": "2026-10-31",
   "https://linkedin.com/jobs/view/4485670149": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485686040": "2026-10-31",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1391,6 +1393,7 @@
   "t:bcpen|juniorsecurityanalystcoop": "2026-10-31",
   "t:berry|summer2027consultinginternshipcybersecurity": "2026-10-27",
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-30",
+  "t:biosp|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-10-31",
   "t:biosp|2027summerinternitdigitalenablementinformationsecurity": "2026-10-31",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
   "t:boein|boeingsummer2027internshipprogrampaidsecurityfireoperationsfo": "2026-10-31",
@@ -1554,7 +1557,7 @@
   "t:garmi|cybersecurityengineerintern": "2026-10-21",
   "t:gcmgr|2027cybersecuritysummerintern": "2026-10-31",
   "t:gcmgr|cybersecurityintern": "2026-10-31",
-  "t:gener|2027summerinterncybersecurityitoperations": "2026-10-23",
+  "t:gener|2027summerinterncybersecurityitoperations": "2026-10-31",
   "t:gener|2027summerinterndefenseagenciescybersecurity": "2026-10-15",
   "t:gener|cyberengineeringintern": "2026-10-20",
   "t:gener|cyberengineeringinternsummer2027": "2026-10-20",
@@ -4200,7 +4203,6 @@
    "https://grnh.se/fy78hwlm8us",
    "https://hckd.fa.us2.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/2040172",
    "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
-   "https://recruiting.ultipro.com/STS1000SCO/JobBoard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/OpportunityDetail?opportunityId=458b5fae-3a73-448a-8133-a863d4df3fa0&postingId=c55fc317-83c6-42ff-8946-e9b7349e6211",
    "https://seattleseahawks.applytojob.com/apply/L4GOGEtBhp/Information-Security-Intern",
    "https://www.governmentjobs.com/careers/longbeach/jobs/5533161/administrative-intern-non-career-security",
    "https://www.governmentjobs.com/careers/njjudiciary/jobs/5518560/cybersecurity-engineering-intern-hourly"
@@ -4653,6 +4655,7 @@
    "https://www.linkedin.com/jobs/view/4485105921",
    "https://www.linkedin.com/jobs/view/4485119606",
    "https://www.linkedin.com/jobs/view/4485141074",
+   "https://www.linkedin.com/jobs/view/4485148515",
    "https://www.linkedin.com/jobs/view/4485284958",
    "https://www.linkedin.com/jobs/view/4485357475",
    "https://www.linkedin.com/jobs/view/4485601040",
@@ -4663,7 +4666,8 @@
    "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
    "https://www.linkedin.com/jobs/view/4485666251",
-   "https://www.linkedin.com/jobs/view/4485670149"
+   "https://www.linkedin.com/jobs/view/4485670149",
+   "https://www.linkedin.com/jobs/view/4485686040"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7770,7 +7774,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-31 00",
+ "heartbeat": "2026-10-31 02",
  "recent": [
   [
    1793338644.827299,
@@ -7919,6 +7923,10 @@
   [
    1793420581.894683,
    "Seattle Seahawks - Information Security Intern"
+  ],
+  [
+   1793427829.7751994,
+   "BioSpace - 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)"
   ]
  ],
  "stem5": true,
