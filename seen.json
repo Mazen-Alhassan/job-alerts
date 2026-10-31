@@ -413,6 +413,11 @@
   "https://go.vansh.nyc/11K": "2026-10-31",
   "https://go.vansh.nyc/11W": "2026-10-31",
   "https://go.vansh.nyc/11Z": "2026-10-31",
+  "https://go.vansh.nyc/12b": "2026-10-31",
+  "https://go.vansh.nyc/12c": "2026-10-31",
+  "https://go.vansh.nyc/12d": "2026-10-31",
+  "https://go.vansh.nyc/12e": "2026-10-31",
+  "https://go.vansh.nyc/12f": "2026-10-31",
   "https://go.vansh.nyc/SC": "2026-10-31",
   "https://go.vansh.nyc/SD": "2026-10-31",
   "https://go.vansh.nyc/SE": "2026-10-31",
@@ -1892,6 +1897,9 @@
   "t:telil|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tence|cybersecurityengineerintern": "2026-10-31",
   "t:tenso|securityengineerintern": "2026-10-31",
+  "t:tevor|cybersecurityinternfederal": "2026-10-31",
+  "t:tevor|cybersecurityinternhealthcare": "2026-10-31",
+  "t:tevor|cybersecurityinternpayments": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027federal": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027healthcare": "2026-10-31",
@@ -1908,6 +1916,8 @@
   "t:tevor|cybersecurityinternshipwinter2027solutions": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027systemsandorganizationscontrolssoc": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027threat": "2026-10-31",
+  "t:tevor|cybersecurityinternsolutions": "2026-10-31",
+  "t:tevor|cybersecurityinternthreat": "2026-10-31",
   "t:texas|informationtechnologyinternsecurity": "2026-10-31",
   "t:thale|2027cloudassuranceandcybersecurityapprentice": "2026-10-12",
   "t:thale|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-10-31",
@@ -5198,6 +5208,11 @@
    "https://go.vansh.nyc/11K",
    "https://go.vansh.nyc/11W",
    "https://go.vansh.nyc/11Z",
+   "https://go.vansh.nyc/12b",
+   "https://go.vansh.nyc/12c",
+   "https://go.vansh.nyc/12d",
+   "https://go.vansh.nyc/12e",
+   "https://go.vansh.nyc/12f",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7776,16 +7791,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-31 02",
+ "heartbeat": "2026-10-31 04",
  "recent": [
-  [
-   1793338644.827299,
-   "BioSpace - 2027 Summer Intern IT, Digital Enablement & Information Security"
-  ],
-  [
-   1793340725.0955732,
-   "New age Group - Apprentice Security Systems Technician"
-  ],
   [
    1793343649.2044168,
    "Archer - College to Corporate IT Internship - Risk & Security - Engineer"
@@ -7929,9 +7936,35 @@
   [
    1793427829.7751994,
    "BioSpace - 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)"
+  ],
+  [
+   1793434692.5278583,
+   "Tevora - Cybersecurity Intern, Federal"
+  ],
+  [
+   1793434692.52786,
+   "Tevora - Cybersecurity Intern, Healthcare"
+  ],
+  [
+   1793434692.5278606,
+   "Tevora - Cybersecurity Intern, Payments"
+  ],
+  [
+   1793434692.5278616,
+   "Tevora - Cybersecurity Intern, Solutions"
+  ],
+  [
+   1793434692.5278623,
+   "Tevora - Cybersecurity Intern, Threat"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "tiktok": [
+   1,
+   1793434618.9584744,
+   "The read operation timed out"
+  ]
+ },
  "urlkey2": true
 }
