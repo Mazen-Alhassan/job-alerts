@@ -1104,7 +1104,9 @@
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
   "https://linkedin.com/jobs/view/4485642280": "2026-10-31",
   "https://linkedin.com/jobs/view/4485648239": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485653517": "2026-10-31",
   "https://linkedin.com/jobs/view/4485654560": "2026-10-31",
+  "https://linkedin.com/jobs/view/4485655731": "2026-10-31",
   "https://linkedin.com/jobs/view/4485659390": "2026-10-31",
   "https://linkedin.com/jobs/view/4485666251": "2026-10-31",
   "https://linkedin.com/jobs/view/4485669213": "2026-10-31",
@@ -1840,6 +1842,7 @@
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
+  "t:seatt|informationsecurityintern": "2026-10-31",
   "t:secur|cybersoccoop2027usgreenshift": "2026-10-30",
   "t:semin|cybersecurityanalystintern": "2026-10-10",
   "t:senti|cybersecurityintern": "2026-10-31",
@@ -4656,8 +4659,9 @@
    "https://www.linkedin.com/jobs/view/4485614759",
    "https://www.linkedin.com/jobs/view/4485642280",
    "https://www.linkedin.com/jobs/view/4485648239",
+   "https://www.linkedin.com/jobs/view/4485653517",
+   "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
-   "https://www.linkedin.com/jobs/view/4485666251",
    "https://www.linkedin.com/jobs/view/4485670149"
   ],
   "linkedin": [
@@ -7773,18 +7777,6 @@
  "heartbeat": "2026-10-31 00",
  "recent": [
   [
-   1793320128.0546591,
-   "New Jersey Courts - Cybersecurity Engineering Intern (Hourly)"
-  ],
-  [
-   1793321521.7249274,
-   "Federal Express Corporation - Aviation Security Intern"
-  ],
-  [
-   1793323842.8665617,
-   "Bright Network Consulting - Cyber Security Intern"
-  ],
-  [
    1793338644.827299,
    "BioSpace - 2027 Summer Intern IT, Digital Enablement & Information Security"
   ],
@@ -7927,6 +7919,10 @@
   [
    1793413681.3593462,
    "Tevora - Cybersecurity Internship Summer 2027 - Threat"
+  ],
+  [
+   1793420581.894683,
+   "Seattle Seahawks - Information Security Intern"
   ]
  ],
  "stem5": true,
