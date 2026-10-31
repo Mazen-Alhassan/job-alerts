@@ -211,6 +211,7 @@
   "https://careers-ice.icims.com/jobs/14082/job": "2026-10-25",
   "https://careers-ice.icims.com/jobs/14082/summer-internship-program-2027---application-security-intern/job": "2026-10-31",
   "https://careers-kinaxis.icims.com/jobs/35323/co-op--intern-application-security-analyst/job": "2026-10-27",
+  "https://careers-lse-srmc.icims.com/jobs/2260/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-10-31",
   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-15",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-21",
   "https://careers-peraton.icims.com/jobs/172836/spring-%26-summer-2027-cybersecurity-engineer-co-op/job": "2026-10-31",
@@ -4208,6 +4209,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers-lse-srmc.icims.com/jobs/2260/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://careers.hcsc.com/job/chicago/early-careers-cybersecurity-operations-intern/43046/102631076352",
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1",
    "https://grnh.se/fy78hwlm8us",
@@ -4651,10 +4653,8 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448869906",
-   "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4468826267",
-   "https://www.linkedin.com/jobs/view/4477195554",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4479550735",
@@ -4675,7 +4675,6 @@
    "https://www.linkedin.com/jobs/view/4485648239",
    "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
-   "https://www.linkedin.com/jobs/view/4485666251",
    "https://www.linkedin.com/jobs/view/4485670149",
    "https://www.linkedin.com/jobs/view/4485686040"
   ],
@@ -7959,12 +7958,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "tiktok": [
-   1,
-   1793434618.9584744,
-   "The read operation timed out"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
