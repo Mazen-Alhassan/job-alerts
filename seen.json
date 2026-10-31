@@ -4062,9 +4062,7 @@
   "icims:careers-steampunk.icims.com": [],
   "icims:careers-steeldynamics.icims.com": [],
   "icims:careers-stellantsystems.icims.com": [],
-  "icims:careers-stifel.icims.com": [
-   "https://careers-stifel.icims.com/jobs/9952/information-security-intern--summer-2027/job"
-  ],
+  "icims:careers-stifel.icims.com": [],
   "icims:careers-stonex.icims.com": [],
   "icims:careers-strattec.icims.com": [],
   "icims:careers-structurepoint.icims.com": [],
@@ -7940,12 +7938,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793414620.2356427,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
