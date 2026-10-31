@@ -740,6 +740,7 @@
   "https://linkedin.com/jobs/view/4459296440": "2026-10-14",
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
+  "https://linkedin.com/jobs/view/4460112362": "2026-10-31",
   "https://linkedin.com/jobs/view/4460200734": "2026-10-29",
   "https://linkedin.com/jobs/view/4460202658": "2026-10-29",
   "https://linkedin.com/jobs/view/4460204642": "2026-10-29",
@@ -752,7 +753,7 @@
   "https://linkedin.com/jobs/view/4460311092": "2026-10-11",
   "https://linkedin.com/jobs/view/4460312104": "2026-10-31",
   "https://linkedin.com/jobs/view/4460320167": "2026-10-11",
-  "https://linkedin.com/jobs/view/4460370875": "2026-10-11",
+  "https://linkedin.com/jobs/view/4460370875": "2026-10-31",
   "https://linkedin.com/jobs/view/4460502518": "2026-10-11",
   "https://linkedin.com/jobs/view/4460502522": "2026-10-12",
   "https://linkedin.com/jobs/view/4460512391": "2026-10-31",
@@ -804,6 +805,7 @@
   "https://linkedin.com/jobs/view/4467288333": "2026-10-29",
   "https://linkedin.com/jobs/view/4467715984": "2026-10-28",
   "https://linkedin.com/jobs/view/4467780988": "2026-10-08",
+  "https://linkedin.com/jobs/view/4467821360": "2026-10-31",
   "https://linkedin.com/jobs/view/4467863757": "2026-10-17",
   "https://linkedin.com/jobs/view/4467903026": "2026-10-08",
   "https://linkedin.com/jobs/view/4467904027": "2026-10-08",
@@ -910,11 +912,13 @@
   "https://linkedin.com/jobs/view/4476831989": "2026-10-10",
   "https://linkedin.com/jobs/view/4476836838": "2026-10-09",
   "https://linkedin.com/jobs/view/4476838100": "2026-10-17",
+  "https://linkedin.com/jobs/view/4476847990": "2026-10-31",
   "https://linkedin.com/jobs/view/4476847991": "2026-10-10",
   "https://linkedin.com/jobs/view/4476848862": "2026-10-12",
   "https://linkedin.com/jobs/view/4476853761": "2026-10-10",
   "https://linkedin.com/jobs/view/4476855092": "2026-10-10",
   "https://linkedin.com/jobs/view/4476865440": "2026-10-10",
+  "https://linkedin.com/jobs/view/4476870118": "2026-10-31",
   "https://linkedin.com/jobs/view/4476988984": "2026-10-30",
   "https://linkedin.com/jobs/view/4477015643": "2026-10-15",
   "https://linkedin.com/jobs/view/4477195554": "2026-10-31",
@@ -1608,6 +1612,7 @@
   "t:hcsc|earlycareerssecurityengineeringseniorintern": "2026-10-31",
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-10-31",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-26",
+  "t:hdr|ictsecurityintern": "2026-10-31",
   "t:healt|earlycareerscybersecurityoperationsintern": "2026-10-31",
   "t:healt|earlycareersidentifyaccessmanagementiamintern": "2026-10-10",
   "t:healt|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-10",
@@ -1826,7 +1831,7 @@
   "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-10-31",
   "t:regen|itdigitalenablementinformationsecurityintern": "2026-10-31",
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
-  "t:rivia|cybersecuritysummer2027internships": "2026-10-10",
+  "t:rivia|cybersecuritysummer2027internships": "2026-10-31",
   "t:rivia|earlycareercybersecurityapplicationsecurityengineer": "2026-10-29",
   "t:roche|ritcoopcybersecuritygovernancerisk": "2026-10-20",
   "t:roche|ritcoopidentityaccessmanagement": "2026-10-22",
@@ -4655,11 +4660,16 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4448869906",
+   "https://www.linkedin.com/jobs/view/4460112362",
    "https://www.linkedin.com/jobs/view/4460312104",
+   "https://www.linkedin.com/jobs/view/4460370875",
    "https://www.linkedin.com/jobs/view/4460512391",
+   "https://www.linkedin.com/jobs/view/4467821360",
    "https://www.linkedin.com/jobs/view/4468262120",
    "https://www.linkedin.com/jobs/view/4468321989",
    "https://www.linkedin.com/jobs/view/4468826267",
+   "https://www.linkedin.com/jobs/view/4476847990",
+   "https://www.linkedin.com/jobs/view/4476870118",
    "https://www.linkedin.com/jobs/view/4477415557",
    "https://www.linkedin.com/jobs/view/4477497151",
    "https://www.linkedin.com/jobs/view/4477810555",
@@ -7800,10 +7810,6 @@
  "heartbeat": "2026-10-31 06",
  "recent": [
   [
-   1793343649.2044168,
-   "Archer - College to Corporate IT Internship - Risk & Security - Engineer"
-  ],
-  [
    1793357355.0335975,
    "Georgia Tech Research Institute - Wireless Security Engineering Student Assistant - Spring"
   ],
@@ -7962,6 +7968,10 @@
   [
    1793434692.5278623,
    "Tevora - Cybersecurity Intern, Threat"
+  ],
+  [
+   1793442340.5955226,
+   "HDR - ICT/Security Intern"
   ]
  ],
  "stem5": true,
