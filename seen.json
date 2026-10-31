@@ -621,6 +621,7 @@
   "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d": "2026-10-31",
   "https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def": "2026-10-31",
   "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c": "2026-10-31",
+  "https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758": "2026-10-31",
   "https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c": "2026-10-31",
   "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c": "2026-10-31",
   "https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3": "2026-10-31",
@@ -630,6 +631,7 @@
   "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0": "2026-10-31",
   "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a": "2026-10-31",
   "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76": "2026-10-31",
+  "https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d": "2026-10-31",
   "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c": "2026-10-31",
   "https://jobs.mercedes-benz.com/cyber-security-intern-244183-mer00049y0": "2026-10-28",
   "https://jobs.merck.com/us/en/job/r413043": "2026-10-09",
@@ -1884,7 +1886,9 @@
   "t:tevor|cybersecurityinternshipsummer2027healthcare": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027internationalorganizationforstandardizationiso": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027payments": "2026-10-31",
+  "t:tevor|cybersecurityinternshipsummer2027solutions": "2026-10-31",
   "t:tevor|cybersecurityinternshipsummer2027systemsandorganizationscontrolssoc": "2026-10-31",
+  "t:tevor|cybersecurityinternshipsummer2027threat": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027enterpriseriskmanagement": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027federal": "2026-10-31",
   "t:tevor|cybersecurityinternshipwinter2027healthcare": "2026-10-31",
@@ -4556,6 +4560,7 @@
    "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
    "https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def",
    "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
+   "https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758",
    "https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c",
    "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
    "https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3",
@@ -4565,6 +4570,7 @@
    "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0",
    "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a",
    "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76",
+   "https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d",
    "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"
   ],
   "lever:thea.energy": [],
@@ -7917,15 +7923,17 @@
   [
    1793413430.8915086,
    "Tevora - Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)"
+  ],
+  [
+   1793413681.3593445,
+   "Tevora - Cybersecurity Internship Summer 2027 - Solutions"
+  ],
+  [
+   1793413681.3593462,
+   "Tevora - Cybersecurity Internship Summer 2027 - Threat"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793413089.941157,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
