@@ -936,6 +936,7 @@
   "https://linkedin.com/jobs/view/4477568999": "2026-10-13",
   "https://linkedin.com/jobs/view/4477618487": "2026-10-10",
   "https://linkedin.com/jobs/view/4477810555": "2026-10-31",
+  "https://linkedin.com/jobs/view/4477810557": "2026-10-31",
   "https://linkedin.com/jobs/view/4477827635": "2026-10-09",
   "https://linkedin.com/jobs/view/4477836279": "2026-10-17",
   "https://linkedin.com/jobs/view/4477837775": "2026-10-31",
@@ -1590,6 +1591,7 @@
   "t:georg|embeddedsystemscybersecuritycoopspring2027cipher": "2026-10-29",
   "t:georg|generalcybersecuritygraduateinterncipherspring2027": "2026-10-31",
   "t:georg|generalcybersecurityinternspring2027cipher": "2026-10-29",
+  "t:georg|generalcybersecuritystudentassistantspring2027cipher": "2026-10-31",
   "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-10-17",
   "t:georg|wirelesssecurityengineeringstudentassistantspring2027cipher": "2026-10-31",
@@ -4672,13 +4674,12 @@
    "https://www.linkedin.com/jobs/view/4476847991",
    "https://www.linkedin.com/jobs/view/4476853761",
    "https://www.linkedin.com/jobs/view/4477810555",
+   "https://www.linkedin.com/jobs/view/4477810557",
    "https://www.linkedin.com/jobs/view/4477841517",
    "https://www.linkedin.com/jobs/view/4477854009",
    "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4485105921",
-   "https://www.linkedin.com/jobs/view/4485119606",
    "https://www.linkedin.com/jobs/view/4485141074",
-   "https://www.linkedin.com/jobs/view/4485642280",
    "https://www.linkedin.com/jobs/view/4485648239",
    "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
@@ -7803,38 +7804,6 @@
  "heartbeat": "2026-10-31 18",
  "recent": [
   [
-   1793383559.6641572,
-   "Software Engineering Institute | Carnegie Mellon University - Cyber Range Development Inte"
-  ],
-  [
-   1793385024.9329243,
-   "CIBC - Corporate Security Coordinator Co-op"
-  ],
-  [
-   1793385997.9803407,
-   "GCM Grosvenor - Cybersecurity Intern"
-  ],
-  [
-   1793386549.6495562,
-   "Marsh & McLennan - 2027 Summer Internship Program - Cyber Risk Management"
-  ],
-  [
-   1793386845.4646811,
-   "City of Long Beach - ADMINISTRATIVE INTERN - (NON-CAREER) - SECURITY"
-  ],
-  [
-   1793389686.4494073,
-   "Stealth Startup - Cyber Security Intern"
-  ],
-  [
-   1793393674.9746406,
-   "BRAIN - AI Security Engineer Intern (Summer 2027)"
-  ],
-  [
-   1793394365.470557,
-   "TD - Cyber Security Intern/Co-op (Winter 2027)"
-  ],
-  [
    1793406112.851021,
    "Mission Technologies, a division of HII - 2027 - Cybersecurity Engineering Intern - Sophom"
   ],
@@ -7933,6 +7902,10 @@
   [
    1793474454.5799935,
    "Nintendo - Software Engineer Intern, Platform Security"
+  ],
+  [
+   1793490422.83867,
+   "Georgia Tech Research Institute - General Cybersecurity Student Assistant - Spring 2027 - "
   ]
  ],
  "stem5": true,
