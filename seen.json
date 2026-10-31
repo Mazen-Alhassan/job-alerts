@@ -4712,9 +4712,7 @@
   "oracle:eedu.fa.em3.oraclecloud.com/CX_1003": [],
   "oracle:eeho.fa.us2.oraclecloud.com/CX_45001": [],
   "oracle:eeik.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:eese.fa.us8.oraclecloud.com/CX_1": [
-   "https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/731"
-  ],
+  "oracle:eese.fa.us8.oraclecloud.com/CX_1": [],
   "oracle:eeug.fa.us6.oraclecloud.com/CX": [],
   "oracle:eevd.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:eewl.fa.us6.oraclecloud.com/CX": [],
@@ -5201,7 +5199,6 @@
    "https://go.vansh.nyc/UB",
    "https://go.vansh.nyc/UF",
    "https://go.vansh.nyc/UH",
-   "https://go.vansh.nyc/VG",
    "https://go.vansh.nyc/VJ",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
@@ -6759,12 +6756,10 @@
   "wd+:mksinst/mkscareersamericas": [],
   "wd+:mlse/MLSE": [],
   "wd+:mmc/MMC": [
-   "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099",
-   "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
+   "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099"
   ],
   "wd+:mmc/mmc": [
-   "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099",
-   "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/New-York---1166/Cyber-Analytics-Actuarial-Spring-Co-op---College-Program-2027_R_370066"
+   "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099"
   ],
   "wd+:modernatx/M_tx": [],
   "wd+:modmed/ModMed12": [],
@@ -7548,9 +7543,7 @@
    "https://desjardins.wd10.myworkdayjobs.com/en-US/Desjardins/job/Montral/Stage-au-Bureau-de-la-Scurit-Desjardins--Hiver-2027_R2610591-1"
   ],
   "wd:disney/disneycareer": [],
-  "wd:dukeenergy/search": [
-   "https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099"
-  ],
+  "wd:dukeenergy/search": [],
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
@@ -7582,8 +7575,7 @@
   "wd:pnc/External": [],
   "wd:proofpoint/ProofpointCareers": [],
   "wd:rb/FRS": [
-   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
-   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
+   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"
   ],
   "wd:rbc/RBCEARLYTALENT1": [],
   "wd:salesforce/External_Career_Site": [
@@ -7778,7 +7770,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-10-30 22",
+ "heartbeat": "2026-10-31 00",
  "recent": [
   [
    1793320128.0546591,
