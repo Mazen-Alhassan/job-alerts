@@ -1132,6 +1132,7 @@
   "https://linkedin.com/jobs/view/4485284958": "2026-10-31",
   "https://linkedin.com/jobs/view/4485357475": "2026-10-31",
   "https://linkedin.com/jobs/view/4485381912": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485412948": "2026-11-01",
   "https://linkedin.com/jobs/view/4485601040": "2026-10-31",
   "https://linkedin.com/jobs/view/4485613850": "2026-10-31",
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
@@ -1508,6 +1509,7 @@
   "t:cisco|securityconsultingengineeriintern": "2026-11-01",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-11-01",
   "t:cityo|administrativeinternnoncareersecurity": "2026-11-01",
+  "t:cityo|springinternpolicesafetysecurityoperations": "2026-11-01",
   "t:cleco|interncybersecurity": "2026-11-01",
   "t:close|contentinternbillingtoncybersecurity": "2026-10-30",
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-01",
@@ -2054,13 +2056,11 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4669,11 +4669,20 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4485990036"
-  ],
+  "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460520156"
+   "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4458983369",
+   "https://www.linkedin.com/jobs/view/4458987322",
+   "https://www.linkedin.com/jobs/view/4458987324",
+   "https://www.linkedin.com/jobs/view/4460307152",
+   "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4460520156",
+   "https://www.linkedin.com/jobs/view/4468401153",
+   "https://www.linkedin.com/jobs/view/4478087913",
+   "https://www.linkedin.com/jobs/view/4485412948",
+   "https://www.linkedin.com/jobs/view/4485939595",
+   "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7796,10 +7805,6 @@
  "heartbeat": "2026-11-01 18",
  "recent": [
   [
-   1793474454.5799935,
-   "Nintendo - Software Engineer Intern, Platform Security"
-  ],
-  [
    1793490422.83867,
    "Georgia Tech Research Institute - General Cybersecurity Student Assistant - Spring 2027 - "
   ],
@@ -7846,15 +7851,13 @@
   [
    1793567669.2854245,
    "1st Source - Information Security Intern"
+  ],
+  [
+   1793574522.4988637,
+   "City of Chesapeake - Spring Intern - Police (Safety & Security Operations)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793573999.5938077,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
