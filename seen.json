@@ -2051,13 +2051,11 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4666,7 +4664,9 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4485990036"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
    "https://www.linkedin.com/jobs/view/4458983369",
@@ -4675,7 +4675,7 @@
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
-   "https://www.linkedin.com/jobs/view/4477841517",
+   "https://www.linkedin.com/jobs/view/4477854009",
    "https://www.linkedin.com/jobs/view/4485191726",
    "https://www.linkedin.com/jobs/view/4485905798",
    "https://www.linkedin.com/jobs/view/4485939595"
@@ -5583,8 +5583,7 @@
    "https://lifeattiktok.com/search/7600535181632457013",
    "https://lifeattiktok.com/search/7600536394771564853",
    "https://lifeattiktok.com/search/7667935739300317493",
-   "https://lifeattiktok.com/search/7670729943510829317",
-   "https://lifeattiktok.com/search/7691158108957641013"
+   "https://lifeattiktok.com/search/7670729943510829317"
   ],
   "wd+:2020companies/external_careers": [],
   "wd+:23andme/23": [],
@@ -7880,7 +7879,7 @@
  "streaks": {
   "li-companies": [
    1,
-   1793555733.7866614,
+   1793556633.7878091,
    "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  },
