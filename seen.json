@@ -961,7 +961,7 @@
   "https://linkedin.com/jobs/view/4477977111": "2026-10-14",
   "https://linkedin.com/jobs/view/4477981831": "2026-10-13",
   "https://linkedin.com/jobs/view/4478081281": "2026-11-01",
-  "https://linkedin.com/jobs/view/4478087913": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478087913": "2026-11-01",
   "https://linkedin.com/jobs/view/4478106761": "2026-10-14",
   "https://linkedin.com/jobs/view/4478135096": "2026-10-21",
   "https://linkedin.com/jobs/view/4478140024": "2026-10-21",
@@ -4669,14 +4669,22 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458679656",
    "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4458983369",
+   "https://www.linkedin.com/jobs/view/4458987322",
    "https://www.linkedin.com/jobs/view/4458987324",
+   "https://www.linkedin.com/jobs/view/4460307152",
+   "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4468801515",
    "https://www.linkedin.com/jobs/view/4468811301",
    "https://www.linkedin.com/jobs/view/4475227979",
    "https://www.linkedin.com/jobs/view/4477841517",
+   "https://www.linkedin.com/jobs/view/4478081281",
+   "https://www.linkedin.com/jobs/view/4478087913",
    "https://www.linkedin.com/jobs/view/4485191726",
-   "https://www.linkedin.com/jobs/view/4485905798"
+   "https://www.linkedin.com/jobs/view/4485905798",
+   "https://www.linkedin.com/jobs/view/4485939595"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7875,6 +7883,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1793542488.8794634,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
