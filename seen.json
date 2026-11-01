@@ -2035,13 +2035,11 @@
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
    "https://jobs.apple.com/en-us/details/200663981/hardware-undergrad-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664221/machine-learning-and-artificial-intelligence-masters-internships",
    "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships",
    "https://jobs.apple.com/en-us/details/200664330/engineering-program-management-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664336/engineering-program-management-masters-internships",
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
-   "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
    "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
   ],
   "ashby:1password": [
@@ -4678,7 +4676,6 @@
    "https://www.linkedin.com/jobs/view/4485648239",
    "https://www.linkedin.com/jobs/view/4485655731",
    "https://www.linkedin.com/jobs/view/4485659390",
-   "https://www.linkedin.com/jobs/view/4485666251",
    "https://www.linkedin.com/jobs/view/4485670149",
    "https://www.linkedin.com/jobs/view/4485686040",
    "https://www.linkedin.com/jobs/view/4485905798"
@@ -7925,6 +7922,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "shopify-page": [
+   1,
+   1793500268.6602345,
+   "HTTP Error 503: Service Unavailable"
+  ]
+ },
  "urlkey2": true
 }
