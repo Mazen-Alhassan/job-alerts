@@ -142,6 +142,7 @@
   "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/new-york-ny/xmlname-2027-summer-intern--information-security_2026-1416": "2026-11-01",
   "https://applicantpro.com/openings/echeloncyber/jobs/4241204-989931": "2026-10-13",
   "https://applicantpro.com/openings/navigantcu/jobs/4245322-131135": "2026-10-16",
+  "https://apply.careers.microsoft.com/careers/job/1970393556922930": "2026-11-01",
   "https://apply.careers.microsoft.com/careers/job/1970393556988203": "2026-11-01",
   "https://apply.careers.microsoft.com/careers/job/1970393557022480": "2026-11-01",
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-11-01",
@@ -1740,6 +1741,7 @@
   "t:micro|securityresearchintern": "2026-11-01",
   "t:micro|softwareengineerinternsecurityidentity": "2026-10-30",
   "t:micro|softwareengineersecurityidentityinternopportunitiesforuniversitystudentscambridge": "2026-11-01",
+  "t:micro|softwareengineersecurityidentityinternopportunitiesforuniversitystudentsredmond": "2026-11-01",
   "t:midco|2027summerinterncybersecuritygraduate": "2026-10-22",
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-11-01",
@@ -4672,7 +4674,6 @@
    "https://www.linkedin.com/jobs/view/4477841517",
    "https://www.linkedin.com/jobs/view/4477854009",
    "https://www.linkedin.com/jobs/view/4478081281",
-   "https://www.linkedin.com/jobs/view/4485686040",
    "https://www.linkedin.com/jobs/view/4485905798",
    "https://www.linkedin.com/jobs/view/4485939595"
   ],
@@ -4685,7 +4686,7 @@
    "https://www.linkedin.com/jobs/view/4483396624"
   ],
   "microsoft": [
-   "https://apply.careers.microsoft.com/careers/job/1970393556988203",
+   "https://apply.careers.microsoft.com/careers/job/1970393556922930",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765",
    "https://apply.careers.microsoft.com/careers/job/1970393557044769"
@@ -7787,72 +7788,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 00",
+ "heartbeat": "2026-11-01 02",
  "recent": [
-  [
-   1793406112.851021,
-   "Mission Technologies, a division of HII - 2027 - Cybersecurity Engineering Intern - Sophom"
-  ],
-  [
-   1793406112.8510232,
-   "Jewelers Mutual Group - GRC Analyst Intern - Summer of 2027"
-  ],
-  [
-   1793407467.986083,
-   "Sandia National Laboratories - Intern, Business Undergraduate  Year-Round - Personnel Secu"
-  ],
-  [
-   1793408165.137715,
-   "Health Care Service Corporation - Early Careers - Cybersecurity Operations Intern"
-  ],
-  [
-   1793408974.1676676,
-   "Molina Healthcare - Cybersecurity Internship (Remote) \u2013(Undergraduate)"
-  ],
-  [
-   1793412702.9904468,
-   "HCSC - Cybersecurity Operations Intern"
-  ],
-  [
-   1793413052.829148,
-   "Tevora - Cybersecurity Internship Summer 2027 - Enterprise Risk Management"
-  ],
-  [
-   1793413143.9610226,
-   "Tevora - Cybersecurity Internship Summer2027 - Federal"
-  ],
-  [
-   1793413233.4183893,
-   "Tevora - Cybersecurity Internship Summer 2027 - Healthcare"
-  ],
-  [
-   1793413358.764801,
-   "Tevora - Cybersecurity Internship Summer 2027 - International Organization for Standardiza"
-  ],
-  [
-   1793413358.7648032,
-   "Savannah River Mission Completion - 2027 Summer Intern-Computer Science, Information Techn"
-  ],
-  [
-   1793413430.891507,
-   "Tevora - Cybersecurity Internship Summer 2027 - Payments"
-  ],
-  [
-   1793413430.8915086,
-   "Tevora - Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)"
-  ],
-  [
-   1793413681.3593445,
-   "Tevora - Cybersecurity Internship Summer 2027 - Solutions"
-  ],
-  [
-   1793413681.3593462,
-   "Tevora - Cybersecurity Internship Summer 2027 - Threat"
-  ],
-  [
-   1793420581.894683,
-   "Seattle Seahawks - Information Security Intern"
-  ],
   [
    1793427829.7751994,
    "BioSpace - 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)"
@@ -7908,6 +7845,10 @@
   [
    1793492017.640612,
    "Midland States Bank - Security Analyst Intern"
+  ],
+  [
+   1793516816.9457834,
+   "Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Stu"
   ]
  ],
  "stem5": true,
