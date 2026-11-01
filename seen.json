@@ -1136,6 +1136,7 @@
   "https://linkedin.com/jobs/view/4485670149": "2026-11-01",
   "https://linkedin.com/jobs/view/4485686040": "2026-11-01",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
+  "https://linkedin.com/jobs/view/4485939595": "2026-11-01",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4222,9 +4223,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers-lse-srmc.icims.com/jobs/2260/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
-   "https://seattleseahawks.applytojob.com/apply/L4GOGEtBhp/Information-Security-Intern",
-   "https://www.governmentjobs.com/careers/longbeach/jobs/5533161/administrative-intern-non-career-security"
+   "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4676,7 +4675,8 @@
    "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4485648239",
    "https://www.linkedin.com/jobs/view/4485686040",
-   "https://www.linkedin.com/jobs/view/4485905798"
+   "https://www.linkedin.com/jobs/view/4485905798",
+   "https://www.linkedin.com/jobs/view/4485939595"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
