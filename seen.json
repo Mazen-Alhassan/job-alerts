@@ -432,6 +432,8 @@
   "https://go.vansh.nyc/14C": "2026-11-01",
   "https://go.vansh.nyc/14v": "2026-11-01",
   "https://go.vansh.nyc/15F": "2026-11-01",
+  "https://go.vansh.nyc/192": "2026-11-01",
+  "https://go.vansh.nyc/193": "2026-11-01",
   "https://go.vansh.nyc/SC": "2026-11-01",
   "https://go.vansh.nyc/SD": "2026-11-01",
   "https://go.vansh.nyc/SE": "2026-11-01",
@@ -1300,6 +1302,7 @@
   "t:1pass|developerinternmachineidentitywinter2027": "2026-11-01",
   "t:1pass|securityinternthreatoperations": "2026-10-29",
   "t:1pass|securityinternthreatoperationswinter2027": "2026-11-01",
+  "t:1stso|informationsecurityintern": "2026-11-01",
   "t:1stso|interninformationsecuritysouthbendinsummer2027": "2026-10-31",
   "t:7elev|informationsecurityintern": "2026-10-29",
   "t:abbvi|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-11-01",
@@ -4670,7 +4673,16 @@
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460520156"
+   "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4458983369",
+   "https://www.linkedin.com/jobs/view/4458987322",
+   "https://www.linkedin.com/jobs/view/4458987324",
+   "https://www.linkedin.com/jobs/view/4460307152",
+   "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4468401153",
+   "https://www.linkedin.com/jobs/view/4478087913",
+   "https://www.linkedin.com/jobs/view/4485939595",
+   "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5213,6 +5225,8 @@
    "https://go.vansh.nyc/14C",
    "https://go.vansh.nyc/14v",
    "https://go.vansh.nyc/15F",
+   "https://go.vansh.nyc/192",
+   "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7788,36 +7802,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 14",
+ "heartbeat": "2026-11-01 16",
  "recent": [
-  [
-   1793434692.5278583,
-   "Tevora - Cybersecurity Intern, Federal"
-  ],
-  [
-   1793434692.52786,
-   "Tevora - Cybersecurity Intern, Healthcare"
-  ],
-  [
-   1793434692.5278606,
-   "Tevora - Cybersecurity Intern, Payments"
-  ],
-  [
-   1793434692.5278616,
-   "Tevora - Cybersecurity Intern, Solutions"
-  ],
-  [
-   1793434692.5278623,
-   "Tevora - Cybersecurity Intern, Threat"
-  ],
-  [
-   1793442340.5955226,
-   "HDR - ICT/Security Intern"
-  ],
-  [
-   1793453166.7760625,
-   "American Equity - IT Intern, SAP Security"
-  ],
   [
    1793474454.5799935,
    "Nintendo - Software Engineer Intern, Platform Security"
@@ -7865,6 +7851,10 @@
   [
    1793522871.0970023,
    "ByteDance - Security Engineering Project Intern, Watermark"
+  ],
+  [
+   1793567669.2854245,
+   "1st Source - Information Security Intern"
   ]
  ],
  "stem5": true,
