@@ -4666,18 +4666,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [],
-  "li-search": [
-   "https://www.linkedin.com/jobs/view/4458679656",
-   "https://www.linkedin.com/jobs/view/4458983369",
-   "https://www.linkedin.com/jobs/view/4458987324",
-   "https://www.linkedin.com/jobs/view/4468401153",
-   "https://www.linkedin.com/jobs/view/4468801515",
-   "https://www.linkedin.com/jobs/view/4468811301",
-   "https://www.linkedin.com/jobs/view/4475227979",
-   "https://www.linkedin.com/jobs/view/4477841517",
-   "https://www.linkedin.com/jobs/view/4485191726",
-   "https://www.linkedin.com/jobs/view/4485905798"
-  ],
+  "li-search": [],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
    "https://www.linkedin.com/jobs/view/4474205293",
@@ -7795,7 +7784,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 06",
+ "heartbeat": "2026-11-01 08",
  "recent": [
   [
    1793434692.5278583,
