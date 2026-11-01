@@ -690,6 +690,7 @@
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-01",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-01",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-01",
+  "https://joinbytedance.com/search/7625759034518128901": "2026-11-01",
   "https://kei.wd1.myworkdayjobs.com/globalkimballcareers/job/kimball-electronics-corporate-headquarters/cybersecurity-intern_r20261495": "2026-10-15",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-defense-associate_r-67301-1": "2026-11-01",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304-1": "2026-11-01",
@@ -1462,6 +1463,7 @@
   "t:byted|machinelearningengineerprojectinternsecuritydata": "2026-11-01",
   "t:byted|networksecuritysoftwareengineerinternsecurityengineering": "2026-11-01",
   "t:byted|networksecuritysoftwareengineerinternsecurityengineering2027fall": "2026-10-25",
+  "t:byted|securityengineeringprojectinternwatermark": "2026-11-01",
   "t:byted|securityengineeringprojectinternwatermark2026startbsms": "2026-10-23",
   "t:byted|securitysoftwareengineerprojectinternnetworksecurity": "2026-11-01",
   "t:byted|securitysoftwareengineerprojectinternnetworksecurity2026startbsms": "2026-10-25",
@@ -4232,9 +4234,7 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [
-   "https://careers-lse-srmc.icims.com/jobs/2260/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f"
-  ],
+  "jobspy": [],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4667,7 +4667,6 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458679656",
-   "https://www.linkedin.com/jobs/view/4460112362",
    "https://www.linkedin.com/jobs/view/4460312104",
    "https://www.linkedin.com/jobs/view/4460370875",
    "https://www.linkedin.com/jobs/view/4460512391",
@@ -4681,6 +4680,7 @@
    "https://www.linkedin.com/jobs/view/4477810555",
    "https://www.linkedin.com/jobs/view/4477810557",
    "https://www.linkedin.com/jobs/view/4477841517",
+   "https://www.linkedin.com/jobs/view/4477854009",
    "https://www.linkedin.com/jobs/view/4478081281",
    "https://www.linkedin.com/jobs/view/4485191726",
    "https://www.linkedin.com/jobs/view/4485905798",
@@ -5252,7 +5252,8 @@
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/YE",
    "https://go.vansh.nyc/Zg",
-   "https://go.vansh.nyc/Zk"
+   "https://go.vansh.nyc/Zk",
+   "https://joinbytedance.com/search/7625759034518128901"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -7805,10 +7806,6 @@
  "heartbeat": "2026-11-01 02",
  "recent": [
   [
-   1793427829.7751994,
-   "BioSpace - 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)"
-  ],
-  [
    1793434692.5278583,
    "Tevora - Cybersecurity Intern, Federal"
   ],
@@ -7879,6 +7876,10 @@
   [
    1793520164.1992064,
    "ByteDance - Software Engineer Project Intern, Security-Data"
+  ],
+  [
+   1793522871.0970023,
+   "ByteDance - Security Engineering Project Intern, Watermark"
   ]
  ],
  "stem5": true,
