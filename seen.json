@@ -1252,6 +1252,9 @@
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-11-02",
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-11-02",
   "https://pgcareers.com/global/en/job/r000157502": "2026-11-02",
+  "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11000": "2026-11-02",
+  "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11008": "2026-11-02",
+  "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11018": "2026-11-02",
   "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/southfield/xmlname-2027-cybersecurity-consultant-intern_jr-03299": "2026-11-02",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/college-of-ist-cyber-100-genai-impact-evaluation-student-assistant_req_0000083099-1": "2026-10-12",
   "https://psu.wd1.myworkdayjobs.com/psu_staff/job/penn-state-university-park/cybersecurity-assurance-intern_req_0000081843-1": "2026-11-02",
@@ -1590,6 +1593,9 @@
   "t:costa|securityengineerintern": "2026-10-27",
   "t:costa|securityengineerinternarlingtonva": "2026-10-27",
   "t:costa|securityengineerinternrichmondva": "2026-10-27",
+  "t:costc|cdsinternidentityandaccessmanagement": "2026-11-02",
+  "t:costc|cdsinternidentitysecurity": "2026-11-02",
+  "t:costc|cdsinternsecurityculturetrainingandawareness": "2026-11-02",
   "t:cox|cybersecurityinternsummer2027": "2026-11-02",
   "t:crowd|incidentresponseinternshipprofessionalservicessummer2027remoteuk": "2026-10-19",
   "t:crowd|professionalservicesredteaminternsummer2027remotegbr": "2026-10-21",
@@ -4329,6 +4335,9 @@
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879",
    "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
+   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11000",
+   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11008",
+   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
@@ -7927,7 +7936,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 16",
+ "heartbeat": "2026-11-02 18",
  "recent": [
   [
    1793567669.2854245,
@@ -8076,9 +8085,27 @@
   [
    1793660207.4122014,
    "Federal Home Loan Bank of Chicago - Summer Internship - Cybersecurity"
+  ],
+  [
+   1793660470.076035,
+   "Costco Wholesale - CDS Intern - Identity Security"
+  ],
+  [
+   1793660470.0760372,
+   "Costco Wholesale - CDS Intern - Identity and Access Management"
+  ],
+  [
+   1793660470.076038,
+   "Costco Wholesale - CDS Intern - Security Culture, Training, and Awareness"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793660401.664425,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
