@@ -1111,6 +1111,8 @@
   "https://linkedin.com/jobs/view/4484213000": "2026-10-28",
   "https://linkedin.com/jobs/view/4484242579": "2026-10-29",
   "https://linkedin.com/jobs/view/4484307681": "2026-11-02",
+  "https://linkedin.com/jobs/view/4484366994": "2026-11-02",
+  "https://linkedin.com/jobs/view/4484369864": "2026-11-02",
   "https://linkedin.com/jobs/view/4484416521": "2026-10-28",
   "https://linkedin.com/jobs/view/4484420604": "2026-10-30",
   "https://linkedin.com/jobs/view/4484451005": "2026-10-29",
@@ -1161,6 +1163,7 @@
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
   "https://linkedin.com/jobs/view/4486190874": "2026-11-02",
   "https://linkedin.com/jobs/view/4486403514": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486409768": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1597,6 +1600,7 @@
   "t:erics|securityanalystintern": "2026-10-31",
   "t:exped|securityengineeringintern": "2026-10-20",
   "t:exped|securityengineeringintern2027seattle": "2026-11-02",
+  "t:expoe|internsecurityanalyst": "2026-11-02",
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
   "t:feder|2027summerinternshipprogramsupervisionregulationcybersecurity": "2026-11-02",
   "t:feder|aviationsecurityintern": "2026-10-31",
@@ -1702,6 +1706,7 @@
   "t:illum|engineeringinternproductsecurity": "2026-11-02",
   "t:illum|securityresearchintern": "2026-11-02",
   "t:inmar|informationsecurityinternshipssummer2027": "2026-11-02",
+  "t:insme|summerinterncloudapplicationsecurity": "2026-11-02",
   "t:intac|newgradtechdevelopmentprogramcybersecuritystream": "2026-10-12",
   "t:integ|itsecurityintern": "2026-10-24",
   "t:intel|informationsecurityengineerintern": "2026-10-29",
@@ -1838,6 +1843,7 @@
   "t:north|cybersecurityinternship": "2026-11-02",
   "t:north|cybersoftwareengineerintern": "2026-10-25",
   "t:north|cybersystemsengineerintern": "2026-10-24",
+  "t:novac|itsecurityintern": "2026-11-02",
   "t:nucle|securityengineerintern": "2026-11-02",
   "t:nucle|spring2027securityengineerintern": "2026-11-02",
   "t:nvidi|phdresearchinternsecurityandprivacy2027": "2026-11-02",
@@ -4710,12 +4716,15 @@
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
+   "https://www.linkedin.com/jobs/view/4484366994",
+   "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485743366",
    "https://www.linkedin.com/jobs/view/4486190874",
-   "https://www.linkedin.com/jobs/view/4486403514"
+   "https://www.linkedin.com/jobs/view/4486403514",
+   "https://www.linkedin.com/jobs/view/4486409768"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7878,6 +7887,18 @@
   [
    1793640537.998344,
    "ID.me - Summer Intern 2027 - Product Security Engineering Intern"
+  ],
+  [
+   1793641198.605355,
+   "Insmed Incorporated - Summer Intern \u2013 Cloud/Application Security"
+  ],
+  [
+   1793641198.6053565,
+   "Novacore - IT/Security Intern"
+  ],
+  [
+   1793641198.6053576,
+   "Expo Experts - Intern - Security Analyst"
   ]
  ],
  "stem5": true,
