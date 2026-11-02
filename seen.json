@@ -1866,6 +1866,7 @@
   "t:monol|securityanalystintern": "2026-11-02",
   "t:motio|grccybersecurityanalystintern": "2026-10-15",
   "t:motor|softwareengineercybersecurityservices2027summerinternship": "2026-11-02",
+  "t:motor|softwareengineercybersecurityservicesintern": "2026-11-02",
   "t:motor|softwareengineerinterncybersecurityservices": "2026-11-02",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-10-31",
@@ -2153,7 +2154,8 @@
    "https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer",
    "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
-   "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services"
+   "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
+   "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
@@ -4341,6 +4343,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879",
    "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
@@ -4786,15 +4789,38 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
+   "https://www.linkedin.com/jobs/view/4471388468",
+   "https://www.linkedin.com/jobs/view/4471392374",
+   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4474124687",
+   "https://www.linkedin.com/jobs/view/4484307681",
+   "https://www.linkedin.com/jobs/view/4484366994",
+   "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
+   "https://www.linkedin.com/jobs/view/4485780007",
    "https://www.linkedin.com/jobs/view/4485783294",
-   "https://www.linkedin.com/jobs/view/4486451559"
+   "https://www.linkedin.com/jobs/view/4486190874",
+   "https://www.linkedin.com/jobs/view/4486403514",
+   "https://www.linkedin.com/jobs/view/4486409768",
+   "https://www.linkedin.com/jobs/view/4486426577",
+   "https://www.linkedin.com/jobs/view/4486433237",
+   "https://www.linkedin.com/jobs/view/4486435027",
+   "https://www.linkedin.com/jobs/view/4486441769",
+   "https://www.linkedin.com/jobs/view/4486451559",
+   "https://www.linkedin.com/jobs/view/4486451604",
+   "https://www.linkedin.com/jobs/view/4486453921",
+   "https://www.linkedin.com/jobs/view/4486458801",
+   "https://www.linkedin.com/jobs/view/4486461012"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5313,7 +5339,9 @@
   "shopify-page": [
    "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
-  "simplify": [],
+  "simplify": [
+   "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
+  ],
   "simplify-vansh": [
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10M",
@@ -6461,9 +6489,7 @@
   "wd+:gartner/EXT": [],
   "wd+:gcu/GCU": [],
   "wd+:gdit/external_career_site": [],
-  "wd+:gdit/gdit_earlytalent": [
-   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"
-  ],
+  "wd+:gdit/gdit_earlytalent": [],
   "wd+:geaerospace/ge_externalsite": [],
   "wd+:geha/GEHACareers": [],
   "wd+:gehc/GEHC_ExternalSite": [],
@@ -7928,6 +7954,11 @@
   "workable:zippd": []
  },
  "collisions": {
+  "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": [
+   "2026-11-02",
+   "t:motor|softwareengineercybersecurityservices2027summerinternship",
+   "t:motor|softwareengineercybersecurityservicesintern"
+  ],
   "https://sunlife.wd3.myworkdayjobs.com/campus/job/toronto-ontario/student--software-engineer---security--winter-2027-_jr00129065": [
    "2026-11-01",
    "t:sunli|softwareengineercoopsecurity",
