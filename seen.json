@@ -4680,6 +4680,8 @@
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
    "https://www.linkedin.com/jobs/view/4468401153",
+   "https://www.linkedin.com/jobs/view/4478087913",
+   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485939595",
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
@@ -6265,9 +6267,7 @@
   "wd+:exactsciences/Exact_Sciences": [],
   "wd+:exclusivenetworks/Exclusive-Networks-Career": [],
   "wd+:exelixis/exel": [],
-  "wd+:expedia/private": [
-   "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Security-Engineering-Intern---2027---Seattle_R-110310"
-  ],
+  "wd+:expedia/private": [],
   "wd+:expedia/search": [],
   "wd+:extraspace/ESS_External": [],
   "wd+:factset/FactSetCareers": [],
@@ -7799,7 +7799,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 20",
+ "heartbeat": "2026-11-01 22",
  "recent": [
   [
    1793490422.83867,
@@ -7859,12 +7859,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793587946.7296243,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
