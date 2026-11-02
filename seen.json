@@ -865,7 +865,7 @@
   "https://linkedin.com/jobs/view/4471128909": "2026-10-21",
   "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
   "https://linkedin.com/jobs/view/4471388468": "2026-11-02",
-  "https://linkedin.com/jobs/view/4471392374": "2026-10-12",
+  "https://linkedin.com/jobs/view/4471392374": "2026-11-02",
   "https://linkedin.com/jobs/view/4471672805": "2026-10-17",
   "https://linkedin.com/jobs/view/4471678825": "2026-10-17",
   "https://linkedin.com/jobs/view/4471690455": "2026-10-17",
@@ -1162,6 +1162,7 @@
   "https://linkedin.com/jobs/view/4485686040": "2026-11-01",
   "https://linkedin.com/jobs/view/4485737763": "2026-11-02",
   "https://linkedin.com/jobs/view/4485743366": "2026-11-02",
+  "https://linkedin.com/jobs/view/4485766458": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
@@ -4724,9 +4725,11 @@
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
+   "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
@@ -4734,6 +4737,7 @@
    "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
+   "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486409768",
@@ -7941,6 +7945,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1793645664.3222969,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
