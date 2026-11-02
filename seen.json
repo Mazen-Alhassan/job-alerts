@@ -747,6 +747,7 @@
   "https://linkedin.com/jobs/view/4458986159": "2026-10-12",
   "https://linkedin.com/jobs/view/4458987322": "2026-11-02",
   "https://linkedin.com/jobs/view/4458987324": "2026-11-02",
+  "https://linkedin.com/jobs/view/4458993112": "2026-11-02",
   "https://linkedin.com/jobs/view/4459072266": "2026-10-30",
   "https://linkedin.com/jobs/view/4459075188": "2026-10-29",
   "https://linkedin.com/jobs/view/4459075219": "2026-10-29",
@@ -766,6 +767,7 @@
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
   "https://linkedin.com/jobs/view/4460254050": "2026-10-29",
+  "https://linkedin.com/jobs/view/4460302284": "2026-11-02",
   "https://linkedin.com/jobs/view/4460307152": "2026-11-02",
   "https://linkedin.com/jobs/view/4460311092": "2026-11-02",
   "https://linkedin.com/jobs/view/4460312104": "2026-11-01",
@@ -4672,14 +4674,15 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4485990036"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
    "https://www.linkedin.com/jobs/view/4458983369",
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
-   "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4478087913",
    "https://www.linkedin.com/jobs/view/4484307681",
