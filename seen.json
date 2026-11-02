@@ -1201,6 +1201,7 @@
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/boise---broadway/xmlname-2027-summer-internship-program---cyber-risk-management_r_371099": "2026-11-02",
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/new-york---1166/cyber-analytics-actuarial-spring-co-op---college-program-2027_r_370066": "2026-10-31",
   "https://monolithicpower.wd12.myworkdayjobs.com/mps_careers/job/san-jose-ca/security-analyst-intern_r-982-1": "2026-11-02",
+  "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": "2026-11-02",
   "https://my7elevenhr.wd12.myworkdayjobs.com/careers/job/ssc-irving-tx/information-security-intern_r26_5976": "2026-10-29",
   "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/canada---st-johns---newfoundland--labrador/verafin---information-security-student--january-2027-_r0027086": "2026-10-09",
   "https://ncfta.bamboohr.com/careers/54": "2026-10-24",
@@ -1823,6 +1824,7 @@
   "t:molin|cybersecurityinternshipremoteundergraduate": "2026-11-02",
   "t:monol|securityanalystintern": "2026-11-02",
   "t:motio|grccybersecurityanalystintern": "2026-10-15",
+  "t:motor|softwareengineercybersecurityservices2027summerinternship": "2026-11-02",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-10-31",
   "t:nassa|interncybersecurityrisk": "2026-10-20",
@@ -7669,7 +7671,9 @@
    "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148"
   ],
   "wd:mastercard/CorporateCareers": [],
-  "wd:motorolasolutions/Careers": [],
+  "wd:motorolasolutions/Careers": [
+   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
+  ],
   "wd:ngc/northrop_grumman_external_site": [],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
@@ -7974,6 +7978,10 @@
   [
    1793648504.8756094,
    "RTX - Systems Security Engineering Intern"
+  ],
+  [
+   1793649832.1346107,
+   "Motorola Solutions - Software Engineer Cybersecurity Services - 2027 Summer Internship"
   ]
  ],
  "stem5": true,
