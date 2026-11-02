@@ -1152,6 +1152,7 @@
   "https://linkedin.com/jobs/view/4485669213": "2026-10-31",
   "https://linkedin.com/jobs/view/4485670149": "2026-11-01",
   "https://linkedin.com/jobs/view/4485686040": "2026-11-01",
+  "https://linkedin.com/jobs/view/4485743366": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
@@ -1494,6 +1495,7 @@
   "t:canad|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
   "t:carne|cyberrangedevelopmentintern": "2026-11-02",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
+  "t:cbcte|itsupportcybersecurityintern": "2026-11-02",
   "t:cedar|securityinternships": "2026-10-29",
   "t:cente|applicationssecurityengineerinternundergraduatesummer2027": "2026-10-28",
   "t:cente|cloudsecurityanalystinternundergraduatesummer2027": "2026-10-28",
@@ -4685,15 +4687,12 @@
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
-   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
-   "https://www.linkedin.com/jobs/view/4485990036"
+   "https://www.linkedin.com/jobs/view/4485743366"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5236,9 +5235,6 @@
    "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/197",
    "https://go.vansh.nyc/19i",
-   "https://go.vansh.nyc/SC",
-   "https://go.vansh.nyc/SD",
-   "https://go.vansh.nyc/SE",
    "https://go.vansh.nyc/SN",
    "https://go.vansh.nyc/SW",
    "https://go.vansh.nyc/UB",
@@ -7830,6 +7826,10 @@
   [
    1793632424.191822,
    "The Federal Reserve System - Supervision & Regulation Intern, Cybersecurity"
+  ],
+  [
+   1793637503.8133402,
+   "CBC Technovations, LLC - IT Support & Cybersecurity Intern"
   ]
  ],
  "stem5": true,
