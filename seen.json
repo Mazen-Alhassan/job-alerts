@@ -1218,6 +1218,7 @@
   "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/us-ga-atlanta-suwanee-1-dc1/summer-2027-internship--information-security-operations-analyst_r2026-2273": "2026-10-28",
   "https://qualcomm.eightfold.ai/careers/job/446720740636": "2026-10-22",
   "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/detroit-mi/security-services-intern---fall-2026_r-082242": "2026-10-26",
+  "https://rb.wd5.myworkdayjobs.com/frs/job/atlanta-ga/xmlname-2027-summer-internship-program---supervision---regulation--cybersecurity-_r-0000033866": "2026-11-02",
   "https://rb.wd5.myworkdayjobs.com/frs/job/chicago-il/summer-2027-intern-cybersecurity-and-information-security_r-0000033612-1": "2026-11-02",
   "https://rb.wd5.myworkdayjobs.com/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": "2026-10-31",
   "https://recruiting.paylocity.com/recruiting/jobs/details/4578257/scot-forge/it-cybersecurity-intern-summer-2027": "2026-10-24",
@@ -1585,6 +1586,7 @@
   "t:exped|securityengineeringintern": "2026-10-20",
   "t:exped|securityengineeringintern2027seattle": "2026-11-02",
   "t:expre|informationsecuritysummerinternship": "2026-10-17",
+  "t:feder|2027summerinternshipprogramsupervisionregulationcybersecurity": "2026-11-02",
   "t:feder|aviationsecurityintern": "2026-10-31",
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-11-02",
@@ -4680,10 +4682,12 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450739735",
-   "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4478087913",
    "https://www.linkedin.com/jobs/view/4484307681",
@@ -7604,6 +7608,7 @@
   "wd:pnc/External": [],
   "wd:proofpoint/ProofpointCareers": [],
   "wd:rb/FRS": [
+   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"
   ],
   "wd:rbc/RBCEARLYTALENT1": [],
@@ -7800,10 +7805,6 @@
  "heartbeat": "2026-11-02 08",
  "recent": [
   [
-   1793522871.0970023,
-   "ByteDance - Security Engineering Project Intern, Watermark"
-  ],
-  [
    1793567669.2854245,
    "1st Source - Information Security Intern"
   ],
@@ -7822,6 +7823,10 @@
   [
    1793615403.899548,
    "Alaska Airlines - Intern - Cybersecurity Threat Defense (Summer 2027)"
+  ],
+  [
+   1793626612.386982,
+   "Federal Reserve - 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity"
   ]
  ],
  "stem5": true,
