@@ -434,6 +434,7 @@
   "https://go.vansh.nyc/15F": "2026-11-02",
   "https://go.vansh.nyc/192": "2026-11-02",
   "https://go.vansh.nyc/193": "2026-11-02",
+  "https://go.vansh.nyc/197": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1667,6 +1668,7 @@
   "t:hp|softwareproductsecurityinternhpiq": "2026-11-02",
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-31",
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-31",
+  "t:iatin|cybersecurityintern": "2026-11-02",
   "t:iatin|cybersecurityinternship": "2026-11-02",
   "t:ibm|ainativesecurityresearchintern2027": "2026-10-28",
   "t:ibott|informationsecurityintern": "2026-11-02",
@@ -4674,9 +4676,11 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
    "https://www.linkedin.com/jobs/view/4458983369",
+   "https://www.linkedin.com/jobs/view/4458987322",
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4478087913",
    "https://www.linkedin.com/jobs/view/4485412948",
@@ -5224,6 +5228,7 @@
    "https://go.vansh.nyc/15F",
    "https://go.vansh.nyc/192",
    "https://go.vansh.nyc/193",
+   "https://go.vansh.nyc/197",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7798,7 +7803,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 18",
+ "heartbeat": "2026-11-01 20",
  "recent": [
   [
    1793490422.83867,
@@ -7851,13 +7856,17 @@
   [
    1793574522.4988637,
    "City of Chesapeake - Spring Intern - Police (Safety & Security Operations)"
+  ],
+  [
+   1793581808.4699457,
+   "IAT Insurance Group - Cyber Security Intern"
   ]
  ],
  "stem5": true,
  "streaks": {
   "li-companies": [
    1,
-   1793580569.6019351,
+   1793581469.6031268,
    "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  },
