@@ -317,6 +317,7 @@
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-11-02",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----new-grad_r031979-1": "2026-10-27",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
+  "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---security-analyst--b-_jr226752": "2026-11-02",
   "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/rtp-north-carolina-us/security-consulting-engineer-i--intern----united-states_2024817": "2026-10-30",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-11-02",
   "https://click.appcast.io/t/ardezvzymgoz1eevrtv5ex2z3ztytgw259zbgmjq4k0=": "2026-10-28",
@@ -1531,6 +1532,7 @@
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-11-02",
   "t:ciena|softwareengineersecuritynewgrad": "2026-10-27",
+  "t:cinci|studentiisecurityanalystb": "2026-11-02",
   "t:cisco|securityconsultingengineeriintern": "2026-11-02",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-11-02",
   "t:cityo|administrativeinternnoncareersecurity": "2026-11-01",
@@ -4714,7 +4716,6 @@
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
@@ -4723,7 +4724,6 @@
    "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
-   "https://www.linkedin.com/jobs/view/4485743366",
    "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486409768"
@@ -6071,7 +6071,9 @@
    "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
   "wd+:cigna/cignacareers": [],
-  "wd+:cincinnatichildrens/careersatcincinnatichildrens": [],
+  "wd+:cincinnatichildrens/careersatcincinnatichildrens": [
+   "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Student-II---Security-Analyst--B-_JR226752"
+  ],
   "wd+:cir/CIR_External_Career_Site": [],
   "wd+:circle/Circle": [],
   "wd+:circlek/circlekstorejobs": [],
@@ -7907,6 +7909,10 @@
   [
    1793641260.385612,
    "BMO - Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months"
+  ],
+  [
+   1793641662.8866534,
+   "Cincinnati Children\u2019s Hospital and Medical Center - Student II - Security Analyst (B)"
   ]
  ],
  "stem5": true,
