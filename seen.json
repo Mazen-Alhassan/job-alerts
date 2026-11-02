@@ -4679,9 +4679,9 @@
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4478087913",
-   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485939595",
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
@@ -7619,9 +7619,7 @@
    "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
   ],
   "wd:target/targetcareers": [],
-  "wd:td/TD_Bank_Careers": [
-   "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Cyber-Security-Co-op---Intern---Winter-2027-_R_1509810"
-  ],
+  "wd:td/TD_Bank_Careers": [],
   "wd:travelers/External": [],
   "wd:trendmicro/External": [],
   "wd:upbound/Upbound": [],
@@ -7799,7 +7797,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-01 22",
+ "heartbeat": "2026-11-02 00",
  "recent": [
   [
    1793490422.83867,
@@ -7859,6 +7857,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793595596.740179,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
