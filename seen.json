@@ -402,6 +402,7 @@
   "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1013/job/228": "2026-11-02",
   "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/119551": "2026-10-16",
   "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260836": "2026-11-02",
+  "https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---cybersecurity_r2600513": "2026-11-02",
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---code-security---spring-2027_r71575": "2026-10-09",
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---identity---access-management---spring-2027_r71590": "2026-10-09",
   "https://fis.wd5.myworkdayjobs.com/searchjobs/job/us-fl-jax-347/intern--risk-and-cybersecurity--fis-university-program_jr0309680": "2026-10-23",
@@ -1630,6 +1631,7 @@
   "t:feder|tsapplicationsecurityintern2027": "2026-10-31",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
   "t:fenne|itcybersecurityanalystinternsummer2027": "2026-10-30",
+  "t:fhlba|summerinternshipcybersecurity": "2026-11-02",
   "t:figma|phdinternsecurityengineer2027": "2026-11-02",
   "t:figur|securityengineerinternwinter2027": "2026-10-12",
   "t:filev|securityspecialistintern": "2026-11-02",
@@ -6354,7 +6356,9 @@
   "wd+:ffin/First_Financial_Bank": [],
   "wd+:ffive/f5jobs": [],
   "wd+:fgcu/eaglejobs": [],
-  "wd+:fhlbc/search": [],
+  "wd+:fhlbc/search": [
+   "https://fhlbc.wd1.myworkdayjobs.com/en-US/search/job/Chicago/Summer-Internship---Cybersecurity_R2600513"
+  ],
   "wd+:fhlbi/FHLBI_Careers": [],
   "wd+:fhlbny/FHLBNY": [],
   "wd+:fhlbtopeka/FHLBT": [],
@@ -6879,7 +6883,9 @@
   "wd+:morningstar/morningstar": [],
   "wd+:mosaic/mosaic": [],
   "wd+:mosscm/moss_careers": [],
-  "wd+:motorolasolutions/careers": [],
+  "wd+:motorolasolutions/careers": [
+   "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
+  ],
   "wd+:movadogroup/careers": [],
   "wd+:mpc/MPCCareers": [],
   "wd+:mrisoftware/External_CareerSite": [],
@@ -7982,6 +7988,10 @@
   [
    1793649832.1346107,
    "Motorola Solutions - Software Engineer Cybersecurity Services - 2027 Summer Internship"
+  ],
+  [
+   1793650276.67576,
+   "FHLBank Chicago - Summer Internship - Cybersecurity"
   ]
  ],
  "stem5": true,
