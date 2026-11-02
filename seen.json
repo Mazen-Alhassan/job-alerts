@@ -1232,6 +1232,7 @@
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
   "https://recruiting.ultipro.com/sts1000sco/jobboard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/opportunitydetail?opportunityid=458b5fae-3a73-448a-8133-a863d4df3fa0&postingid=c55fc317-83c6-42ff-8946-e9b7349e6211": "2026-10-31",
   "https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityid=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingid=b0021734-a3d6-4e67-9a48-db2f307ec04d": "2026-11-02",
+  "https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityid=a1212562-c20c-4e90-8a2a-87e878930923&postingid=687815c7-2cb3-45b6-91b0-95471c23c2fa": "2026-11-02",
   "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-10",
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
   "https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-summer-intern-it--digital-enablement---information-security_r52561-1": "2026-11-02",
@@ -1435,6 +1436,7 @@
   "t:autoo|itsecurityengineerinternshipsummer2027": "2026-11-02",
   "t:avang|2027technologycyberdatainternshipprogram": "2026-11-02",
   "t:avist|enterprisetechnologyinterncomputersciencecybersecurityinformationsystemsmisdataanalyticsdatasciencemajors": "2026-11-02",
+  "t:avist|physicalsecurityinterncriminaljusticehomelandsecurityemergencymanagementsecuritystudiescybersecuritymajors": "2026-11-02",
   "t:banko|adcrsdinformationcybersecurityintern": "2026-11-02",
   "t:barne|2027btriseinternshipinformationsecurity": "2026-11-02",
   "t:bassp|cybersecurityinternsummer2027": "2026-11-02",
@@ -4261,7 +4263,8 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
-   "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d"
+   "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
+   "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4719,7 +4722,6 @@
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-   "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765"
   ],
@@ -7862,6 +7864,10 @@
   [
    1793639920.736651,
    "JM Family - Offensive Security Intern"
+  ],
+  [
+   1793640085.743461,
+   "Avista Corporation - Physical Security Intern (Criminal Justice, Homeland Security, Emerge"
   ]
  ],
  "stem5": true,
