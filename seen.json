@@ -4679,10 +4679,7 @@
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
-   "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
-   "https://www.linkedin.com/jobs/view/4478087913",
-   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485939595",
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
@@ -7864,7 +7861,7 @@
  "stem5": true,
  "streaks": {
   "li-companies": [
-   1,
+   3,
    1793582369.6043668,
    "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
