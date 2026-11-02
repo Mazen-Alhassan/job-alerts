@@ -454,6 +454,8 @@
   "https://go.vansh.nyc/19M": "2026-11-02",
   "https://go.vansh.nyc/19i": "2026-11-02",
   "https://go.vansh.nyc/19y": "2026-11-02",
+  "https://go.vansh.nyc/1b1": "2026-11-02",
+  "https://go.vansh.nyc/1b8": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1198,6 +1200,7 @@
   "https://linkedin.com/jobs/view/4486453921": "2026-11-02",
   "https://linkedin.com/jobs/view/4486458801": "2026-11-02",
   "https://linkedin.com/jobs/view/4486461012": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486467483": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4354,7 +4357,6 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
@@ -4797,7 +4799,6 @@
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
-   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4474124687",
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
@@ -4820,7 +4821,8 @@
    "https://www.linkedin.com/jobs/view/4486451604",
    "https://www.linkedin.com/jobs/view/4486453921",
    "https://www.linkedin.com/jobs/view/4486458801",
-   "https://www.linkedin.com/jobs/view/4486461012"
+   "https://www.linkedin.com/jobs/view/4486461012",
+   "https://www.linkedin.com/jobs/view/4486467483"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5372,6 +5374,8 @@
    "https://go.vansh.nyc/19M",
    "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
+   "https://go.vansh.nyc/1b1",
+   "https://go.vansh.nyc/1b8",
    "https://go.vansh.nyc/UB",
    "https://go.vansh.nyc/UF",
    "https://go.vansh.nyc/VJ",
@@ -5391,9 +5395,7 @@
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/YE",
-   "https://go.vansh.nyc/Zk",
-   "https://www.tesla.com/careers/search/job/277843",
-   "https://www.tesla.com/careers/search/job/281473"
+   "https://go.vansh.nyc/Zk"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -6489,7 +6491,9 @@
   "wd+:gartner/EXT": [],
   "wd+:gcu/GCU": [],
   "wd+:gdit/external_career_site": [],
-  "wd+:gdit/gdit_earlytalent": [],
+  "wd+:gdit/gdit_earlytalent": [
+   "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2"
+  ],
   "wd+:geaerospace/ge_externalsite": [],
   "wd+:geha/GEHACareers": [],
   "wd+:gehc/GEHC_ExternalSite": [],
