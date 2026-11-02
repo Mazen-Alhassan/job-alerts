@@ -1157,6 +1157,7 @@
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486190874": "2026-11-02",
   "https://linkedin.com/jobs/view/4486403514": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1886,6 +1887,7 @@
   "t:rocke|securityanalystinternsummer2027": "2026-11-02",
   "t:rocke|securityservicesinternfall2026": "2026-10-26",
   "t:rockl|corporatesecurityintern": "2026-11-02",
+  "t:rockl|securityoperationsintern": "2026-11-02",
   "t:rockw|cybersecurityintern": "2026-11-02",
   "t:rockw|interncybersecurity": "2026-11-02",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-02",
@@ -4693,7 +4695,6 @@
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -4703,6 +4704,7 @@
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485743366",
+   "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514"
   ],
   "linkedin": [
@@ -7808,7 +7810,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 10",
+ "heartbeat": "2026-11-02 12",
  "recent": [
   [
    1793567669.2854245,
@@ -7849,6 +7851,10 @@
   [
    1793638220.1494129,
    "Avista Corporation - Enterprise Technology Intern (Computer Science, Cybersecurity, Inform"
+  ],
+  [
+   1793638908.2429125,
+   "Rockland Trust - Security Operations Intern"
   ]
  ],
  "stem5": true,
