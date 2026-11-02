@@ -1189,6 +1189,8 @@
   "https://linkedin.com/jobs/view/4486426577": "2026-11-02",
   "https://linkedin.com/jobs/view/4486433237": "2026-11-02",
   "https://linkedin.com/jobs/view/4486435027": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486441769": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486461012": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1513,6 +1515,7 @@
   "t:bracc|productsecurityengineeringintern": "2026-11-02",
   "t:brain|aisecurityengineercoop": "2026-10-21",
   "t:brain|aisecurityengineerinternsummer2027": "2026-10-31",
+  "t:brigh|coopsecurity": "2026-11-02",
   "t:brigh|cybersecurityintern": "2026-10-30",
   "t:build|productsecurityintern": "2026-10-16",
   "t:burli|securityoperationsinternsummer2027": "2026-11-02",
@@ -1596,6 +1599,7 @@
   "t:danah|itsecurityintern": "2026-11-02",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
   "t:defin|incidentissuemanagementanalystwinter2027coopintern": "2026-11-02",
+  "t:delaw|summerhomelandsecurityemergencymanagementintern20272000hr": "2026-11-02",
   "t:dellt|cloudsoftwaresecuritycsssummerinternshipundergraduateintern": "2026-10-23",
   "t:dellt|cybersecurityundergraduateintern": "2026-10-17",
   "t:dellt|productapplicationsecurityundergraduateintern": "2026-10-17",
@@ -4769,7 +4773,6 @@
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
-   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
@@ -4780,7 +4783,9 @@
    "https://www.linkedin.com/jobs/view/4486409768",
    "https://www.linkedin.com/jobs/view/4486426577",
    "https://www.linkedin.com/jobs/view/4486433237",
-   "https://www.linkedin.com/jobs/view/4486435027"
+   "https://www.linkedin.com/jobs/view/4486435027",
+   "https://www.linkedin.com/jobs/view/4486441769",
+   "https://www.linkedin.com/jobs/view/4486461012"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8049,15 +8054,17 @@
   [
    1793655091.0614862,
    "Mass General Brigham - Co-op Security"
+  ],
+  [
+   1793657950.5316458,
+   "Brigham and Women's Hospital - Co-op Security"
+  ],
+  [
+   1793657950.5316472,
+   "Delaware River Port Authority - Summer Homeland Security & Emergency Management Intern - ("
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793657668.864661,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
