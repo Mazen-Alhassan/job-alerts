@@ -1152,10 +1152,12 @@
   "https://linkedin.com/jobs/view/4485669213": "2026-10-31",
   "https://linkedin.com/jobs/view/4485670149": "2026-11-01",
   "https://linkedin.com/jobs/view/4485686040": "2026-11-01",
+  "https://linkedin.com/jobs/view/4485737763": "2026-11-02",
   "https://linkedin.com/jobs/view/4485743366": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486403514": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1881,6 +1883,7 @@
   "t:rocke|securityanalystinternspring2027": "2026-11-02",
   "t:rocke|securityanalystinternsummer2027": "2026-11-02",
   "t:rocke|securityservicesinternfall2026": "2026-10-26",
+  "t:rockl|corporatesecurityintern": "2026-11-02",
   "t:rockw|cybersecurityintern": "2026-11-02",
   "t:rockw|interncybersecurity": "2026-11-02",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-02",
@@ -2013,7 +2016,7 @@
   "t:waves|internshipwavestoneluxembourgcybersecurityartificialintelligenceconsulting": "2026-11-02",
   "t:waymo|2027summerinternphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-11-02",
   "t:wealt|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
-  "t:webst|socintern": "2026-10-13",
+  "t:webst|socintern": "2026-11-02",
   "t:wellm|cybersecurityinternship": "2026-11-02",
   "t:wellm|securityanalystinternship": "2026-11-02",
   "t:wells|2027technologysummerinternshipearlycareerscybersecurity": "2026-11-02",
@@ -4687,12 +4690,17 @@
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
+   "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
-   "https://www.linkedin.com/jobs/view/4485743366"
+   "https://www.linkedin.com/jobs/view/4485737763",
+   "https://www.linkedin.com/jobs/view/4485743366",
+   "https://www.linkedin.com/jobs/view/4486403514"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7830,9 +7838,19 @@
   [
    1793637503.8133402,
    "CBC Technovations, LLC - IT Support & Cybersecurity Intern"
+  ],
+  [
+   1793637980.588943,
+   "Rockland Trust - Corporate Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793637876.1692498,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
