@@ -723,7 +723,7 @@
   "https://linkedin.com/jobs/view/4448312441": "2026-10-29",
   "https://linkedin.com/jobs/view/4448658904": "2026-10-29",
   "https://linkedin.com/jobs/view/4448869906": "2026-10-31",
-  "https://linkedin.com/jobs/view/4450739735": "2026-10-12",
+  "https://linkedin.com/jobs/view/4450739735": "2026-11-02",
   "https://linkedin.com/jobs/view/4450844971": "2026-10-17",
   "https://linkedin.com/jobs/view/4450865117": "2026-10-18",
   "https://linkedin.com/jobs/view/4451233573": "2026-10-18",
@@ -759,14 +759,14 @@
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
   "https://linkedin.com/jobs/view/4460112362": "2026-11-01",
-  "https://linkedin.com/jobs/view/4460200734": "2026-10-29",
+  "https://linkedin.com/jobs/view/4460200734": "2026-11-02",
   "https://linkedin.com/jobs/view/4460202658": "2026-10-29",
   "https://linkedin.com/jobs/view/4460204642": "2026-10-29",
-  "https://linkedin.com/jobs/view/4460233941": "2026-10-29",
-  "https://linkedin.com/jobs/view/4460235483": "2026-10-29",
+  "https://linkedin.com/jobs/view/4460233941": "2026-11-02",
+  "https://linkedin.com/jobs/view/4460235483": "2026-11-02",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
-  "https://linkedin.com/jobs/view/4460254050": "2026-10-29",
+  "https://linkedin.com/jobs/view/4460254050": "2026-11-02",
   "https://linkedin.com/jobs/view/4460302284": "2026-11-02",
   "https://linkedin.com/jobs/view/4460307152": "2026-11-02",
   "https://linkedin.com/jobs/view/4460311092": "2026-11-02",
@@ -1137,6 +1137,7 @@
   "https://linkedin.com/jobs/view/4485357475": "2026-10-31",
   "https://linkedin.com/jobs/view/4485381912": "2026-10-30",
   "https://linkedin.com/jobs/view/4485412948": "2026-11-02",
+  "https://linkedin.com/jobs/view/4485474411": "2026-11-02",
   "https://linkedin.com/jobs/view/4485601040": "2026-10-31",
   "https://linkedin.com/jobs/view/4485613850": "2026-10-31",
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
@@ -1329,6 +1330,7 @@
   "t:aeros|hardwaresecurityengineeringintern": "2026-10-28",
   "t:airbu|cybersecurityinternships2027": "2026-10-26",
   "t:airpr|summerinternitcyberaudit2027": "2026-11-02",
+  "t:alask|interncybersecuritythreatdefensesummer2027": "2026-11-02",
   "t:alaya|internsecurityanalystwintersemester2027": "2026-10-29",
   "t:allia|nationalsecuritypolicyinternvolunteer": "2026-10-29",
   "t:allis|itsecurityanalystinternshipsummer2027": "2026-11-02",
@@ -1645,6 +1647,7 @@
   "t:hcsc|earlycareerssecurityprogrammanagementseniorintern": "2026-11-02",
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-26",
   "t:hdr|ictsecurityintern": "2026-11-01",
+  "t:hdr|informationcommunicationtechnologyictsecurityintern": "2026-11-02",
   "t:healt|earlycareerscybersecurityoperationsintern": "2026-11-01",
   "t:healt|earlycareersidentifyaccessmanagementiamintern": "2026-11-01",
   "t:healt|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-31",
@@ -1980,9 +1983,9 @@
   "t:unive|assistantdirectorofstudentorganizationssoc": "2026-10-16",
   "t:unive|internshipprojectssecuritytechnologysummer2027": "2026-10-12",
   "t:unive|studentsecuritycoordinator": "2026-10-23",
-  "t:ups|upsinformationsecuritysummer2027internshipga": "2026-10-29",
-  "t:ups|upsinformationsecuritysummer2027internshipky": "2026-10-29",
-  "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-10-29",
+  "t:ups|upsinformationsecuritysummer2027internshipga": "2026-11-02",
+  "t:ups|upsinformationsecuritysummer2027internshipky": "2026-11-02",
+  "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-02",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:usfoo|interncybersecurityriskhybridonsiteremote": "2026-10-12",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-10-17",
@@ -4678,15 +4681,19 @@
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4458967970",
-   "https://www.linkedin.com/jobs/view/4460302284",
-   "https://www.linkedin.com/jobs/view/4460307152",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4460520156",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4478087913",
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4485412948",
+   "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "linkedin": [
@@ -7800,26 +7807,6 @@
  "heartbeat": "2026-11-02 04",
  "recent": [
   [
-   1793516816.9457834,
-   "Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Stu"
-  ],
-  [
-   1793520164.1992033,
-   "ByteDance - Network Security Software Engineer Intern, Security Engineering"
-  ],
-  [
-   1793520164.199205,
-   "ByteDance - Machine Learning Engineer Project Intern, Security-Data"
-  ],
-  [
-   1793520164.1992056,
-   "ByteDance - Security Software Engineer Project Intern, Network Security"
-  ],
-  [
-   1793520164.1992064,
-   "ByteDance - Software Engineer Project Intern, Security-Data"
-  ],
-  [
    1793522871.0970023,
    "ByteDance - Security Engineering Project Intern, Watermark"
   ],
@@ -7838,6 +7825,10 @@
   [
    1793601242.1519682,
    "Amtrak - Summer 2027 - DT Physical Security Systems Intern - 90413063"
+  ],
+  [
+   1793615403.899548,
+   "Alaska Airlines - Intern - Cybersecurity Threat Defense (Summer 2027)"
   ]
  ],
  "stem5": true,
