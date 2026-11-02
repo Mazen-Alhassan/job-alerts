@@ -1169,6 +1169,7 @@
   "https://linkedin.com/jobs/view/4485686040": "2026-11-01",
   "https://linkedin.com/jobs/view/4485737763": "2026-11-02",
   "https://linkedin.com/jobs/view/4485743366": "2026-11-02",
+  "https://linkedin.com/jobs/view/4485761774": "2026-11-02",
   "https://linkedin.com/jobs/view/4485766458": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
@@ -1466,6 +1467,7 @@
   "t:batte|embeddedreverseengineervulnerabilityresearcherearlycareer": "2026-11-02",
   "t:batte|hardwarereverseengineervulnerabilityresearchinternshipsummer2027": "2026-10-24",
   "t:batte|reverseengineeringvulnerabilityresearchinternshipsummer2027": "2026-10-24",
+  "t:bbva|2027cibcybersecuritysummerinternship": "2026-11-02",
   "t:bcpen|juniorsecurityanalystcoop": "2026-11-02",
   "t:berry|summer2027consultinginternshipcybersecurity": "2026-10-27",
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-30",
@@ -4736,7 +4738,6 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -4751,6 +4752,7 @@
    "https://www.linkedin.com/jobs/view/4485412948",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
+   "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514",
@@ -7999,9 +8001,19 @@
   [
    1793650371.8795195,
    "RTX - Systems Security Engineer Intern, Raytheon"
+  ],
+  [
+   1793650592.8674977,
+   "BBVA - 2027 CIB Cybersecurity Summer Internship"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793650491.9499407,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
