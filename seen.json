@@ -195,6 +195,7 @@
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-11-02",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8748": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8893": "2026-11-02",
+  "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/cybersecurity-analyst-intern_r8892": "2026-11-02",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
   "https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job": "2026-11-02",
   "https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job": "2026-11-02",
@@ -1255,6 +1256,7 @@
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-11-02",
   "https://pgcareers.com/global/en/job/r000157502": "2026-11-02",
   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11000": "2026-11-02",
+  "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11006": "2026-11-02",
   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11008": "2026-11-02",
   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=11018": "2026-11-02",
   "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/southfield/xmlname-2027-cybersecurity-consultant-intern_jr-03299": "2026-11-02",
@@ -1597,6 +1599,7 @@
   "t:costa|securityengineerinternrichmondva": "2026-10-27",
   "t:costc|cdsinternidentityandaccessmanagement": "2026-11-02",
   "t:costc|cdsinternidentitysecurity": "2026-11-02",
+  "t:costc|cdsinternotiotsecurityengineering": "2026-11-02",
   "t:costc|cdsinternsecurityculturetrainingandawareness": "2026-11-02",
   "t:cox|cybersecurityinternsummer2027": "2026-11-02",
   "t:crowd|incidentresponseinternshipprofessionalservicessummer2027remoteuk": "2026-10-19",
@@ -4340,12 +4343,14 @@
    "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11000",
+   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11006",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11008",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
+   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -6080,7 +6085,8 @@
   ],
   "wd+:cai/computer_aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893"
+   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893",
+   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
   "wd+:calibercollision/caliber": [],
   "wd+:calibercollision/protech": [],
@@ -7691,7 +7697,8 @@
   "wd:caci/External": [],
   "wd:cai/Computer_Aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893"
+   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893",
+   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
   "wd:capitalone/Capital_One": [],
   "wd:cibc/search": [
@@ -8109,15 +8116,13 @@
   [
    1793660664.6616488,
    "Raytheon - Systems Security Engineering Intern (Summer 2027)"
+  ],
+  [
+   1793660930.4030104,
+   "Costco Wholesale - CDS Intern - OT/IoT Security Engineering"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   3,
-   1793660401.664425,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
