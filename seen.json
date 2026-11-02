@@ -1105,6 +1105,7 @@
   "https://linkedin.com/jobs/view/4484210930": "2026-10-28",
   "https://linkedin.com/jobs/view/4484213000": "2026-10-28",
   "https://linkedin.com/jobs/view/4484242579": "2026-10-29",
+  "https://linkedin.com/jobs/view/4484307681": "2026-11-02",
   "https://linkedin.com/jobs/view/4484416521": "2026-10-28",
   "https://linkedin.com/jobs/view/4484420604": "2026-10-30",
   "https://linkedin.com/jobs/view/4484451005": "2026-10-29",
@@ -1389,6 +1390,7 @@
   "t:ameri|springinternnationalsecuritystrategypentagonbudgetingandtheusdefenseindustrialbase": "2026-11-02",
   "t:ameri|summer2027interncybersecurity": "2026-11-02",
   "t:ameri|threatandvulnerabilitymanagementintern": "2026-10-23",
+  "t:amtra|summer2027dtphysicalsecuritysystemsintern90413063": "2026-11-02",
   "t:appia|informationsecurityengineerintern": "2026-11-02",
   "t:apple|2027summerinterninformationsecurity": "2026-11-02",
   "t:apple|engineeringprogrammanagementmastersinternships": "2026-11-02",
@@ -4673,14 +4675,13 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
-   "https://www.linkedin.com/jobs/view/4458983369",
    "https://www.linkedin.com/jobs/view/4458987322",
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
    "https://www.linkedin.com/jobs/view/4468401153",
    "https://www.linkedin.com/jobs/view/4478087913",
-   "https://www.linkedin.com/jobs/view/4485412948",
+   "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "linkedin": [
@@ -7795,26 +7796,6 @@
  "heartbeat": "2026-11-02 00",
  "recent": [
   [
-   1793490422.83867,
-   "Georgia Tech Research Institute - General Cybersecurity Student Assistant - Spring 2027 - "
-  ],
-  [
-   1793492017.640608,
-   "Cohen & Steers - Associate Intern, Information Security"
-  ],
-  [
-   1793492017.64061,
-   "IDEMIA - Cybersecurity Intern"
-  ],
-  [
-   1793492017.6406112,
-   "Intercontinental Exchange - Cybersecurity Architect Intern"
-  ],
-  [
-   1793492017.640612,
-   "Midland States Bank - Security Analyst Intern"
-  ],
-  [
    1793516816.9457834,
    "Microsoft - Software Engineer: Security & Identity Intern Opportunities for University Stu"
   ],
@@ -7849,6 +7830,10 @@
   [
    1793581808.4699457,
    "IAT Insurance Group - Cyber Security Intern"
+  ],
+  [
+   1793601242.1519682,
+   "Amtrak - Summer 2027 - DT Physical Security Systems Intern - 90413063"
   ]
  ],
  "stem5": true,
