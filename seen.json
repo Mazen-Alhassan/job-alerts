@@ -4672,7 +4672,16 @@
    "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460520156"
+   "https://www.linkedin.com/jobs/view/4458967970",
+   "https://www.linkedin.com/jobs/view/4458983369",
+   "https://www.linkedin.com/jobs/view/4458987324",
+   "https://www.linkedin.com/jobs/view/4460307152",
+   "https://www.linkedin.com/jobs/view/4460311092",
+   "https://www.linkedin.com/jobs/view/4468401153",
+   "https://www.linkedin.com/jobs/view/4478087913",
+   "https://www.linkedin.com/jobs/view/4485412948",
+   "https://www.linkedin.com/jobs/view/4485939595",
+   "https://www.linkedin.com/jobs/view/4485990036"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7845,6 +7854,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1793580569.6019351,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
