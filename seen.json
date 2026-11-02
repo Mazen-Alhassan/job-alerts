@@ -435,6 +435,7 @@
   "https://go.vansh.nyc/192": "2026-11-02",
   "https://go.vansh.nyc/193": "2026-11-02",
   "https://go.vansh.nyc/197": "2026-11-02",
+  "https://go.vansh.nyc/19i": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1591,6 +1592,7 @@
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-11-02",
   "t:feder|summer2027internsecurityanalystit": "2026-10-30",
+  "t:feder|supervisionregulationinterncybersecurity": "2026-11-02",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-31",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
   "t:fenne|itcybersecurityanalystinternsummer2027": "2026-10-30",
@@ -4681,7 +4683,6 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450739735",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
@@ -5232,6 +5233,7 @@
    "https://go.vansh.nyc/192",
    "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/197",
+   "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/SC",
    "https://go.vansh.nyc/SD",
    "https://go.vansh.nyc/SE",
@@ -7823,6 +7825,10 @@
   [
    1793626612.386982,
    "Federal Reserve - 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity"
+  ],
+  [
+   1793632424.191822,
+   "The Federal Reserve System - Supervision & Regulation Intern, Cybersecurity"
   ]
  ],
  "stem5": true,
