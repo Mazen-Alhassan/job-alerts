@@ -37,6 +37,7 @@
   "gh:7986965003": "2026-11-02",
   "gh:8005821003": "2026-11-02",
   "gh:8035929003": "2026-11-02",
+  "gh:8076649003": "2026-11-02",
   "gh:8088496": "2026-11-02",
   "gh:8128811": "2026-11-02",
   "gh:8171696": "2026-10-22",
@@ -1697,6 +1698,7 @@
   "t:idaho|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemi|cybersecurityintern": "2026-11-02",
   "t:idemi|cybersecurityinternship": "2026-11-02",
+  "t:idme|summerintern2027productsecurityengineeringintern": "2026-11-02",
   "t:illum|engineeringinternproductsecurity": "2026-11-02",
   "t:illum|securityresearchintern": "2026-11-02",
   "t:inmar|informationsecurityinternshipssummer2027": "2026-11-02",
@@ -3299,7 +3301,9 @@
   "gh:hyliion": [],
   "gh:icapitalnetwork": [],
   "gh:idme": [],
-  "gh:idmeuniversityrecruiting": [],
+  "gh:idmeuniversityrecruiting": [
+   "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8076649003"
+  ],
   "gh:ieqcapital": [],
   "gh:iex-interns": [],
   "gh:imc": [],
@@ -4699,6 +4703,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -4722,6 +4727,7 @@
   ],
   "microsoft": [
    "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+   "https://apply.careers.microsoft.com/careers/job/1970393556988203",
    "https://apply.careers.microsoft.com/careers/job/1970393557022480",
    "https://apply.careers.microsoft.com/careers/job/1970393557044765"
   ],
@@ -7868,6 +7874,10 @@
   [
    1793640085.743461,
    "Avista Corporation - Physical Security Intern (Criminal Justice, Homeland Security, Emerge"
+  ],
+  [
+   1793640537.998344,
+   "ID.me - Summer Intern 2027 - Product Security Engineering Intern"
   ]
  ],
  "stem5": true,
