@@ -449,6 +449,7 @@
   "https://go.vansh.nyc/197": "2026-11-02",
   "https://go.vansh.nyc/19G": "2026-11-02",
   "https://go.vansh.nyc/19I": "2026-11-02",
+  "https://go.vansh.nyc/19M": "2026-11-02",
   "https://go.vansh.nyc/19i": "2026-11-02",
   "https://go.vansh.nyc/19y": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -1833,6 +1834,7 @@
   "t:monol|securityanalystintern": "2026-11-02",
   "t:motio|grccybersecurityanalystintern": "2026-10-15",
   "t:motor|softwareengineercybersecurityservices2027summerinternship": "2026-11-02",
+  "t:motor|softwareengineerinterncybersecurityservices": "2026-11-02",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-10-31",
   "t:nassa|interncybersecurityrisk": "2026-10-20",
@@ -5311,6 +5313,7 @@
    "https://go.vansh.nyc/197",
    "https://go.vansh.nyc/19G",
    "https://go.vansh.nyc/19I",
+   "https://go.vansh.nyc/19M",
    "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
    "https://go.vansh.nyc/UB",
@@ -8017,6 +8020,10 @@
   [
    1793651213.4366224,
    "RTX (Collins, Pratt & Whitney, Raytheon) - Internship \u2013 Raytheon Systems Security Engineer"
+  ],
+  [
+   1793652041.202768,
+   "Motorola Solutions - Software Engineer Intern, Cybersecurity Services"
   ]
  ],
  "stem5": true,
