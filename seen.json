@@ -317,6 +317,7 @@
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----intern--winter-2027-_r031926": "2026-11-02",
   "https://ciena.wd5.myworkdayjobs.com/careers/job/atlanta/software-engineer--security----new-grad_r031979-1": "2026-10-27",
   "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ct-bloomfield-900-cottage-grove-rd-wilde-bldg/the-cigna-group-s-technology-development-program---cybersecurity-track-summer-internship_26009531": "2026-10-14",
+  "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---security-analyst--a-_jr226751": "2026-11-02",
   "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/remote/student-ii---security-analyst--b-_jr226752": "2026-11-02",
   "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/rtp-north-carolina-us/security-consulting-engineer-i--intern----united-states_2024817": "2026-10-30",
   "https://cleco.wd5.myworkdayjobs.com/clecojobs/job/pineville-la/intern---cybersecurity_13331": "2026-11-02",
@@ -1532,6 +1533,7 @@
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-11-02",
   "t:ciena|softwareengineersecuritynewgrad": "2026-10-27",
+  "t:cinci|studentiisecurityanalysta": "2026-11-02",
   "t:cinci|studentiisecurityanalystb": "2026-11-02",
   "t:cisco|securityconsultingengineeriintern": "2026-11-02",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-11-02",
@@ -6072,6 +6074,7 @@
   ],
   "wd+:cigna/cignacareers": [],
   "wd+:cincinnatichildrens/careersatcincinnatichildrens": [
+   "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Student-II---Security-Analyst--A-_JR226751",
    "https://cincinnatichildrens.wd5.myworkdayjobs.com/en-US/careersatcincinnatichildrens/job/Remote/Student-II---Security-Analyst--B-_JR226752"
   ],
   "wd+:cir/CIR_External_Career_Site": [],
@@ -7913,6 +7916,10 @@
   [
    1793641662.8866534,
    "Cincinnati Children\u2019s Hospital and Medical Center - Student II - Security Analyst (B)"
+  ],
+  [
+   1793642278.1321886,
+   "Cincinnati Children\u2019s Hospital and Medical Center - Student II - Security Analyst (A)"
   ]
  ],
  "stem5": true,
