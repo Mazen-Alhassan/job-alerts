@@ -443,6 +443,7 @@
   "https://go.vansh.nyc/192": "2026-11-02",
   "https://go.vansh.nyc/193": "2026-11-02",
   "https://go.vansh.nyc/197": "2026-11-02",
+  "https://go.vansh.nyc/19G": "2026-11-02",
   "https://go.vansh.nyc/19i": "2026-11-02",
   "https://go.vansh.nyc/19y": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -1926,6 +1927,7 @@
   "t:rtx|securesoftwareintern": "2026-10-31",
   "t:rtx|securesoftwareinternsummer2027": "2026-10-27",
   "t:rtx|summer2027cyberinternonsite": "2026-11-02",
+  "t:rtx|systemssecurityengineeringintern": "2026-11-02",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-11-02",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
   "t:sales|softwareengineerinternsecuritygovernment": "2026-10-26",
@@ -5290,6 +5292,7 @@
    "https://go.vansh.nyc/192",
    "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/197",
+   "https://go.vansh.nyc/19G",
    "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
    "https://go.vansh.nyc/UB",
@@ -7964,6 +7967,10 @@
   [
    1793648252.3540034,
    "RTX - Internship \u2013 Raytheon Systems Security Engineer- Onsite"
+  ],
+  [
+   1793648504.8756094,
+   "RTX - Systems Security Engineering Intern"
   ]
  ],
  "stem5": true,
