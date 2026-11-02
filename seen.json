@@ -1194,6 +1194,8 @@
   "https://linkedin.com/jobs/view/4486441769": "2026-11-02",
   "https://linkedin.com/jobs/view/4486451559": "2026-11-02",
   "https://linkedin.com/jobs/view/4486451604": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486453921": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486458801": "2026-11-02",
   "https://linkedin.com/jobs/view/4486461012": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1940,7 +1942,9 @@
   "t:quadr|cybersecuritywinter2027torontocoopinternship4months": "2026-10-29",
   "t:qualc|securityproductsystemscyberengineeringinternshipsummer2027": "2026-11-02",
   "t:radia|microelectronicsengineerinternwithsecurityclearance": "2026-10-26",
+  "t:rayth|internshipraytheonsystemssecurityengineeronsite": "2026-11-02",
   "t:rayth|securesoftwareinternsummer2027": "2026-10-28",
+  "t:rayth|systemssecurityengineeringinternsummer2027": "2026-11-02",
   "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-11-02",
   "t:regen|itdigitalenablementinformationsecurityintern": "2026-11-02",
   "t:renka|interninformationtechnologycybersecurity": "2026-10-15",
@@ -4775,8 +4779,7 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
@@ -4791,7 +4794,6 @@
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
-   "https://www.linkedin.com/jobs/view/4485780007",
    "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486409768",
@@ -4800,7 +4802,9 @@
    "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
-   "https://www.linkedin.com/jobs/view/4486451604"
+   "https://www.linkedin.com/jobs/view/4486451604",
+   "https://www.linkedin.com/jobs/view/4486453921",
+   "https://www.linkedin.com/jobs/view/4486458801"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8097,12 +8101,20 @@
   [
    1793660470.076038,
    "Costco Wholesale - CDS Intern - Security Culture, Training, and Awareness"
+  ],
+  [
+   1793660664.6616464,
+   "Raytheon - Internship \u2013 Raytheon Systems Security Engineer (Onsite)"
+  ],
+  [
+   1793660664.6616488,
+   "Raytheon - Systems Security Engineering Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
  "streaks": {
   "netflix": [
-   1,
+   3,
    1793660401.664425,
    "HTTP Error 429: TOO MANY REQUESTS"
   ]
