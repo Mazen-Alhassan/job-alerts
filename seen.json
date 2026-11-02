@@ -4248,7 +4248,9 @@
   ],
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
-  "jobspy": [],
+  "jobspy": [
+   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866"
+  ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
   "jobvite:altamiracorps": [],
@@ -4684,10 +4686,9 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4485412948",
@@ -6450,7 +6451,6 @@
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Intern_R0059510",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Identify---Access-Management--IAM--Senior-Intern_R0059511",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
-   "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
    "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Engineering-Senior-Intern_R0059512"
   ],
   "wd+:hdsupply/External": [],
@@ -7834,10 +7834,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "kinaxis": [
-   1,
-   1793634107.18553,
-   "HTTP Error 502: Bad Gateway"
+  "netflix": [
+   2,
+   1793635123.2700963,
+   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
  "urlkey2": true
