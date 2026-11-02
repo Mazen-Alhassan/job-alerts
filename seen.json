@@ -4684,9 +4684,9 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450739735",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4484307681",
@@ -7833,6 +7833,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "kinaxis": [
+   1,
+   1793634107.18553,
+   "HTTP Error 502: Bad Gateway"
+  ]
+ },
  "urlkey2": true
 }
