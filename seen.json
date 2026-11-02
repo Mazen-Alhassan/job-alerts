@@ -445,6 +445,7 @@
   "https://go.vansh.nyc/193": "2026-11-02",
   "https://go.vansh.nyc/197": "2026-11-02",
   "https://go.vansh.nyc/19G": "2026-11-02",
+  "https://go.vansh.nyc/19I": "2026-11-02",
   "https://go.vansh.nyc/19i": "2026-11-02",
   "https://go.vansh.nyc/19y": "2026-11-02",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -1933,6 +1934,7 @@
   "t:rtx|summer2027cyberinternonsite": "2026-11-02",
   "t:rtx|systemssecurityengineeringintern": "2026-11-02",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-11-02",
+  "t:rtx|systemssecurityengineerinternraytheon": "2026-11-02",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
   "t:sales|softwareengineerinternsecuritygovernment": "2026-10-26",
   "t:sales|summer2027internsoftwareengineersecuritygovernment": "2026-11-02",
@@ -5298,6 +5300,7 @@
    "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/197",
    "https://go.vansh.nyc/19G",
+   "https://go.vansh.nyc/19I",
    "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
    "https://go.vansh.nyc/UB",
@@ -7992,6 +7995,10 @@
   [
    1793650276.67576,
    "FHLBank Chicago - Summer Internship - Cybersecurity"
+  ],
+  [
+   1793650371.8795195,
+   "RTX - Systems Security Engineer Intern, Raytheon"
   ]
  ],
  "stem5": true,
