@@ -593,6 +593,7 @@
   "https://internships-aei.icims.com/jobs/2684/spring-intern%3a-asian-security-and-technology/job": "2026-11-02",
   "https://jabil.wd5.myworkdayjobs.com/jabil_careers/job/penang/intern---cybersecurity_j2417955": "2026-10-08",
   "https://jci.wd5.myworkdayjobs.com/jci/job/nashua-new-hampshire-united-states-of-america/security-systems-apprentice_wd30282788": "2026-10-20",
+  "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/offensive-security-intern_jr105164": "2026-11-02",
   "https://jobs.adt.com/job/24059298/cybersecurity-risk-intern": "2026-10-28",
   "https://jobs.apple.com/details/200663968/hardware-technologies-undergrad-engineering-internships": "2026-11-02",
   "https://jobs.apple.com/details/200663981/hardware-undergrad-engineering-internships": "2026-11-02",
@@ -1712,6 +1713,7 @@
   "t:janus|identitysecurityintern": "2026-10-21",
   "t:jeffe|cybersecuritystudentintern": "2026-10-31",
   "t:jewel|grcanalystinternsummerof2027": "2026-11-01",
+  "t:jmfam|offensivesecurityintern": "2026-11-02",
   "t:johns|2027internshipcyberphysicalsystems": "2026-11-02",
   "t:johns|2027internshipcybersecuritycyberdominance": "2026-11-02",
   "t:johns|2027internshipcybersecurityengineercriticalinfrastructureprotection": "2026-11-02",
@@ -6614,7 +6616,9 @@
   "wd+:jll/jllcareers": [],
   "wd+:jlp/JLPjobs_careers": [],
   "wd+:jm/External": [],
-  "wd+:jmfamily/jmfamily_external": [],
+  "wd+:jmfamily/jmfamily_external": [
+   "https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164"
+  ],
   "wd+:johngore/Careers": [],
   "wd+:johnsonbrothers/johnsonbrothers": [],
   "wd+:johnsonelectric/Career_JE": [],
@@ -7854,6 +7858,10 @@
   [
    1793638908.2429125,
    "Rockland Trust - Security Operations Intern"
+  ],
+  [
+   1793639920.736651,
+   "JM Family - Offensive Security Intern"
   ]
  ],
  "stem5": true,
