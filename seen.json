@@ -194,6 +194,7 @@
   "https://cae.wd3.myworkdayjobs.com/fr-ca/career/job/montral-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-10-20",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-11-02",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8748": "2026-10-19",
+  "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8893": "2026-11-02",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
   "https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job": "2026-11-02",
   "https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job": "2026-11-02",
@@ -1177,6 +1178,7 @@
   "https://linkedin.com/jobs/view/4485743366": "2026-11-02",
   "https://linkedin.com/jobs/view/4485761774": "2026-11-02",
   "https://linkedin.com/jobs/view/4485766458": "2026-11-02",
+  "https://linkedin.com/jobs/view/4485780007": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
@@ -1191,6 +1193,7 @@
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-20",
+  "https://lockheedmartin.eightfold.ai/careers/job/996477502700": "2026-11-02",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-11-02",
   "https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/new-grad---2027---cybersecurity_r-052501-1": "2026-11-02",
   "https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/summer-intern-2027--cybersecurity_r-052919": "2026-11-02",
@@ -1794,6 +1797,7 @@
   "t:leido|cybersecurityintern": "2026-11-02",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-02",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-02",
+  "t:lockh|cyberengineerinternsummer2027": "2026-11-02",
   "t:lockh|systemsengineercyberintern": "2026-10-20",
   "t:logic|cybersecurityassociateintern": "2026-11-02",
   "t:louis|cwsecurityoperationcenterengineerinternfall2026startingindecember": "2026-10-26",
@@ -1893,7 +1897,7 @@
   "t:papaj|2027summerinterncybersecurity": "2026-11-02",
   "t:papaj|cybersecurityintern": "2026-11-02",
   "t:param|cybersecuritysolutionengineerintern": "2026-10-30",
-  "t:peckh|itsecurityintern": "2026-10-20",
+  "t:peckh|itsecurityintern": "2026-11-02",
   "t:penns|cybersecurityengineerintern": "2026-11-02",
   "t:penta|itcybersecurityleadershipdevelopmentinternshipprogramsummer2027": "2026-11-02",
   "t:perat|cybersecurityengineercoop": "2026-11-02",
@@ -2882,7 +2886,9 @@
   "eightfold:fortive.eightfold.ai": [],
   "eightfold:jobs.ericsson.com": [],
   "eightfold:johndeere.eightfold.ai": [],
-  "eightfold:lockheedmartin.eightfold.ai": [],
+  "eightfold:lockheedmartin.eightfold.ai": [
+   "https://lockheedmartin.eightfold.ai/careers/job/996477502700"
+  ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [],
   "eightfold:qualcomm.eightfold.ai": [],
@@ -4311,7 +4317,7 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4746,6 +4752,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
@@ -4761,6 +4768,7 @@
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
+   "https://www.linkedin.com/jobs/view/4485780007",
    "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486409768",
@@ -7650,7 +7658,8 @@
   ],
   "wd:caci/External": [],
   "wd:cai/Computer_Aid": [
-   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
+   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488",
+   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893"
   ],
   "wd:capitalone/Capital_One": [],
   "wd:cibc/search": [
@@ -7899,7 +7908,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 14",
+ "heartbeat": "2026-11-02 16",
  "recent": [
   [
    1793567669.2854245,
@@ -8024,6 +8033,10 @@
   [
    1793652041.202768,
    "Motorola Solutions - Software Engineer Intern, Cybersecurity Services"
+  ],
+  [
+   1793653452.0089629,
+   "Lockheed Martin - Cyber Engineer Intern - Summer 2027"
   ]
  ],
  "stem5": true,
