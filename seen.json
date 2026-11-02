@@ -4672,7 +4672,9 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4485990036"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
    "https://www.linkedin.com/jobs/view/4458983369",
@@ -5613,9 +5615,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -7795,7 +7795,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 00",
+ "heartbeat": "2026-11-02 02",
  "recent": [
   [
    1793516816.9457834,
