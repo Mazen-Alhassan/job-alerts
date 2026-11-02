@@ -1137,6 +1137,7 @@
   "https://linkedin.com/jobs/view/4484451005": "2026-10-29",
   "https://linkedin.com/jobs/view/4484542141": "2026-10-30",
   "https://linkedin.com/jobs/view/4484546998": "2026-10-30",
+  "https://linkedin.com/jobs/view/4484617299": "2026-11-02",
   "https://linkedin.com/jobs/view/4484717410": "2026-10-29",
   "https://linkedin.com/jobs/view/4484718247": "2026-10-29",
   "https://linkedin.com/jobs/view/4484733965": "2026-10-29",
@@ -1180,6 +1181,7 @@
   "https://linkedin.com/jobs/view/4485761774": "2026-11-02",
   "https://linkedin.com/jobs/view/4485766458": "2026-11-02",
   "https://linkedin.com/jobs/view/4485780007": "2026-11-02",
+  "https://linkedin.com/jobs/view/4485783294": "2026-11-02",
   "https://linkedin.com/jobs/view/4485905798": "2026-11-01",
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
@@ -1190,6 +1192,8 @@
   "https://linkedin.com/jobs/view/4486433237": "2026-11-02",
   "https://linkedin.com/jobs/view/4486435027": "2026-11-02",
   "https://linkedin.com/jobs/view/4486441769": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486451559": "2026-11-02",
+  "https://linkedin.com/jobs/view/4486451604": "2026-11-02",
   "https://linkedin.com/jobs/view/4486461012": "2026-11-02",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1645,6 +1649,7 @@
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-11-02",
   "t:feder|summer2027internsecurityanalystit": "2026-10-30",
+  "t:feder|summerinternshipcybersecurity": "2026-11-02",
   "t:feder|supervisionregulationinterncybersecurity": "2026-11-02",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-31",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
@@ -1803,6 +1808,7 @@
   "t:leido|cybersecurityintern": "2026-11-02",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-02",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-02",
+  "t:linds|cybersecurityintern": "2026-11-02",
   "t:lockh|cyberengineerinternsummer2027": "2026-11-02",
   "t:lockh|systemsengineercyberintern": "2026-10-20",
   "t:logic|cybersecurityassociateintern": "2026-11-02",
@@ -4760,10 +4766,8 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
@@ -4773,19 +4777,21 @@
    "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
+   "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485780007",
-   "https://www.linkedin.com/jobs/view/4486190874",
+   "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486409768",
    "https://www.linkedin.com/jobs/view/4486426577",
    "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486441769",
-   "https://www.linkedin.com/jobs/view/4486461012"
+   "https://www.linkedin.com/jobs/view/4486451559",
+   "https://www.linkedin.com/jobs/view/4486451604"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8062,6 +8068,14 @@
   [
    1793657950.5316472,
    "Delaware River Port Authority - Summer Homeland Security & Emergency Management Intern - ("
+  ],
+  [
+   1793660207.4121997,
+   "Lindsay Corporation - Cybersecurity Intern"
+  ],
+  [
+   1793660207.4122014,
+   "Federal Home Loan Bank of Chicago - Summer Internship - Cybersecurity"
   ]
  ],
  "stem5": true,
