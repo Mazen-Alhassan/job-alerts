@@ -1321,6 +1321,8 @@
   "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/toronto-ontario/cyber-security-co-op---intern---winter-2027-_r_1509810": "2026-11-02",
   "https://tencent.wd1.myworkdayjobs.com/oa_huoshui_platform/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-1": "2026-11-02",
   "https://tencent.wd1.myworkdayjobs.com/tencent_careers/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-2": "2026-11-02",
+  "https://tesla.com/careers/search/job/277843": "2026-11-02",
+  "https://tesla.com/careers/search/job/281473": "2026-11-02",
   "https://thales.wd3.myworkdayjobs.com/careers/job/crawley/xmlname-2027-cloud-assurance-and-cyber-security-apprentice_r0337751": "2026-11-02",
   "https://theocc.wd5.myworkdayjobs.com/careers/job/chicago---125-s-franklin/summer-intern---cyber-operations_req-4843": "2026-11-02",
   "https://theocc.wd5.myworkdayjobs.com/careers/job/dallas-tx/year-round-intern---application-security_req-4838": "2026-11-02",
@@ -2030,6 +2032,8 @@
   "t:telil|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tence|cybersecurityengineerintern": "2026-11-02",
   "t:tenso|securityengineerintern": "2026-11-02",
+  "t:tesla|redteamsecurityengineerinternvehiclesoftware": "2026-11-02",
+  "t:tesla|softwareengineerinterninformationsecurity": "2026-11-02",
   "t:tevor|cybersecurityinternfederal": "2026-11-02",
   "t:tevor|cybersecurityinternhealthcare": "2026-11-02",
   "t:tevor|cybersecurityinternpayments": "2026-11-02",
@@ -2827,9 +2831,7 @@
   "ashby:teleskope": [],
   "ashby:telus-digital": [],
   "ashby:tempo-io": [],
-  "ashby:tensorwave": [
-   "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5"
-  ],
+  "ashby:tensorwave": [],
   "ashby:terminal": [],
   "ashby:terranova": [],
   "ashby:tessera-labs": [],
@@ -4784,32 +4786,15 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
-   "https://www.linkedin.com/jobs/view/4471388468",
-   "https://www.linkedin.com/jobs/view/4471392374",
-   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4474124687",
-   "https://www.linkedin.com/jobs/view/4484307681",
-   "https://www.linkedin.com/jobs/view/4484366994",
-   "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485783294",
-   "https://www.linkedin.com/jobs/view/4486403514",
-   "https://www.linkedin.com/jobs/view/4486409768",
-   "https://www.linkedin.com/jobs/view/4486426577",
-   "https://www.linkedin.com/jobs/view/4486433237",
-   "https://www.linkedin.com/jobs/view/4486435027",
-   "https://www.linkedin.com/jobs/view/4486441769",
-   "https://www.linkedin.com/jobs/view/4486451559",
-   "https://www.linkedin.com/jobs/view/4486451604",
-   "https://www.linkedin.com/jobs/view/4486453921",
-   "https://www.linkedin.com/jobs/view/4486458801"
+   "https://www.linkedin.com/jobs/view/4486451559"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5378,7 +5363,9 @@
    "https://go.vansh.nyc/Xg",
    "https://go.vansh.nyc/Xh",
    "https://go.vansh.nyc/YE",
-   "https://go.vansh.nyc/Zk"
+   "https://go.vansh.nyc/Zk",
+   "https://www.tesla.com/careers/search/job/277843",
+   "https://www.tesla.com/careers/search/job/281473"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -7950,10 +7937,6 @@
  "heartbeat": "2026-11-02 18",
  "recent": [
   [
-   1793567669.2854245,
-   "1st Source - Information Security Intern"
-  ],
-  [
    1793574522.4988637,
    "City of Chesapeake - Spring Intern - Police (Safety & Security Operations)"
   ],
@@ -8120,6 +8103,14 @@
   [
    1793660930.4030104,
    "Costco Wholesale - CDS Intern - OT/IoT Security Engineering"
+  ],
+  [
+   1793661453.5285149,
+   "Tesla - Red Team Security Engineer Intern, Vehicle Software"
+  ],
+  [
+   1793661453.5285165,
+   "Tesla - Software Engineer Intern, Information Security"
   ]
  ],
  "stem5": true,
