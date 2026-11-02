@@ -4678,7 +4678,6 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4458967970",
    "https://www.linkedin.com/jobs/view/4458983369",
-   "https://www.linkedin.com/jobs/view/4458987322",
    "https://www.linkedin.com/jobs/view/4458987324",
    "https://www.linkedin.com/jobs/view/4460307152",
    "https://www.linkedin.com/jobs/view/4460311092",
@@ -5615,7 +5614,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
