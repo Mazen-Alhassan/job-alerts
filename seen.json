@@ -4385,7 +4385,7 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://careers.cai.io/us/en/job/R8893/Cybersecurity-Analyst-Intern",
+   "https://careers.cai.io/us/en/job/R8892/Cybersecurity-Analyst-Intern",
    "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
    "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
@@ -4835,7 +4835,6 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
@@ -7115,9 +7114,7 @@
   ],
   "wd+:nvent/nVent": [],
   "wd+:nwis/NW": [],
-  "wd+:nxp/careers": [
-   "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Brno/Embedded-SW-Developer-Intern---Security_R-10066538-1"
-  ],
+  "wd+:nxp/careers": [],
   "wd+:nyp/nypcareers": [],
   "wd+:o9solutions/o9SolutionsExternal": [],
   "wd+:oakgov/careers": [],
@@ -8025,7 +8022,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 04",
+ "heartbeat": "2026-11-03 06",
  "recent": [
   [
    1793615403.899548,
@@ -8257,6 +8254,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793703601.0551157,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
