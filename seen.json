@@ -305,6 +305,7 @@
   "https://careers.rivian.com/jobs/31067/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-10-29",
   "https://careers.rtx.com/global/en/job/01872177": "2026-11-03",
   "https://careers.rtx.com/global/en/job/01874703": "2026-11-03",
+  "https://careers.rtx.com/global/en/job/01876185": "2026-11-03",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
   "https://careers.rtx.com/global/en/job/01884942": "2026-10-31",
   "https://careers.rtx.com/global/en/job/01886045": "2026-11-03",
@@ -2015,6 +2016,7 @@
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-03",
   "t:rtxco|internshipraytheonsystemssecurityengineeronsite": "2026-11-03",
   "t:rtxco|securesoftwareinternsummer2027": "2026-10-31",
+  "t:rtxco|securesystemengineeringinternsummer2027": "2026-11-03",
   "t:rtxco|systemssecurityengineeringinternsummer2027": "2026-11-03",
   "t:rtx|cyberresearchintern": "2026-11-03",
   "t:rtx|internshipraytheonsystemssecurityengineeronsite": "2026-11-03",
@@ -5180,6 +5182,7 @@
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
    "https://careers.rtx.com/global/en/job/01874703",
+   "https://careers.rtx.com/global/en/job/01876185",
    "https://careers.rtx.com/global/en/job/01886045",
    "https://careers.rtx.com/global/en/job/01886260"
   ],
@@ -8258,6 +8261,10 @@
   [
    1793703963.2708302,
    "Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming"
+  ],
+  [
+   1793708938.0579636,
+   "RTX (Collins, Pratt & Whitney, Raytheon) - Secure System Engineering Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
