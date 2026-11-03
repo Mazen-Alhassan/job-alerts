@@ -151,7 +151,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-11-03",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-11-02",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-02",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-03",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-11-03",
@@ -341,6 +341,7 @@
   "https://conagrabrands.wd1.myworkdayjobs.com/careers_us/job/omaha-nebraska/cybersecurity-internship---summer-2027_req-039965": "2026-10-16",
   "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security": "2026-10-25",
   "https://copart.wd12.myworkdayjobs.com/copart/job/dallas-tx---headquarters/vulnerability-management-engineering-intern-_jr109639": "2026-11-03",
+  "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-11-03",
   "https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-arlington/security-engineer-intern---arlington--va_r39727": "2026-10-27",
   "https://costar.wd1.myworkdayjobs.com/costar_campus/job/us-va-richmond/security-engineer-intern---richmond--va_r39726": "2026-10-27",
   "https://cox.wd1.myworkdayjobs.com/cox_external_career_site_1/job/atlanta-ga/cybersecurity-intern---summer-2027_r202683372": "2026-11-03",
@@ -2004,7 +2005,7 @@
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
   "t:seatt|informationsecurityintern": "2026-11-03",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-11-02",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-11-03",
   "t:senti|cybersecurityintern": "2026-11-03",
   "t:senti|socintern": "2026-11-03",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-03",
@@ -4354,6 +4355,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
+   "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879",
    "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
@@ -4365,8 +4367,7 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
-   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
