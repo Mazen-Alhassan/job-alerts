@@ -610,6 +610,7 @@
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-11-03",
   "https://highlinewarren.hrmdirect.com/employment/view.php": "2026-10-16",
   "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/camp-hill-pa-17011-center-street-building-1b/summer-2027-cyber-risk-management-analyst-undergraduate-intern_j286841": "2026-11-03",
+  "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-vulnerability-management-analyst-undergraduate-intern_j288015": "2026-11-03",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-26",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-30",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-2": "2026-11-03",
@@ -1800,6 +1801,7 @@
   "t:highl|cybersecurityintern": "2026-10-27",
   "t:highm|cyberriskmanagementanalystundergraduateintern": "2026-11-03",
   "t:highm|summer2027cyberriskmanagementanalystundergraduateintern": "2026-11-03",
+  "t:highm|summer2027vulnerabilitymanagementanalystundergraduateintern": "2026-11-03",
   "t:homed|2027summerinternshipcybersecurity": "2026-10-26",
   "t:homeo|urbninformationsecurityintern": "2026-10-30",
   "t:honey|cybersecurityinternsummer2027": "2026-10-14",
@@ -4868,7 +4870,6 @@
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4470281935",
-   "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4474124687",
    "https://www.linkedin.com/jobs/view/4476037721",
@@ -4885,7 +4886,6 @@
    "https://www.linkedin.com/jobs/view/4486093045",
    "https://www.linkedin.com/jobs/view/4486093123",
    "https://www.linkedin.com/jobs/view/4486426577",
-   "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
    "https://www.linkedin.com/jobs/view/4486451604",
@@ -6298,7 +6298,9 @@
    "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1"
   ],
   "wd+:cni/CNI": [],
-  "wd+:cnoinc/Careers": [],
+  "wd+:cnoinc/Careers": [
+   "https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
+  ],
   "wd+:cnoinc/careers": [
    "https://cnoinc.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
   ],
@@ -6700,7 +6702,8 @@
   "wd+:henryschein/External_Careers": [],
   "wd+:hhmi/external": [],
   "wd+:highmarkhealth/highmark": [
-   "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841"
+   "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
+   "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015"
   ],
   "wd+:hindscc/HCCExternalCareersSite": [],
   "wd+:hiscox/Hiscox_External_Site": [],
@@ -8051,10 +8054,6 @@
  "heartbeat": "2026-11-03 14",
  "recent": [
   [
-   1793639920.736651,
-   "JM Family - Offensive Security Intern"
-  ],
-  [
    1793640085.743461,
    "Avista Corporation - Physical Security Intern (Criminal Justice, Homeland Security, Emerge"
   ],
@@ -8297,6 +8296,10 @@
   [
    1793732966.8527367,
    "CNO Financial Group - Cyber Security IT Intern - REMOTE"
+  ],
+  [
+   1793733619.906902,
+   "Highmark Health - Summer 2027 Vulnerability Management Analyst Undergraduate Intern"
   ]
  ],
  "stem5": true,
