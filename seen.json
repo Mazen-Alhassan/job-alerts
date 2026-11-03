@@ -475,6 +475,7 @@
   "https://go.vansh.nyc/1cd": "2026-11-03",
   "https://go.vansh.nyc/1cq": "2026-11-03",
   "https://go.vansh.nyc/1cy": "2026-11-03",
+  "https://go.vansh.nyc/1du": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2014,6 +2015,7 @@
   "t:rtx|internshipraytheonsystemssecurityengineeronsite": "2026-11-03",
   "t:rtx|securesoftwareintern": "2026-10-31",
   "t:rtx|securesoftwareinternsummer2027": "2026-10-27",
+  "t:rtx|securesystemengineeringintern": "2026-11-03",
   "t:rtx|securesystemengineeringinternsummer2027": "2026-11-03",
   "t:rtx|summer2027cyberinternonsite": "2026-11-03",
   "t:rtx|systemssecurityengineeringintern": "2026-11-03",
@@ -4832,7 +4834,6 @@
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
@@ -5437,6 +5438,7 @@
    "https://go.vansh.nyc/1cd",
    "https://go.vansh.nyc/1cq",
    "https://go.vansh.nyc/1cy",
+   "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
@@ -8024,10 +8026,6 @@
  "heartbeat": "2026-11-03 04",
  "recent": [
   [
-   1793601242.1519682,
-   "Amtrak - Summer 2027 - DT Physical Security Systems Intern - 90413063"
-  ],
-  [
    1793615403.899548,
    "Alaska Airlines - Intern - Cybersecurity Threat Defense (Summer 2027)"
   ],
@@ -8250,9 +8248,19 @@
   [
    1793694198.6555793,
    "RTX - Secure System Engineering Intern (Summer 2027)"
+  ],
+  [
+   1793701004.6681623,
+   "RTX - Secure System Engineering Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "shopify-page": [
+   1,
+   1793700936.3761232,
+   "HTTP Error 503: Service Unavailable"
+  ]
+ },
  "urlkey2": true
 }
