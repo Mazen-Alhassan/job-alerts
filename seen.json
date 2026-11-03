@@ -482,6 +482,7 @@
   "https://go.vansh.nyc/1cy": "2026-11-03",
   "https://go.vansh.nyc/1dD": "2026-11-03",
   "https://go.vansh.nyc/1dI": "2026-11-03",
+  "https://go.vansh.nyc/1dS": "2026-11-03",
   "https://go.vansh.nyc/1du": "2026-11-03",
   "https://go.vansh.nyc/1dy": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -1507,6 +1508,7 @@
   "t:ameri|springinternnationalsecuritystrategypentagonbudgetingandtheusdefenseindustrialbase": "2026-11-03",
   "t:ameri|summer2027interncybersecurity": "2026-11-03",
   "t:ameri|threatandvulnerabilitymanagementintern": "2026-10-23",
+  "t:ameri|undergraduateprogramcybersecurityaiengineerinternenterprisetechnologyservices": "2026-11-03",
   "t:amtra|summer2027dtphysicalsecuritysystemsintern90413063": "2026-11-03",
   "t:appia|informationsecurityengineerintern": "2026-11-03",
   "t:apple|2027summerinterninformationsecurity": "2026-11-03",
@@ -5473,6 +5475,7 @@
    "https://go.vansh.nyc/1cy",
    "https://go.vansh.nyc/1dD",
    "https://go.vansh.nyc/1dI",
+   "https://go.vansh.nyc/1dS",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/XI",
@@ -8045,14 +8048,6 @@
  "heartbeat": "2026-11-03 12",
  "recent": [
   [
-   1793637503.8133402,
-   "CBC Technovations, LLC - IT Support & Cybersecurity Intern"
-  ],
-  [
-   1793637980.588943,
-   "Rockland Trust - Corporate Security Intern"
-  ],
-  [
    1793638220.1494129,
    "Avista Corporation - Enterprise Technology Intern (Computer Science, Cybersecurity, Inform"
   ],
@@ -8299,6 +8294,10 @@
   [
    1793729491.609916,
    "Schneider Electric - Security Systems Design Intern"
+  ],
+  [
+   1793731688.5059888,
+   "American Express - Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Tech"
   ]
  ],
  "stem5": true,
