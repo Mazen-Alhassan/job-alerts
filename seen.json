@@ -343,6 +343,7 @@
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199-1": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200-1": "2026-10-10",
   "https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--cybersecurity-_r-8130-1": "2026-11-03",
+  "https://cnoinc.wd5.myworkdayjobs.com/careers/job/carmel-in/cyber-security-it-intern---remote_jr170419": "2026-11-03",
   "https://cohnreznick.tal.net/vx/lang-en-gb/mobile-0/appcentre-1/brand-4/candidate/so/pm/1/pl/2/opp/10095-winter-2027-internship-cybersecurity-and-digital-trust/en-gb": "2026-10-10",
   "https://conagrabrands.wd1.myworkdayjobs.com/careers_us/job/omaha-nebraska/cybersecurity-internship---summer-2027_req-039965": "2026-10-16",
   "https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security": "2026-10-25",
@@ -1648,6 +1649,7 @@
   "t:close|contentinternbillingtoncybersecurity": "2026-11-03",
   "t:cnain|cybersecurityinterntechnology": "2026-11-03",
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-03",
+  "t:cnofi|cybersecurityitinternremote": "2026-11-03",
   "t:cohen|associateinterninformationsecurity": "2026-11-02",
   "t:colli|cyberresearchinternshipsummer2027onsite": "2026-10-21",
   "t:colli|securesystemengineeringinternsummer2027": "2026-11-03",
@@ -6297,7 +6299,9 @@
   ],
   "wd+:cni/CNI": [],
   "wd+:cnoinc/Careers": [],
-  "wd+:cnoinc/careers": [],
+  "wd+:cnoinc/careers": [
+   "https://cnoinc.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
+  ],
   "wd+:cognex/External_Career_Site": [],
   "wd+:cohesity/Cohesity_Careers": [],
   "wd+:coke/coca-cola-careers": [],
@@ -8047,14 +8051,6 @@
  "heartbeat": "2026-11-03 14",
  "recent": [
   [
-   1793638220.1494129,
-   "Avista Corporation - Enterprise Technology Intern (Computer Science, Cybersecurity, Inform"
-  ],
-  [
-   1793638908.2429125,
-   "Rockland Trust - Security Operations Intern"
-  ],
-  [
    1793639920.736651,
    "JM Family - Offensive Security Intern"
   ],
@@ -8297,6 +8293,10 @@
   [
    1793731688.5059888,
    "American Express - Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Tech"
+  ],
+  [
+   1793732966.8527367,
+   "CNO Financial Group - Cyber Security IT Intern - REMOTE"
   ]
  ],
  "stem5": true,
