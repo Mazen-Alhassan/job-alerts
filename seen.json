@@ -387,6 +387,7 @@
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/21006": "2026-11-03",
   "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/in-indianapolis-220-virginia-ave/information-security-co-op-internship---2027_jr205939": "2026-11-03",
   "https://emcins.wd5.myworkdayjobs.com/emc_careers/job/iowa/cybersecurity-intern_r6590": "2026-11-03",
+  "https://emcins.wd5.myworkdayjobs.com/emc_internships/job/iowa/cybersecurity-intern_r6590-2": "2026-11-03",
   "https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/intern--vulnerability-research_jobreq-0002885": "2026-11-03",
   "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/chaska-mn/cyber-threat-analyst-co-op_req-14505": "2026-10-12",
   "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/chaska-mn/cybersecurity-engineer-co-op_req-14472-1": "2026-10-28",
@@ -4433,11 +4434,7 @@
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
    "https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2917",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477502700",
-   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11000",
-   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11006",
-   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11008",
-   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018"
+   "https://lockheedmartin.eightfold.ai/careers/job/996477502700"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -6304,12 +6301,8 @@
    "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1"
   ],
   "wd+:cni/CNI": [],
-  "wd+:cnoinc/Careers": [
-   "https://cnoinc.wd5.myworkdayjobs.com/en-US/Careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
-  ],
-  "wd+:cnoinc/careers": [
-   "https://cnoinc.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
-  ],
+  "wd+:cnoinc/Careers": [],
+  "wd+:cnoinc/careers": [],
   "wd+:cognex/External_Career_Site": [],
   "wd+:cohesity/Cohesity_Careers": [],
   "wd+:coke/coca-cola-careers": [],
@@ -6471,7 +6464,9 @@
   "wd+:emcins/EMC_Careers": [
    "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590"
   ],
-  "wd+:emcins/EMC_Internships": [],
+  "wd+:emcins/EMC_Internships": [
+   "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Internships/job/Iowa/Cybersecurity-Intern_R6590-2"
+  ],
   "wd+:empower/PanAgora": [],
   "wd+:empower/empower": [],
   "wd+:enbridge/enbridge_careers": [],
@@ -7119,9 +7114,7 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
-  ],
+  "wd+:ngc/Northrop_Grumman_External_Site": [],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
@@ -7847,9 +7840,7 @@
   "wd:motorolasolutions/Careers": [
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
   ],
-  "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
-  ],
+  "wd:ngc/northrop_grumman_external_site": [],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
