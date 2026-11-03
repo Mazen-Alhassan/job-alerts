@@ -1184,6 +1184,7 @@
   "https://linkedin.com/jobs/view/4484656855": "2026-11-03",
   "https://linkedin.com/jobs/view/4484671227": "2026-11-03",
   "https://linkedin.com/jobs/view/4484679809": "2026-11-03",
+  "https://linkedin.com/jobs/view/4484680962": "2026-11-03",
   "https://linkedin.com/jobs/view/4484717410": "2026-10-29",
   "https://linkedin.com/jobs/view/4484718247": "2026-10-29",
   "https://linkedin.com/jobs/view/4484733965": "2026-10-29",
@@ -1627,6 +1628,7 @@
   "t:calpo|securedwatchlicensedtrackstudentassistantsolanocampus": "2026-10-31",
   "t:canad|newgradcybersecurityresearchscientistengineertalentpool": "2026-10-14",
   "t:carne|cyberrangedevelopmentintern": "2026-11-03",
+  "t:carol|securityguestexperienceintern": "2026-11-03",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
   "t:cbcte|itsupportcybersecurityintern": "2026-11-02",
   "t:cedar|securityinternships": "2026-10-29",
@@ -4884,16 +4886,16 @@
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4484630090",
+   "https://www.linkedin.com/jobs/view/4484656855",
+   "https://www.linkedin.com/jobs/view/4484671227",
    "https://www.linkedin.com/jobs/view/4484679809",
+   "https://www.linkedin.com/jobs/view/4484680962",
    "https://www.linkedin.com/jobs/view/4485007181",
-   "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486028274",
    "https://www.linkedin.com/jobs/view/4486088588",
    "https://www.linkedin.com/jobs/view/4486093045",
    "https://www.linkedin.com/jobs/view/4486093123",
    "https://www.linkedin.com/jobs/view/4486426577",
-   "https://www.linkedin.com/jobs/view/4486451559",
-   "https://www.linkedin.com/jobs/view/4486451604",
    "https://www.linkedin.com/jobs/view/4486453921",
    "https://www.linkedin.com/jobs/view/4486458801",
    "https://www.linkedin.com/jobs/view/4486459966",
@@ -5856,7 +5858,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8054,22 +8058,6 @@
  "heartbeat": "2026-11-03 18",
  "recent": [
   [
-   1793650592.8674977,
-   "BBVA - 2027 CIB Cybersecurity Summer Internship"
-  ],
-  [
-   1793651213.4366224,
-   "RTX (Collins, Pratt & Whitney, Raytheon) - Internship \u2013 Raytheon Systems Security Engineer"
-  ],
-  [
-   1793652041.202768,
-   "Motorola Solutions - Software Engineer Intern, Cybersecurity Services"
-  ],
-  [
-   1793653452.0089629,
-   "Lockheed Martin - Cyber Engineer Intern - Summer 2027"
-  ],
-  [
    1793655091.0614862,
    "Mass General Brigham - Co-op Security"
   ],
@@ -8256,6 +8244,10 @@
   [
    1793743995.9585538,
    "DuCharme, McMillen & Associates - Cybersecurity Intern"
+  ],
+  [
+   1793748422.3853483,
+   "Carolina Hurricanes - Security + Guest Experience Intern"
   ]
  ],
  "stem5": true,
