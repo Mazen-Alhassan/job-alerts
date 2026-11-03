@@ -1227,6 +1227,7 @@
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
   "https://linkedin.com/jobs/view/4486028274": "2026-11-03",
+  "https://linkedin.com/jobs/view/4486088588": "2026-11-03",
   "https://linkedin.com/jobs/view/4486093045": "2026-11-03",
   "https://linkedin.com/jobs/view/4486093123": "2026-11-03",
   "https://linkedin.com/jobs/view/4486190874": "2026-11-03",
@@ -1835,6 +1836,7 @@
   "t:insme|summerinterncloudapplicationsecurity": "2026-11-03",
   "t:insme|summerinterncybersecurityoperationsaiautomation": "2026-11-03",
   "t:integ|itsecurityintern": "2026-10-24",
+  "t:intel|cyberanalystinternshipdowskillbridgewithsecurityclearance": "2026-11-03",
   "t:intel|informationsecurityengineerintern": "2026-10-29",
   "t:intel|informationsecurityengineerundergraduateintern": "2026-10-29",
   "t:inter|cybersecurityarchitectintern": "2026-11-03",
@@ -4883,6 +4885,7 @@
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486028274",
+   "https://www.linkedin.com/jobs/view/4486088588",
    "https://www.linkedin.com/jobs/view/4486093045",
    "https://www.linkedin.com/jobs/view/4486093123",
    "https://www.linkedin.com/jobs/view/4486426577",
@@ -8267,6 +8270,10 @@
   [
    1793737022.3112938,
    "Highmark Health - Vulnerability Management Analyst Undergraduate Intern"
+  ],
+  [
+   1793737147.4232783,
+   "IntelliGenesis LLC\u00ae - Cyber Analyst Internship (DoW SkillBridge) with Security Clearance"
   ]
  ],
  "stem5": true,
