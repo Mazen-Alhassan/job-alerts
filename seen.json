@@ -1277,6 +1277,7 @@
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10257311": "2026-10-25",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-cyber-systems-engineer-intern---roy-ut_r10249471": "2026-11-03",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate--10-12-weeks--intern---ai-ml-for-cybersecurity_r14563": "2026-11-03",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-11-03",
   "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": "2026-11-03",
@@ -1947,6 +1948,7 @@
   "t:north|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
   "t:north|2027cybersoftwareengineerinternsanantoniotx": "2026-10-25",
   "t:north|2027cybersoftwareengineerinterntampafl": "2026-10-26",
+  "t:north|2027cybersystemsengineerinternroyut": "2026-11-03",
   "t:north|2027cybersystemsengineerinterntampafl": "2026-10-20",
   "t:north|2027internindustrialsecurity": "2026-10-30",
   "t:north|2027swcybersecurityinternannapolismd": "2026-10-16",
@@ -7822,7 +7824,9 @@
   "wd:motorolasolutions/Careers": [
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
   ],
-  "wd:ngc/northrop_grumman_external_site": [],
+  "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+  ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -8032,10 +8036,6 @@
  },
  "heartbeat": "2026-11-03 08",
  "recent": [
-  [
-   1793615403.899548,
-   "Alaska Airlines - Intern - Cybersecurity Threat Defense (Summer 2027)"
-  ],
   [
    1793626612.386982,
    "Federal Reserve - 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity"
@@ -8267,9 +8267,19 @@
   [
    1793708938.0579636,
    "RTX (Collins, Pratt & Whitney, Raytheon) - Secure System Engineering Intern (Summer 2027)"
+  ],
+  [
+   1793715030.3036494,
+   "Northrop Grumman - 2027 Cyber Systems Engineer Intern - Roy UT"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793714954.8793073,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
