@@ -57,6 +57,7 @@
   "gh:8802897002": "2026-11-03",
   "gh:8842752002": "2026-11-03",
   "gh:8846143002": "2026-11-03",
+  "gh:8928056002": "2026-11-03",
   "http://careers.na.panasonic.com/jobs/51656/job": "2026-10-11",
   "http://recruit.hirebridge.com/v3/careercenter/v2/details.aspx": "2026-10-09",
   "https:/.appone.com/job/6ac7ce952c25d93763dbd4e9": "2026-10-09",
@@ -1843,6 +1844,7 @@
   "t:jshel|juniorforensicengineeringinternship6monthcontract": "2026-11-03",
   "t:kimba|cybersecurityintern": "2026-10-15",
   "t:kinax|coopinternapplicationsecurityanalyst": "2026-10-27",
+  "t:knowb|securityawarenesscontentspecialistsummerinternshiphybrid": "2026-11-03",
   "t:kodia|winter2027internsecurity": "2026-11-03",
   "t:kudud|cybersecurityintern": "2026-11-03",
   "t:kyndr|earlycareerconsultprogramcybersecuritydefenseassociate": "2026-11-03",
@@ -3282,9 +3284,7 @@
   "gh:enigmaio": [],
   "gh:ennoblecare": [],
   "gh:enova": [],
-  "gh:ensco": [
-   "https://job-boards.greenhouse.io/ensco/jobs/5467125008"
-  ],
+  "gh:ensco": [],
   "gh:ensemble": [],
   "gh:eosfitness": [],
   "gh:epicgames": [],
@@ -3485,7 +3485,9 @@
   "gh:klaviyo": [],
   "gh:klaviyocampus": [],
   "gh:klaviyojobs": [],
-  "gh:knowbe4": [],
+  "gh:knowbe4": [
+   "https://job-boards.greenhouse.io/knowbe4/jobs/8928056002"
+  ],
   "gh:koalafi": [],
   "gh:koboldmetals": [],
   "gh:koddi": [],
@@ -7095,7 +7097,9 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [],
+  "wd+:ngc/Northrop_Grumman_External_Site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471"
+  ],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
@@ -8278,6 +8282,10 @@
   [
    1793715266.206826,
    "Marvell - Security Verification/Validation Engineer Intern"
+  ],
+  [
+   1793715728.4735537,
+   "KnowBe4 - Security Awareness Content Specialist Summer Internship (Hybrid)"
   ]
  ],
  "stem5": true,
