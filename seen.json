@@ -894,7 +894,7 @@
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
   "https://linkedin.com/jobs/view/4470250157": "2026-10-15",
-  "https://linkedin.com/jobs/view/4470281935": "2026-10-14",
+  "https://linkedin.com/jobs/view/4470281935": "2026-11-03",
   "https://linkedin.com/jobs/view/4470605824": "2026-10-15",
   "https://linkedin.com/jobs/view/4470618994": "2026-10-14",
   "https://linkedin.com/jobs/view/4470621870": "2026-10-14",
@@ -1691,7 +1691,7 @@
   "t:emcin|cybersecurityintern": "2026-11-03",
   "t:emers|cybersecurityengineeringcoopjan27may27": "2026-10-13",
   "t:emers|cybersecurityengineeringintern": "2026-10-15",
-  "t:encom|itsecuritystudentinternsummer2027": "2026-10-14",
+  "t:encom|itsecuritystudentinternsummer2027": "2026-11-03",
   "t:ensco|informationsecurityintern": "2026-11-03",
   "t:ensig|internvulnerabilityresearch": "2026-11-03",
   "t:enteg|cybersecurityengineercoop": "2026-10-28",
@@ -6165,7 +6165,6 @@
   ],
   "wd+:cai/computer_aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893",
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
   "wd+:calibercollision/caliber": [],
@@ -7772,7 +7771,6 @@
   "wd:caci/External": [],
   "wd:cai/Computer_Aid": [
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/TX-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8893",
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
   "wd:capitalone/Capital_One": [],
@@ -8028,7 +8026,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 06",
+ "heartbeat": "2026-11-03 08",
  "recent": [
   [
    1793615403.899548,
