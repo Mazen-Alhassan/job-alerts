@@ -671,6 +671,7 @@
   "https://jobs.centene.com/us/en/jobs/1667746/applications-security-engineer-intern-undergraduate-summer-2027": "2026-10-28",
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
+  "https://jobs.dayforcehcm.com/woodmenlife/candidateportal/jobs/2917": "2026-11-03",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-10-31",
   "https://jobs.ericsson.com/careers/job/563121777370331": "2026-10-31",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192": "2026-11-03",
@@ -4390,6 +4391,7 @@
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cloud-Application-Security_R3879",
    "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Offensive-Security-Intern_JR105164",
+   "https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2917",
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11000",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11006",
@@ -8255,12 +8257,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793701760.8504262,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
