@@ -1020,7 +1020,7 @@
   "https://linkedin.com/jobs/view/4478179913": "2026-10-15",
   "https://linkedin.com/jobs/view/4478294739": "2026-10-20",
   "https://linkedin.com/jobs/view/4478437995": "2026-10-15",
-  "https://linkedin.com/jobs/view/4478537956": "2026-10-12",
+  "https://linkedin.com/jobs/view/4478537956": "2026-11-03",
   "https://linkedin.com/jobs/view/4478676751": "2026-10-21",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
@@ -1512,6 +1512,7 @@
   "t:arcon|cybersecurityintern": "2026-11-03",
   "t:arkio|embeddedsystemsdronesecurityrdintern": "2026-10-29",
   "t:artiv|cybersecurityinternparttime": "2026-10-21",
+  "t:arup|physicalsecurityinternsummer2027": "2026-11-03",
   "t:asmgl|securityintern": "2026-11-03",
   "t:asset|itsecurityintern": "2026-11-03",
   "t:aster|cybersecurityengineerintern": "2026-11-03",
@@ -4831,14 +4832,13 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460254050",
-   "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4474124687",
+   "https://www.linkedin.com/jobs/view/4478537956",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
@@ -8256,10 +8256,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "shopify-page": [
+  "netflix": [
    1,
-   1793700936.3761232,
-   "HTTP Error 503: Service Unavailable"
+   1793701760.8504262,
+   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
  "urlkey2": true
