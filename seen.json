@@ -19,6 +19,7 @@
   "gh:5466978008": "2026-11-03",
   "gh:5467125008": "2026-11-03",
   "gh:6116398004": "2026-11-03",
+  "gh:6142957004": "2026-11-03",
   "gh:6148707004": "2026-11-02",
   "gh:6163325004": "2026-11-03",
   "gh:6212490004": "2026-10-09",
@@ -967,7 +968,7 @@
   "https://linkedin.com/jobs/view/4475965878": "2026-10-09",
   "https://linkedin.com/jobs/view/4475983653": "2026-10-28",
   "https://linkedin.com/jobs/view/4476012328": "2026-10-12",
-  "https://linkedin.com/jobs/view/4476037721": "2026-10-13",
+  "https://linkedin.com/jobs/view/4476037721": "2026-11-03",
   "https://linkedin.com/jobs/view/4476065632": "2026-10-15",
   "https://linkedin.com/jobs/view/4476076233": "2026-10-15",
   "https://linkedin.com/jobs/view/4476315409": "2026-10-29",
@@ -2129,6 +2130,7 @@
   "t:toget|hardwaresecurityengineerintern": "2026-10-23",
   "t:toget|hardwaresecurityengineerinternsummer2027": "2026-11-03",
   "t:toget|hardwaresecurityengineernewgrad2027": "2026-11-03",
+  "t:twosi|securityoperationsintern": "2026-11-03",
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-11-03",
   "t:unite|2027buildingsecuritysummerinternshipprogram": "2026-10-22",
@@ -3915,7 +3917,9 @@
   "gh:twiliostudents": [],
   "gh:twistbioscience": [],
   "gh:twitch": [],
-  "gh:twosixtechnologies": [],
+  "gh:twosixtechnologies": [
+   "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6142957004"
+  ],
   "gh:uareai": [],
   "gh:uberfreight": [],
   "gh:udemybedi": [],
@@ -4412,7 +4416,8 @@
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
+   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4853,12 +4858,12 @@
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4474124687",
+   "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4478537956",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4484630090",
-   "https://www.linkedin.com/jobs/view/4484671227",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
@@ -5456,8 +5461,6 @@
    "https://go.vansh.nyc/1dD",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
-   "https://go.vansh.nyc/VN",
-   "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
    "https://go.vansh.nyc/VV",
    "https://go.vansh.nyc/W5",
@@ -6602,7 +6605,6 @@
   ],
   "wd+:globalhr/rec_rtx_ext_gateway": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite-_01886045",
    "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
   ],
   "wd+:globe/GLB_Careers": [],
@@ -7804,7 +7806,6 @@
   "wd:geaerospace/GE_ExternalSite": [],
   "wd:globalhr/REC_RTX_Ext_Gateway": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite-_01886045",
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
   ],
   "wd:hp/ExternalCareerSite": [
@@ -8039,10 +8040,6 @@
  },
  "heartbeat": "2026-11-03 10",
  "recent": [
-  [
-   1793626612.386982,
-   "Federal Reserve - 2027 Summer Internship Program - Supervision & Regulation (Cybersecurity"
-  ],
   [
    1793632424.191822,
    "The Federal Reserve System - Supervision & Regulation Intern, Cybersecurity"
@@ -8282,9 +8279,19 @@
   [
    1793715728.4735537,
    "KnowBe4 - Security Awareness Content Specialist Summer Internship (Hybrid)"
+  ],
+  [
+   1793720511.1813226,
+   "Two Six Technologies - Security Operations Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "apple": [
+   1,
+   1793720418.4026544,
+   "The read operation timed out"
+  ]
+ },
  "urlkey2": true
 }
