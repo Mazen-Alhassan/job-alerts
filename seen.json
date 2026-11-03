@@ -1032,7 +1032,7 @@
   "https://linkedin.com/jobs/view/4478537956": "2026-11-03",
   "https://linkedin.com/jobs/view/4478676751": "2026-10-21",
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
-  "https://linkedin.com/jobs/view/4478717202": "2026-10-13",
+  "https://linkedin.com/jobs/view/4478717202": "2026-11-03",
   "https://linkedin.com/jobs/view/4478842083": "2026-10-16",
   "https://linkedin.com/jobs/view/4478847469": "2026-10-16",
   "https://linkedin.com/jobs/view/4479157817": "2026-10-16",
@@ -1186,6 +1186,7 @@
   "https://linkedin.com/jobs/view/4484868825": "2026-10-31",
   "https://linkedin.com/jobs/view/4484884364": "2026-10-31",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
+  "https://linkedin.com/jobs/view/4485007181": "2026-11-03",
   "https://linkedin.com/jobs/view/4485105921": "2026-11-01",
   "https://linkedin.com/jobs/view/4485119606": "2026-10-31",
   "https://linkedin.com/jobs/view/4485141074": "2026-11-01",
@@ -1668,7 +1669,7 @@
   "t:crowd|professionalservicesredteaminternsummer2027remotegbr": "2026-10-21",
   "t:crowe|cybersecurityintern": "2026-11-03",
   "t:crowe|incidentresponseintern": "2026-11-03",
-  "t:crown|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-10-13",
+  "t:crown|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-11-03",
   "t:crypt|summer2027cyberengineeringinternship": "2026-10-20",
   "t:crypt|summer2027cyberengineeringinternshipprogram": "2026-10-23",
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-03",
@@ -1822,6 +1823,7 @@
   "t:illum|securityresearchintern": "2026-11-03",
   "t:inmar|informationsecurityinternshipssummer2027": "2026-11-03",
   "t:insme|summerinterncloudapplicationsecurity": "2026-11-03",
+  "t:insme|summerinterncybersecurityoperationsaiautomation": "2026-11-03",
   "t:integ|itsecurityintern": "2026-10-24",
   "t:intel|informationsecurityengineerintern": "2026-10-29",
   "t:intel|informationsecurityengineerundergraduateintern": "2026-10-29",
@@ -4865,12 +4867,13 @@
    "https://www.linkedin.com/jobs/view/4474124687",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4478537956",
+   "https://www.linkedin.com/jobs/view/4478717202",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4484630090",
    "https://www.linkedin.com/jobs/view/4484679809",
-   "https://www.linkedin.com/jobs/view/4485737763",
+   "https://www.linkedin.com/jobs/view/4485007181",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485783294",
@@ -4885,7 +4888,6 @@
    "https://www.linkedin.com/jobs/view/4486453921",
    "https://www.linkedin.com/jobs/view/4486458801",
    "https://www.linkedin.com/jobs/view/4486459966",
-   "https://www.linkedin.com/jobs/view/4486461012",
    "https://www.linkedin.com/jobs/view/4486465866",
    "https://www.linkedin.com/jobs/view/4486466845",
    "https://www.linkedin.com/jobs/view/4486467483",
@@ -5471,7 +5473,6 @@
    "https://go.vansh.nyc/1dI",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
-   "https://go.vansh.nyc/W5",
    "https://go.vansh.nyc/W8",
    "https://go.vansh.nyc/XI",
    "https://go.vansh.nyc/XL",
@@ -8043,10 +8044,6 @@
  "heartbeat": "2026-11-03 12",
  "recent": [
   [
-   1793632424.191822,
-   "The Federal Reserve System - Supervision & Regulation Intern, Cybersecurity"
-  ],
-  [
    1793637503.8133402,
    "CBC Technovations, LLC - IT Support & Cybersecurity Intern"
   ],
@@ -8293,6 +8290,10 @@
   [
    1793725740.6295533,
    "Collins Aerospace - Secure System Engineering Intern (Summer 2027)"
+  ],
+  [
+   1793727592.0033252,
+   "Insmed Incorporated - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
   ]
  ],
  "stem5": true,
