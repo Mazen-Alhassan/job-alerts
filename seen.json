@@ -1259,6 +1259,8 @@
   "https://linkedin.com/jobs/view/4486883757": "2026-11-03",
   "https://linkedin.com/jobs/view/4487017091": "2026-11-03",
   "https://linkedin.com/jobs/view/4487035975": "2026-11-03",
+  "https://linkedin.com/jobs/view/4487053943": "2026-11-03",
+  "https://linkedin.com/jobs/view/4487065317": "2026-11-03",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2075,7 +2077,7 @@
   "t:sandi|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:savan|2027summerinterncomputerscienceinformationtechnologycybersecurity": "2026-11-01",
   "t:schne|securitysystemsdesignintern": "2026-11-03",
-  "t:scotf|itcybersecurityinternsummer2027": "2026-10-24",
+  "t:scotf|itcybersecurityinternsummer2027": "2026-11-03",
   "t:scoti|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
@@ -3964,7 +3966,6 @@
   "gh:usconec": [],
   "gh:uvimco": [],
   "gh:vardaspace": [
-   "https://job-boards.greenhouse.io/vardaspace/jobs/7824766003",
    "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003"
   ],
   "gh:vast": [],
@@ -4436,7 +4437,6 @@
   "jobspy": [
    "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
    "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
    "https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2917",
@@ -4906,7 +4906,9 @@
    "https://www.linkedin.com/jobs/view/4486816743",
    "https://www.linkedin.com/jobs/view/4486883757",
    "https://www.linkedin.com/jobs/view/4487017091",
-   "https://www.linkedin.com/jobs/view/4487035975"
+   "https://www.linkedin.com/jobs/view/4487035975",
+   "https://www.linkedin.com/jobs/view/4487053943",
+   "https://www.linkedin.com/jobs/view/4487065317"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8051,7 +8053,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 16",
+ "heartbeat": "2026-11-03 18",
  "recent": [
   [
    1793650592.8674977,
