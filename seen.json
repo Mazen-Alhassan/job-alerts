@@ -480,6 +480,7 @@
   "https://go.vansh.nyc/1cq": "2026-11-03",
   "https://go.vansh.nyc/1cy": "2026-11-03",
   "https://go.vansh.nyc/1dD": "2026-11-03",
+  "https://go.vansh.nyc/1dI": "2026-11-03",
   "https://go.vansh.nyc/1du": "2026-11-03",
   "https://go.vansh.nyc/1dy": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -1240,6 +1241,7 @@
   "https://linkedin.com/jobs/view/4486470771": "2026-11-03",
   "https://linkedin.com/jobs/view/4486471359": "2026-11-03",
   "https://linkedin.com/jobs/view/4486816743": "2026-11-03",
+  "https://linkedin.com/jobs/view/4486883757": "2026-11-03",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4415,8 +4417,6 @@
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11006",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11008",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018",
-   "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
-   "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
@@ -4887,7 +4887,8 @@
    "https://www.linkedin.com/jobs/view/4486469393",
    "https://www.linkedin.com/jobs/view/4486470771",
    "https://www.linkedin.com/jobs/view/4486471359",
-   "https://www.linkedin.com/jobs/view/4486816743"
+   "https://www.linkedin.com/jobs/view/4486816743",
+   "https://www.linkedin.com/jobs/view/4486883757"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5459,6 +5460,7 @@
    "https://go.vansh.nyc/1cq",
    "https://go.vansh.nyc/1cy",
    "https://go.vansh.nyc/1dD",
+   "https://go.vansh.nyc/1dI",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/VV",
@@ -5829,9 +5831,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
