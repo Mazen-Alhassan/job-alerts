@@ -1243,6 +1243,7 @@
   "https://linkedin.com/jobs/view/4486471359": "2026-11-03",
   "https://linkedin.com/jobs/view/4486816743": "2026-11-03",
   "https://linkedin.com/jobs/view/4486883757": "2026-11-03",
+  "https://linkedin.com/jobs/view/4487017091": "2026-11-03",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1644,6 +1645,7 @@
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-03",
   "t:cohen|associateinterninformationsecurity": "2026-11-02",
   "t:colli|cyberresearchinternshipsummer2027onsite": "2026-10-21",
+  "t:colli|securesystemengineeringinternsummer2027": "2026-11-03",
   "t:commo|itinternaiandcybersecuritycommonwealthholdingsinc": "2026-10-13",
   "t:concu|technicalinterncybersecurity": "2026-10-25",
   "t:coops|coopittechnicalsecurity": "2026-11-03",
@@ -4420,8 +4422,7 @@
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11006",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11008",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11018",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
-   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -4874,11 +4875,11 @@
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486028274",
-   "https://www.linkedin.com/jobs/view/4486190874",
    "https://www.linkedin.com/jobs/view/4486403514",
    "https://www.linkedin.com/jobs/view/4486426577",
    "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
+   "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
    "https://www.linkedin.com/jobs/view/4486451604",
    "https://www.linkedin.com/jobs/view/4486453921",
@@ -4892,7 +4893,8 @@
    "https://www.linkedin.com/jobs/view/4486470771",
    "https://www.linkedin.com/jobs/view/4486471359",
    "https://www.linkedin.com/jobs/view/4486816743",
-   "https://www.linkedin.com/jobs/view/4486883757"
+   "https://www.linkedin.com/jobs/view/4486883757",
+   "https://www.linkedin.com/jobs/view/4487017091"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8042,7 +8044,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 10",
+ "heartbeat": "2026-11-03 12",
  "recent": [
   [
    1793632424.191822,
@@ -8291,6 +8293,10 @@
   [
    1793724438.379024,
    "American Express - Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI "
+  ],
+  [
+   1793725740.6295533,
+   "Collins Aerospace - Secure System Engineering Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
