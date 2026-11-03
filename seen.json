@@ -466,6 +466,8 @@
   "https://go.vansh.nyc/1bS": "2026-11-03",
   "https://go.vansh.nyc/1bV": "2026-11-03",
   "https://go.vansh.nyc/1c6": "2026-11-03",
+  "https://go.vansh.nyc/1cc": "2026-11-03",
+  "https://go.vansh.nyc/1cd": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1611,6 +1613,7 @@
   "t:cityo|springinternpolicesafetysecurityoperations": "2026-11-02",
   "t:cleco|interncybersecurity": "2026-11-03",
   "t:close|contentinternbillingtoncybersecurity": "2026-11-03",
+  "t:cnain|cybersecurityinterntechnology": "2026-11-03",
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-03",
   "t:cohen|associateinterninformationsecurity": "2026-11-02",
   "t:colli|cyberresearchinternshipsummer2027onsite": "2026-10-21",
@@ -4378,6 +4381,7 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingId=b0021734-a3d6-4e67-9a48-db2f307ec04d",
    "https://recruiting2.ultipro.com/AVI1000AMAST/JobBoard/362abf68-95c3-4b17-a39d-76a6efe5ff18/OpportunityDetail?opportunityId=a1212562-c20c-4e90-8a2a-87e878930923&postingId=687815c7-2cb3-45b6-91b0-95471c23c2fa",
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
   ],
   "jobvite:aarete": [],
@@ -4812,10 +4816,10 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
@@ -5409,6 +5413,8 @@
    "https://go.vansh.nyc/1bS",
    "https://go.vansh.nyc/1bV",
    "https://go.vansh.nyc/1c6",
+   "https://go.vansh.nyc/1cc",
+   "https://go.vansh.nyc/1cd",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
@@ -7996,7 +8002,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 22",
+ "heartbeat": "2026-11-03 00",
  "recent": [
   [
    1793601242.1519682,
@@ -8201,6 +8207,10 @@
   [
    1793679223.2619834,
    "Auto-Owners Insurance - IT Security Engineer Intern"
+  ],
+  [
+   1793682867.2411091,
+   "CNA Insurance - Cybersecurity Intern, Technology"
   ]
  ],
  "stem5": true,
