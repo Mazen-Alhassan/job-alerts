@@ -4802,13 +4802,13 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4474124687",
-   "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
@@ -4834,8 +4834,7 @@
    "https://www.linkedin.com/jobs/view/4486466845",
    "https://www.linkedin.com/jobs/view/4486467483",
    "https://www.linkedin.com/jobs/view/4486469393",
-   "https://www.linkedin.com/jobs/view/4486470771",
-   "https://www.linkedin.com/jobs/view/4486471359"
+   "https://www.linkedin.com/jobs/view/4486470771"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7983,7 +7982,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 18",
+ "heartbeat": "2026-11-02 20",
  "recent": [
   [
    1793574522.4988637,
@@ -8187,6 +8186,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793667630.404283,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
