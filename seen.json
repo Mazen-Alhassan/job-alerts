@@ -372,6 +372,7 @@
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11613": "2026-11-03",
   "https://ebfr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/11623": "2026-11-03",
   "https://ebxr.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/214487": "2026-10-30",
+  "https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301991": "2026-11-03",
   "https://edbz.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/25017626": "2026-11-03",
   "https://edxn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_5001/job/26173": "2026-11-03",
   "https://eese.fa.us8.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/731": "2026-10-31",
@@ -487,6 +488,7 @@
   "https://go.vansh.nyc/1du": "2026-11-03",
   "https://go.vansh.nyc/1dy": "2026-11-03",
   "https://go.vansh.nyc/1e9": "2026-11-03",
+  "https://go.vansh.nyc/1ei": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -636,6 +638,7 @@
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
   "https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/headquarters-winston-salem-nc/information-security-internships--summer-2027_jy2627635": "2026-11-03",
   "https://insmed.wd504.myworkdayjobs.com/external/job/nj-corporate-headquarters/summer-intern---cloud-application-security_r3879": "2026-11-03",
+  "https://insmed.wd504.myworkdayjobs.com/external/job/nj-corporate-headquarters/summer-intern---cybersecurity-operations---ai-automation_r3894": "2026-11-03",
   "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/toronto-ontario-can/new-grad-tech-development-program---cybersecurity-stream_r155808": "2026-10-12",
   "https://intel.wd1.myworkdayjobs.com/external/job/us-california-folsom/information-security-engineer-undergraduate-intern_jr0287588": "2026-10-29",
   "https://interac.wd3.myworkdayjobs.com/interac/job/toronto/information-security-intern_req-2385": "2026-10-25",
@@ -2152,6 +2155,7 @@
   "t:toget|hardwaresecurityengineerintern": "2026-10-23",
   "t:toget|hardwaresecurityengineerinternsummer2027": "2026-11-03",
   "t:toget|hardwaresecurityengineernewgrad2027": "2026-11-03",
+  "t:trade|summer2027cybersecurityinternship": "2026-11-03",
   "t:twosi|securityoperationsintern": "2026-11-03",
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-11-03",
@@ -4427,6 +4431,7 @@
    "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
    "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
+   "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
    "https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2917",
    "https://lockheedmartin.eightfold.ai/careers/job/996477502700",
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
@@ -4938,7 +4943,9 @@
   "oracle:ebxs.fa.us2.oraclecloud.com/CX_2": [],
   "oracle:ecer.fa.em2.oraclecloud.com/CX_1": [],
   "oracle:ecge.fa.us2.oraclecloud.com/CX_1003": [],
-  "oracle:ecnf.fa.us2.oraclecloud.com/CX": [],
+  "oracle:ecnf.fa.us2.oraclecloud.com/CX": [
+   "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301991"
+  ],
   "oracle:ecsr.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ecvz.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ecyq.fa.em2.oraclecloud.com/CX_1": [],
@@ -5481,6 +5488,7 @@
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/1e9",
+   "https://go.vansh.nyc/1ei",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -5845,9 +5853,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8053,10 +8059,6 @@
  "heartbeat": "2026-11-03 16",
  "recent": [
   [
-   1793646939.7305272,
-   "RTX - Systems Security Engineering Intern (Summer 2027)"
-  ],
-  [
    1793648133.3165233,
    "Amazon - Associate Engagement Manager Intern- National Security, AWS Professional Services"
   ],
@@ -8271,6 +8273,10 @@
   [
    1793737147.4232783,
    "IntelliGenesis LLC\u00ae - Cyber Analyst Internship (DoW SkillBridge) with Security Clearance"
+  ],
+  [
+   1793740784.059651,
+   "Tradeweb - Summer 2027 Cyber Security Internship"
   ]
  ],
  "stem5": true,
