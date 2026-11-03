@@ -75,7 +75,7 @@
   "https:/.workable.com/coretek-services/j/d01d911bb0": "2026-10-26",
   "https:/.workable.com/securityriskadvisors/j/5ec3a66237": "2026-10-28",
   "https://aba.wd1.myworkdayjobs.com/aba/job/us-dc-main-office/intern--cybersecurity-policy-analyst_r611": "2026-11-03",
-  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-10-30",
+  "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": "2026-11-03",
   "https://accenture.wd103.myworkdayjobs.com/accenturecareers/job/roma/cybersecurity-internship_r00364331": "2026-11-02",
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-11-03",
@@ -1171,6 +1171,7 @@
   "https://linkedin.com/jobs/view/4484630090": "2026-11-03",
   "https://linkedin.com/jobs/view/4484656855": "2026-11-03",
   "https://linkedin.com/jobs/view/4484671227": "2026-11-03",
+  "https://linkedin.com/jobs/view/4484679809": "2026-11-03",
   "https://linkedin.com/jobs/view/4484717410": "2026-10-29",
   "https://linkedin.com/jobs/view/4484718247": "2026-10-29",
   "https://linkedin.com/jobs/view/4484733965": "2026-10-29",
@@ -1416,7 +1417,7 @@
   "t:abbvi|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-11-03",
   "t:abbvi|cybersecurityinternbusinesstechnologysolutions": "2026-11-02",
   "t:accen|cybersecurityinternship": "2026-11-02",
-  "t:accen|internshipsecurityasoffebruary2027": "2026-10-30",
+  "t:accen|internshipsecurityasoffebruary2027": "2026-11-03",
   "t:acluk|summer2027legalinternnationalsecurityproject": "2026-11-03",
   "t:acluk|summer2027undergraduateinternnationalsecurityproject": "2026-11-03",
   "t:activ|activision2027summerinternshipsinformationsecurity": "2026-10-19",
@@ -4863,6 +4864,7 @@
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4484630090",
+   "https://www.linkedin.com/jobs/view/4484679809",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
@@ -4873,7 +4875,6 @@
    "https://www.linkedin.com/jobs/view/4486426577",
    "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
-   "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
    "https://www.linkedin.com/jobs/view/4486451604",
    "https://www.linkedin.com/jobs/view/4486453921",
@@ -5460,7 +5461,6 @@
    "https://go.vansh.nyc/1dD",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
-   "https://go.vansh.nyc/VQ",
    "https://go.vansh.nyc/VV",
    "https://go.vansh.nyc/W5",
    "https://go.vansh.nyc/W8",
@@ -5829,7 +5829,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -6603,8 +6605,7 @@
    "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253"
   ],
   "wd+:globalhr/rec_rtx_ext_gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
+   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185"
   ],
   "wd+:globe/GLB_Careers": [],
   "wd+:globusmedical/GMED_Careers": [],
