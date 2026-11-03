@@ -4885,7 +4885,6 @@
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486028274",
-   "https://www.linkedin.com/jobs/view/4486088588",
    "https://www.linkedin.com/jobs/view/4486093045",
    "https://www.linkedin.com/jobs/view/4486093123",
    "https://www.linkedin.com/jobs/view/4486426577",
@@ -5483,7 +5482,6 @@
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/1e9",
-   "https://go.vansh.nyc/XI",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -7860,7 +7858,9 @@
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1"
   ],
   "wd:rbc/RBCEARLYTALENT1": [],
-  "wd:salesforce/External_Career_Site": [],
+  "wd:salesforce/External_Career_Site": [
+   "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1"
+  ],
   "wd:sec/Samsung_Careers": [],
   "wd:selinc/SEL": [],
   "wd:snapchat/sourced": [],
