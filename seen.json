@@ -486,6 +486,7 @@
   "https://go.vansh.nyc/1dS": "2026-11-03",
   "https://go.vansh.nyc/1du": "2026-11-03",
   "https://go.vansh.nyc/1dy": "2026-11-03",
+  "https://go.vansh.nyc/1e9": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1802,6 +1803,7 @@
   "t:highm|cyberriskmanagementanalystundergraduateintern": "2026-11-03",
   "t:highm|summer2027cyberriskmanagementanalystundergraduateintern": "2026-11-03",
   "t:highm|summer2027vulnerabilitymanagementanalystundergraduateintern": "2026-11-03",
+  "t:highm|vulnerabilitymanagementanalystundergraduateintern": "2026-11-03",
   "t:homed|2027summerinternshipcybersecurity": "2026-10-26",
   "t:homeo|urbninformationsecurityintern": "2026-10-30",
   "t:honey|cybersecurityinternsummer2027": "2026-10-14",
@@ -5477,6 +5479,7 @@
    "https://go.vansh.nyc/1dS",
    "https://go.vansh.nyc/1du",
    "https://go.vansh.nyc/1dy",
+   "https://go.vansh.nyc/1e9",
    "https://go.vansh.nyc/XI",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
@@ -5842,7 +5845,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8048,42 +8053,6 @@
  "heartbeat": "2026-11-03 14",
  "recent": [
   [
-   1793640085.743461,
-   "Avista Corporation - Physical Security Intern (Criminal Justice, Homeland Security, Emerge"
-  ],
-  [
-   1793640537.998344,
-   "ID.me - Summer Intern 2027 - Product Security Engineering Intern"
-  ],
-  [
-   1793641198.605355,
-   "Insmed Incorporated - Summer Intern \u2013 Cloud/Application Security"
-  ],
-  [
-   1793641198.6053565,
-   "Novacore - IT/Security Intern"
-  ],
-  [
-   1793641198.6053576,
-   "Expo Experts - Intern - Security Analyst"
-  ],
-  [
-   1793641260.385612,
-   "BMO - Junior Cybersecurity Intern, Winter 2027 (Co-op/Internship) - 4 Months"
-  ],
-  [
-   1793641662.8866534,
-   "Cincinnati Children\u2019s Hospital and Medical Center - Student II - Security Analyst (B)"
-  ],
-  [
-   1793642278.1321886,
-   "Cincinnati Children\u2019s Hospital and Medical Center - Student II - Security Analyst (A)"
-  ],
-  [
-   1793642577.1995845,
-   "TMX Group - Junior GRC Analyst Intern"
-  ],
-  [
    1793646939.7305272,
    "RTX - Systems Security Engineering Intern (Summer 2027)"
   ],
@@ -8294,6 +8263,10 @@
   [
    1793733619.906902,
    "Highmark Health - Summer 2027 Vulnerability Management Analyst Undergraduate Intern"
+  ],
+  [
+   1793737022.3112938,
+   "Highmark Health - Vulnerability Management Analyst Undergraduate Intern"
   ]
  ],
  "stem5": true,
