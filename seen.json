@@ -193,6 +193,7 @@
   "https://caci.wd1.myworkdayjobs.com/external/job/springfield-va-us/cyber-security-intern---summer-2027_333046": "2026-10-16",
   "https://cae.wd3.myworkdayjobs.com/career/job/montreal-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-11-03",
   "https://cae.wd3.myworkdayjobs.com/fr-ca/career/job/montral-st-laurent/stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941": "2026-10-20",
+  "https://cai.wd5.myworkdayjobs.com/computer_aid/job/az-client-state/cybersecurity-analyst-intern_r8900": "2026-11-03",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/california/cybersecurity-analyst-intern_r8488": "2026-11-03",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8748": "2026-10-19",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8893": "2026-11-03",
@@ -6165,6 +6166,7 @@
    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941"
   ],
   "wd+:cai/computer_aid": [
+   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/AZ-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8900",
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
    "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
@@ -7771,6 +7773,7 @@
   ],
   "wd:caci/External": [],
   "wd:cai/Computer_Aid": [
+   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/AZ-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8900",
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488",
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/VA-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8892"
   ],
@@ -8267,12 +8270,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793712705.9589412,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
