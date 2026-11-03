@@ -4439,7 +4439,6 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
-   "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
    "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301991",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015",
@@ -8047,6 +8046,11 @@
   "workable:zippd": []
  },
  "collisions": {
+  "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26016065": [
+   "2026-11-03",
+   "t:ameri|campusundergraduatesummerinternshipprogram2027cybersecurityaiengineerenterprisetechnologyservicesphoenixaz",
+   "t:ameri|cybersecurityaiengineerinternenterprisetechnologyservices"
+  ],
   "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": [
    "2026-11-03",
    "t:motor|softwareengineercybersecurityservices2027summerinternship",
