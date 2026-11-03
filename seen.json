@@ -4389,6 +4389,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.cai.io/us/en/job/R8892/Cybersecurity-Analyst-Intern",
+   "https://careers.cai.io/us/en/job/R8893/Cybersecurity-Analyst-Intern",
    "https://click.appcast.io/t/clVW3adcsfTOh9FdLn8LT4d4xNan8g5zDm7LPJ-yIbI=",
    "https://corporatejobs-alaskaair.icims.com/jobs/21502/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
@@ -5448,7 +5449,6 @@
    "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
    "https://go.vansh.nyc/VV",
-   "https://go.vansh.nyc/Vu",
    "https://go.vansh.nyc/W5",
    "https://go.vansh.nyc/W8",
    "https://go.vansh.nyc/XI",
@@ -8262,6 +8262,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793707568.5278583,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
