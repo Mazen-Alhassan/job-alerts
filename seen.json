@@ -490,6 +490,8 @@
   "https://go.vansh.nyc/1dy": "2026-11-03",
   "https://go.vansh.nyc/1e9": "2026-11-03",
   "https://go.vansh.nyc/1ei": "2026-11-03",
+  "https://go.vansh.nyc/1eu": "2026-11-03",
+  "https://go.vansh.nyc/1f4": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1706,6 +1708,7 @@
   "t:drape|classifiedcybersecurityitintern": "2026-10-20",
   "t:drape|classifiedcybersecurityitinternshipsummer2027": "2026-10-28",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-30",
+  "t:ducha|cybersecurityintern": "2026-11-03",
   "t:ducha|cybersecurityinternsummer2027": "2026-11-03",
   "t:dukee|nuclearcybersecurity2027summerinternship": "2026-10-31",
   "t:dukee|nuclearcybersecurityintern": "2026-10-28",
@@ -1829,6 +1832,7 @@
   "t:iatin|cybersecurityinternship": "2026-11-03",
   "t:ibm|ainativesecurityresearchintern2027": "2026-10-28",
   "t:ibott|informationsecurityintern": "2026-11-03",
+  "t:icd|cybersecurityintern": "2026-11-03",
   "t:idaho|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
   "t:idaho|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemi|cybersecurityintern": "2026-11-03",
@@ -5485,6 +5489,8 @@
    "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/1e9",
    "https://go.vansh.nyc/1ei",
+   "https://go.vansh.nyc/1eu",
+   "https://go.vansh.nyc/1f4",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -7689,9 +7695,7 @@
   "wd+:vizient/Vizient_Careers": [],
   "wd+:volarisgroup/AssetWorks": [],
   "wd+:volarisgroup/BiblioCommons": [],
-  "wd+:volarisgroup/GoAssetWorks": [
-   "https://volarisgroup.wd3.myworkdayjobs.com/en-US/GoAssetWorks/job/United-States---TX/IT-Security-Intern_R69295"
-  ],
+  "wd+:volarisgroup/GoAssetWorks": [],
   "wd+:volarisgroup/volaris": [],
   "wd+:vrtx/vertex_careers": [],
   "wd+:vrtx/vertex_intern": [],
@@ -8051,30 +8055,6 @@
  "heartbeat": "2026-11-03 16",
  "recent": [
   [
-   1793648133.3165233,
-   "Amazon - Associate Engagement Manager Intern- National Security, AWS Professional Services"
-  ],
-  [
-   1793648252.3540034,
-   "RTX - Internship \u2013 Raytheon Systems Security Engineer- Onsite"
-  ],
-  [
-   1793648504.8756094,
-   "RTX - Systems Security Engineering Intern"
-  ],
-  [
-   1793649832.1346107,
-   "Motorola Solutions - Software Engineer Cybersecurity Services - 2027 Summer Internship"
-  ],
-  [
-   1793650276.67576,
-   "FHLBank Chicago - Summer Internship - Cybersecurity"
-  ],
-  [
-   1793650371.8795195,
-   "RTX - Systems Security Engineer Intern, Raytheon"
-  ],
-  [
    1793650592.8674977,
    "BBVA - 2027 CIB Cybersecurity Summer Internship"
   ],
@@ -8269,6 +8249,14 @@
   [
    1793740784.059651,
    "Tradeweb - Summer 2027 Cyber Security Internship"
+  ],
+  [
+   1793743995.958552,
+   "ICD - Cyber Security Intern"
+  ],
+  [
+   1793743995.9585538,
+   "DuCharme, McMillen & Associates - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
