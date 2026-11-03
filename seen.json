@@ -890,7 +890,7 @@
   "https://linkedin.com/jobs/view/4468321989": "2026-10-31",
   "https://linkedin.com/jobs/view/4468401153": "2026-11-02",
   "https://linkedin.com/jobs/view/4468664815": "2026-10-09",
-  "https://linkedin.com/jobs/view/4468798732": "2026-10-14",
+  "https://linkedin.com/jobs/view/4468798732": "2026-11-03",
   "https://linkedin.com/jobs/view/4468801515": "2026-11-01",
   "https://linkedin.com/jobs/view/4468811301": "2026-11-01",
   "https://linkedin.com/jobs/view/4468821567": "2026-11-01",
@@ -1223,6 +1223,7 @@
   "https://linkedin.com/jobs/view/4485939595": "2026-11-02",
   "https://linkedin.com/jobs/view/4485990036": "2026-11-02",
   "https://linkedin.com/jobs/view/4486028274": "2026-11-03",
+  "https://linkedin.com/jobs/view/4486093045": "2026-11-03",
   "https://linkedin.com/jobs/view/4486190874": "2026-11-03",
   "https://linkedin.com/jobs/view/4486403514": "2026-11-03",
   "https://linkedin.com/jobs/view/4486409768": "2026-11-03",
@@ -2053,6 +2054,7 @@
   "t:sandi|internrdgraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:sandi|internrdundergraduatesummertitanscenterforcyberdefendersccdminnesotaonsite": "2026-10-21",
   "t:savan|2027summerinterncomputerscienceinformationtechnologycybersecurity": "2026-11-01",
+  "t:schne|securitysystemsdesignintern": "2026-11-03",
   "t:scotf|itcybersecurityinternsummer2027": "2026-10-24",
   "t:scoti|velocitycorporatesecurityinternshipcoopwinter2027": "2026-10-15",
   "t:seaga|researchinternsummer2027formalmethodsandsecurity": "2026-10-15",
@@ -4861,6 +4863,7 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
+   "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
@@ -4868,8 +4871,6 @@
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4478537956",
    "https://www.linkedin.com/jobs/view/4478717202",
-   "https://www.linkedin.com/jobs/view/4484366994",
-   "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
    "https://www.linkedin.com/jobs/view/4484630090",
    "https://www.linkedin.com/jobs/view/4484679809",
@@ -4878,9 +4879,9 @@
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485783294",
    "https://www.linkedin.com/jobs/view/4486028274",
+   "https://www.linkedin.com/jobs/view/4486093045",
    "https://www.linkedin.com/jobs/view/4486426577",
    "https://www.linkedin.com/jobs/view/4486433237",
-   "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
    "https://www.linkedin.com/jobs/view/4486451604",
@@ -8294,6 +8295,10 @@
   [
    1793727592.0033252,
    "Insmed Incorporated - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
+  ],
+  [
+   1793729491.609916,
+   "Schneider Electric - Security Systems Design Intern"
   ]
  ],
  "stem5": true,
