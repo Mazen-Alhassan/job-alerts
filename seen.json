@@ -791,7 +791,7 @@
   "https://linkedin.com/jobs/view/4460200734": "2026-11-03",
   "https://linkedin.com/jobs/view/4460202658": "2026-11-03",
   "https://linkedin.com/jobs/view/4460204642": "2026-11-03",
-  "https://linkedin.com/jobs/view/4460233941": "2026-11-02",
+  "https://linkedin.com/jobs/view/4460233941": "2026-11-03",
   "https://linkedin.com/jobs/view/4460235483": "2026-11-03",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
@@ -1236,6 +1236,7 @@
   "https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/stevenage/cyber-security-analyst-level-6-degree-apprenticeship-2027_r39978": "2026-10-26",
   "https://meijer.wd5.myworkdayjobs.com/meijer/job/grand-rapids-mi/information-security-intern--summer-2027_r000698302": "2026-10-19",
   "https://metacareers.com/jobs/1272664685039241": "2026-11-03",
+  "https://metacareers.com/jobs/1903232531024141": "2026-11-03",
   "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/st-louis-mo/intern---security-analyst_jr1473": "2026-11-03",
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/boise---broadway/xmlname-2027-summer-internship-program---cyber-risk-management_r_371099": "2026-11-03",
   "https://mmc.wd1.myworkdayjobs.com/mmc/job/new-york---1166/cyber-analytics-actuarial-spring-co-op---college-program-2027_r_370066": "2026-10-31",
@@ -4804,12 +4805,14 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460514392",
    "https://www.linkedin.com/jobs/view/4471388468",
    "https://www.linkedin.com/jobs/view/4471392374",
    "https://www.linkedin.com/jobs/view/4474124687",
+   "https://www.linkedin.com/jobs/view/4484307681",
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
@@ -4830,10 +4833,12 @@
    "https://www.linkedin.com/jobs/view/4486458801",
    "https://www.linkedin.com/jobs/view/4486459966",
    "https://www.linkedin.com/jobs/view/4486461012",
+   "https://www.linkedin.com/jobs/view/4486465866",
    "https://www.linkedin.com/jobs/view/4486466845",
    "https://www.linkedin.com/jobs/view/4486467483",
    "https://www.linkedin.com/jobs/view/4486469393",
-   "https://www.linkedin.com/jobs/view/4486470771"
+   "https://www.linkedin.com/jobs/view/4486470771",
+   "https://www.linkedin.com/jobs/view/4486471359"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5356,7 +5361,8 @@
    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102",
    "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
-   "https://www.metacareers.com/jobs/1272664685039241"
+   "https://www.metacareers.com/jobs/1272664685039241",
+   "https://www.metacareers.com/jobs/1903232531024141"
   ],
   "simplify-vansh": [
    "https://go.vansh.nyc/10C",
@@ -8184,12 +8190,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1793671990.4536514,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
