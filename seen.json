@@ -378,6 +378,7 @@
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011913": "2026-11-01",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012444": "2026-11-01",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012462": "2026-11-01",
+  "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26016065": "2026-11-03",
   "https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27404": "2026-11-03",
   "https://ehpv.fa.em2.oraclecloud.com:443/hcmui/candidateexperience/en/job/27404": "2026-10-22",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/20249": "2026-11-03",
@@ -1488,6 +1489,7 @@
   "t:ameri|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesnewyorkny": "2026-11-01",
   "t:ameri|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicesphoenixaz": "2026-11-01",
   "t:ameri|campusgraduatemasterssummerinternshipprogram2027cybersecurityanalystenterprisetechnologyservicessunrisefl": "2026-11-01",
+  "t:ameri|campusundergraduatesummerinternshipprogram2027cybersecurityaiengineerenterprisetechnologyservicesphoenixaz": "2026-11-03",
   "t:ameri|cybersecurityintern": "2026-11-03",
   "t:ameri|interncybersecuritypolicyanalyst": "2026-11-03",
   "t:ameri|interncybersecuritysummer2027": "2026-11-03",
@@ -4958,7 +4960,9 @@
   "oracle:egmh.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:egua.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:egud.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [],
+  "oracle:egug.fa.us2.oraclecloud.com/CX_1": [
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
+  ],
   "oracle:egup.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:ehac.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:ehif.fa.em2.oraclecloud.com/CX_1": [],
@@ -8282,6 +8286,10 @@
   [
    1793720511.1813226,
    "Two Six Technologies - Security Operations Intern"
+  ],
+  [
+   1793724438.379024,
+   "American Express - Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI "
   ]
  ],
  "stem5": true,
