@@ -425,6 +425,7 @@
   "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/us-ma-cambridge-bbn05--10--50-moulton-st--moulton-b5/summer-2027-cyber-intern---onsite_01879253": "2026-11-03",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-fullerton-675--1801-hughes-dr--bldg-675/systems-security-engineering-intern---summer-2027-_01878922": "2026-10-09",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ca-fullerton-675--1801-hughes-dr--bldg-675/systems-security-engineering-intern--summer-2027-_01886260": "2026-11-03",
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ct-windsor-locks-b1--1-hamilton-rd--bldg-1/cybersecurity-engineering-intern--summer-2027-_01876185": "2026-11-03",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/internship---raytheon-systems-security-engineer--onsite-_01886045": "2026-11-03",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/internship---raytheon-systems-security-engineer--onsite_01874703": "2026-11-03",
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-woburn-wb2--225-presidential-way--goddard-bldg/secure-software-intern--summer-2027-_01884942": "2026-10-31",
@@ -2013,6 +2014,7 @@
   "t:rtx|internshipraytheonsystemssecurityengineeronsite": "2026-11-03",
   "t:rtx|securesoftwareintern": "2026-10-31",
   "t:rtx|securesoftwareinternsummer2027": "2026-10-27",
+  "t:rtx|securesystemengineeringinternsummer2027": "2026-11-03",
   "t:rtx|summer2027cyberinternonsite": "2026-11-03",
   "t:rtx|systemssecurityengineeringintern": "2026-11-03",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-11-03",
@@ -4828,6 +4830,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460514392",
@@ -7784,6 +7787,7 @@
   "wd:geaerospace/GE_ExternalSite": [],
   "wd:globalhr/REC_RTX_Ext_Gateway": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern--Summer-2027-_01886260",
+   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite-_01886045",
    "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874703"
   ],
@@ -8240,6 +8244,10 @@
   [
    1793688875.484931,
    "Guardian Life - Cybersecurity Intern, Digital & Technology"
+  ],
+  [
+   1793694198.6555793,
+   "RTX - Secure System Engineering Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
