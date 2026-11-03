@@ -1163,6 +1163,8 @@
   "https://linkedin.com/jobs/view/4484546998": "2026-10-30",
   "https://linkedin.com/jobs/view/4484617299": "2026-11-03",
   "https://linkedin.com/jobs/view/4484630090": "2026-11-03",
+  "https://linkedin.com/jobs/view/4484656855": "2026-11-03",
+  "https://linkedin.com/jobs/view/4484671227": "2026-11-03",
   "https://linkedin.com/jobs/view/4484717410": "2026-10-29",
   "https://linkedin.com/jobs/view/4484718247": "2026-10-29",
   "https://linkedin.com/jobs/view/4484733965": "2026-10-29",
@@ -1884,6 +1886,7 @@
   "t:merce|cybersecurityintern": "2026-10-28",
   "t:merch|informationsecurityinternsummer2027": "2026-10-15",
   "t:meta|researchscientistinternparsafetyevalsandredteaming": "2026-11-03",
+  "t:meta|researchscientistinternphdparsafetyevalsandredteaming": "2026-11-03",
   "t:michi|identityandaccessmanagementinternwinterspring2027": "2026-10-15",
   "t:micro|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-11-03",
   "t:micro|securityassuranceinternctjts": "2026-11-03",
@@ -4831,7 +4834,10 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4484656855",
+   "https://www.linkedin.com/jobs/view/4484671227"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
    "https://www.linkedin.com/jobs/view/4460202658",
@@ -8251,15 +8257,13 @@
   [
    1793701004.6681623,
    "RTX - Secure System Engineering Intern"
+  ],
+  [
+   1793703963.2708302,
+   "Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793703601.0551157,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
