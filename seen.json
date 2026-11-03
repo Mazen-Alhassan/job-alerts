@@ -462,6 +462,7 @@
   "https://go.vansh.nyc/1b1": "2026-11-03",
   "https://go.vansh.nyc/1b8": "2026-11-03",
   "https://go.vansh.nyc/1bA": "2026-11-03",
+  "https://go.vansh.nyc/1bM": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1776,6 +1777,7 @@
   "t:idaho|nuccybersecurityinternfall2026": "2026-10-15",
   "t:idemi|cybersecurityintern": "2026-11-03",
   "t:idemi|cybersecurityinternship": "2026-11-03",
+  "t:idme|productsecurityengineeringintern": "2026-11-03",
   "t:idme|summerintern2027productsecurityengineeringintern": "2026-11-03",
   "t:illum|engineeringinternproductsecurity": "2026-11-03",
   "t:illum|securityresearchintern": "2026-11-03",
@@ -4806,7 +4808,6 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450758010",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -4817,30 +4818,19 @@
    "https://www.linkedin.com/jobs/view/4484366994",
    "https://www.linkedin.com/jobs/view/4484369864",
    "https://www.linkedin.com/jobs/view/4484617299",
-   "https://www.linkedin.com/jobs/view/4484630090",
    "https://www.linkedin.com/jobs/view/4485474411",
    "https://www.linkedin.com/jobs/view/4485737763",
    "https://www.linkedin.com/jobs/view/4485761774",
    "https://www.linkedin.com/jobs/view/4485766458",
    "https://www.linkedin.com/jobs/view/4485783294",
-   "https://www.linkedin.com/jobs/view/4486190874",
-   "https://www.linkedin.com/jobs/view/4486403514",
-   "https://www.linkedin.com/jobs/view/4486426577",
-   "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
-   "https://www.linkedin.com/jobs/view/4486441769",
    "https://www.linkedin.com/jobs/view/4486451559",
    "https://www.linkedin.com/jobs/view/4486451604",
    "https://www.linkedin.com/jobs/view/4486453921",
    "https://www.linkedin.com/jobs/view/4486458801",
    "https://www.linkedin.com/jobs/view/4486459966",
-   "https://www.linkedin.com/jobs/view/4486461012",
-   "https://www.linkedin.com/jobs/view/4486465866",
-   "https://www.linkedin.com/jobs/view/4486466845",
    "https://www.linkedin.com/jobs/view/4486467483",
-   "https://www.linkedin.com/jobs/view/4486469393",
-   "https://www.linkedin.com/jobs/view/4486470771",
-   "https://www.linkedin.com/jobs/view/4486471359"
+   "https://www.linkedin.com/jobs/view/4486470771"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5399,7 +5389,7 @@
    "https://go.vansh.nyc/1b1",
    "https://go.vansh.nyc/1b8",
    "https://go.vansh.nyc/1bA",
-   "https://go.vansh.nyc/UF",
+   "https://go.vansh.nyc/1bM",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
@@ -7988,16 +7978,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-02 20",
+ "heartbeat": "2026-11-02 22",
  "recent": [
-  [
-   1793574522.4988637,
-   "City of Chesapeake - Spring Intern - Police (Safety & Security Operations)"
-  ],
-  [
-   1793581808.4699457,
-   "IAT Insurance Group - Cyber Security Intern"
-  ],
   [
    1793601242.1519682,
    "Amtrak - Summer 2027 - DT Physical Security Systems Intern - 90413063"
@@ -8189,6 +8171,10 @@
   [
    1793664732.6555438,
    "Costco - Digital Services Intern, Infosec AI/ML"
+  ],
+  [
+   1793675420.355485,
+   "ID.me - Product Security Engineering Intern"
   ]
  ],
  "stem5": true,
