@@ -478,6 +478,7 @@
   "https://go.vansh.nyc/1cq": "2026-11-03",
   "https://go.vansh.nyc/1cy": "2026-11-03",
   "https://go.vansh.nyc/1du": "2026-11-03",
+  "https://go.vansh.nyc/1dy": "2026-11-03",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1879,6 +1880,7 @@
   "t:manul|springcoop2027softwareengineeringsecurityoperations": "2026-10-19",
   "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-11-03",
   "t:marsh|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-31",
+  "t:marve|securityverificationvalidationengineerintern": "2026-11-03",
   "t:marve|securityverificationvalidationengineerinternbssummer2027": "2026-11-03",
   "t:massg|coopsecurity": "2026-11-03",
   "t:mativ|cybersecurityintern": "2026-11-03",
@@ -5451,6 +5453,7 @@
    "https://go.vansh.nyc/1cq",
    "https://go.vansh.nyc/1cy",
    "https://go.vansh.nyc/1du",
+   "https://go.vansh.nyc/1dy",
    "https://go.vansh.nyc/VN",
    "https://go.vansh.nyc/VO",
    "https://go.vansh.nyc/VQ",
@@ -8271,15 +8274,13 @@
   [
    1793715030.3036494,
    "Northrop Grumman - 2027 Cyber Systems Engineer Intern - Roy UT"
+  ],
+  [
+   1793715266.206826,
+   "Marvell - Security Verification/Validation Engineer Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793714954.8793073,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
