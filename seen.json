@@ -497,6 +497,7 @@
   "https://go.vansh.nyc/1fR": "2026-11-04",
   "https://go.vansh.nyc/1fU": "2026-11-04",
   "https://go.vansh.nyc/1g5": "2026-11-04",
+  "https://go.vansh.nyc/1gl": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2017,6 +2018,7 @@
   "t:north|2027internindustrialsecurity": "2026-10-30",
   "t:north|2027swcybersecurityinternannapolismd": "2026-10-16",
   "t:north|cybersecurityinternship": "2026-11-04",
+  "t:north|cybersecuritysoftwareengineeringintern": "2026-11-04",
   "t:north|cybersoftwareengineerintern": "2026-10-25",
   "t:north|cybersystemsengineerintern": "2026-11-04",
   "t:novac|itsecurityintern": "2026-11-03",
@@ -5518,6 +5520,7 @@
    "https://go.vansh.nyc/1fR",
    "https://go.vansh.nyc/1fU",
    "https://go.vansh.nyc/1g5",
+   "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -8192,6 +8195,10 @@
   [
    1793792193.3806584,
    "Northrop Grumman - 2027 Cybersecurity Software Engineering Intern - Roy UT"
+  ],
+  [
+   1793794280.7023559,
+   "Northrop Grumman - Cybersecurity Software Engineering Intern"
   ]
  ],
  "stem5": true,
