@@ -496,6 +496,7 @@
   "https://go.vansh.nyc/1f4": "2026-11-04",
   "https://go.vansh.nyc/1fR": "2026-11-04",
   "https://go.vansh.nyc/1fU": "2026-11-04",
+  "https://go.vansh.nyc/1g5": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2188,6 +2189,7 @@
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-11-04",
   "t:unite|2027buildingsecuritysummerinternshipprogram": "2026-10-22",
+  "t:unite|informationsecurityintern": "2026-11-04",
   "t:unite|upsinformationsecuritysummer2027internshipga": "2026-11-04",
   "t:unite|upsinformationsecuritysummer2027internshipky": "2026-11-04",
   "t:unite|upsinformationsecuritysummer2027internshipnj": "2026-11-04",
@@ -5515,6 +5517,7 @@
    "https://go.vansh.nyc/1f4",
    "https://go.vansh.nyc/1fR",
    "https://go.vansh.nyc/1fU",
+   "https://go.vansh.nyc/1g5",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -5878,7 +5881,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8207,6 +8212,10 @@
   [
    1793769263.7216566,
    "MDA - Student Cyber Security Analyst Intern"
+  ],
+  [
+   1793772782.8400538,
+   "United Parcel Service (UPS) - Information Security Intern"
   ]
  ],
  "stem5": true,
