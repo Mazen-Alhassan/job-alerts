@@ -505,6 +505,8 @@
   "https://go.vansh.nyc/1gX": "2026-11-04",
   "https://go.vansh.nyc/1gl": "2026-11-04",
   "https://go.vansh.nyc/1gt": "2026-11-04",
+  "https://go.vansh.nyc/1h7": "2026-11-04",
+  "https://go.vansh.nyc/1h8": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1696,6 +1698,7 @@
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
   "t:ciena|softwareengineersecurityinternwinter2027": "2026-11-04",
   "t:ciena|softwareengineersecuritynewgrad": "2026-10-27",
+  "t:cigna|cybersecurityinterntechnologydevelopmentprogram": "2026-11-04",
   "t:cigna|thecignagroupstechnologydevelopmentprogramcybersecuritytracksummerinternship": "2026-11-04",
   "t:cinci|studentiisecurityanalysta": "2026-11-04",
   "t:cinci|studentiisecurityanalystb": "2026-11-04",
@@ -5560,6 +5563,8 @@
    "https://go.vansh.nyc/1gX",
    "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/1gt",
+   "https://go.vansh.nyc/1h7",
+   "https://go.vansh.nyc/1h8",
    "https://go.vansh.nyc/YE"
   ],
   "sr:3SBusinessCorporationInc1": [],
@@ -8123,14 +8128,6 @@
  "heartbeat": "2026-11-04 16",
  "recent": [
   [
-   1793732966.8527367,
-   "CNO Financial Group - Cyber Security IT Intern - REMOTE"
-  ],
-  [
-   1793733619.906902,
-   "Highmark Health - Summer 2027 Vulnerability Management Analyst Undergraduate Intern"
-  ],
-  [
    1793737022.3112938,
    "Highmark Health - Vulnerability Management Analyst Undergraduate Intern"
   ],
@@ -8225,6 +8222,10 @@
   [
    1793825950.7994394,
    "Rambus - Security Engineering Intern"
+  ],
+  [
+   1793830404.029481,
+   "Cigna - Cybersecurity Intern, Technology Development Program"
   ]
  ],
  "stem5": true,
