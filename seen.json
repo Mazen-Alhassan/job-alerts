@@ -1430,6 +1430,7 @@
   "https://wd1.myworkdaysite.com/recruiting/wf/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--cybersecurity-_r-583417": "2026-11-04",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://werner.wd501.myworkdayjobs.com/werner/job/omaha-ne/information-security-intern_jr23746": "2026-10-21",
+  "https://westernalliancebank.wd5.myworkdayjobs.com/amh/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775-1": "2026-11-04",
   "https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://wexinc.wd5.myworkdayjobs.com/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": "2026-10-13",
   "https://wf.wd1.myworkdayjobs.com/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--cybersecurity-_r-583417": "2026-11-04",
@@ -4445,10 +4446,12 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301991",
+   "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
    "https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2917",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477502700"
+   "https://lockheedmartin.eightfold.ai/careers/job/996477502700",
+   "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/AMH/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775-1"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
