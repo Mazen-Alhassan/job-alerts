@@ -494,6 +494,7 @@
   "https://go.vansh.nyc/1ei": "2026-11-04",
   "https://go.vansh.nyc/1eu": "2026-11-04",
   "https://go.vansh.nyc/1f4": "2026-11-04",
+  "https://go.vansh.nyc/1fR": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1911,6 +1912,7 @@
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-04",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-04",
   "t:linds|cybersecurityintern": "2026-11-03",
+  "t:llnl|cybersecurityundergraduateinterncyberandcriticalinfrastructure": "2026-11-04",
   "t:lockh|cyberengineerinternsummer2027": "2026-11-04",
   "t:lockh|systemsengineercyberintern": "2026-10-20",
   "t:logic|cybersecurityassociateintern": "2026-11-04",
@@ -5494,6 +5496,7 @@
    "https://go.vansh.nyc/1ei",
    "https://go.vansh.nyc/1eu",
    "https://go.vansh.nyc/1f4",
+   "https://go.vansh.nyc/1fR",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -5857,7 +5860,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8057,72 +8062,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 20",
+ "heartbeat": "2026-11-03 22",
  "recent": [
-  [
-   1793660207.4121997,
-   "Lindsay Corporation - Cybersecurity Intern"
-  ],
-  [
-   1793660207.4122014,
-   "Federal Home Loan Bank of Chicago - Summer Internship - Cybersecurity"
-  ],
-  [
-   1793660470.076035,
-   "Costco Wholesale - CDS Intern - Identity Security"
-  ],
-  [
-   1793660470.0760372,
-   "Costco Wholesale - CDS Intern - Identity and Access Management"
-  ],
-  [
-   1793660470.076038,
-   "Costco Wholesale - CDS Intern - Security Culture, Training, and Awareness"
-  ],
-  [
-   1793660664.6616464,
-   "Raytheon - Internship \u2013 Raytheon Systems Security Engineer (Onsite)"
-  ],
-  [
-   1793660664.6616488,
-   "Raytheon - Systems Security Engineering Intern (Summer 2027)"
-  ],
-  [
-   1793660930.4030104,
-   "Costco Wholesale - CDS Intern - OT/IoT Security Engineering"
-  ],
-  [
-   1793661453.5285149,
-   "Tesla - Red Team Security Engineer Intern, Vehicle Software"
-  ],
-  [
-   1793661453.5285165,
-   "Tesla - Software Engineer Intern, Information Security"
-  ],
-  [
-   1793664286.710437,
-   "Costco Wholesale - CDS Intern - InfoSec AI/ML"
-  ],
-  [
-   1793664286.7104392,
-   "Meta - Research Scientist Intern - PAR Safety Evals and Red Teaming"
-  ],
-  [
-   1793664286.7104406,
-   "The Aerospace Corporation - Software Engineer Intern - Software Process and Architecture D"
-  ],
-  [
-   1793664286.710442,
-   "Costco - Costco Digital Services Intern - Infosec AI/ML"
-  ],
-  [
-   1793664543.1416874,
-   "ADP - Summer 2027 Global Security Office (GSO) Internship"
-  ],
-  [
-   1793664732.6555438,
-   "Costco - Digital Services Intern, Infosec AI/ML"
-  ],
   [
    1793675420.355485,
    "ID.me - Product Security Engineering Intern"
@@ -8246,6 +8187,10 @@
   [
    1793752081.8141484,
    "MITRE - Embedded Security PhD Intern"
+  ],
+  [
+   1793762097.3548644,
+   "LLNL - Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure"
   ]
  ],
  "stem5": true,
