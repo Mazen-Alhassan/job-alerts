@@ -3989,10 +3989,7 @@
   "gh:tines": [],
   "gh:tintai": [],
   "gh:toast": [],
-  "gh:togetherai": [
-   "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
-   "https://job-boards.greenhouse.io/togetherai/jobs/5238471007"
-  ],
+  "gh:togetherai": [],
   "gh:tomofunfurbo": [],
   "gh:topsort": [],
   "gh:toradex": [],
@@ -4503,8 +4500,6 @@
    "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301991",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015",
-   "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
@@ -8125,7 +8120,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-04 14",
+ "heartbeat": "2026-11-04 16",
  "recent": [
   [
    1793732966.8527367,
@@ -8233,6 +8228,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793826735.1991339,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
