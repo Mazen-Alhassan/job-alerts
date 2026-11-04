@@ -1281,6 +1281,7 @@
   "https://linkedin.com/jobs/view/4486481453": "2026-11-04",
   "https://linkedin.com/jobs/view/4486510762": "2026-11-04",
   "https://linkedin.com/jobs/view/4486513735": "2026-11-04",
+  "https://linkedin.com/jobs/view/4486525270": "2026-11-04",
   "https://linkedin.com/jobs/view/4486816743": "2026-11-04",
   "https://linkedin.com/jobs/view/4486883757": "2026-11-04",
   "https://linkedin.com/jobs/view/4487017091": "2026-11-04",
@@ -4954,6 +4955,7 @@
    "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486510762",
    "https://www.linkedin.com/jobs/view/4486513735",
+   "https://www.linkedin.com/jobs/view/4486525270",
    "https://www.linkedin.com/jobs/view/4487035975",
    "https://www.linkedin.com/jobs/view/4487053943",
    "https://www.linkedin.com/jobs/view/4487065317",
@@ -5550,7 +5552,6 @@
    "https://go.vansh.nyc/1gM",
    "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/1gt",
-   "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
    "https://go.vansh.nyc/YE"
   ],
@@ -8118,7 +8119,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-04 12",
+ "heartbeat": "2026-11-04 14",
  "recent": [
   [
    1793725740.6295533,
@@ -8230,12 +8231,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793818327.9038975,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
