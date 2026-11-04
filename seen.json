@@ -867,7 +867,7 @@
   "https://linkedin.com/jobs/view/4461569065": "2026-10-15",
   "https://linkedin.com/jobs/view/4461693598": "2026-10-17",
   "https://linkedin.com/jobs/view/4462058587": "2026-10-15",
-  "https://linkedin.com/jobs/view/4462084600": "2026-10-15",
+  "https://linkedin.com/jobs/view/4462084600": "2026-11-04",
   "https://linkedin.com/jobs/view/4462113890": "2026-10-15",
   "https://linkedin.com/jobs/view/4462165107": "2026-10-15",
   "https://linkedin.com/jobs/view/4462332804": "2026-10-19",
@@ -1059,6 +1059,7 @@
   "https://linkedin.com/jobs/view/4478717202": "2026-11-04",
   "https://linkedin.com/jobs/view/4478842083": "2026-10-16",
   "https://linkedin.com/jobs/view/4478847469": "2026-10-16",
+  "https://linkedin.com/jobs/view/4479067992": "2026-11-04",
   "https://linkedin.com/jobs/view/4479157817": "2026-10-16",
   "https://linkedin.com/jobs/view/4479161004": "2026-10-16",
   "https://linkedin.com/jobs/view/4479200292": "2026-10-14",
@@ -1964,6 +1965,7 @@
   "t:midla|internsecurityanalyst": "2026-11-04",
   "t:midla|securityanalystintern": "2026-11-04",
   "t:missi|2027cybersecurityengineeringinternsophomorejuniorsenior": "2026-11-01",
+  "t:mitli|securitydepartmentcoopjan2027june2027group1200": "2026-11-04",
   "t:mitli|summerresearchprogramintern2027cicybersecurityenergysystemsgroup47": "2026-10-29",
   "t:mitli|summerresearchprogramintern2027cyberoperationsandanalysistechnologygroup0557": "2026-10-25",
   "t:mitli|summerresearchprogramintern2027electricgridcommunicationssecurityenergysystemsgr47": "2026-10-29",
@@ -1975,7 +1977,7 @@
   "t:molin|cybersecurityinternshipremotesummer2027undergraduate": "2026-11-04",
   "t:molin|cybersecurityinternshipremoteundergraduate": "2026-11-04",
   "t:monol|securityanalystintern": "2026-11-04",
-  "t:motio|grccybersecurityanalystintern": "2026-10-15",
+  "t:motio|grccybersecurityanalystintern": "2026-11-04",
   "t:motor|softwareengineercybersecurityservices2027summerinternship": "2026-11-04",
   "t:motor|softwareengineercybersecurityservicesintern": "2026-11-04",
   "t:motor|softwareengineerinterncybersecurityservices": "2026-11-04",
@@ -4910,9 +4912,10 @@
    "https://www.linkedin.com/jobs/view/4459271371",
    "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4461513360",
+   "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4468798732",
-   "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4476037721",
+   "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479242586",
    "https://www.linkedin.com/jobs/view/4479550735",
    "https://www.linkedin.com/jobs/view/4484679809",
@@ -8086,16 +8089,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-04 06",
+ "heartbeat": "2026-11-04 08",
  "recent": [
-  [
-   1793701004.6681623,
-   "RTX - Secure System Engineering Intern"
-  ],
-  [
-   1793703963.2708302,
-   "Meta - Research Scientist Intern PhD, PAR Safety Evals and Red Teaming"
-  ],
   [
    1793708938.0579636,
    "RTX (Collins, Pratt & Whitney, Raytheon) - Secure System Engineering Intern (Summer 2027)"
@@ -8199,6 +8194,10 @@
   [
    1793794280.7023559,
    "Northrop Grumman - Cybersecurity Software Engineering Intern"
+  ],
+  [
+   1793798930.5204399,
+   "MIT Lincoln Laboratory - Security Department Co-Op, (Jan 2027 - June 2027) - Group 12-00"
   ]
  ],
  "stem5": true,
