@@ -305,6 +305,7 @@
   "https://careers.mitre.org/us/en/job/r117957": "2026-11-04",
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-09",
   "https://careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--": "2026-10-28",
+  "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security": "2026-11-04",
   "https://careers.rivian.com/jobs/31067/job": "2026-10-29",
   "https://careers.rivian.com/jobs/31067/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-10-29",
   "https://careers.rtx.com/global/en/job/01872177": "2026-11-04",
@@ -4493,11 +4494,11 @@
   "jibe:careers.kpmg.ca": [],
   "jibe:careers.viasat.com": [],
   "jobspy": [
+   "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security/",
    "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/301991",
    "https://fhlbc.wd1.myworkdayjobs.com/Search/job/Chicago/Summer-Internship---Cybersecurity_R2600513",
    "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Vulnerability-Management-Analyst-Undergraduate-Intern_J288015",
    "https://insmed.wd504.myworkdayjobs.com/en-US/EXTERNAL/job/NJ-Corporate-Headquarters/Summer-Intern---Cybersecurity-Operations---AI-Automation_R3894",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
@@ -5535,7 +5536,6 @@
    "https://go.vansh.nyc/1bS",
    "https://go.vansh.nyc/1bV",
    "https://go.vansh.nyc/1c6",
-   "https://go.vansh.nyc/1cK",
    "https://go.vansh.nyc/1cN",
    "https://go.vansh.nyc/1cR",
    "https://go.vansh.nyc/1cZ",
@@ -7913,9 +7913,7 @@
   "wd:motorolasolutions/Careers": [
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
   ],
-  "wd:ngc/northrop_grumman_external_site": [
-   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
-  ],
+  "wd:ngc/northrop_grumman_external_site": [],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -7934,9 +7932,7 @@
   "wd:snapchat/sourced": [],
   "wd:spe/sonypicturesentertainment": [],
   "wd:statestreet/Global": [],
-  "wd:swbc/swbccareers": [
-   "https://swbc.wd1.myworkdayjobs.com/en-US/swbccareers/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
-  ],
+  "wd:swbc/swbccareers": [],
   "wd:target/targetcareers": [],
   "wd:td/TD_Bank_Careers": [],
   "wd:travelers/External": [],
