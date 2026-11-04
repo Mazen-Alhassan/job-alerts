@@ -153,7 +153,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-11-04",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-11-02",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-03",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-04",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-11-04",
@@ -495,6 +495,7 @@
   "https://go.vansh.nyc/1eu": "2026-11-04",
   "https://go.vansh.nyc/1f4": "2026-11-04",
   "https://go.vansh.nyc/1fR": "2026-11-04",
+  "https://go.vansh.nyc/1fU": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1208,6 +1209,8 @@
   "https://linkedin.com/jobs/view/4484884364": "2026-10-31",
   "https://linkedin.com/jobs/view/4484987073": "2026-10-30",
   "https://linkedin.com/jobs/view/4485007181": "2026-11-04",
+  "https://linkedin.com/jobs/view/4485045799": "2026-11-04",
+  "https://linkedin.com/jobs/view/4485049594": "2026-11-04",
   "https://linkedin.com/jobs/view/4485105921": "2026-11-01",
   "https://linkedin.com/jobs/view/4485119606": "2026-10-31",
   "https://linkedin.com/jobs/view/4485141074": "2026-11-01",
@@ -1933,6 +1936,7 @@
   "t:massg|coopsecurity": "2026-11-04",
   "t:mativ|cybersecurityintern": "2026-11-04",
   "t:mbda|cybersecurityanalystlevel6degreeapprenticeship2027": "2026-10-26",
+  "t:mda|studentcybersecurityanalystintern": "2026-11-04",
   "t:medpa|informationsecurityinternspring2027": "2026-10-15",
   "t:meije|informationsecurityinternsummer2027": "2026-10-19",
   "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-28",
@@ -2096,7 +2100,7 @@
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
   "t:seatt|informationsecurityintern": "2026-11-04",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-11-03",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-11-04",
   "t:senti|cybersecurityintern": "2026-11-04",
   "t:senti|socintern": "2026-11-04",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-04",
@@ -4901,6 +4905,8 @@
    "https://www.linkedin.com/jobs/view/4484679809",
    "https://www.linkedin.com/jobs/view/4484680962",
    "https://www.linkedin.com/jobs/view/4485007181",
+   "https://www.linkedin.com/jobs/view/4485045799",
+   "https://www.linkedin.com/jobs/view/4485049594",
    "https://www.linkedin.com/jobs/view/4486028274",
    "https://www.linkedin.com/jobs/view/4486088588",
    "https://www.linkedin.com/jobs/view/4486093045",
@@ -5503,6 +5509,7 @@
    "https://go.vansh.nyc/1eu",
    "https://go.vansh.nyc/1f4",
    "https://go.vansh.nyc/1fR",
+   "https://go.vansh.nyc/1fU",
    "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
@@ -8068,12 +8075,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-03 22",
+ "heartbeat": "2026-11-04 00",
  "recent": [
-  [
-   1793675420.355485,
-   "ID.me - Product Security Engineering Intern"
-  ],
   [
    1793679223.2619817,
    "ATC - Cyber Security Intern"
@@ -8197,9 +8200,19 @@
   [
    1793762097.3548644,
    "LLNL - Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure"
+  ],
+  [
+   1793769263.7216566,
+   "MDA - Student Cyber Security Analyst Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793769171.9474292,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
