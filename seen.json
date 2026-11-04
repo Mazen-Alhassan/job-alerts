@@ -1324,6 +1324,7 @@
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-ohio-cincinnati/xmlname-2027-cyber-software-engineer-intern---cincinnati-oh_r10249186": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10256037": "2026-10-15",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-texas-san-antonio/xmlname-2027-cyber-software-engineer-intern---san-antonio-tx_r10257311": "2026-10-25",
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-clearfield/xmlname-2027-cybersecurity-software-engineering-intern---roy-ut_r10259177": "2026-11-04",
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-cyber-systems-engineer-intern---roy-ut_r10249471": "2026-11-03",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/graduate--10-12-weeks--intern---ai-ml-for-cybersecurity_r14563": "2026-11-04",
   "https://nrel.wd5.myworkdayjobs.com/nlr/job/golden-co/undergraduate---graduate--spring---summer--intern---cyber-security-research---5g_r14555": "2026-11-04",
@@ -2007,6 +2008,7 @@
   "t:nissa|corporatesecurityinternsummer2027franklintn": "2026-11-04",
   "t:nissa|cybersecurityintern": "2026-10-29",
   "t:nissa|cybersecurityinternsummer2027smyrnatn": "2026-11-04",
+  "t:north|2027cybersecuritysoftwareengineeringinternroyut": "2026-11-04",
   "t:north|2027cybersoftwareengineerinterncincinnatioh": "2026-10-15",
   "t:north|2027cybersoftwareengineerinternsanantoniotx": "2026-10-25",
   "t:north|2027cybersoftwareengineerinterntampafl": "2026-10-26",
@@ -7144,7 +7146,9 @@
   "wd+:newrez/NRZ": [],
   "wd+:newschool/external": [],
   "wd+:nexstar/nexstar": [],
-  "wd+:ngc/Northrop_Grumman_External_Site": [],
+  "wd+:ngc/Northrop_Grumman_External_Site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
+  ],
   "wd+:niagarawater/niagara": [],
   "wd+:nidec/nidec": [],
   "wd+:nike/nke": [],
@@ -7868,7 +7872,9 @@
   "wd:motorolasolutions/Careers": [
    "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
   ],
-  "wd:ngc/northrop_grumman_external_site": [],
+  "wd:ngc/northrop_grumman_external_site": [
+   "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177"
+  ],
   "wd:nvidia/NVIDIAExternalCareerSite": [
    "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---2027_JR2025096"
   ],
@@ -8082,10 +8088,6 @@
  "heartbeat": "2026-11-04 06",
  "recent": [
   [
-   1793694198.6555793,
-   "RTX - Secure System Engineering Intern (Summer 2027)"
-  ],
-  [
    1793701004.6681623,
    "RTX - Secure System Engineering Intern"
   ],
@@ -8188,6 +8190,10 @@
   [
    1793783880.860498,
    "Newport News Shipbuilding, A Division of HII - INDUSTRIAL SECURITY ANALYST SKILLBRIDGE INT"
+  ],
+  [
+   1793792193.3806584,
+   "Northrop Grumman - 2027 Cybersecurity Software Engineering Intern - Roy UT"
   ]
  ],
  "stem5": true,
