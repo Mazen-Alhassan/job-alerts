@@ -924,6 +924,7 @@
   "https://linkedin.com/jobs/view/4469499431": "2026-10-16",
   "https://linkedin.com/jobs/view/4469506272": "2026-10-11",
   "https://linkedin.com/jobs/view/4469942338": "2026-10-13",
+  "https://linkedin.com/jobs/view/4470246193": "2026-11-04",
   "https://linkedin.com/jobs/view/4470250157": "2026-10-15",
   "https://linkedin.com/jobs/view/4470281935": "2026-11-04",
   "https://linkedin.com/jobs/view/4470605824": "2026-10-15",
@@ -2180,6 +2181,7 @@
   "t:tevor|cybersecurityinternthreat": "2026-11-04",
   "t:texas|informationtechnologyinternsecurity": "2026-11-04",
   "t:thale|2027cloudassuranceandcybersecuritylevel4cybersecurityengineerapprenticeshipapprentice": "2026-11-04",
+  "t:thorn|electronicsecurityintern": "2026-11-04",
   "t:thriv|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-26",
   "t:tikto|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-11-04",
   "t:tikto|physicalsecuritysystemstechnologyprojectinternpsst2027start": "2026-11-01",
@@ -4916,6 +4918,7 @@
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4468798732",
+   "https://www.linkedin.com/jobs/view/4470246193",
    "https://www.linkedin.com/jobs/view/4476037721",
    "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479242586",
@@ -8200,15 +8203,13 @@
   [
    1793798930.5204399,
    "MIT Lincoln Laboratory - Security Department Co-Op, (Jan 2027 - June 2027) - Group 12-00"
+  ],
+  [
+   1793800325.1698627,
+   "Thornton Tomasetti - Electronic Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793799566.239445,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
