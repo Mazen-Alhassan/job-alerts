@@ -1277,6 +1277,9 @@
   "https://linkedin.com/jobs/view/4487035975": "2026-11-04",
   "https://linkedin.com/jobs/view/4487053943": "2026-11-04",
   "https://linkedin.com/jobs/view/4487065317": "2026-11-04",
+  "https://linkedin.com/jobs/view/4487211808": "2026-11-04",
+  "https://linkedin.com/jobs/view/4487217538": "2026-11-04",
+  "https://linkedin.com/jobs/view/4487226304": "2026-11-04",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -4900,12 +4903,9 @@
    "https://www.linkedin.com/jobs/view/4478537956",
    "https://www.linkedin.com/jobs/view/4478717202",
    "https://www.linkedin.com/jobs/view/4479550735",
-   "https://www.linkedin.com/jobs/view/4484656855",
-   "https://www.linkedin.com/jobs/view/4484671227",
    "https://www.linkedin.com/jobs/view/4484679809",
    "https://www.linkedin.com/jobs/view/4484680962",
    "https://www.linkedin.com/jobs/view/4485007181",
-   "https://www.linkedin.com/jobs/view/4485045799",
    "https://www.linkedin.com/jobs/view/4485049594",
    "https://www.linkedin.com/jobs/view/4486028274",
    "https://www.linkedin.com/jobs/view/4486088588",
@@ -4922,7 +4922,10 @@
    "https://www.linkedin.com/jobs/view/4487017091",
    "https://www.linkedin.com/jobs/view/4487035975",
    "https://www.linkedin.com/jobs/view/4487053943",
-   "https://www.linkedin.com/jobs/view/4487065317"
+   "https://www.linkedin.com/jobs/view/4487065317",
+   "https://www.linkedin.com/jobs/view/4487211808",
+   "https://www.linkedin.com/jobs/view/4487217538",
+   "https://www.linkedin.com/jobs/view/4487226304"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8207,12 +8210,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793769171.9474292,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
