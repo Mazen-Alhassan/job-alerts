@@ -226,6 +226,7 @@
   "https://careers-peraton.icims.com/jobs/171326/summer-2027-cybersecurity-engineering-intern/job": "2026-10-15",
   "https://careers-peraton.icims.com/jobs/171602/it-cybersecurity-intern---fort-huachuca%2c-az/job": "2026-10-21",
   "https://careers-peraton.icims.com/jobs/172836/spring-%26-summer-2027-cybersecurity-engineer-co-op/job": "2026-11-04",
+  "https://careers-rambus.icims.com/jobs/23123/security-engineering-intern/job": "2026-11-04",
   "https://careers-sentinel.icims.com/jobs/5130/cybersecurity-intern/job": "2026-11-04",
   "https://careers-sentinel.icims.com/jobs/5130/job": "2026-10-09",
   "https://careers-sentinel.icims.com/jobs/5131/cybersecurity-intern/job": "2026-11-04",
@@ -2083,6 +2084,7 @@
   "t:quadr|cybersecuritywinter2027torontocoopinternship4months": "2026-10-29",
   "t:qualc|securityproductsystemscyberengineeringinternshipsummer2027": "2026-11-02",
   "t:radia|microelectronicsengineerinternwithsecurityclearance": "2026-10-26",
+  "t:rambu|securityengineeringintern": "2026-11-04",
   "t:rayth|internshipraytheonsystemssecurityengineeronsite": "2026-11-04",
   "t:rayth|securesoftwareinternsummer2027": "2026-10-28",
   "t:rayth|systemssecurityengineeringinternsummer2027": "2026-11-04",
@@ -4324,7 +4326,9 @@
   "icims:careers-qinetiqus.icims.com": [],
   "icims:careers-quanta.icims.com": [],
   "icims:careers-quartzbenefits.icims.com": [],
-  "icims:careers-rambus.icims.com": [],
+  "icims:careers-rambus.icims.com": [
+   "https://careers-rambus.icims.com/jobs/23123/security-engineering-intern/job"
+  ],
   "icims:careers-rcm.icims.com": [],
   "icims:careers-reisystems.icims.com": [],
   "icims:careers-resonetics.icims.com": [],
@@ -4960,7 +4964,6 @@
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4485045799",
    "https://www.linkedin.com/jobs/view/4485049594",
-   "https://www.linkedin.com/jobs/view/4486088588",
    "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486510762",
@@ -8125,18 +8128,6 @@
  "heartbeat": "2026-11-04 14",
  "recent": [
   [
-   1793727592.0033252,
-   "Insmed Incorporated - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
-  ],
-  [
-   1793729491.609916,
-   "Schneider Electric - Security Systems Design Intern"
-  ],
-  [
-   1793731688.5059888,
-   "American Express - Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Tech"
-  ],
-  [
    1793732966.8527367,
    "CNO Financial Group - Cyber Security IT Intern - REMOTE"
   ],
@@ -8235,6 +8226,10 @@
   [
    1793819669.2380207,
    "TC Energy - Enterprise Security Intern, Detection & Response"
+  ],
+  [
+   1793825950.7994394,
+   "Rambus - Security Engineering Intern"
   ]
  ],
  "stem5": true,
