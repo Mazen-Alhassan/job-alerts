@@ -1424,6 +1424,7 @@
   "https://tmobile.wd1.myworkdayjobs.com/external/job/atlanta-georgia/summer-2027-software-engineer---cloud-security-summer-internship_req379190": "2026-10-27",
   "https://tmx.wd3.myworkdayjobs.com/tmx_careers/job/toronto---100-adelaide-st-w/jr-security-analyst-student-intern_r-6644": "2026-11-04",
   "https://tmx.wd3.myworkdayjobs.com/tmx_careers/job/toronto---100-adelaide-st-w/junior-grc-analyst-intern_r-6672": "2026-11-04",
+  "https://tmx.wd3.myworkdayjobs.com/tmx_careers/job/toronto---100-adelaide-st-w/security-engineering-intern_r-6656": "2026-11-04",
   "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewrequisition": "2026-10-14",
   "https://upbound.wd501.myworkdayjobs.com/upbound/job/plano-tx/cybersecurity-intern_r-100776": "2026-10-13",
   "https://upboundcareers.com/cybersecurity-intern/job/8ee414ab38bfc41e6a28474463caa885": "2026-10-09",
@@ -2196,6 +2197,7 @@
   "t:tmobi|summer2027softwareengineercloudsecuritysummerinternship": "2026-10-27",
   "t:tmxgr|jrsecurityanalyststudentintern": "2026-11-04",
   "t:tmxgr|juniorgrcanalystintern": "2026-11-04",
+  "t:tmxgr|securityengineeringintern": "2026-11-04",
   "t:toget|hardwaresecurityengineerintern": "2026-10-23",
   "t:toget|hardwaresecurityengineerinternsummer2027": "2026-11-04",
   "t:toget|hardwaresecurityengineernewgrad2027": "2026-11-04",
@@ -7611,7 +7613,8 @@
   "wd+:tmobile/external": [],
   "wd+:tmx/TMX_Careers": [
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
-   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672"
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-GRC-Analyst-Intern_R-6672",
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656"
   ],
   "wd+:tnsi/Search": [],
   "wd+:topcon/TopconPositioningCareers": [],
@@ -8102,10 +8105,6 @@
  "heartbeat": "2026-11-04 10",
  "recent": [
   [
-   1793708938.0579636,
-   "RTX (Collins, Pratt & Whitney, Raytheon) - Secure System Engineering Intern (Summer 2027)"
-  ],
-  [
    1793715030.3036494,
    "Northrop Grumman - 2027 Cyber Systems Engineer Intern - Roy UT"
   ],
@@ -8216,6 +8215,10 @@
   [
    1793801371.2800932,
    "TMX Group - Jr. Security Analyst Student Intern"
+  ],
+  [
+   1793807361.7008173,
+   "TMX Group - Security Engineering Intern"
   ]
  ],
  "stem5": true,
