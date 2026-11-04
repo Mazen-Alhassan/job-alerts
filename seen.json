@@ -498,6 +498,8 @@
   "https://go.vansh.nyc/1fU": "2026-11-04",
   "https://go.vansh.nyc/1g5": "2026-11-04",
   "https://go.vansh.nyc/1gM": "2026-11-04",
+  "https://go.vansh.nyc/1gV": "2026-11-04",
+  "https://go.vansh.nyc/1gW": "2026-11-04",
   "https://go.vansh.nyc/1gl": "2026-11-04",
   "https://go.vansh.nyc/1gt": "2026-11-04",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -2114,6 +2116,7 @@
   "t:rtx|systemssecurityengineerinternraytheon": "2026-11-04",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
   "t:saab|coopinformationsecurityspringsummer2027": "2026-11-04",
+  "t:saab|informationsecuritycoop": "2026-11-04",
   "t:sales|softwareengineerinternsecuritygovernment": "2026-10-26",
   "t:sales|summer2027internsoftwareengineersecuritygovernment": "2026-11-04",
   "t:sandi|internbusinessundergraduateyearroundpersonnelsecurityonsite": "2026-10-31",
@@ -2164,6 +2167,7 @@
   "t:tampa|spring2027studentinternshipadicybersecurity": "2026-10-29",
   "t:tampa|spring2027studentinternshipcybersecurity": "2026-10-18",
   "t:taniu|cloudsecurityintern": "2026-11-04",
+  "t:tcene|enterprisesecurityinterndetectionresponse": "2026-11-04",
   "t:tcene|internenterprisesecuritydetectionresponse": "2026-11-04",
   "t:td|cybersecurityinterncoopwinter2027": "2026-11-02",
   "t:teled|eadsimsoftwareengineeringinternsummer2027withsecurityclearance": "2026-10-26",
@@ -5550,6 +5554,8 @@
    "https://go.vansh.nyc/1fU",
    "https://go.vansh.nyc/1g5",
    "https://go.vansh.nyc/1gM",
+   "https://go.vansh.nyc/1gV",
+   "https://go.vansh.nyc/1gW",
    "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/1gt",
    "https://go.vansh.nyc/XZ",
@@ -8122,10 +8128,6 @@
  "heartbeat": "2026-11-04 14",
  "recent": [
   [
-   1793725740.6295533,
-   "Collins Aerospace - Secure System Engineering Intern (Summer 2027)"
-  ],
-  [
    1793727592.0033252,
    "Insmed Incorporated - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
   ],
@@ -8228,6 +8230,14 @@
   [
    1793818419.3314714,
    "Saab - Co-Op, Information Security (Spring - Summer 2027)"
+  ],
+  [
+   1793819669.2380185,
+   "Saab - Information Security Co-op"
+  ],
+  [
+   1793819669.2380207,
+   "TC Energy - Enterprise Security Intern, Detection & Response"
   ]
  ],
  "stem5": true,
