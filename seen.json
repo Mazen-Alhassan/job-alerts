@@ -5544,7 +5544,6 @@
    "https://go.vansh.nyc/1gM",
    "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/1gt",
-   "https://go.vansh.nyc/XL",
    "https://go.vansh.nyc/XU",
    "https://go.vansh.nyc/XZ",
    "https://go.vansh.nyc/YE"
@@ -7856,7 +7855,6 @@
   ],
   "wd:caci/External": [],
   "wd:cai/Computer_Aid": [
-   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/AZ-CLIENT-STATE/Cybersecurity-Analyst-Intern_R8900",
    "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
   ],
   "wd:capitalone/Capital_One": [],
@@ -8223,6 +8221,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793816064.5366766,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
