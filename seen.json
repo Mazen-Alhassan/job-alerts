@@ -422,7 +422,7 @@
   "https://fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/75310": "2026-10-23",
   "https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1029/job/15624": "2026-11-04",
   "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1013/job/228": "2026-11-04",
-  "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/119551": "2026-10-16",
+  "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/119551": "2026-11-04",
   "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/260836": "2026-11-04",
   "https://fhlbc.wd1.myworkdayjobs.com/search/job/chicago/summer-internship---cybersecurity_r2600513": "2026-11-04",
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---code-security---spring-2027_r71575": "2026-10-09",
@@ -1862,7 +1862,7 @@
   "t:honey|informationsystemsitcyberengineerdatasciencesummer2027intern": "2026-10-30",
   "t:honey|informationsystemsitcyberengineerdatasciencesummer2027internuspersonrequired": "2026-10-29",
   "t:howde|underwritinginterncyber": "2026-11-04",
-  "t:howme|cybersecurityintern": "2026-10-16",
+  "t:howme|cybersecurityintern": "2026-11-04",
   "t:hpeju|cybersecurityengineeringintern": "2026-10-27",
   "t:hpeju|salescybersecurityintern": "2026-11-04",
   "t:hpinc|softwareproductsecurityinternhpiq": "2026-11-04",
@@ -4503,7 +4503,6 @@
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
-   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/AMH/job/Phoenix-AZ/Summer-2027-Internship---Phoenix--AZ---IT-Security_R13775-1"
   ],
   "jobvite:aarete": [],
@@ -5180,7 +5179,9 @@
   "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
+  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
+   "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551"
+  ],
   "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
    "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836"
   ],
@@ -8228,12 +8229,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1793826735.1991339,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
