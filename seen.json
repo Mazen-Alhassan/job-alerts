@@ -759,6 +759,9 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016610176": "2026-11-04",
   "https://jobs.smartrecruiters.com/llnl/3743990016610186": "2026-11-04",
   "https://jobs.smartrecruiters.com/llnl/3743990016610216": "2026-11-04",
+  "https://jobs.smartrecruiters.com/llnl/3743990016610426": "2026-11-04",
+  "https://jobs.smartrecruiters.com/llnl/3743990016610436": "2026-11-04",
+  "https://jobs.smartrecruiters.com/llnl/3743990016610446": "2026-11-04",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-04",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-04",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-04",
@@ -5664,12 +5667,12 @@
   "sr:LGCGroup": [],
   "sr:LLNL": [
    "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016164416",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016165496",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016165506",
    "https://jobs.smartrecruiters.com/LLNL/3743990016610101",
    "https://jobs.smartrecruiters.com/LLNL/3743990016610186",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016610216"
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610216",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610426",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610436",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610446"
   ],
   "sr:Laxir1": [],
   "sr:Learnkwikcom": [],
