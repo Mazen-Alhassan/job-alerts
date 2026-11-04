@@ -788,6 +788,7 @@
   "https://lifeattiktok.com/search/7667935739300317493": "2026-11-04",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-11-04",
   "https://lifeattiktok.com/search/7691158108957641013": "2026-11-01",
+  "https://linkedin.com/jobs/view/4320542994": "2026-11-04",
   "https://linkedin.com/jobs/view/4366561915": "2026-10-23",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
   "https://linkedin.com/jobs/view/4393994090": "2026-10-30",
@@ -1998,6 +1999,7 @@
   "t:netsm|securityanalystintern": "2026-11-02",
   "t:newag|apprenticesecuritysystemstechnician": "2026-10-31",
   "t:newje|cybersecurityengineeringinternhourly": "2026-10-31",
+  "t:newpo|industrialsecurityanalystskillbridgeintern": "2026-11-04",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:ninte|internsoftwareengineerplatformsecurityntd": "2026-10-30",
   "t:ninte|softwareengineerinternplatformsecurity": "2026-11-04",
@@ -4900,6 +4902,7 @@
    "https://www.linkedin.com/jobs/view/4485049594"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4320542994",
    "https://www.linkedin.com/jobs/view/4468798732",
    "https://www.linkedin.com/jobs/view/4470281935",
    "https://www.linkedin.com/jobs/view/4476037721",
@@ -8075,36 +8078,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-04 02",
+ "heartbeat": "2026-11-04 04",
  "recent": [
-  [
-   1793679223.2619817,
-   "ATC - Cyber Security Intern"
-  ],
-  [
-   1793679223.2619834,
-   "Auto-Owners Insurance - IT Security Engineer Intern"
-  ],
-  [
-   1793682867.2411091,
-   "CNA Insurance - Cybersecurity Intern, Technology"
-  ],
-  [
-   1793688875.4849293,
-   "Cincinnati Children\u2019s Hospital and Medical Center - Student II Security Analyst Intern"
-  ],
-  [
-   1793688875.4849303,
-   "FHLBank Chicago - Cybersecurity Intern"
-  ],
-  [
-   1793688875.4849308,
-   "RTX - Cyber Research Intern"
-  ],
-  [
-   1793688875.484931,
-   "Guardian Life - Cybersecurity Intern, Digital & Technology"
-  ],
   [
    1793694198.6555793,
    "RTX - Secure System Engineering Intern (Summer 2027)"
@@ -8208,6 +8183,10 @@
   [
    1793772782.8400538,
    "United Parcel Service (UPS) - Information Security Intern"
+  ],
+  [
+   1793783880.860498,
+   "Newport News Shipbuilding, A Division of HII - INDUSTRIAL SECURITY ANALYST SKILLBRIDGE INT"
   ]
  ],
  "stem5": true,
