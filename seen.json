@@ -757,6 +757,7 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016610101": "2026-11-04",
   "https://jobs.smartrecruiters.com/llnl/3743990016610176": "2026-11-04",
   "https://jobs.smartrecruiters.com/llnl/3743990016610186": "2026-11-04",
+  "https://jobs.smartrecruiters.com/llnl/3743990016610216": "2026-11-04",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-04",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-04",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-04",
@@ -5657,12 +5658,12 @@
   "sr:LGCGroup": [],
   "sr:LLNL": [
    "https://jobs.smartrecruiters.com/LLNL/3743990014731646",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016164366",
    "https://jobs.smartrecruiters.com/LLNL/3743990016164416",
    "https://jobs.smartrecruiters.com/LLNL/3743990016165496",
    "https://jobs.smartrecruiters.com/LLNL/3743990016165506",
    "https://jobs.smartrecruiters.com/LLNL/3743990016610101",
-   "https://jobs.smartrecruiters.com/LLNL/3743990016610186"
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610186",
+   "https://jobs.smartrecruiters.com/LLNL/3743990016610216"
   ],
   "sr:Laxir1": [],
   "sr:Learnkwikcom": [],
@@ -5856,9 +5857,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
