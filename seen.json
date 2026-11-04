@@ -845,14 +845,14 @@
   "https://linkedin.com/jobs/view/4459889831": "2026-10-10",
   "https://linkedin.com/jobs/view/4459894808": "2026-10-10",
   "https://linkedin.com/jobs/view/4460112362": "2026-11-01",
-  "https://linkedin.com/jobs/view/4460200734": "2026-11-03",
+  "https://linkedin.com/jobs/view/4460200734": "2026-11-04",
   "https://linkedin.com/jobs/view/4460202658": "2026-11-03",
-  "https://linkedin.com/jobs/view/4460204642": "2026-11-03",
+  "https://linkedin.com/jobs/view/4460204642": "2026-11-04",
   "https://linkedin.com/jobs/view/4460233941": "2026-11-03",
-  "https://linkedin.com/jobs/view/4460235483": "2026-11-03",
+  "https://linkedin.com/jobs/view/4460235483": "2026-11-04",
   "https://linkedin.com/jobs/view/4460238609": "2026-10-15",
   "https://linkedin.com/jobs/view/4460246501": "2026-10-14",
-  "https://linkedin.com/jobs/view/4460254050": "2026-11-03",
+  "https://linkedin.com/jobs/view/4460254050": "2026-11-04",
   "https://linkedin.com/jobs/view/4460302284": "2026-11-02",
   "https://linkedin.com/jobs/view/4460307152": "2026-11-02",
   "https://linkedin.com/jobs/view/4460311092": "2026-11-02",
@@ -1239,6 +1239,7 @@
   "https://linkedin.com/jobs/view/4485381912": "2026-10-30",
   "https://linkedin.com/jobs/view/4485412948": "2026-11-02",
   "https://linkedin.com/jobs/view/4485474411": "2026-11-03",
+  "https://linkedin.com/jobs/view/4485548046": "2026-11-04",
   "https://linkedin.com/jobs/view/4485601040": "2026-10-31",
   "https://linkedin.com/jobs/view/4485613850": "2026-10-31",
   "https://linkedin.com/jobs/view/4485614759": "2026-10-31",
@@ -1742,6 +1743,7 @@
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-04",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-04",
   "t:danah|itsecurityintern": "2026-11-04",
+  "t:dcuni|eventsecurityintern": "2026-11-04",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
   "t:defin|incidentissuemanagementanalystwinter2027coopintern": "2026-11-04",
   "t:delaw|summerhomelandsecurityemergencymanagementintern20272000hr": "2026-11-04",
@@ -2235,9 +2237,9 @@
   "t:unite|upsinformationsecuritysummer2027internshipnj": "2026-11-04",
   "t:unive|assistantdirectorofstudentorganizationssoc": "2026-10-16",
   "t:unive|studentsecuritycoordinator": "2026-10-23",
-  "t:ups|upsinformationsecuritysummer2027internshipga": "2026-11-03",
-  "t:ups|upsinformationsecuritysummer2027internshipky": "2026-11-03",
-  "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-03",
+  "t:ups|upsinformationsecuritysummer2027internshipga": "2026-11-04",
+  "t:ups|upsinformationsecuritysummer2027internshipky": "2026-11-04",
+  "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-04",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-10-17",
   "t:vangu|collegetocorporateitinternshiprisksecurityanalystnc": "2026-11-04",
@@ -4947,6 +4949,10 @@
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4459296440",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4468152849",
@@ -4958,6 +4964,7 @@
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4485045799",
    "https://www.linkedin.com/jobs/view/4485049594",
+   "https://www.linkedin.com/jobs/view/4485548046",
    "https://www.linkedin.com/jobs/view/4486433237",
    "https://www.linkedin.com/jobs/view/4486435027",
    "https://www.linkedin.com/jobs/view/4486510762",
@@ -8127,14 +8134,6 @@
  "heartbeat": "2026-11-04 16",
  "recent": [
   [
-   1793737022.3112938,
-   "Highmark Health - Vulnerability Management Analyst Undergraduate Intern"
-  ],
-  [
-   1793737147.4232783,
-   "IntelliGenesis LLC\u00ae - Cyber Analyst Internship (DoW SkillBridge) with Security Clearance"
-  ],
-  [
    1793740784.059651,
    "Tradeweb - Summer 2027 Cyber Security Internship"
   ],
@@ -8225,6 +8224,10 @@
   [
    1793830404.029481,
    "Cigna - Cybersecurity Intern, Technology Development Program"
+  ],
+  [
+   1793832895.5790215,
+   "D.C. United - Event Security Intern"
   ]
  ],
  "stem5": true,
