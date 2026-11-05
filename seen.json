@@ -1359,6 +1359,7 @@
   "https://otis.wd504.myworkdayjobs.com/rec_ext_gateway/job/ot999-1cp---farmington-ct-one-carrier-place-farmington-ct-06032-usa/cybersecurity-ops---intelligence-intern_20169120": "2026-10-22",
   "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/hq_atlanta/xmlname-2027-summer-intern---cyber-security_r26_0000002175": "2026-11-05",
   "https://paycomonline.net/v4/ats/web.php/portal/d1b7897110ff4b711e6764b6108ef2be/jobs/397756": "2026-10-15",
+  "https://paypal.eightfold.ai/careers/job/274922982812": "2026-11-05",
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-11-05",
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-11-05",
   "https://pgcareers.com/global/en/job/r000157502": "2026-11-05",
@@ -2061,6 +2062,7 @@
   "t:papaj|2027summerinterncybersecurity": "2026-11-05",
   "t:papaj|cybersecurityintern": "2026-11-03",
   "t:param|cybersecuritysolutionengineerintern": "2026-10-30",
+  "t:paypa|cybersecurityinternsummer2027": "2026-11-05",
   "t:peckh|itsecurityintern": "2026-11-02",
   "t:penns|cybersecurityengineerintern": "2026-11-05",
   "t:penta|itcybersecurityleadershipdevelopmentinternshipprogramsummer2027": "2026-11-05",
@@ -3071,7 +3073,9 @@
    "https://lockheedmartin.eightfold.ai/careers/job/996477502700"
   ],
   "eightfold:morganstanley.eightfold.ai": [],
-  "eightfold:paypal.eightfold.ai": [],
+  "eightfold:paypal.eightfold.ai": [
+   "https://paypal.eightfold.ai/careers/job/274922982812"
+  ],
   "eightfold:qualcomm.eightfold.ai": [],
   "eightfold:ralliant.eightfold.ai": [],
   "eightfold:starbucks.eightfold.ai": [],
@@ -8122,10 +8126,6 @@
  "heartbeat": "2026-11-04 20",
  "recent": [
   [
-   1793748422.3853483,
-   "Carolina Hurricanes - Security + Guest Experience Intern"
-  ],
-  [
    1793750708.273323,
    "AmeriHome Mortgage Company, LLC - Summer 2027 Internship - Phoenix, AZ - IT Security"
   ],
@@ -8208,9 +8208,19 @@
   [
    1793839881.2834594,
    "Saab, Inc. - Co-Op, Information Security (Spring - Summer 2027)"
+  ],
+  [
+   1793842373.7887924,
+   "PayPal - Cybersecurity Intern - Summer 2027"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793842287.6044261,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
