@@ -523,6 +523,7 @@
   "https://go.vansh.nyc/1iu": "2026-11-05",
   "https://go.vansh.nyc/1iv": "2026-11-05",
   "https://go.vansh.nyc/1iy": "2026-11-05",
+  "https://go.vansh.nyc/1je": "2026-11-05",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1726,6 +1727,7 @@
   "t:caree|interncybersecurity": "2026-11-05",
   "t:caree|interndepartmentcyberit": "2026-11-05",
   "t:cares|2027summerinternshipprogramcybersecurity": "2026-11-05",
+  "t:cares|cybersecurityintern": "2026-11-05",
   "t:carne|cyberrangedevelopmentintern": "2026-11-05",
   "t:carol|securityguestexperienceintern": "2026-11-04",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
@@ -5620,7 +5622,8 @@
    "https://go.vansh.nyc/1iU",
    "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1iv",
-   "https://go.vansh.nyc/1iy"
+   "https://go.vansh.nyc/1iy",
+   "https://go.vansh.nyc/1je"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8199,22 +8202,6 @@
  "heartbeat": "2026-11-05 16",
  "recent": [
   [
-   1793818229.8941343,
-   "TC Energy - Intern, Enterprise Security - Detection & Response"
-  ],
-  [
-   1793818419.3314714,
-   "Saab - Co-Op, Information Security (Spring - Summer 2027)"
-  ],
-  [
-   1793819669.2380185,
-   "Saab - Information Security Co-op"
-  ],
-  [
-   1793819669.2380207,
-   "TC Energy - Enterprise Security Intern, Detection & Response"
-  ],
-  [
    1793825950.7994394,
    "Rambus - Security Engineering Intern"
   ],
@@ -8313,6 +8300,10 @@
   [
    1793911283.3805547,
    "CareSource - 2027 Summer Internship Program - Cybersecurity"
+  ],
+  [
+   1793913418.3308735,
+   "CareSource - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
