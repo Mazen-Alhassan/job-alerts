@@ -4948,8 +4948,8 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
@@ -4961,6 +4961,7 @@
    "https://www.linkedin.com/jobs/view/4471125435",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4478139651",
+   "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479761747",
    "https://www.linkedin.com/jobs/view/4481656491",
@@ -4973,6 +4974,7 @@
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
    "https://www.linkedin.com/jobs/view/4487712566",
+   "https://www.linkedin.com/jobs/view/4487716578",
    "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022"
   ],
@@ -6264,9 +6266,7 @@
   "wd+:cae/career": [
    "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Montreal-St-Laurent/Stagiaire-spcialiste-de-l-intgration-en-cyberscurit_123941"
   ],
-  "wd+:cai/computer_aid": [
-   "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"
-  ],
+  "wd+:cai/computer_aid": [],
   "wd+:calibercollision/caliber": [],
   "wd+:calibercollision/protech": [],
   "wd+:calistacorp/calistabrice": [],
@@ -7870,9 +7870,7 @@
    "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1"
   ],
   "wd:caci/External": [],
-  "wd:cai/Computer_Aid": [
-   "https://cai.wd5.myworkdayjobs.com/en-US/Computer_Aid/job/California/Cybersecurity-Analyst-Intern_R8488"
-  ],
+  "wd:cai/Computer_Aid": [],
   "wd:capitalone/Capital_One": [],
   "wd:cibc/search": [
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1"
