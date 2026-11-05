@@ -153,7 +153,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-11-05",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-11-02",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-04",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-05",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-11-05",
@@ -2138,7 +2138,7 @@
   "t:seaga|summerinterncryptographyandsecurity": "2026-10-15",
   "t:seatg|securityengineerinternship": "2026-10-24",
   "t:seatt|informationsecurityintern": "2026-11-05",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-11-04",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-11-05",
   "t:senti|cybersecurityintern": "2026-11-05",
   "t:senti|socintern": "2026-11-05",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-05",
@@ -4128,9 +4128,7 @@
   "icims:careers-affiniuscapital.icims.com": [],
   "icims:careers-alcami.icims.com": [],
   "icims:careers-aluminumdynamics.icims.com": [],
-  "icims:careers-americansystems.icims.com": [
-   "https://careers-americansystems.icims.com/jobs/4387/skillbridge-cybersecurity-intern-%28transitioning-military%29/job"
-  ],
+  "icims:careers-americansystems.icims.com": [],
   "icims:careers-americas.icims.com": [],
   "icims:careers-amtrustgroup.icims.com": [],
   "icims:careers-apexservicepartners.icims.com": [],
@@ -4151,9 +4149,7 @@
   "icims:careers-blackhawknetwork.icims.com": [],
   "icims:careers-bluehawk.icims.com": [],
   "icims:careers-bnh.icims.com": [],
-  "icims:careers-bocusa.icims.com": [
-   "https://careers-bocusa.icims.com/jobs/1941/adc-rsd-information-cybersecurity-intern/job"
-  ],
+  "icims:careers-bocusa.icims.com": [],
   "icims:careers-bostonpizza.icims.com": [],
   "icims:careers-brehotels.icims.com": [],
   "icims:careers-brewers.icims.com": [],
@@ -4314,9 +4310,7 @@
   "icims:careers-pamhealth.icims.com": [],
   "icims:careers-parkhill.icims.com": [],
   "icims:careers-peopletec.icims.com": [],
-  "icims:careers-peraton.icims.com": [
-   "https://careers-peraton.icims.com/jobs/172836/spring-%26-summer-2027-cybersecurity-engineer-co-op/job"
-  ],
+  "icims:careers-peraton.icims.com": [],
   "icims:careers-persistentsystems.icims.com": [],
   "icims:careers-physiciansmutual.icims.com": [],
   "icims:careers-pittohio.icims.com": [],
@@ -4327,9 +4321,7 @@
   "icims:careers-qinetiqus.icims.com": [],
   "icims:careers-quanta.icims.com": [],
   "icims:careers-quartzbenefits.icims.com": [],
-  "icims:careers-rambus.icims.com": [
-   "https://careers-rambus.icims.com/jobs/23123/security-engineering-intern/job"
-  ],
+  "icims:careers-rambus.icims.com": [],
   "icims:careers-rcm.icims.com": [],
   "icims:careers-reisystems.icims.com": [],
   "icims:careers-resonetics.icims.com": [],
@@ -4347,17 +4339,11 @@
   "icims:careers-scsengineers.icims.com": [],
   "icims:careers-sdsurf.icims.com": [],
   "icims:careers-se.icims.com": [],
-  "icims:careers-sentinel.icims.com": [
-   "https://careers-sentinel.icims.com/jobs/5130/cybersecurity-intern/job",
-   "https://careers-sentinel.icims.com/jobs/5131/cybersecurity-intern/job",
-   "https://careers-sentinel.icims.com/jobs/5132/soc-intern/job"
-  ],
+  "icims:careers-sentinel.icims.com": [],
   "icims:careers-sev1tech.icims.com": [],
   "icims:careers-shure.icims.com": [],
   "icims:careers-sig.icims.com": [],
-  "icims:careers-simventions.icims.com": [
-   "https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job"
-  ],
+  "icims:careers-simventions.icims.com": [],
   "icims:careers-sixflags.icims.com": [],
   "icims:careers-slco.icims.com": [],
   "icims:careers-snapon.icims.com": [],
@@ -4439,10 +4425,7 @@
    "https://hubcareers-docusign.icims.com/jobs/30540/security-intern/job"
   ],
   "icims:ideas-sas.icims.com": [],
-  "icims:internships-aei.icims.com": [
-   "https://internships-aei.icims.com/jobs/2682/spring-intern%3a-national-security-strategy%2c-pentagon-budgeting%2c-and-the-us-defense-industrial-base/job",
-   "https://internships-aei.icims.com/jobs/2684/spring-intern%3a-asian-security-and-technology/job"
-  ],
+  "icims:internships-aei.icims.com": [],
   "icims:iwtcareers-ads-pipe.icims.com": [],
   "icims:jmp-sas.icims.com": [],
   "icims:jobs-bylight.icims.com": [],
@@ -4473,9 +4456,7 @@
   "icims:uscareers-bruker.icims.com": [],
   "icims:uscareers-docusign.icims.com": [],
   "icims:uscareers-fujifilm.icims.com": [],
-  "icims:uscareers-idemia.icims.com": [
-   "https://uscareers-idemia.icims.com/jobs/8663/cybersecurity-internship/job"
-  ],
+  "icims:uscareers-idemia.icims.com": [],
   "icims:uscareers-lennox.icims.com": [],
   "icims:uscareers-pepsico.icims.com": [],
   "icims:uscareers-waters.icims.com": [],
