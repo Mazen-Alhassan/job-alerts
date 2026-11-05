@@ -507,6 +507,7 @@
   "https://go.vansh.nyc/1gt": "2026-11-05",
   "https://go.vansh.nyc/1h7": "2026-11-05",
   "https://go.vansh.nyc/1h8": "2026-11-04",
+  "https://go.vansh.nyc/1hR": "2026-11-05",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1819,6 +1820,7 @@
   "t:gener|cyberengineeringintern": "2026-10-20",
   "t:gener|cyberengineeringinternsummer2027": "2026-10-20",
   "t:gener|cybersecurity2027summerinternship": "2026-10-24",
+  "t:gener|cybersecurityassociateintern": "2026-11-05",
   "t:gener|cybersecuritysystemsengineerintern": "2026-10-30",
   "t:gener|gditsummerinternshipprogramsummer2027cybersecurityassociateinternship": "2026-11-05",
   "t:gener|informationsecurityengineerintern": "2026-10-22",
@@ -5518,7 +5520,6 @@
    "https://go.vansh.nyc/192",
    "https://go.vansh.nyc/193",
    "https://go.vansh.nyc/197",
-   "https://go.vansh.nyc/19G",
    "https://go.vansh.nyc/19M",
    "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
@@ -5553,7 +5554,8 @@
    "https://go.vansh.nyc/1gW",
    "https://go.vansh.nyc/1gl",
    "https://go.vansh.nyc/1gt",
-   "https://go.vansh.nyc/1h7"
+   "https://go.vansh.nyc/1h7",
+   "https://go.vansh.nyc/1hR"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8112,14 +8114,6 @@
  "heartbeat": "2026-11-05 02",
  "recent": [
   [
-   1793769263.7216566,
-   "MDA - Student Cyber Security Analyst Intern"
-  ],
-  [
-   1793772782.8400538,
-   "United Parcel Service (UPS) - Information Security Intern"
-  ],
-  [
    1793783880.860498,
    "Newport News Shipbuilding, A Division of HII - INDUSTRIAL SECURITY ANALYST SKILLBRIDGE INT"
   ],
@@ -8202,6 +8196,10 @@
   [
    1793860968.206064,
    "EEONLINE - Intern/Co-Op-IT & Security"
+  ],
+  [
+   1793866788.4214907,
+   "General Dynamics Information Technology - Cybersecurity Associate Intern"
   ]
  ],
  "stem5": true,
