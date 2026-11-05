@@ -1433,6 +1433,7 @@
   "https://recruiting.ultipro.com/cry1001cryo/jobboard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/opportunitydetail": "2026-10-21",
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
   "https://recruiting.ultipro.com/sts1000sco/jobboard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/opportunitydetail?opportunityid=458b5fae-3a73-448a-8133-a863d4df3fa0&postingid=c55fc317-83c6-42ff-8946-e9b7349e6211": "2026-10-31",
+  "https://recruiting.ultipro.com/wel1008wllt/jobboard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/opportunitydetail?opportunityid=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingid=c622a8b6-c7ef-4c91-9f43-a00c17d0b306": "2026-11-05",
   "https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityid=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingid=b0021734-a3d6-4e67-9a48-db2f307ec04d": "2026-11-03",
   "https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityid=a1212562-c20c-4e90-8a2a-87e878930923&postingid=687815c7-2cb3-45b6-91b0-95471c23c2fa": "2026-11-03",
   "https://recruitingbypaycor.com/career/jobintroduction.action": "2026-10-10",
@@ -2335,6 +2336,7 @@
   "t:wellm|cybersecurityinternship": "2026-11-05",
   "t:wellm|securityanalystinternship": "2026-11-05",
   "t:wells|2027technologysummerinternshipearlycareerscybersecurity": "2026-11-05",
+  "t:wellt|summer27interncybersecurity": "2026-11-05",
   "t:werne|informationsecurityintern": "2026-10-21",
   "t:westb|summer2027internshipinformationsecurity": "2026-11-04",
   "t:weste|summer2027internshipphoenixazitsecurity": "2026-10-19",
@@ -4570,6 +4572,7 @@
    "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1",
    "https://paypal.eightfold.ai/careers/job/274922982812",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
+   "https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingId=c622a8b6-c7ef-4c91-9f43-a00c17d0b306",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
    "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
    "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
@@ -8307,6 +8310,10 @@
   [
    1793913418.3308735,
    "CareSource - Cybersecurity Intern"
+  ],
+  [
+   1793917335.2218237,
+   "Welltower, Inc - Summer '27 Intern - Cyber Security"
   ]
  ],
  "stem5": true,
