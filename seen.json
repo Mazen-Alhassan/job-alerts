@@ -656,6 +656,7 @@
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-20",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-11-05",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-11-05",
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-it_r9672": "2026-11-05",
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-security_r9669": "2026-11-05",
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--department-cyber-it_r9670": "2026-11-05",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-21",
@@ -1973,6 +1974,7 @@
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-05",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-05",
   "t:linds|cybersecurityintern": "2026-11-03",
+  "t:littl|interncyberit": "2026-11-05",
   "t:littl|interncybersecurity": "2026-11-05",
   "t:littl|interndepartmentcyberit": "2026-11-05",
   "t:llnl|cybersecurityundergraduateinterncyberandcriticalinfrastructure": "2026-11-05",
@@ -4954,19 +4956,17 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
    "https://www.linkedin.com/jobs/view/4460655626",
    "https://www.linkedin.com/jobs/view/4468152849",
    "https://www.linkedin.com/jobs/view/4469315805",
-   "https://www.linkedin.com/jobs/view/4470246193",
    "https://www.linkedin.com/jobs/view/4471125435",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4478139651",
    "https://www.linkedin.com/jobs/view/4478437995",
-   "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479761747",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4485548046",
@@ -6841,6 +6841,7 @@
   "wd+:ijm/careers-ijm": [],
   "wd+:iko/iko_careers": [],
   "wd+:ilitch/lc": [
+   "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Intern--Cyber-IT_R9672",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Intern--Cyber-Security_R9669",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Intern--Department-Cyber-IT_R9670"
   ],
@@ -8223,6 +8224,10 @@
   [
    1793888567.0647695,
    "Little Caesars Enterprises - Intern, Department Cyber IT"
+  ],
+  [
+   1793889258.7188647,
+   "Little Caesars Enterprises - Intern, Cyber IT"
   ]
  ],
  "stem5": true,
