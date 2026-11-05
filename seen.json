@@ -624,6 +624,7 @@
   "https://governmentjobs.com/careers/seminolecountyfl/jobs/5510268/cybersecurity-analyst-intern": "2026-10-10",
   "https://graco.wd501.myworkdayjobs.com/graco_careers/job/dayton-minnesota-usa-french-lake/cybersecurity-intern_r0023516": "2026-11-05",
   "https://grnh.se/0r8cz2gq1us": "2026-10-17",
+  "https://grnh.se/3oehag9g4us": "2026-11-05",
   "https://grnh.se/3rzsdnsm9us": "2026-10-23",
   "https://grnh.se/bng9sqd88us": "2026-10-29",
   "https://grnh.se/fy78hwlm8us": "2026-10-31",
@@ -4551,6 +4552,7 @@
   "jobspy": [
    "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42505&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=vhrhqF8SKCZs2OGUwUdBx7eSThMCJc2Ow20aVN8Tsmo%3D",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
+   "https://grnh.se/3oehag9g4us",
    "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Cyber-IT_R9672",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Cyber-Security_R9669",
@@ -4996,8 +4998,8 @@
    "https://www.linkedin.com/jobs/view/4478818519"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
@@ -5561,7 +5563,6 @@
    "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/10U",
    "https://go.vansh.nyc/11K",
-   "https://go.vansh.nyc/11Z",
    "https://go.vansh.nyc/12V",
    "https://go.vansh.nyc/12b",
    "https://go.vansh.nyc/12c",
@@ -8169,6 +8170,21 @@
    "t:ameri|campusundergraduatesummerinternshipprogram2027cybersecurityaiengineerenterprisetechnologyservicesphoenixaz",
    "t:ameri|cybersecurityaiengineerinternenterprisetechnologyservices"
   ],
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-it_r9672": [
+   "2026-11-05",
+   "t:caree|interncyberit",
+   "t:littl|interncyberit"
+  ],
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-security_r9669": [
+   "2026-11-05",
+   "t:caree|interncybersecurity",
+   "t:littl|interncybersecurity"
+  ],
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--department-cyber-it_r9670": [
+   "2026-11-05",
+   "t:caree|interndepartmentcyberit",
+   "t:littl|interndepartmentcyberit"
+  ],
   "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/virginia-remote-work/software-engineer-cybersecurity-services---2027-summer-internship_r69250": [
    "2026-11-05",
    "t:motor|softwareengineercybersecurityservices2027summerinternship",
@@ -8180,7 +8196,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-05 14",
+ "heartbeat": "2026-11-05 16",
  "recent": [
   [
    1793818229.8941343,
