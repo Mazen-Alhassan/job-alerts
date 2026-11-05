@@ -656,6 +656,8 @@
   "https://ibqbjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/honeywell/job/155555": "2026-10-20",
   "https://ibwsjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2528040": "2026-11-05",
   "https://icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_4001/job/122169": "2026-11-05",
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-security_r9669": "2026-11-05",
+  "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--department-cyber-it_r9670": "2026-11-05",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
@@ -1971,6 +1973,8 @@
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-05",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-05",
   "t:linds|cybersecurityintern": "2026-11-03",
+  "t:littl|interncybersecurity": "2026-11-05",
+  "t:littl|interndepartmentcyberit": "2026-11-05",
   "t:llnl|cybersecurityundergraduateinterncyberandcriticalinfrastructure": "2026-11-05",
   "t:lockh|cyberengineerinternsummer2027": "2026-11-05",
   "t:lockh|systemsengineercyberintern": "2026-10-20",
@@ -6836,7 +6840,10 @@
   "wd+:iheartmedia/iHM_Technology_Site": [],
   "wd+:ijm/careers-ijm": [],
   "wd+:iko/iko_careers": [],
-  "wd+:ilitch/lc": [],
+  "wd+:ilitch/lc": [
+   "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Intern--Cyber-Security_R9669",
+   "https://ilitch.wd5.myworkdayjobs.com/en-US/lc/job/Detroit-MI/Intern--Department-Cyber-IT_R9670"
+  ],
   "wd+:illumina/illumina-careers": [],
   "wd+:imc/invitation": [],
   "wd+:imcoinvest/IMCO": [],
@@ -8122,14 +8129,6 @@
  "heartbeat": "2026-11-05 08",
  "recent": [
   [
-   1793792193.3806584,
-   "Northrop Grumman - 2027 Cybersecurity Software Engineering Intern - Roy UT"
-  ],
-  [
-   1793794280.7023559,
-   "Northrop Grumman - Cybersecurity Software Engineering Intern"
-  ],
-  [
    1793798930.5204399,
    "MIT Lincoln Laboratory - Security Department Co-Op, (Jan 2027 - June 2027) - Group 12-00"
   ],
@@ -8216,6 +8215,14 @@
   [
    1793880802.410084,
    "PayPal - Cybersecurity Intern"
+  ],
+  [
+   1793888567.0647676,
+   "Little Caesars Enterprises - Intern, Cyber Security"
+  ],
+  [
+   1793888567.0647695,
+   "Little Caesars Enterprises - Intern, Department Cyber IT"
   ]
  ],
  "stem5": true,
