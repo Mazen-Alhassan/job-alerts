@@ -1300,6 +1300,7 @@
   "https://linkedin.com/jobs/view/4487211808": "2026-11-05",
   "https://linkedin.com/jobs/view/4487217538": "2026-11-05",
   "https://linkedin.com/jobs/view/4487226304": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487586397": "2026-11-05",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2118,6 +2119,7 @@
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-11-03",
   "t:rtx|systemssecurityengineerinternraytheon": "2026-11-05",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
+  "t:saabi|coopinformationsecurityspringsummer2027": "2026-11-05",
   "t:saab|coopinformationsecurityspringsummer2027": "2026-11-05",
   "t:saab|informationsecuritycoop": "2026-11-05",
   "t:sales|softwareengineerinternsecuritygovernment": "2026-10-26",
@@ -4941,7 +4943,6 @@
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4462084600",
@@ -4964,7 +4965,8 @@
    "https://www.linkedin.com/jobs/view/4486525270",
    "https://www.linkedin.com/jobs/view/4487211808",
    "https://www.linkedin.com/jobs/view/4487217538",
-   "https://www.linkedin.com/jobs/view/4487226304"
+   "https://www.linkedin.com/jobs/view/4487226304",
+   "https://www.linkedin.com/jobs/view/4487586397"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8119,18 +8121,6 @@
  "heartbeat": "2026-11-04 18",
  "recent": [
   [
-   1793740784.059651,
-   "Tradeweb - Summer 2027 Cyber Security Internship"
-  ],
-  [
-   1793743995.958552,
-   "ICD - Cyber Security Intern"
-  ],
-  [
-   1793743995.9585538,
-   "DuCharme, McMillen & Associates - Cybersecurity Intern"
-  ],
-  [
    1793748422.3853483,
    "Carolina Hurricanes - Security + Guest Experience Intern"
   ],
@@ -8213,6 +8203,10 @@
   [
    1793832895.5790215,
    "D.C. United - Event Security Intern"
+  ],
+  [
+   1793839881.2834594,
+   "Saab, Inc. - Co-Op, Information Security (Spring - Summer 2027)"
   ]
  ],
  "stem5": true,
