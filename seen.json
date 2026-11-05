@@ -4972,7 +4972,7 @@
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
    "https://www.linkedin.com/jobs/view/4460655626",
@@ -5249,9 +5249,7 @@
   "oracle:hdks.fa.ca2.oraclecloud.com/CX_1": [
    "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9468"
   ],
-  "oracle:hdnn.fa.us6.oraclecloud.com/CX": [
-   "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114154"
-  ],
+  "oracle:hdnn.fa.us6.oraclecloud.com/CX": [],
   "oracle:hdow.fa.us6.oraclecloud.com/CX_1001": [],
   "oracle:hdpc.fa.us2.oraclecloud.com/LateralHiring": [],
   "oracle:hdpn.fa.us6.oraclecloud.com/CX_1": [],
@@ -8151,7 +8149,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-05 10",
+ "heartbeat": "2026-11-05 12",
  "recent": [
   [
    1793807361.7008173,
