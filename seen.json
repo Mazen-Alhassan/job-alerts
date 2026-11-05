@@ -1472,6 +1472,7 @@
   "https://volarisgroup.wd3.myworkdayjobs.com/goassetworks/job/united-states---tx/it-security-intern_r69295": "2026-11-03",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-masters_r-2630026": "2026-11-05",
   "https://walmart.wd504.myworkdayjobs.com/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": "2026-11-05",
+  "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/san-jose-california-united-states-of-america/cybersecurity-intern---summer-2027_r0138587": "2026-11-05",
   "https://wd1.myworkdaysite.com/recruiting/wf/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--cybersecurity-_r-583417": "2026-11-05",
   "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/wab/job/phoenix-az/summer-2027-internship---phoenix--az---it-security_r13775": "2026-10-19",
   "https://werner.wd501.myworkdayjobs.com/werner/job/omaha-ne/information-security-intern_jr23746": "2026-10-21",
@@ -7258,7 +7259,9 @@
   "wd+:patientfirst/patientfirst": [],
   "wd+:pattersoncompanies/PDCO": [],
   "wd+:pattersoncompanies/pdco": [],
-  "wd+:paypal/jobs": [],
+  "wd+:paypal/jobs": [
+   "https://wd1.myworkdaysite.com/en-US/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Cybersecurity-Intern---Summer-2027_R0138587"
+  ],
   "wd+:peak6group/CapMan": [],
   "wd+:peak6group/apexfintechsolutions": [],
   "wd+:pennant/PennantServicesCareerSite": [],
