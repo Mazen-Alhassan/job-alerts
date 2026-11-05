@@ -1304,6 +1304,7 @@
   "https://linkedin.com/jobs/view/4487586397": "2026-11-05",
   "https://linkedin.com/jobs/view/4487701835": "2026-11-05",
   "https://linkedin.com/jobs/view/4487712244": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487712566": "2026-11-05",
   "https://linkedin.com/jobs/view/4487716578": "2026-11-05",
   "https://linkedin.com/jobs/view/4487716632": "2026-11-05",
   "https://linkedin.com/jobs/view/4487720022": "2026-11-05",
@@ -1771,6 +1772,7 @@
   "t:dukee|nuclearcybersecurity2027summerinternship": "2026-10-31",
   "t:dukee|nuclearcybersecurityintern": "2026-10-28",
   "t:eastp|itcybersecurityinternshipsummer2027": "2026-11-04",
+  "t:eeonl|interncoopitsecurity": "2026-11-05",
   "t:ehc|itsecuritystudentinternsummer2027": "2026-11-05",
   "t:eight|securityitintern": "2026-11-05",
   "t:eleva|informationsecuritycoopinternship2027": "2026-11-05",
@@ -4936,14 +4938,15 @@
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4462084600",
    "https://www.linkedin.com/jobs/view/4468152849",
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470246193",
-   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4478139651",
    "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479242586",
@@ -4956,7 +4959,7 @@
    "https://www.linkedin.com/jobs/view/4487586397",
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
-   "https://www.linkedin.com/jobs/view/4487716578",
+   "https://www.linkedin.com/jobs/view/4487712566",
    "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022"
   ],
@@ -8194,6 +8197,10 @@
   [
    1793860756.8626277,
    "UnitedHealth Group - Cybersecurity Development Program Internship"
+  ],
+  [
+   1793860968.206064,
+   "EEONLINE - Intern/Co-Op-IT & Security"
   ]
  ],
  "stem5": true,
