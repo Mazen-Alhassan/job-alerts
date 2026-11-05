@@ -1333,6 +1333,8 @@
   "https://linkedin.com/jobs/view/4487785897": "2026-11-05",
   "https://linkedin.com/jobs/view/4487790183": "2026-11-05",
   "https://linkedin.com/jobs/view/4487791097": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487799841": "2026-11-05",
+  "https://linkedin.com/jobs/view/4488010550": "2026-11-05",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2304,6 +2306,7 @@
   "t:walma|summer2027interncybersecurityundergrad": "2026-11-05",
   "t:washi|metrocollegeinterndmcsdigitalmodernizationcybersecurity": "2026-10-28",
   "t:waves|internshipwavestoneluxembourgcybersecurityartificialintelligenceconsulting": "2026-11-05",
+  "t:waymo|2027summerinternmsphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-11-05",
   "t:waymo|2027summerinternphdperceptionsystemsengineeringpedestriandetectionprecision": "2026-11-05",
   "t:wealt|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:webst|socintern": "2026-11-03",
@@ -4976,8 +4979,9 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4459280255",
    "https://www.linkedin.com/jobs/view/4459280256",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
    "https://www.linkedin.com/jobs/view/4460655626",
@@ -5006,7 +5010,9 @@
    "https://www.linkedin.com/jobs/view/4487720022",
    "https://www.linkedin.com/jobs/view/4487785897",
    "https://www.linkedin.com/jobs/view/4487790183",
-   "https://www.linkedin.com/jobs/view/4487791097"
+   "https://www.linkedin.com/jobs/view/4487791097",
+   "https://www.linkedin.com/jobs/view/4487799841",
+   "https://www.linkedin.com/jobs/view/4488010550"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5307,8 +5313,7 @@
   "phenom:careers.mitre.org": [
    "https://careers.mitre.org/us/en/job/R117314",
    "https://careers.mitre.org/us/en/job/R117380",
-   "https://careers.mitre.org/us/en/job/R117737",
-   "https://careers.mitre.org/us/en/job/R117957"
+   "https://careers.mitre.org/us/en/job/R117737"
   ],
   "phenom:careers.omers.com": [],
   "phenom:careers.opentext.com": [],
