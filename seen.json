@@ -392,6 +392,7 @@
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012444": "2026-11-01",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26012462": "2026-11-01",
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26016065": "2026-11-05",
+  "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/requisitions/preview/26016065": "2026-11-05",
   "https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27404": "2026-11-05",
   "https://ehpv.fa.em2.oraclecloud.com:443/hcmui/candidateexperience/en/job/27404": "2026-10-22",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/20249": "2026-11-05",
@@ -4554,6 +4555,7 @@
   "jobspy": [
    "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42505&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=vhrhqF8SKCZs2OGUwUdBx7eSThMCJc2Ow20aVN8Tsmo%3D",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
+   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26016065",
    "https://grnh.se/3oehag9g4us",
    "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Cyber-IT_R9672",
@@ -4562,6 +4564,7 @@
    "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9E4D33CE05548C5567D1347D614AA8F3",
    "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1",
    "https://paypal.eightfold.ai/careers/job/274922982812",
+   "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
    "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
    "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
@@ -5002,7 +5005,6 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
    "https://www.linkedin.com/jobs/view/4460655626",
