@@ -172,7 +172,7 @@
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/enterprise-cybersecurity-data-loss-prevention-intern_r0249131-1": "2026-11-05",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/enterprise-cybersecurity-education-and-execution-intern_r0249071": "2026-11-05",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---2027-summer-games-cyber-security-intern---mclean--va_r0248034": "2026-10-30",
-  "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--cybersecurity-analyst-intern_r0248214": "2026-10-21",
+  "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--cybersecurity-analyst-intern_r0248214": "2026-11-05",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--enterprise-cybersecurity-data-loss-prevention-intern_r0249083": "2026-11-05",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--enterprise-cybersecurity-it-policy-intern_r0249077": "2026-11-05",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/mclean-va/university---summer-27--enterprise-cybersecurity-vulnerability-intern_r0249085": "2026-11-05",
@@ -962,7 +962,7 @@
   "https://linkedin.com/jobs/view/4470984389": "2026-10-29",
   "https://linkedin.com/jobs/view/4471125435": "2026-11-05",
   "https://linkedin.com/jobs/view/4471128909": "2026-10-21",
-  "https://linkedin.com/jobs/view/4471152358": "2026-10-16",
+  "https://linkedin.com/jobs/view/4471152358": "2026-11-05",
   "https://linkedin.com/jobs/view/4471388468": "2026-11-03",
   "https://linkedin.com/jobs/view/4471392374": "2026-11-03",
   "https://linkedin.com/jobs/view/4471672805": "2026-10-17",
@@ -1678,6 +1678,7 @@
   "t:booza|university2027summergamescybersecurityinternmcleanva": "2026-10-30",
   "t:booza|university2027summergamescybersecurityinternromeny": "2026-10-30",
   "t:booza|university2027summergamescybersecurityinternsandiegoca": "2026-10-30",
+  "t:booza|universitysummer27cybersecurityanalystintern": "2026-11-05",
   "t:booza|universitysummer27enterprisecybersecuritydatalosspreventionintern": "2026-11-05",
   "t:booza|universitysummer27enterprisecybersecurityitpolicyintern": "2026-11-05",
   "t:booza|universitysummer27enterprisecybersecurityvulnerabilityintern": "2026-11-05",
@@ -1733,7 +1734,7 @@
   "t:chrob|cybersecurityinternship2027": "2026-11-05",
   "t:churc|2026informationsecurityoperationscenteranalysttechnicalinternjanandmay2027hires": "2026-10-18",
   "t:churc|2026securityvulnerabilityriskandcomplianceanalysttechnicalinternjanandmay2027hires": "2026-10-18",
-  "t:churc|internitapplicationsecurity": "2026-10-16",
+  "t:churc|internitapplicationsecurity": "2026-11-05",
   "t:cibc|corporatesecuritycoordinatorcoop": "2026-11-05",
   "t:cibc|informationsecurityanalystwinter2027coop": "2026-10-29",
   "t:ciena|softwareengineerinternsecurity": "2026-10-26",
@@ -4979,7 +4980,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4478807758"
+   "https://www.linkedin.com/jobs/view/4478807758",
+   "https://www.linkedin.com/jobs/view/4478818519"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460202658",
@@ -4991,9 +4993,11 @@
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470605824",
    "https://www.linkedin.com/jobs/view/4471125435",
+   "https://www.linkedin.com/jobs/view/4471152358",
    "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4478437995",
    "https://www.linkedin.com/jobs/view/4478807758",
+   "https://www.linkedin.com/jobs/view/4478818519",
    "https://www.linkedin.com/jobs/view/4479761747",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4485548046",
@@ -6156,6 +6160,7 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
+   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"
@@ -6169,6 +6174,7 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
+   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"
@@ -7657,7 +7663,6 @@
   "wd+:thekineticgroup/EXTERNAL_TKG": [],
   "wd+:themutualgroup/TMG": [],
   "wd+:theocc/careers": [
-   "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Cyber-Operations_REQ-4843",
    "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Dallas-TX/Year-Round-Intern---Application-Security_REQ-4838"
   ],
   "wd+:therapybrands/EnsoraHealth": [],
