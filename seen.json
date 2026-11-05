@@ -1417,6 +1417,7 @@
   "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/east-syracuse-ny-collamer/co-op--information-security--spring---summer-2027-_r-03409-1": "2026-11-05",
   "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": "2026-11-03",
   "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": "2026-11-05",
+  "https://schoolspring.com/jobdetail?jobid=5982482": "2026-11-05",
   "https://seattleseahawks.applytojob.com/apply/l4gogetbhp/information-security-intern": "2026-11-01",
   "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-11-05",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
@@ -1848,6 +1849,7 @@
   "t:guide|cybersecurityintern": "2026-10-29",
   "t:guide|cybersecuritypresalesinterngpsuheartlandtulsa": "2026-11-05",
   "t:guide|gpsucybersecurityspringinternship": "2026-11-02",
+  "t:gwinn|temporarymiscellaneoustechnologyandinnovationinternshipcybersecuritylevel1and2temporarymisc": "2026-11-05",
   "t:hayst|cybersecurityanalystinternship": "2026-10-29",
   "t:hcsc|cybersecurityoperationsintern": "2026-11-05",
   "t:hcsc|earlycareerscybersecurityoperationsintern": "2026-11-05",
@@ -4502,7 +4504,8 @@
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
-   "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462"
+   "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
+   "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -8207,6 +8210,10 @@
   [
    1793867880.8308725,
    "Peraton - Cyber Research Intern"
+  ],
+  [
+   1793871057.1141245,
+   "Gwinnett County Public Schools - Temporary/Miscellaneous - Technology and Innovation Inter"
   ]
  ],
  "stem5": true,
