@@ -258,6 +258,7 @@
   "https://careers.corewellhealth.org/us/en/job/r228866": "2026-10-13",
   "https://careers.corewellhealth.org/us/en/job/r228867": "2026-10-13",
   "https://careers.cse-cst.gc.ca/en/careers/summer-2027-student-opportunities-in-mechanical-electrical-and-radio-frequency-engineering-ca-247219-en": "2026-10-15",
+  "https://careers.daiichisankyo.com/job/it-risk-&-security-governance-intern/2525-en_us": "2026-11-05",
   "https://careers.docusign.com/careers-home/jobs/30540": "2026-10-21",
   "https://careers.fedex.com/global-security-intern-summer-2027/job/p25-391830-1": "2026-10-29",
   "https://careers.fisglobal.com/us/en/job/jr0309680": "2026-10-23",
@@ -1787,6 +1788,7 @@
   "t:crypt|summer2027cyberengineeringinternshipprogram": "2026-10-23",
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-05",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-05",
+  "t:daiic|itrisksecuritygovernanceintern": "2026-11-05",
   "t:danah|itsecurityintern": "2026-11-05",
   "t:dcuni|eventsecurityintern": "2026-11-05",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
@@ -4543,6 +4545,7 @@
   ],
   "jobspy": [
    "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42505&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=vhrhqF8SKCZs2OGUwUdBx7eSThMCJc2Ow20aVN8Tsmo%3D",
+   "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
    "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago",
    "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9E4D33CE05548C5567D1347D614AA8F3",
    "https://paypal.eightfold.ai/careers/job/274922982812",
@@ -8275,9 +8278,19 @@
   [
    1793904673.264929,
    "Booz Allen Hamilton - Cybersecurity Analyst Intern"
+  ],
+  [
+   1793908964.8696058,
+   "Daiichi Sankyo - IT Risk & Security Governance Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1793908798.818311,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
