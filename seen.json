@@ -1304,6 +1304,8 @@
   "https://linkedin.com/jobs/view/4487586397": "2026-11-05",
   "https://linkedin.com/jobs/view/4487701835": "2026-11-05",
   "https://linkedin.com/jobs/view/4487712244": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487716578": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487716632": "2026-11-05",
   "https://linkedin.com/jobs/view/4487720022": "2026-11-05",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1677,6 +1679,7 @@
   "t:caico|cybersecurityanalystintern": "2026-11-03",
   "t:cai|cybersecurityanalystintern": "2026-11-05",
   "t:calpo|securedwatchlicensedtrackstudentassistantsolanocampus": "2026-10-31",
+  "t:camec|studentitsecurity": "2026-11-05",
   "t:carne|cyberrangedevelopmentintern": "2026-11-05",
   "t:carol|securityguestexperienceintern": "2026-11-04",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
@@ -4486,6 +4489,7 @@
    "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9E4D33CE05548C5567D1347D614AA8F3",
    "https://paypal.eightfold.ai/careers/job/274922982812",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
+   "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644"
@@ -4950,6 +4954,8 @@
    "https://www.linkedin.com/jobs/view/4487586397",
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
+   "https://www.linkedin.com/jobs/view/4487716578",
+   "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022"
   ],
   "linkedin": [
@@ -8100,10 +8106,6 @@
  "heartbeat": "2026-11-05 00",
  "recent": [
   [
-   1793762097.3548644,
-   "LLNL - Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure"
-  ],
-  [
    1793769263.7216566,
    "MDA - Student Cyber Security Analyst Intern"
   ],
@@ -8182,6 +8184,10 @@
   [
    1793848403.4214394,
    "Valley Children's Healthcare - Student Intern - IT Security (Spring)"
+  ],
+  [
+   1793859143.9620376,
+   "Cameco Corporation - Student, IT Security"
   ]
  ],
  "stem5": true,
