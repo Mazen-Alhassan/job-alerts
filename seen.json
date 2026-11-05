@@ -1347,7 +1347,9 @@
   "https://linkedin.com/jobs/view/4487799841": "2026-11-05",
   "https://linkedin.com/jobs/view/4488010550": "2026-11-05",
   "https://linkedin.com/jobs/view/4488029401": "2026-11-05",
+  "https://linkedin.com/jobs/view/4488049949": "2026-11-05",
   "https://linkedin.com/jobs/view/4488054641": "2026-11-05",
+  "https://linkedin.com/jobs/view/4488056629": "2026-11-05",
   "https://linkedin.com/jobs/view/4488062051": "2026-11-05",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1824,6 +1826,7 @@
   "t:ducha|cybersecurityinternsummer2027": "2026-11-05",
   "t:dukee|nuclearcybersecurity2027summerinternship": "2026-10-31",
   "t:dukee|nuclearcybersecurityintern": "2026-10-28",
+  "t:dwyer|cyberresilienceproductsecurityintern": "2026-11-05",
   "t:eastp|itcybersecurityinternshipsummer2027": "2026-11-04",
   "t:eeonl|interncoopitsecurity": "2026-11-05",
   "t:ehc|itsecuritystudentinternsummer2027": "2026-11-05",
@@ -4573,6 +4576,7 @@
    "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1",
    "https://paypal.eightfold.ai/careers/job/274922982812",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
+   "https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingId=c622a8b6-c7ef-4c91-9f43-a00c17d0b306",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
    "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
    "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
@@ -5011,10 +5015,8 @@
    "https://www.linkedin.com/jobs/view/4478818519"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
    "https://www.linkedin.com/jobs/view/4460655626",
    "https://www.linkedin.com/jobs/view/4468903013",
@@ -5043,7 +5045,9 @@
    "https://www.linkedin.com/jobs/view/4487799841",
    "https://www.linkedin.com/jobs/view/4488010550",
    "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488049949",
    "https://www.linkedin.com/jobs/view/4488054641",
+   "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051"
   ],
   "linkedin": [
@@ -5569,7 +5573,6 @@
    "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102",
    "https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false",
    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065",
-   "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
    "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994",
    "https://www.metacareers.com/jobs/1903232531024141"
   ],
@@ -8206,12 +8209,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-05 16",
+ "heartbeat": "2026-11-05 18",
  "recent": [
-  [
-   1793825950.7994394,
-   "Rambus - Security Engineering Intern"
-  ],
   [
    1793830404.029481,
    "Cigna - Cybersecurity Intern, Technology Development Program"
@@ -8315,9 +8314,19 @@
   [
    1793917335.2218237,
    "Welltower, Inc - Summer '27 Intern - Cyber Security"
+  ],
+  [
+   1793919820.7514863,
+   "DwyerOmega - Cyber Resilience & Product Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1793919620.166226,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
