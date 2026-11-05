@@ -778,6 +778,7 @@
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-05",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-05",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-05",
+  "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9e4d33ce05548c5567d1347d614aa8f3": "2026-11-05",
   "https://joinbytedance.com/search/7625759034518128901": "2026-11-01",
   "https://kei.wd1.myworkdayjobs.com/globalkimballcareers/job/kimball-electronics-corporate-headquarters/cybersecurity-intern_r20261495": "2026-10-15",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-defense-associate_r-67301-1": "2026-11-05",
@@ -2237,6 +2238,7 @@
   "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-05",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-10-17",
+  "t:valle|studentinternitsecurityspring": "2026-11-05",
   "t:vangu|collegetocorporateitinternshiprisksecurityanalystnc": "2026-11-05",
   "t:vangu|collegetocorporateitinternshiprisksecurityanalystpa": "2026-11-05",
   "t:vangu|collegetocorporateitinternshiprisksecurityengineer": "2026-11-05",
@@ -4497,6 +4499,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security/",
+   "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9E4D33CE05548C5567D1347D614AA8F3",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
@@ -4946,7 +4949,6 @@
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461513360",
    "https://www.linkedin.com/jobs/view/4462084600",
@@ -8118,16 +8120,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-04 20",
+ "heartbeat": "2026-11-04 22",
  "recent": [
-  [
-   1793750708.273323,
-   "AmeriHome Mortgage Company, LLC - Summer 2027 Internship - Phoenix, AZ - IT Security"
-  ],
-  [
-   1793752081.8141484,
-   "MITRE - Embedded Security PhD Intern"
-  ],
   [
    1793762097.3548644,
    "LLNL - Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure"
@@ -8207,6 +8201,10 @@
   [
    1793842373.7887924,
    "PayPal - Cybersecurity Intern - Summer 2027"
+  ],
+  [
+   1793848403.4214394,
+   "Valley Children's Healthcare - Student Intern - IT Security (Spring)"
   ]
  ],
  "stem5": true,
