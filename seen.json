@@ -326,6 +326,7 @@
   "https://careers.viasat.com/jobs/6458": "2026-11-05",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
   "https://careersus-shure.icims.com/jobs/4997/information-security-governance%2c-risk-%26-compliance-intern/job": "2026-11-05",
+  "https://caresource.wd1.myworkdayjobs.com/caresource/job/remote/xmlname-2027-summer-internship-program---cybersecurity_r14178": "2026-11-05",
   "https://cat.wd5.myworkdayjobs.com/caterpillarcareers/job/east-peoria-illinois/secure-technology-apprentice--cybersecurity-apprenticeship-_r0000396195": "2026-10-30",
   "https://cc.wd3.myworkdayjobs.com/chanelcareers/job/geneve/cyber-security-intern_jobreq00117316": "2026-10-08",
   "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-mo/applications-security-engineer-intern--undergraduate-summer-2027-_1667746": "2026-10-27",
@@ -1723,6 +1724,7 @@
   "t:caree|interncyberit": "2026-11-05",
   "t:caree|interncybersecurity": "2026-11-05",
   "t:caree|interndepartmentcyberit": "2026-11-05",
+  "t:cares|2027summerinternshipprogramcybersecurity": "2026-11-05",
   "t:carne|cyberrangedevelopmentintern": "2026-11-05",
   "t:carol|securityguestexperienceintern": "2026-11-04",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
@@ -4995,7 +4997,6 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
@@ -5017,7 +5018,6 @@
    "https://www.linkedin.com/jobs/view/4487586397",
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
-   "https://www.linkedin.com/jobs/view/4487716578",
    "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022",
    "https://www.linkedin.com/jobs/view/4487785897",
@@ -6339,7 +6339,9 @@
   "wd+:capri/jimmychoocareers": [],
   "wd+:cardinalhealth/EXT": [],
   "wd+:cardworks/Merrick_Bank_External": [],
-  "wd+:caresource/caresource": [],
+  "wd+:caresource/caresource": [
+   "https://caresource.wd1.myworkdayjobs.com/en-US/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178"
+  ],
   "wd+:carislifesciences/CLS": [],
   "wd+:carislifesciences/cls": [],
   "wd+:carmax/External": [],
@@ -8289,6 +8291,10 @@
   [
    1793908964.8696058,
    "Daiichi Sankyo - IT Risk & Security Governance Intern"
+  ],
+  [
+   1793911283.3805547,
+   "CareSource - 2027 Summer Internship Program - Cybersecurity"
   ]
  ],
  "stem5": true,
