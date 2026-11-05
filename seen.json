@@ -512,6 +512,8 @@
   "https://go.vansh.nyc/1hR": "2026-11-05",
   "https://go.vansh.nyc/1hZ": "2026-11-05",
   "https://go.vansh.nyc/1iu": "2026-11-05",
+  "https://go.vansh.nyc/1iv": "2026-11-05",
+  "https://go.vansh.nyc/1iy": "2026-11-05",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1974,6 +1976,7 @@
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-05",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-05",
   "t:linds|cybersecurityintern": "2026-11-03",
+  "t:littl|cyberitintern": "2026-11-05",
   "t:littl|interncyberit": "2026-11-05",
   "t:littl|interncybersecurity": "2026-11-05",
   "t:littl|interndepartmentcyberit": "2026-11-05",
@@ -4517,7 +4520,6 @@
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
    "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Jr-Security-Analyst-Student-Intern_R-6644",
-   "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
    "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
    "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
   ],
@@ -5549,7 +5551,6 @@
    "https://go.vansh.nyc/1cR",
    "https://go.vansh.nyc/1cZ",
    "https://go.vansh.nyc/1cc",
-   "https://go.vansh.nyc/1cq",
    "https://go.vansh.nyc/1cy",
    "https://go.vansh.nyc/1dD",
    "https://go.vansh.nyc/1dI",
@@ -5571,7 +5572,9 @@
    "https://go.vansh.nyc/1h7",
    "https://go.vansh.nyc/1hR",
    "https://go.vansh.nyc/1hZ",
-   "https://go.vansh.nyc/1iu"
+   "https://go.vansh.nyc/1iu",
+   "https://go.vansh.nyc/1iv",
+   "https://go.vansh.nyc/1iy"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8228,6 +8231,10 @@
   [
    1793889258.7188647,
    "Little Caesars Enterprises - Intern, Cyber IT"
+  ],
+  [
+   1793889991.8623652,
+   "Little Caesars Enterprises - Cyber IT Intern"
   ]
  ],
  "stem5": true,
