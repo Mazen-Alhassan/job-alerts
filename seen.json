@@ -517,6 +517,7 @@
   "https://go.vansh.nyc/1hZ": "2026-11-05",
   "https://go.vansh.nyc/1iJ": "2026-11-05",
   "https://go.vansh.nyc/1iL": "2026-11-05",
+  "https://go.vansh.nyc/1iU": "2026-11-05",
   "https://go.vansh.nyc/1iu": "2026-11-05",
   "https://go.vansh.nyc/1iv": "2026-11-05",
   "https://go.vansh.nyc/1iy": "2026-11-05",
@@ -1664,6 +1665,7 @@
   "t:bmo|juniorcybersecurityinternwinter2027coopinternship4months": "2026-11-05",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
   "t:boein|boeingsummer2027internshipprogrampaidsecurityfireoperationsfo": "2026-11-05",
+  "t:booza|cybersecurityanalystintern": "2026-11-05",
   "t:booza|cybersecurityintern": "2026-11-05",
   "t:booza|enterprisecybersecuritydataandbusinessintelligenceanalystintern": "2026-10-28",
   "t:booza|enterprisecybersecuritydatalosspreventionintern": "2026-11-05",
@@ -4987,8 +4989,8 @@
    "https://www.linkedin.com/jobs/view/4478818519"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4460650736",
@@ -5612,6 +5614,7 @@
    "https://go.vansh.nyc/1hZ",
    "https://go.vansh.nyc/1iJ",
    "https://go.vansh.nyc/1iL",
+   "https://go.vansh.nyc/1iU",
    "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1iv",
    "https://go.vansh.nyc/1iy"
@@ -8176,10 +8179,6 @@
  "heartbeat": "2026-11-05 12",
  "recent": [
   [
-   1793810677.074536,
-   "TMX Group - Junior Cybersecurity Operations Analyst Intern"
-  ],
-  [
    1793818229.8941343,
    "TC Energy - Intern, Enterprise Security - Detection & Response"
   ],
@@ -8282,6 +8281,10 @@
   [
    1793902408.1120949,
    "Viasat - Information Security Specialist, Early Career"
+  ],
+  [
+   1793904673.264929,
+   "Booz Allen Hamilton - Cybersecurity Analyst Intern"
   ]
  ],
  "stem5": true,
