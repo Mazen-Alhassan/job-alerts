@@ -513,6 +513,7 @@
   "https://go.vansh.nyc/1h8": "2026-11-04",
   "https://go.vansh.nyc/1hR": "2026-11-05",
   "https://go.vansh.nyc/1hZ": "2026-11-05",
+  "https://go.vansh.nyc/1iJ": "2026-11-05",
   "https://go.vansh.nyc/1iu": "2026-11-05",
   "https://go.vansh.nyc/1iv": "2026-11-05",
   "https://go.vansh.nyc/1iy": "2026-11-05",
@@ -1814,6 +1815,7 @@
   "t:feder|2027summerinternshipprogramsupervisionregulationcybersecurity": "2026-11-05",
   "t:feder|aviationsecurityintern": "2026-10-31",
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
+  "t:feder|informationsecurityintern": "2026-11-05",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-11-05",
   "t:feder|summer2027internsecurityanalystit": "2026-10-30",
   "t:feder|summerinternshipcybersecurity": "2026-11-03",
@@ -5579,6 +5581,7 @@
    "https://go.vansh.nyc/1h7",
    "https://go.vansh.nyc/1hR",
    "https://go.vansh.nyc/1hZ",
+   "https://go.vansh.nyc/1iJ",
    "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1iv",
    "https://go.vansh.nyc/1iy"
@@ -8142,14 +8145,6 @@
  "heartbeat": "2026-11-05 10",
  "recent": [
   [
-   1793800325.1698627,
-   "Thornton Tomasetti - Electronic Security Intern"
-  ],
-  [
-   1793801371.2800932,
-   "TMX Group - Jr. Security Analyst Student Intern"
-  ],
-  [
    1793807361.7008173,
    "TMX Group - Security Engineering Intern"
   ],
@@ -8244,6 +8239,10 @@
   [
    1793893647.807968,
    "Federal Reserve - 2027 Summer Internship Program - Information Security Intern"
+  ],
+  [
+   1793895683.0679958,
+   "The Federal Reserve System - Information Security Intern"
   ]
  ],
  "stem5": true,
