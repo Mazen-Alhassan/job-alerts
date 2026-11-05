@@ -511,6 +511,7 @@
   "https://go.vansh.nyc/1h8": "2026-11-04",
   "https://go.vansh.nyc/1hR": "2026-11-05",
   "https://go.vansh.nyc/1hZ": "2026-11-05",
+  "https://go.vansh.nyc/1iu": "2026-11-05",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1056,7 +1057,7 @@
   "https://linkedin.com/jobs/view/4477873809": "2026-10-10",
   "https://linkedin.com/jobs/view/4477929581": "2026-10-13",
   "https://linkedin.com/jobs/view/4477930507": "2026-10-13",
-  "https://linkedin.com/jobs/view/4477940240": "2026-10-13",
+  "https://linkedin.com/jobs/view/4477940240": "2026-11-05",
   "https://linkedin.com/jobs/view/4477977111": "2026-10-14",
   "https://linkedin.com/jobs/view/4477981831": "2026-10-13",
   "https://linkedin.com/jobs/view/4478081281": "2026-11-01",
@@ -2081,6 +2082,7 @@
   "t:papaj|2027summerinterncybersecurity": "2026-11-05",
   "t:papaj|cybersecurityintern": "2026-11-03",
   "t:param|cybersecuritysolutionengineerintern": "2026-10-30",
+  "t:paypa|cybersecurityintern": "2026-11-05",
   "t:paypa|cybersecurityinternsummer2027": "2026-11-05",
   "t:peckh|itsecurityintern": "2026-11-02",
   "t:penns|cybersecurityengineerintern": "2026-11-05",
@@ -4948,6 +4950,7 @@
    "https://www.linkedin.com/jobs/view/4459280256",
    "https://www.linkedin.com/jobs/view/4459296440",
    "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -4959,6 +4962,7 @@
    "https://www.linkedin.com/jobs/view/4469315805",
    "https://www.linkedin.com/jobs/view/4470246193",
    "https://www.linkedin.com/jobs/view/4471125435",
+   "https://www.linkedin.com/jobs/view/4477940240",
    "https://www.linkedin.com/jobs/view/4478139651",
    "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4481656491",
@@ -4971,7 +4975,6 @@
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
    "https://www.linkedin.com/jobs/view/4487712566",
-   "https://www.linkedin.com/jobs/view/4487716578",
    "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022"
   ],
@@ -5563,7 +5566,8 @@
    "https://go.vansh.nyc/1gt",
    "https://go.vansh.nyc/1h7",
    "https://go.vansh.nyc/1hR",
-   "https://go.vansh.nyc/1hZ"
+   "https://go.vansh.nyc/1hZ",
+   "https://go.vansh.nyc/1iu"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8122,10 +8126,6 @@
  "heartbeat": "2026-11-05 06",
  "recent": [
   [
-   1793783880.860498,
-   "Newport News Shipbuilding, A Division of HII - INDUSTRIAL SECURITY ANALYST SKILLBRIDGE INT"
-  ],
-  [
    1793792193.3806584,
    "Northrop Grumman - 2027 Cybersecurity Software Engineering Intern - Roy UT"
   ],
@@ -8216,6 +8216,10 @@
   [
    1793871057.1141245,
    "Gwinnett County Public Schools - Temporary/Miscellaneous - Technology and Innovation Inter"
+  ],
+  [
+   1793880802.410084,
+   "PayPal - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
