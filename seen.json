@@ -515,6 +515,7 @@
   "https://go.vansh.nyc/1hR": "2026-11-05",
   "https://go.vansh.nyc/1hZ": "2026-11-05",
   "https://go.vansh.nyc/1iJ": "2026-11-05",
+  "https://go.vansh.nyc/1iL": "2026-11-05",
   "https://go.vansh.nyc/1iu": "2026-11-05",
   "https://go.vansh.nyc/1iv": "2026-11-05",
   "https://go.vansh.nyc/1iy": "2026-11-05",
@@ -640,6 +641,7 @@
   "https://hcsc.wd1.myworkdayjobs.com/hcsc_external/job/tx---richardson/early-careers---vulnerability-management-intern_r0059514": "2026-10-26",
   "https://hdks.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/9468": "2026-11-05",
   "https://hdnn.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/114154": "2026-11-05",
+  "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago": "2026-11-05",
   "https://highlinewarren.hrmdirect.com/employment/view.php": "2026-10-16",
   "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/camp-hill-pa-17011-center-street-building-1b/summer-2027-cyber-risk-management-analyst-undergraduate-intern_j286841": "2026-11-05",
   "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-vulnerability-management-analyst-undergraduate-intern_j288015": "2026-11-05",
@@ -2163,6 +2165,7 @@
   "t:rtx|summer2027cyberinternonsite": "2026-11-05",
   "t:rtx|systemssecurityengineeringintern": "2026-11-05",
   "t:rtx|systemssecurityengineeringinternsummer2027": "2026-11-03",
+  "t:rtx|systemssecurityengineerintern": "2026-11-05",
   "t:rtx|systemssecurityengineerinternraytheon": "2026-11-05",
   "t:rwjba|cybersecurityinterninformationsecurity": "2026-10-22",
   "t:saabi|coopinformationsecurityspringsummer2027": "2026-11-05",
@@ -4525,6 +4528,7 @@
   "jobspy": [
    "https://career17.sapsf.com/career?career_ns=job_listing&company=Cameco&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=42505&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=vhrhqF8SKCZs2OGUwUdBx7eSThMCJc2Ow20aVN8Tsmo%3D",
    "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security/",
+   "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago",
    "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9E4D33CE05548C5567D1347D614AA8F3",
    "https://paypal.eightfold.ai/careers/job/274922982812",
    "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
@@ -5587,6 +5591,7 @@
    "https://go.vansh.nyc/1hR",
    "https://go.vansh.nyc/1hZ",
    "https://go.vansh.nyc/1iJ",
+   "https://go.vansh.nyc/1iL",
    "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1iv",
    "https://go.vansh.nyc/1iy"
@@ -8248,6 +8253,10 @@
   [
    1793895683.0679958,
    "The Federal Reserve System - Information Security Intern"
+  ],
+  [
+   1793896988.392713,
+   "RTX - Systems Security Engineer Intern"
   ]
  ],
  "stem5": true,
