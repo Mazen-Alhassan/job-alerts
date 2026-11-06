@@ -4562,6 +4562,7 @@
   ],
   "jobspy": [
    "https://apply.ukg.com/careers/job/893398050384",
+   "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
    "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/",
    "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178",
@@ -8285,6 +8286,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793980829.3134942,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
