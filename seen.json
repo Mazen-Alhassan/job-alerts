@@ -1433,6 +1433,7 @@
   "https://paycomonline.net/v4/ats/web.php/portal/d1b7897110ff4b711e6764b6108ef2be/jobs/397756": "2026-10-15",
   "https://paypal.eightfold.ai/careers/job/274922982812": "2026-11-06",
   "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/golden-valley-mn/it---cybersecurity-leadership-development-internship-program----summer-2027_r23700": "2026-11-06",
+  "https://petronascanada.wd3.myworkdayjobs.com/petronascanada/job/calgary/summer-student--network-and-security_r0001882": "2026-11-06",
   "https://pg.wd5.myworkdayjobs.com/1000/job/cincinnati-general-offices/it-security-internship_r000157502": "2026-11-06",
   "https://pgcareers.com/global/en/job/r000157502": "2026-11-06",
   "https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewrequisition?cws=41&org=COSTCO&rid=10994": "2026-11-06",
@@ -2157,6 +2158,7 @@
   "t:perat|itcybersecurityinternforthuachucaaz": "2026-10-28",
   "t:perat|springsummer2027cybersecurityengineercoop": "2026-11-05",
   "t:perat|summer2027cybersecurityengineeringintern": "2026-10-16",
+  "t:petro|summerstudentnetworkandsecurity": "2026-11-06",
   "t:pg|itsecurityinternship": "2026-11-06",
   "t:plant|2027cybersecurityconsultantintern": "2026-11-06",
   "t:porto|informationtechnologyinterncybersecurity": "2026-10-16",
@@ -4579,6 +4581,7 @@
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Department-Cyber-IT_R9670",
    "https://jobs.northropgrumman.com/careers/job/1340075152856?code=JB-17946",
    "https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose-CA/Security-Analyst-Intern_R-982-1",
+   "https://petronascanada.wd3.myworkdayjobs.com/en-US/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
    "https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingId=c622a8b6-c7ef-4c91-9f43-a00c17d0b306"
   ],
@@ -8189,7 +8192,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-06 12",
+ "heartbeat": "2026-11-06 14",
  "recent": [
   [
    1793899283.4495661,
@@ -8258,6 +8261,10 @@
   [
    1793990890.6486478,
    "Valley Children's Specialty Medical Group - IT Security Intern"
+  ],
+  [
+   1793992071.104213,
+   "Petronas Canada - Summer Student, Network and Security"
   ]
  ],
  "stem5": true,
