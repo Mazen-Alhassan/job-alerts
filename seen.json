@@ -1368,6 +1368,7 @@
   "https://linkedin.com/jobs/view/4488107800": "2026-11-06",
   "https://linkedin.com/jobs/view/4488108609": "2026-11-06",
   "https://linkedin.com/jobs/view/4488119176": "2026-11-06",
+  "https://linkedin.com/jobs/view/4488183482": "2026-11-06",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -5030,10 +5031,11 @@
    "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051",
    "https://www.linkedin.com/jobs/view/4488072637",
-   "https://www.linkedin.com/jobs/view/4488084572",
+   "https://www.linkedin.com/jobs/view/4488072949",
    "https://www.linkedin.com/jobs/view/4488107800",
    "https://www.linkedin.com/jobs/view/4488108609",
-   "https://www.linkedin.com/jobs/view/4488119176"
+   "https://www.linkedin.com/jobs/view/4488119176",
+   "https://www.linkedin.com/jobs/view/4488183482"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5977,7 +5979,9 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [],
+  "wd+:accenture/AccentureCareers": [
+   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Luxembourg/Internship---Cybersecurity-Lux---as-of-February-2027_R00365078-1"
+  ],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -6178,10 +6182,8 @@
   ],
   "wd+:bah/Confidential": [],
   "wd+:bah/bah_jobs": [
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
-   "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
@@ -8281,6 +8283,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1793982593.1560647,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
