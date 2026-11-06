@@ -1308,6 +1308,7 @@
   "https://linkedin.com/jobs/view/4486093045": "2026-11-04",
   "https://linkedin.com/jobs/view/4486093123": "2026-11-04",
   "https://linkedin.com/jobs/view/4486190874": "2026-11-03",
+  "https://linkedin.com/jobs/view/4486265122": "2026-11-06",
   "https://linkedin.com/jobs/view/4486302847": "2026-11-04",
   "https://linkedin.com/jobs/view/4486403514": "2026-11-03",
   "https://linkedin.com/jobs/view/4486409768": "2026-11-03",
@@ -1345,6 +1346,7 @@
   "https://linkedin.com/jobs/view/4487211808": "2026-11-05",
   "https://linkedin.com/jobs/view/4487217538": "2026-11-05",
   "https://linkedin.com/jobs/view/4487226304": "2026-11-05",
+  "https://linkedin.com/jobs/view/4487314350": "2026-11-06",
   "https://linkedin.com/jobs/view/4487586397": "2026-11-06",
   "https://linkedin.com/jobs/view/4487701835": "2026-11-06",
   "https://linkedin.com/jobs/view/4487712244": "2026-11-06",
@@ -2056,7 +2058,7 @@
   "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-28",
   "t:merce|cybersecurityintern": "2026-10-28",
   "t:meta|researchscientistinternparsafetyevalsandredteaming": "2026-11-06",
-  "t:meta|researchscientistinternphdparsafetyevalsandredteaming": "2026-11-05",
+  "t:meta|researchscientistinternphdparsafetyevalsandredteaming": "2026-11-06",
   "t:micro|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-11-06",
   "t:micro|securityassuranceinternctjts": "2026-11-06",
   "t:micro|securityresearchintern": "2026-11-02",
@@ -5007,7 +5009,8 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4478818519"
+   "https://www.linkedin.com/jobs/view/4478818519",
+   "https://www.linkedin.com/jobs/view/4486265122"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4471152358",
@@ -5021,6 +5024,7 @@
    "https://www.linkedin.com/jobs/view/4486781166",
    "https://www.linkedin.com/jobs/view/4486901262",
    "https://www.linkedin.com/jobs/view/4486983482",
+   "https://www.linkedin.com/jobs/view/4487314350",
    "https://www.linkedin.com/jobs/view/4487785897",
    "https://www.linkedin.com/jobs/view/4487790183",
    "https://www.linkedin.com/jobs/view/4487799841",
@@ -5031,7 +5035,7 @@
    "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051",
    "https://www.linkedin.com/jobs/view/4488072637",
-   "https://www.linkedin.com/jobs/view/4488072949",
+   "https://www.linkedin.com/jobs/view/4488084572",
    "https://www.linkedin.com/jobs/view/4488107800",
    "https://www.linkedin.com/jobs/view/4488108609",
    "https://www.linkedin.com/jobs/view/4488119176",
@@ -8186,7 +8190,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-06 10",
+ "heartbeat": "2026-11-06 12",
  "recent": [
   [
    1793888567.0647676,
