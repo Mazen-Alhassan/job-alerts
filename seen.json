@@ -5009,7 +5009,6 @@
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4486781166",
    "https://www.linkedin.com/jobs/view/4486901262",
-   "https://www.linkedin.com/jobs/view/4487586397",
    "https://www.linkedin.com/jobs/view/4487785897",
    "https://www.linkedin.com/jobs/view/4487790183",
    "https://www.linkedin.com/jobs/view/4487799841",
@@ -5585,7 +5584,6 @@
    "https://go.vansh.nyc/1cZ",
    "https://go.vansh.nyc/1cc",
    "https://go.vansh.nyc/1cy",
-   "https://go.vansh.nyc/1dD",
    "https://go.vansh.nyc/1dI",
    "https://go.vansh.nyc/1dS",
    "https://go.vansh.nyc/1du",
@@ -8183,7 +8181,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-06 00",
+ "heartbeat": "2026-11-06 02",
  "recent": [
   [
    1793839881.2834594,
@@ -8291,6 +8289,17 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "amazon-tech": [
+   1,
+   1793949269.0188255,
+   "<urlopen error timed out>"
+  ],
+  "tiktok": [
+   1,
+   1793949269.0188255,
+   "The read operation timed out"
+  ]
+ },
  "urlkey2": true
 }
