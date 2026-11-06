@@ -533,6 +533,7 @@
   "https://go.vansh.nyc/1iy": "2026-11-06",
   "https://go.vansh.nyc/1je": "2026-11-06",
   "https://go.vansh.nyc/1k7": "2026-11-06",
+  "https://go.vansh.nyc/1kN": "2026-11-06",
   "https://go.vansh.nyc/1kd": "2026-11-06",
   "https://go.vansh.nyc/1kg": "2026-11-06",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -2319,6 +2320,7 @@
   "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-05",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-11-06",
+  "t:valle|itsecurityintern": "2026-11-06",
   "t:valle|studentinternitsecurityspring": "2026-11-06",
   "t:vangu|collegetocorporateitinternshiprisksecurityanalystnc": "2026-11-06",
   "t:vangu|collegetocorporateitinternshiprisksecurityanalystpa": "2026-11-06",
@@ -5623,6 +5625,7 @@
    "https://go.vansh.nyc/1iy",
    "https://go.vansh.nyc/1je",
    "https://go.vansh.nyc/1k7",
+   "https://go.vansh.nyc/1kN",
    "https://go.vansh.nyc/1kd",
    "https://go.vansh.nyc/1kg"
   ],
@@ -8190,34 +8193,6 @@
  "heartbeat": "2026-11-06 12",
  "recent": [
   [
-   1793888567.0647676,
-   "Little Caesars Enterprises - Intern, Cyber Security"
-  ],
-  [
-   1793888567.0647695,
-   "Little Caesars Enterprises - Intern, Department Cyber IT"
-  ],
-  [
-   1793889258.7188647,
-   "Little Caesars Enterprises - Intern, Cyber IT"
-  ],
-  [
-   1793889991.8623652,
-   "Little Caesars Enterprises - Cyber IT Intern"
-  ],
-  [
-   1793893647.807968,
-   "Federal Reserve - 2027 Summer Internship Program - Information Security Intern"
-  ],
-  [
-   1793895683.0679958,
-   "The Federal Reserve System - Information Security Intern"
-  ],
-  [
-   1793896988.392713,
-   "RTX - Systems Security Engineer Intern"
-  ],
-  [
    1793899283.4495661,
    "Westinghouse Electric Company - Summer Intern - ICS Cyber Security"
   ],
@@ -8280,6 +8255,10 @@
   [
    1793979500.7148216,
    "Cintas - IT Intern - Security, Governance, Risk, & Compliance"
+  ],
+  [
+   1793990890.6486478,
+   "Valley Children's Specialty Medical Group - IT Security Intern"
   ]
  ],
  "stem5": true,
