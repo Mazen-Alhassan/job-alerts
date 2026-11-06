@@ -5018,6 +5018,7 @@
    "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051",
    "https://www.linkedin.com/jobs/view/4488072637",
+   "https://www.linkedin.com/jobs/view/4488084572",
    "https://www.linkedin.com/jobs/view/4488107800",
    "https://www.linkedin.com/jobs/view/4488108609",
    "https://www.linkedin.com/jobs/view/4488119176"
@@ -5659,7 +5660,9 @@
   "sr:BetaSoftSystems3": [],
   "sr:Blend360": [],
   "sr:Blinqlabs": [],
-  "sr:BoschGroup": [],
+  "sr:BoschGroup": [
+   "https://jobs.smartrecruiters.com/BoschGroup/744000155120934"
+  ],
   "sr:BostonEngineeringCorporation": [],
   "sr:BoydGaming": [],
   "sr:CRB": [],
@@ -6733,9 +6736,7 @@
   "wd+:globalhr/Private_Posting_No_TMP": [
    "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN05--10--50-Moulton-St--MOULTON-B5/Summer-2027-Cyber-Intern---Onsite_01879253"
   ],
-  "wd+:globalhr/rec_rtx_ext_gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
-  ],
+  "wd+:globalhr/rec_rtx_ext_gateway": [],
   "wd+:globe/GLB_Careers": [],
   "wd+:globusmedical/GMED_Careers": [],
   "wd+:gnw/GNW": [],
@@ -7933,9 +7934,7 @@
   "wd:entrust/EntrustCareers": [],
   "wd:fmr/FidelityCareers": [],
   "wd:geaerospace/GE_ExternalSite": [],
-  "wd:globalhr/REC_RTX_Ext_Gateway": [
-   "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702"
-  ],
+  "wd:globalhr/REC_RTX_Ext_Gateway": [],
   "wd:hp/ExternalCareerSite": [
    "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Product-Security-Intern---HP-IQ_UNI4810-2"
   ],
