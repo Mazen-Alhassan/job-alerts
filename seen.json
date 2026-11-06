@@ -4562,13 +4562,11 @@
   ],
   "jobspy": [
    "https://apply.ukg.com/careers/job/893398050384",
-   "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
    "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/",
    "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178",
    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26016065",
    "https://grnh.se/3oehag9g4us",
-   "https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=197751&tz=GMT-06%3A00&tzname=America%2FChicago",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Cyber-IT_R9672",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Cyber-Security_R9669",
    "https://ilitch.wd5.myworkdayjobs.com/en-US/LC/job/Detroit-MI/Intern--Department-Cyber-IT_R9670",
@@ -5565,7 +5563,6 @@
    "https://www.metacareers.com/jobs/1903232531024141"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/10C",
    "https://go.vansh.nyc/12V",
    "https://go.vansh.nyc/12b",
    "https://go.vansh.nyc/12c",
@@ -6401,7 +6398,8 @@
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551"
   ],
   "wd+:ciena/careers": [
-   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
+   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066"
   ],
   "wd+:cigna/cignacareers": [],
   "wd+:cincinnatichildrens/careersatcincinnatichildrens": [],
@@ -7813,12 +7811,8 @@
   "wd+:viatris/External": [],
   "wd+:viavisolutions/careers": [],
   "wd+:vibrant/VEH_EXTERNAL_CAREER_SITE": [],
-  "wd+:visa/Visa": [
-   "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W"
-  ],
-  "wd+:visa/Visa_Early_Careers": [
-   "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W-2"
-  ],
+  "wd+:visa/Visa": [],
+  "wd+:visa/Visa_Early_Careers": [],
   "wd+:vishay/VishayCareers": [],
   "wd+:vitalant/Careers": [],
   "wd+:vizient/Vizient_Careers": [],
