@@ -1353,6 +1353,7 @@
   "https://linkedin.com/jobs/view/4488056629": "2026-11-06",
   "https://linkedin.com/jobs/view/4488062051": "2026-11-06",
   "https://linkedin.com/jobs/view/4488072637": "2026-11-06",
+  "https://linkedin.com/jobs/view/4488084572": "2026-11-06",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1842,6 +1843,7 @@
   "t:feder|2027summerinternshipprograminformationsecurityintern": "2026-11-06",
   "t:feder|2027summerinternshipprogramsupervisionregulationcybersecurity": "2026-11-06",
   "t:feder|aviationsecurityintern": "2026-10-31",
+  "t:feder|globalsecurityinternanalyticssummer2027memphistn": "2026-11-06",
   "t:feder|globalsecurityinternsummer2027": "2026-10-30",
   "t:feder|informationsecurityintern": "2026-11-06",
   "t:feder|summer2027interncybersecurityandinformationsecurity": "2026-11-06",
@@ -4554,7 +4556,6 @@
    "https://paypal.eightfold.ai/careers/job/274922982812",
    "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
    "https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingId=c622a8b6-c7ef-4c91-9f43-a00c17d0b306",
-   "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Enterprise-Security---Detection---Response_JR-10952",
    "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462",
    "https://www.SchoolSpring.com/jobdetail?jobId=5982482"
   ],
@@ -5009,7 +5010,6 @@
    "https://www.linkedin.com/jobs/view/4487586397",
    "https://www.linkedin.com/jobs/view/4487701835",
    "https://www.linkedin.com/jobs/view/4487712244",
-   "https://www.linkedin.com/jobs/view/4487716578",
    "https://www.linkedin.com/jobs/view/4487716632",
    "https://www.linkedin.com/jobs/view/4487720022",
    "https://www.linkedin.com/jobs/view/4487785897",
@@ -5021,7 +5021,8 @@
    "https://www.linkedin.com/jobs/view/4488054641",
    "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051",
-   "https://www.linkedin.com/jobs/view/4488072637"
+   "https://www.linkedin.com/jobs/view/4488072637",
+   "https://www.linkedin.com/jobs/view/4488084572"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8181,16 +8182,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-05 18",
+ "heartbeat": "2026-11-05 20",
  "recent": [
-  [
-   1793830404.029481,
-   "Cigna - Cybersecurity Intern, Technology Development Program"
-  ],
-  [
-   1793832895.5790215,
-   "D.C. United - Event Security Intern"
-  ],
   [
    1793839881.2834594,
    "Saab, Inc. - Co-Op, Information Security (Spring - Summer 2027)"
@@ -8290,6 +8283,10 @@
   [
    1793919820.7514863,
    "DwyerOmega - Cyber Resilience & Product Security Intern"
+  ],
+  [
+   1793927496.0998921,
+   "Federal Express Corporation - Global Security Intern - Analytics (Summer 2027) Memphis, TN"
   ]
  ],
  "stem5": true,
