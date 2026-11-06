@@ -154,6 +154,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": "2026-11-06",
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-11-02",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
+  "https://apply.ukg.com/careers/job/893398050384": "2026-11-06",
   "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-06",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
@@ -2295,6 +2296,7 @@
   "t:trade|summer2027cybersecurityinternship": "2026-11-06",
   "t:twosi|securityoperationsintern": "2026-11-06",
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
+  "t:ukg|globalsecurityinternshipsummer2027": "2026-11-06",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-11-06",
   "t:unite|2027buildingsecuritysummerinternshipprogram": "2026-10-22",
   "t:unite|cybersecuritydevelopmentprograminternship": "2026-11-06",
@@ -4555,6 +4557,7 @@
    "https://careers.viasat.com/jobs/6458"
   ],
   "jobspy": [
+   "https://apply.ukg.com/careers/job/893398050384",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
    "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/",
    "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178",
@@ -5974,9 +5977,7 @@
   "wd+:abinbev/USA": [],
   "wd+:academy/Careers": [],
   "wd+:academy/careers": [],
-  "wd+:accenture/AccentureCareers": [
-   "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Luxembourg/Internship---Cybersecurity-Lux---as-of-February-2027_R00365078-1"
-  ],
+  "wd+:accenture/AccentureCareers": [],
   "wd+:accenture/AvanadeCareers": [],
   "wd+:accuray/external": [],
   "wd+:ace/careers": [],
@@ -8187,7 +8188,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-06 08",
+ "heartbeat": "2026-11-06 10",
  "recent": [
   [
    1793888567.0647676,
@@ -8268,6 +8269,10 @@
   [
    1793976178.6065314,
    "Alaska Airlines - Cybersecurity Threat Defense Intern"
+  ],
+  [
+   1793977672.1312323,
+   "UKG - Global Security Internship - Summer 2027"
   ]
  ],
  "stem5": true,
