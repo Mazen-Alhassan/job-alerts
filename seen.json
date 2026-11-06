@@ -742,6 +742,7 @@
   "https://jobs.centene.com/us/en/jobs/1667746/applications-security-engineer-intern-undergraduate-summer-2027": "2026-10-28",
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
+  "https://jobs.dayforcehcm.com/pcg/entrylevelandinternships/jobs/11150": "2026-11-06",
   "https://jobs.dayforcehcm.com/texasfarm/candidateportal/jobs/1526": "2026-11-06",
   "https://jobs.dayforcehcm.com/woodmenlife/candidateportal/jobs/2917": "2026-11-04",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-11-06",
@@ -2166,6 +2167,7 @@
   "t:perat|itcybersecurityinternforthuachucaaz": "2026-10-28",
   "t:perat|springsummer2027cybersecurityengineercoop": "2026-11-05",
   "t:perat|summer2027cybersecurityengineeringintern": "2026-10-16",
+  "t:perfo|itsecurityintern": "2026-11-06",
   "t:petro|summerstudentnetworkandsecurity": "2026-11-06",
   "t:pg|itsecurityinternship": "2026-11-06",
   "t:plant|2027cybersecurityconsultantintern": "2026-11-06",
@@ -4581,6 +4583,7 @@
   "jobspy": [
    "https://apply.ukg.com/careers/job/893398050384",
    "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
+   "https://jobs.dayforcehcm.com/en-US/pcg/ENTRYLEVELANDINTERNSHIPS/jobs/11150",
    "https://jobs.dayforcehcm.com/en-US/texasfarm/CANDIDATEPORTAL/jobs/1526",
    "https://jobs.northropgrumman.com/careers/job/1340075152856?code=JB-17946",
    "https://petronascanada.wd3.myworkdayjobs.com/en-US/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882"
@@ -8195,10 +8198,6 @@
  "heartbeat": "2026-11-06 16",
  "recent": [
   [
-   1793908964.8696058,
-   "Daiichi Sankyo - IT Risk & Security Governance Intern"
-  ],
-  [
    1793911283.3805547,
    "CareSource - 2027 Summer Internship Program - Cybersecurity"
   ],
@@ -8269,6 +8268,10 @@
   [
    1793999998.0465236,
    "CrowdStrike - Professional Services Pathfinder Intern, Red Team"
+  ],
+  [
+   1794004503.2315583,
+   "Performance Contracting - IT Security Intern"
   ]
  ],
  "stem5": true,
