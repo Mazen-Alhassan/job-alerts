@@ -534,6 +534,7 @@
   "https://go.vansh.nyc/1je": "2026-11-06",
   "https://go.vansh.nyc/1k7": "2026-11-06",
   "https://go.vansh.nyc/1kN": "2026-11-06",
+  "https://go.vansh.nyc/1kY": "2026-11-06",
   "https://go.vansh.nyc/1kd": "2026-11-06",
   "https://go.vansh.nyc/1kg": "2026-11-06",
   "https://go.vansh.nyc/SC": "2026-11-02",
@@ -5028,11 +5029,9 @@
    "https://www.linkedin.com/jobs/view/4479889400",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4486265122",
-   "https://www.linkedin.com/jobs/view/4486901262",
    "https://www.linkedin.com/jobs/view/4486983482",
    "https://www.linkedin.com/jobs/view/4487314350",
    "https://www.linkedin.com/jobs/view/4487785897",
-   "https://www.linkedin.com/jobs/view/4488029401",
    "https://www.linkedin.com/jobs/view/4488049949",
    "https://www.linkedin.com/jobs/view/4488054641",
    "https://www.linkedin.com/jobs/view/4488056629",
@@ -5267,9 +5266,7 @@
   "oracle:hccz.fa.em3.oraclecloud.com/CX_2": [],
   "oracle:hcgn.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcjy.fa.us2.oraclecloud.com/CX_1": [],
-  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [
-   "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172"
-  ],
+  "oracle:hckd.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hckz.fa.us2.oraclecloud.com/CX_1": [],
   "oracle:hcmn.fa.ap1.oraclecloud.com/CX_1001": [],
   "oracle:hcog.fa.em2.oraclecloud.com/CX_1": [],
@@ -5630,6 +5627,7 @@
    "https://go.vansh.nyc/1je",
    "https://go.vansh.nyc/1k7",
    "https://go.vansh.nyc/1kN",
+   "https://go.vansh.nyc/1kY",
    "https://go.vansh.nyc/1kd",
    "https://go.vansh.nyc/1kg"
   ],
