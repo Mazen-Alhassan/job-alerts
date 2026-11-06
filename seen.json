@@ -322,6 +322,7 @@
   "https://careers.rtx.com/global/en/job/01874702": "2026-11-06",
   "https://careers.rtx.com/global/en/job/01874703": "2026-11-05",
   "https://careers.rtx.com/global/en/job/01876185": "2026-11-06",
+  "https://careers.rtx.com/global/en/job/01877633": "2026-11-06",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
   "https://careers.rtx.com/global/en/job/01884942": "2026-10-31",
   "https://careers.rtx.com/global/en/job/01886045": "2026-11-05",
@@ -2194,6 +2195,7 @@
   "t:rockl|securityoperationsintern": "2026-11-03",
   "t:rockw|cybersecurityintern": "2026-11-03",
   "t:rockw|interncybersecurity": "2026-11-03",
+  "t:rtxco|2027summerfallcoopsecuresystemsonsite": "2026-11-06",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-06",
   "t:rtxco|internshipraytheonsystemssecurityengineeronsite": "2026-11-06",
   "t:rtxco|securesoftwareinternsummer2027": "2026-10-31",
@@ -5348,7 +5350,8 @@
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
    "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01876185"
+   "https://careers.rtx.com/global/en/job/01876185",
+   "https://careers.rtx.com/global/en/job/01877633"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -8193,10 +8196,6 @@
  "heartbeat": "2026-11-06 14",
  "recent": [
   [
-   1793902408.1120949,
-   "Viasat - Information Security Specialist, Early Career"
-  ],
-  [
    1793904673.264929,
    "Booz Allen Hamilton - Cybersecurity Analyst Intern"
   ],
@@ -8263,13 +8262,17 @@
   [
    1793994787.732324,
    "Texas Farm Bureau - Insurance Agents - Security Administrator Intern"
+  ],
+  [
+   1793996440.3108122,
+   "RTX (Collins, Pratt & Whitney, Raytheon) - 2027 Summer/Fall Co-op - Secure Systems (Onsite"
   ]
  ],
  "stem5": true,
  "streaks": {
   "netflix": [
-   1,
-   1793995177.8834763,
+   2,
+   1793996285.712259,
    "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
