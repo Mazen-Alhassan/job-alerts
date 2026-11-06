@@ -256,6 +256,7 @@
   "https://careers.cai.io/us/en/job/r8748/cybersecurity-analyst-intern": "2026-10-13",
   "https://careers.cai.io/us/en/job/r8892/cybersecurity-analyst-intern": "2026-11-03",
   "https://careers.cai.io/us/en/job/r8893/cybersecurity-analyst-intern": "2026-11-03",
+  "https://careers.cintas.com/job/mason-it-intern-security%2c-governance%2c-risk%2c-&-compliance-oh-45040/1448473300": "2026-11-06",
   "https://careers.cisco.com/global/en/job/2024817": "2026-11-02",
   "https://careers.cisco.com/global/en/job/2025885": "2026-10-09",
   "https://careers.cisco.com/global/en/job/2025886": "2026-10-09",
@@ -1778,6 +1779,7 @@
   "t:cinci|studentiisecurityanalysta": "2026-11-05",
   "t:cinci|studentiisecurityanalystb": "2026-11-05",
   "t:cinci|studentiisecurityanalystintern": "2026-11-05",
+  "t:cinta|itinternsecuritygovernanceriskcompliance": "2026-11-06",
   "t:cisco|securityconsultingengineeriintern": "2026-11-02",
   "t:cisco|securityconsultingengineeriinternunitedstates": "2026-11-02",
   "t:cityo|administrativeinternnoncareersecurity": "2026-11-01",
@@ -4560,6 +4562,7 @@
   ],
   "jobspy": [
    "https://apply.ukg.com/careers/job/893398050384",
+   "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
    "https://careers.daiichisankyo.com/job/IT-Risk-&-Security-Governance-Intern/2525-en_US",
    "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/",
    "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178",
@@ -8281,6 +8284,10 @@
   [
    1793979322.2506897,
    "Ciena - Embedded Security Software Developer - New Grad"
+  ],
+  [
+   1793979500.7148216,
+   "Cintas - IT Intern - Security, Governance, Risk, & Compliance"
   ]
  ],
  "stem5": true,
