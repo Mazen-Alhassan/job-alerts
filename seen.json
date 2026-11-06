@@ -1122,6 +1122,7 @@
   "https://linkedin.com/jobs/view/4479709136": "2026-10-15",
   "https://linkedin.com/jobs/view/4479761747": "2026-11-06",
   "https://linkedin.com/jobs/view/4479860484": "2026-10-15",
+  "https://linkedin.com/jobs/view/4479889400": "2026-11-06",
   "https://linkedin.com/jobs/view/4480061946": "2026-10-22",
   "https://linkedin.com/jobs/view/4480090664": "2026-10-23",
   "https://linkedin.com/jobs/view/4480092595": "2026-10-23",
@@ -1842,6 +1843,7 @@
   "t:ensig|internvulnerabilityresearch": "2026-11-06",
   "t:enteg|cybersecurityengineercoop": "2026-10-28",
   "t:enter|itinformationsecurityinternsummer2027": "2026-10-27",
+  "t:envis|digitalforensicsintern": "2026-11-06",
   "t:erics|cybersecurityanalystintern": "2026-11-06",
   "t:erics|securityanalystintern": "2026-11-06",
   "t:exped|securityengineeringintern": "2026-10-20",
@@ -5005,6 +5007,7 @@
    "https://www.linkedin.com/jobs/view/4478818519",
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479761747",
+   "https://www.linkedin.com/jobs/view/4479889400",
    "https://www.linkedin.com/jobs/view/4481656491",
    "https://www.linkedin.com/jobs/view/4486781166",
    "https://www.linkedin.com/jobs/view/4486901262",
@@ -8181,30 +8184,6 @@
  "heartbeat": "2026-11-06 08",
  "recent": [
   [
-   1793859143.9620376,
-   "Cameco Corporation - Student, IT Security"
-  ],
-  [
-   1793860756.8626277,
-   "UnitedHealth Group - Cybersecurity Development Program Internship"
-  ],
-  [
-   1793860968.206064,
-   "EEONLINE - Intern/Co-Op-IT & Security"
-  ],
-  [
-   1793866788.4214907,
-   "General Dynamics Information Technology - Cybersecurity Associate Intern"
-  ],
-  [
-   1793867880.8308725,
-   "Peraton - Cyber Research Intern"
-  ],
-  [
-   1793871057.1141245,
-   "Gwinnett County Public Schools - Temporary/Miscellaneous - Technology and Innovation Inter"
-  ],
-  [
    1793880802.410084,
    "PayPal - Cybersecurity Intern"
   ],
@@ -8275,6 +8254,10 @@
   [
    1793950731.035448,
    "Accenture - Internship \u2013 Cybersecurity Lux \u2013 as of February 2027"
+  ],
+  [
+   1793971390.698108,
+   "Envista Forensics - Digital Forensics Intern"
   ]
  ],
  "stem5": true,
