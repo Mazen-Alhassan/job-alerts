@@ -529,6 +529,9 @@
   "https://go.vansh.nyc/1iv": "2026-11-06",
   "https://go.vansh.nyc/1iy": "2026-11-06",
   "https://go.vansh.nyc/1je": "2026-11-06",
+  "https://go.vansh.nyc/1k7": "2026-11-06",
+  "https://go.vansh.nyc/1kd": "2026-11-06",
+  "https://go.vansh.nyc/1kg": "2026-11-06",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1571,6 +1574,7 @@
   "t:aeros|softwareengineerinternsoftwareprocessandarchitecturedepartmentinformationsystemsandcyberdivision": "2026-11-06",
   "t:airbu|cybersecurityinternships2027": "2026-10-26",
   "t:airpr|summerinternitcyberaudit2027": "2026-11-06",
+  "t:alask|cybersecuritythreatdefenseintern": "2026-11-06",
   "t:alask|interncybersecuritythreatdefensesummer2027": "2026-11-04",
   "t:alaya|internsecurityanalystwintersemester2027": "2026-10-29",
   "t:allia|nationalsecuritypolicyinternvolunteer": "2026-10-29",
@@ -1965,6 +1969,7 @@
   "t:intel|cyberanalystinternshipdowskillbridgewithsecurityclearance": "2026-11-04",
   "t:intel|informationsecurityengineerintern": "2026-10-29",
   "t:intel|informationsecurityengineerundergraduateintern": "2026-10-29",
+  "t:inter|applicationsecurityintern": "2026-11-06",
   "t:inter|cybersecurityarchitectintern": "2026-11-06",
   "t:inter|informationsecurityintern": "2026-10-16",
   "t:inter|summerinternshipprogram2027applicationsecurityintern": "2026-11-06",
@@ -5021,7 +5026,6 @@
    "https://www.linkedin.com/jobs/view/4488056629",
    "https://www.linkedin.com/jobs/view/4488062051",
    "https://www.linkedin.com/jobs/view/4488072637",
-   "https://www.linkedin.com/jobs/view/4488084572",
    "https://www.linkedin.com/jobs/view/4488107800",
    "https://www.linkedin.com/jobs/view/4488108609",
    "https://www.linkedin.com/jobs/view/4488119176"
@@ -5610,7 +5614,10 @@
    "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1iv",
    "https://go.vansh.nyc/1iy",
-   "https://go.vansh.nyc/1je"
+   "https://go.vansh.nyc/1je",
+   "https://go.vansh.nyc/1k7",
+   "https://go.vansh.nyc/1kd",
+   "https://go.vansh.nyc/1kg"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8180,10 +8187,6 @@
  "heartbeat": "2026-11-06 08",
  "recent": [
   [
-   1793880802.410084,
-   "PayPal - Cybersecurity Intern"
-  ],
-  [
    1793888567.0647676,
    "Little Caesars Enterprises - Intern, Cyber Security"
   ],
@@ -8254,6 +8257,14 @@
   [
    1793971390.698108,
    "Envista Forensics - Digital Forensics Intern"
+  ],
+  [
+   1793976178.606529,
+   "Intercontinental Exchange, Inc. - Application Security Intern"
+  ],
+  [
+   1793976178.6065314,
+   "Alaska Airlines - Cybersecurity Threat Defense Intern"
   ]
  ],
  "stem5": true,
