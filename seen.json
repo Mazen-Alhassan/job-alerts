@@ -7811,7 +7811,10 @@
   "wd+:vumc/vumccareers": [],
   "wd+:walkerdunlop/WD": [],
   "wd+:walmart/Non-WorkdayInternal": [],
-  "wd+:walmart/WalmartExternal": [],
+  "wd+:walmart/WalmartExternal": [
+   "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Masters_R-2630026",
+   "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025"
+  ],
   "wd+:warnerbros/global": [],
   "wd+:washpost/washingtonpostcareers": [],
   "wd+:wattswater/Intern-External": [],
