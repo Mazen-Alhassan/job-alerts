@@ -322,7 +322,7 @@
   "https://careers.rtx.com/global/en/job/01874702": "2026-11-07",
   "https://careers.rtx.com/global/en/job/01874703": "2026-11-05",
   "https://careers.rtx.com/global/en/job/01876185": "2026-11-07",
-  "https://careers.rtx.com/global/en/job/01877633": "2026-11-06",
+  "https://careers.rtx.com/global/en/job/01877633": "2026-11-07",
   "https://careers.rtx.com/global/en/job/01878922": "2026-10-13",
   "https://careers.rtx.com/global/en/job/01884942": "2026-10-31",
   "https://careers.rtx.com/global/en/job/01886045": "2026-11-05",
@@ -2204,7 +2204,7 @@
   "t:rockl|securityoperationsintern": "2026-11-03",
   "t:rockw|cybersecurityintern": "2026-11-03",
   "t:rockw|interncybersecurity": "2026-11-03",
-  "t:rtxco|2027summerfallcoopsecuresystemsonsite": "2026-11-06",
+  "t:rtxco|2027summerfallcoopsecuresystemsonsite": "2026-11-07",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-07",
   "t:rtxco|internshipraytheonsystemssecurityengineeronsite": "2026-11-07",
   "t:rtxco|securesoftwareinternsummer2027": "2026-10-31",
@@ -5043,14 +5043,18 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450865117",
+   "https://www.linkedin.com/jobs/view/4461369410",
    "https://www.linkedin.com/jobs/view/4461376946",
    "https://www.linkedin.com/jobs/view/4461693598",
    "https://www.linkedin.com/jobs/view/4470026023",
    "https://www.linkedin.com/jobs/view/4470041844",
    "https://www.linkedin.com/jobs/view/4471678825",
    "https://www.linkedin.com/jobs/view/4471690455",
+   "https://www.linkedin.com/jobs/view/4472206391",
    "https://www.linkedin.com/jobs/view/4476111845",
+   "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479151937",
+   "https://www.linkedin.com/jobs/view/4486265122",
    "https://www.linkedin.com/jobs/view/4486606128",
    "https://www.linkedin.com/jobs/view/4487314350",
    "https://www.linkedin.com/jobs/view/4487376343",
@@ -5364,7 +5368,7 @@
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
    "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01876185"
+   "https://careers.rtx.com/global/en/job/01877633"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -8257,10 +8261,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "netflix": [
+  "li-companies": [
    1,
-   1794068229.1217623,
-   "HTTP Error 429: TOO MANY REQUESTS"
+   1794068499.1220708,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  },
  "urlkey2": true
