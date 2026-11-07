@@ -5014,17 +5014,17 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4486265122"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4461376946",
    "https://www.linkedin.com/jobs/view/4461693598",
    "https://www.linkedin.com/jobs/view/4471672805",
-   "https://www.linkedin.com/jobs/view/4479067992",
    "https://www.linkedin.com/jobs/view/4479151937",
    "https://www.linkedin.com/jobs/view/4479157817",
    "https://www.linkedin.com/jobs/view/4479860484",
    "https://www.linkedin.com/jobs/view/4479889400",
-   "https://www.linkedin.com/jobs/view/4486265122",
    "https://www.linkedin.com/jobs/view/4486606128",
    "https://www.linkedin.com/jobs/view/4486983482",
    "https://www.linkedin.com/jobs/view/4487314350",
@@ -5559,8 +5559,6 @@
    "https://www.metacareers.com/jobs/1903232531024141"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/12e",
-   "https://go.vansh.nyc/12f",
    "https://go.vansh.nyc/14A",
    "https://go.vansh.nyc/14B",
    "https://go.vansh.nyc/14C",
