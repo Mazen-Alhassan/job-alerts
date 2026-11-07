@@ -356,6 +356,7 @@
   "https://click.appcast.io/t/clvw3adcsftoh9fdln8lt4d4xnan8g5zdm7lpj-yibi=": "2026-11-03",
   "https://click.appcast.io/t/epd_tcbha7t2ql54_icbyn8uxeckpnxy0u8dtmvb56k=": "2026-10-08",
   "https://click.appcast.io/t/pvmjg6szhweobjldyll-mv1puc2wtyfv404vlipfkkk=": "2026-10-11",
+  "https://click2apply.net/xdnljztve5kpotxjxc6zb6": "2026-11-07",
   "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199-1": "2026-10-10",
@@ -4606,7 +4607,8 @@
    "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Red-Team---Summer-2027_R30780",
    "https://jobs.dayforcehcm.com/en-US/pcg/ENTRYLEVELANDINTERNSHIPS/jobs/11150",
    "https://jobs.dayforcehcm.com/en-US/texasfarm/CANDIDATEPORTAL/jobs/1526",
-   "https://petronascanada.wd3.myworkdayjobs.com/en-US/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882"
+   "https://petronascanada.wd3.myworkdayjobs.com/en-US/PETRONASCanada/job/Calgary/Summer-Student--Network-and-Security_R0001882",
+   "https://www.click2apply.net/XDnLjZtVe5KpotxJXc6zB6"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -5038,8 +5040,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4450865117",
-   "https://www.linkedin.com/jobs/view/4486265122"
+   "https://www.linkedin.com/jobs/view/4450865117"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450865117",
@@ -5050,14 +5051,9 @@
    "https://www.linkedin.com/jobs/view/4470041844",
    "https://www.linkedin.com/jobs/view/4471678825",
    "https://www.linkedin.com/jobs/view/4471690455",
-   "https://www.linkedin.com/jobs/view/4472206391",
    "https://www.linkedin.com/jobs/view/4476111845",
-   "https://www.linkedin.com/jobs/view/4479067992",
-   "https://www.linkedin.com/jobs/view/4479151937",
    "https://www.linkedin.com/jobs/view/4486606128",
-   "https://www.linkedin.com/jobs/view/4487314350",
    "https://www.linkedin.com/jobs/view/4487376343",
-   "https://www.linkedin.com/jobs/view/4488183482",
    "https://www.linkedin.com/jobs/view/4488432783"
   ],
   "linkedin": [
@@ -8195,7 +8191,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-07 10",
+ "heartbeat": "2026-11-07 12",
  "recent": [
   [
    1793971390.698108,
@@ -8260,10 +8256,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "li-companies": [
+  "netflix": [
    1,
-   1794069849.123565,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+   1794070929.1248677,
+   "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
  "urlkey2": true
