@@ -912,6 +912,7 @@
   "https://linkedin.com/jobs/view/4461244781": "2026-10-14",
   "https://linkedin.com/jobs/view/4461252667": "2026-10-14",
   "https://linkedin.com/jobs/view/4461278537": "2026-10-15",
+  "https://linkedin.com/jobs/view/4461369410": "2026-11-07",
   "https://linkedin.com/jobs/view/4461376946": "2026-11-07",
   "https://linkedin.com/jobs/view/4461422323": "2026-10-19",
   "https://linkedin.com/jobs/view/4461513360": "2026-11-05",
@@ -2150,6 +2151,7 @@
   "t:ocean|cybersecuritysocintern": "2026-11-07",
   "t:ocean|itotcybersecurityintern": "2026-11-07",
   "t:ocean|itsecurityarchitectureintern": "2026-11-07",
+  "t:olin|informationsecurity6monthcoop2027": "2026-11-07",
   "t:opens|securityanalystinternship": "2026-10-28",
   "t:optio|yearroundinternapplicationsecurity": "2026-11-01",
   "t:optio|yearroundinterncyberoperations": "2026-11-01",
@@ -5039,6 +5041,7 @@
    "https://www.linkedin.com/jobs/view/4486265122"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4461369410",
    "https://www.linkedin.com/jobs/view/4461376946",
    "https://www.linkedin.com/jobs/view/4461693598",
    "https://www.linkedin.com/jobs/view/4470026023",
@@ -8199,18 +8202,6 @@
  "heartbeat": "2026-11-07 04",
  "recent": [
   [
-   1793919820.7514863,
-   "DwyerOmega - Cyber Resilience & Product Security Intern"
-  ],
-  [
-   1793927496.0998921,
-   "Federal Express Corporation - Global Security Intern - Analytics (Summer 2027) Memphis, TN"
-  ],
-  [
-   1793950731.035448,
-   "Accenture - Internship \u2013 Cybersecurity Lux \u2013 as of February 2027"
-  ],
-  [
    1793971390.698108,
    "Envista Forensics - Digital Forensics Intern"
   ],
@@ -8265,15 +8256,13 @@
   [
    1794011121.513319,
    "Schneider - Information Security Intern - Summer 2027"
+  ],
+  [
+   1794048313.7936141,
+   "Olin - Information Security 6-Month Co-Op - 2027"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "google": [
-   1,
-   1794046513.6196804,
-   "Extra data: line 1 column 5 (char 4)"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
