@@ -1393,6 +1393,7 @@
   "https://linkedin.com/jobs/view/4488183482": "2026-11-07",
   "https://linkedin.com/jobs/view/4488432783": "2026-11-07",
   "https://linkedin.com/jobs/view/4488770722": "2026-11-08",
+  "https://linkedin.com/jobs/view/4488788761": "2026-11-08",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1779,6 +1780,7 @@
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
   "t:cbcte|itsupportcybersecurityintern": "2026-11-02",
   "t:cedar|securityinternships": "2026-10-29",
+  "t:cedon|cybersecurityintern": "2026-11-08",
   "t:cente|applicationssecurityengineerinternundergraduatesummer2027": "2026-10-28",
   "t:cente|cloudsecurityanalystinternundergraduatesummer2027": "2026-10-28",
   "t:cente|cybersecurityintern": "2026-10-26",
@@ -5058,7 +5060,8 @@
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4472098666",
-   "https://www.linkedin.com/jobs/view/4488770722"
+   "https://www.linkedin.com/jobs/view/4488770722",
+   "https://www.linkedin.com/jobs/view/4488788761"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8204,9 +8207,19 @@
   [
    1794144865.5334773,
    "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
+  ],
+  [
+   1794161717.7469718,
+   "Cedonix - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794161640.8192625,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
