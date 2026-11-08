@@ -313,6 +313,7 @@
   "https://careers.mitre.org/us/en/job/r117487": "2026-11-04",
   "https://careers.mitre.org/us/en/job/r117737": "2026-11-08",
   "https://careers.mitre.org/us/en/job/r117957": "2026-11-05",
+  "https://careers.nypa.gov/job/white-plains-cybersecurity-intern-ny-10601/1448789700": "2026-11-08",
   "https://careers.peraton.com/jobs/it-cybersecurity-intern-fort-huachuca-az-home-arizona-171602-jobs--cms-engineering--": "2026-10-09",
   "https://careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--": "2026-10-28",
   "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security": "2026-11-05",
@@ -2125,6 +2126,7 @@
   "t:newag|apprenticesecuritysystemstechnician": "2026-10-31",
   "t:newje|cybersecurityengineeringinternhourly": "2026-10-31",
   "t:newpo|industrialsecurityanalystskillbridgeintern": "2026-11-05",
+  "t:newyo|cybersecurityintern": "2026-11-08",
   "t:nfpco|2027itcybersecurityengineerinternchicagoil": "2026-10-23",
   "t:ninte|internsoftwareengineerplatformsecurityntd": "2026-10-30",
   "t:ninte|softwareengineerinternplatformsecurity": "2026-11-04",
@@ -4602,6 +4604,7 @@
    "https://careers.viasat.com/jobs/6458"
   ],
   "jobspy": [
+   "https://careers.nypa.gov/job/White-Plains-Cybersecurity-Intern-NY-10601/1448789700/",
    "https://www.click2apply.net/XDnLjZtVe5KpotxJXc6zB6"
   ],
   "jobvite:aarete": [],
@@ -8183,16 +8186,16 @@
  "heartbeat": "2026-11-08 00",
  "recent": [
   [
-   1794011121.513319,
-   "Schneider - Information Security Intern - Summer 2027"
-  ],
-  [
    1794048313.7936141,
    "Olin - Information Security 6-Month Co-Op - 2027"
   ],
   [
    1794100581.2345893,
    "Rockefeller Capital Management - Analyst Intern, Information Security"
+  ],
+  [
+   1794121104.6299722,
+   "New York Power Authority - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
