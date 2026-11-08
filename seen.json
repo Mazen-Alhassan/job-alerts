@@ -830,7 +830,7 @@
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-2": "2026-11-08",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-defense-associate_r-67301": "2026-11-08",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304": "2026-11-08",
-  "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-11-06",
+  "https://kyndryl.wd5.myworkdayjobs.com/kyndrylprofessionalcareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-infrastructure-associate_r-67375-1": "2026-11-08",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00194708": "2026-10-26",
   "https://leidos.wd5.myworkdayjobs.com/external/job/alexandria-va/cybersecurity-analyst-intern_r-00195574": "2026-10-27",
   "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/cybersecurity-intern_r-00195531": "2026-11-04",
@@ -1390,6 +1390,7 @@
   "https://linkedin.com/jobs/view/4488119176": "2026-11-07",
   "https://linkedin.com/jobs/view/4488183482": "2026-11-07",
   "https://linkedin.com/jobs/view/4488432783": "2026-11-07",
+  "https://linkedin.com/jobs/view/4488770722": "2026-11-08",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -5036,12 +5037,15 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4450865117"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450865117",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
-   "https://www.linkedin.com/jobs/view/4472098666"
+   "https://www.linkedin.com/jobs/view/4472098666",
+   "https://www.linkedin.com/jobs/view/4488770722"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -7000,7 +7004,8 @@
   ],
   "wd+:kyndryl/KyndrylProfessionalCareers": [
    "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Defense-Associate_R-67301",
-   "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304"
+   "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304",
+   "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Infrastructure-Associate_R-67375-1"
   ],
   "wd+:labcorp/external": [],
   "wd+:lambweston/CTE": [],
