@@ -857,6 +857,7 @@
   "https://linkedin.com/jobs/view/4450758010": "2026-11-03",
   "https://linkedin.com/jobs/view/4450844971": "2026-10-17",
   "https://linkedin.com/jobs/view/4450865117": "2026-11-08",
+  "https://linkedin.com/jobs/view/4451224632": "2026-11-08",
   "https://linkedin.com/jobs/view/4451233573": "2026-10-18",
   "https://linkedin.com/jobs/view/4451234612": "2026-10-18",
   "https://linkedin.com/jobs/view/4451241553": "2026-10-18",
@@ -1979,6 +1980,7 @@
   "t:iatin|cybersecurityintern": "2026-11-07",
   "t:iatin|cybersecurityinternship": "2026-11-08",
   "t:ibm|ainativesecurityresearchintern2027": "2026-10-28",
+  "t:ibm|coopsecurityconsultantstrategyriskcompliance2027": "2026-11-08",
   "t:ibm|interncybersecurityspecialist2027": "2026-11-08",
   "t:ibm|quantumsecurityintern2027cloudcompliancesecuritytooling": "2026-11-05",
   "t:ibott|informationsecurityintern": "2026-11-08",
@@ -5043,8 +5045,10 @@
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4450865117",
+   "https://www.linkedin.com/jobs/view/4451224632",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
+   "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4488770722"
   ],
@@ -8182,25 +8186,19 @@
  "heartbeat": "2026-11-08 08",
  "recent": [
   [
-   1794048313.7936141,
-   "Olin - Information Security 6-Month Co-Op - 2027"
-  ],
-  [
    1794100581.2345893,
    "Rockefeller Capital Management - Analyst Intern, Information Security"
   ],
   [
    1794121104.6299722,
    "New York Power Authority - Cybersecurity Intern"
+  ],
+  [
+   1794144865.5334773,
+   "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1794143726.7865415,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
