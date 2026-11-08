@@ -541,6 +541,7 @@
   "https://go.vansh.nyc/1kd": "2026-11-08",
   "https://go.vansh.nyc/1kg": "2026-11-08",
   "https://go.vansh.nyc/1lc": "2026-11-08",
+  "https://go.vansh.nyc/1mv": "2026-11-08",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2194,6 +2195,7 @@
   "t:roche|ritcoopidentityaccessmanagement": "2026-10-22",
   "t:roche|ritcoopsecurityengineering": "2026-10-29",
   "t:roche|ritcoopsecurityoperationssecurityengineering": "2026-10-20",
+  "t:rocke|analystinterninformationsecurity": "2026-11-08",
   "t:rocke|securityanalystinternspring2027": "2026-11-08",
   "t:rocke|securityanalystinternsummer2027": "2026-11-08",
   "t:rocke|securityservicesinternfall2026": "2026-10-26",
@@ -5616,7 +5618,8 @@
    "https://go.vansh.nyc/1kY",
    "https://go.vansh.nyc/1kd",
    "https://go.vansh.nyc/1kg",
-   "https://go.vansh.nyc/1lc"
+   "https://go.vansh.nyc/1lc",
+   "https://go.vansh.nyc/1mv"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8182,67 +8185,25 @@
  "heartbeat": "2026-11-07 20",
  "recent": [
   [
-   1793971390.698108,
-   "Envista Forensics - Digital Forensics Intern"
-  ],
-  [
-   1793976178.606529,
-   "Intercontinental Exchange, Inc. - Application Security Intern"
-  ],
-  [
-   1793976178.6065314,
-   "Alaska Airlines - Cybersecurity Threat Defense Intern"
-  ],
-  [
-   1793977672.1312323,
-   "UKG - Global Security Internship - Summer 2027"
-  ],
-  [
-   1793979322.2506897,
-   "Ciena - Embedded Security Software Developer - New Grad"
-  ],
-  [
-   1793979500.7148216,
-   "Cintas - IT Intern - Security, Governance, Risk, & Compliance"
-  ],
-  [
-   1793990890.6486478,
-   "Valley Children's Specialty Medical Group - IT Security Intern"
-  ],
-  [
-   1793992071.104213,
-   "Petronas Canada - Summer Student, Network and Security"
-  ],
-  [
-   1793994787.732324,
-   "Texas Farm Bureau - Insurance Agents - Security Administrator Intern"
-  ],
-  [
-   1793996440.3108122,
-   "RTX (Collins, Pratt & Whitney, Raytheon) - 2027 Summer/Fall Co-op - Secure Systems (Onsite"
-  ],
-  [
-   1793998412.3946679,
-   "CrowdStrike - Professional Services Pathfinder Intern - Red Team - Summer 2027"
-  ],
-  [
-   1793999998.0465236,
-   "CrowdStrike - Professional Services Pathfinder Intern, Red Team"
-  ],
-  [
-   1794004503.2315583,
-   "Performance Contracting - IT Security Intern"
-  ],
-  [
    1794011121.513319,
    "Schneider - Information Security Intern - Summer 2027"
   ],
   [
    1794048313.7936141,
    "Olin - Information Security 6-Month Co-Op - 2027"
+  ],
+  [
+   1794100581.2345893,
+   "Rockefeller Capital Management - Analyst Intern, Information Security"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1794100162.907338,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
