@@ -5045,6 +5045,7 @@
    "https://www.linkedin.com/jobs/view/4450865117",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454870344",
+   "https://www.linkedin.com/jobs/view/4454871309",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4488770722"
   ],
@@ -8179,7 +8180,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-08 06",
+ "heartbeat": "2026-11-08 08",
  "recent": [
   [
    1794048313.7936141,
@@ -8195,12 +8196,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   2,
-   1794141926.7839978,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
