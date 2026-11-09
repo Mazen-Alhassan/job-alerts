@@ -825,6 +825,7 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016610446": "2026-11-09",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160648454": "2026-11-09",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160649909": "2026-11-09",
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000160654878": "2026-11-09",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-09",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-09",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-09",
@@ -2142,6 +2143,7 @@
   "t:navyf|summerassociateinternshiptechnicalriskanalystsecurityregulatorycompliance": "2026-11-09",
   "t:navyf|summerassociateinternshipzerotrustinformationsecurityanalyst": "2026-11-09",
   "t:nbcun|globalsecurityintelligenceinternshipssummer2027": "2026-11-09",
+  "t:nbcun|mediatechcybersecuritygovernancesecurityengineeringinternshipssummer2027": "2026-11-09",
   "t:netfl|softwareengineerinternsummer2027": "2026-11-09",
   "t:netsm|securityanalystfuturesummer2027internship": "2026-11-09",
   "t:netsm|securityanalystintern": "2026-11-02",
@@ -5072,6 +5074,8 @@
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454859407",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
@@ -5385,8 +5389,7 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01877633"
+   "https://careers.rtx.com/global/en/job/01874702"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -5831,7 +5834,8 @@
   "sr:MyriadGenetics1": [],
   "sr:NBCUniversal3": [
    "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648454",
-   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649909"
+   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649909",
+   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654878"
   ],
   "sr:NCS3": [],
   "sr:NECSWS": [],
@@ -7609,9 +7613,7 @@
   "wd+:sralab/SRAlabCareers": [],
   "wd+:ssctech/ssctechnologies": [],
   "wd+:standard/search": [],
-  "wd+:standoutforgood/StandOutForGood": [
-   "https://standoutforgood.wd12.myworkdayjobs.com/en-US/StandOutForGood/job/Knoxville-TN/Spring-2027-IT-Security-Analyst-Intern_SOSJ12501"
-  ],
+  "wd+:standoutforgood/StandOutForGood": [],
   "wd+:starfish/Careers": [],
   "wd+:starrcompanies/careers": [],
   "wd+:starz/Starz": [],
@@ -8258,6 +8260,10 @@
   [
    1794239454.5961273,
    "Zoetis - Information Security Intern"
+  ],
+  [
+   1794239839.4454005,
+   "NBCUniversal - Media Tech: Cybersecurity, Governance & Security Engineering Internships \u2013 "
   ]
  ],
  "stem5": true,
