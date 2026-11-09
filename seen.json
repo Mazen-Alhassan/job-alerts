@@ -544,6 +544,7 @@
   "https://go.vansh.nyc/1kg": "2026-11-09",
   "https://go.vansh.nyc/1lc": "2026-11-09",
   "https://go.vansh.nyc/1mv": "2026-11-09",
+  "https://go.vansh.nyc/1oC": "2026-11-09",
   "https://go.vansh.nyc/1op": "2026-11-09",
   "https://go.vansh.nyc/1oq": "2026-11-09",
   "https://go.vansh.nyc/1ox": "2026-11-09",
@@ -2149,6 +2150,7 @@
   "t:navyf|summerassociateinternshiptechnicalriskanalystsecurity": "2026-11-09",
   "t:navyf|summerassociateinternshiptechnicalriskanalystsecurityregulatorycompliance": "2026-11-09",
   "t:navyf|summerassociateinternshipzerotrustinformationsecurityanalyst": "2026-11-09",
+  "t:nbcun|cybersecuritygovernancesecurityengineeringinternmediatech": "2026-11-09",
   "t:nbcun|globalsecurityintelligenceinternshipssummer2027": "2026-11-09",
   "t:nbcun|mediatechcybersecuritygovernancesecurityengineeringinternshipssummer2027": "2026-11-09",
   "t:netfl|softwareengineerinternsummer2027": "2026-11-09",
@@ -5657,6 +5659,7 @@
    "https://go.vansh.nyc/1kg",
    "https://go.vansh.nyc/1lc",
    "https://go.vansh.nyc/1mv",
+   "https://go.vansh.nyc/1oC",
    "https://go.vansh.nyc/1op",
    "https://go.vansh.nyc/1oq",
    "https://go.vansh.nyc/1ox"
@@ -8275,6 +8278,10 @@
   [
    1794239839.4454005,
    "NBCUniversal - Media Tech: Cybersecurity, Governance & Security Engineering Internships \u2013 "
+  ],
+  [
+   1794242764.923347,
+   "NBCUniversal - Cybersecurity, Governance & Security Engineering Intern, Media Tech"
   ]
  ],
  "stem5": true,
