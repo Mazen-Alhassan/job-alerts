@@ -1501,6 +1501,7 @@
   "https://recruiting.paylocity.com/recruiting/jobs/details/4578257/scot-forge/it-cybersecurity-intern-summer-2027": "2026-10-24",
   "https://recruiting.ultipro.com/cry1001cryo/jobboard/f33fa4b2-424d-4c66-bb1c-4bc4403f314f/opportunitydetail": "2026-10-21",
   "https://recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": "2026-10-15",
+  "https://recruiting.ultipro.com/one1003onea/jobboard/02f5e999-587f-441c-83e0-b6effa8094b2/opportunitydetail?opportunityid=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingid=647dfe3c-e45b-419d-a4a5-47a54180819d": "2026-11-09",
   "https://recruiting.ultipro.com/sts1000sco/jobboard/bdcbc22d-c568-4b9f-bc84-421f9522fd47/opportunitydetail?opportunityid=458b5fae-3a73-448a-8133-a863d4df3fa0&postingid=c55fc317-83c6-42ff-8946-e9b7349e6211": "2026-10-31",
   "https://recruiting.ultipro.com/wel1008wllt/jobboard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/opportunitydetail?opportunityid=c4fbdcba-7261-4ddf-8d59-a2f943dea763&postingid=c622a8b6-c7ef-4c91-9f43-a00c17d0b306": "2026-11-06",
   "https://recruiting2.ultipro.com/avi1000amast/jobboard/362abf68-95c3-4b17-a39d-76a6efe5ff18/opportunitydetail?opportunityid=9faf516d-8aaa-4cdf-a181-a6c03e0c2bcb&postingid=b0021734-a3d6-4e67-9a48-db2f307ec04d": "2026-11-03",
@@ -2194,6 +2195,7 @@
   "t:ocean|itotcybersecurityintern": "2026-11-09",
   "t:ocean|itsecurityarchitectureintern": "2026-11-09",
   "t:olin|informationsecurity6monthcoop2027": "2026-11-08",
+  "t:oneam|2027summerinterncybersecurity": "2026-11-09",
   "t:opens|securityanalystinternship": "2026-10-28",
   "t:optio|yearroundinternapplicationsecurity": "2026-11-01",
   "t:optio|yearroundinterncyberoperations": "2026-11-01",
@@ -4650,6 +4652,7 @@
   ],
   "jobspy": [
    "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027",
+   "https://recruiting.ultipro.com/ONE1003ONEA/JobBoard/02f5e999-587f-441c-83e0-b6effa8094b2/OpportunityDetail?opportunityId=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingId=647dfe3c-e45b-419d-a4a5-47a54180819d",
    "https://searchcareers.caci.com/careers/job/1443154443947",
    "https://www.indeed.com/viewjob?jk=89207edb53f554f7",
    "https://www.indeed.com/viewjob?jk=f6a5282db37d7e86"
@@ -8303,6 +8306,10 @@
   [
    1794245731.3921893,
    "Steel Dynamics - Information Security Internship"
+  ],
+  [
+   1794247136.8662567,
+   "OneAmerica Financial Partners, Inc - 2027 Summer Intern - Cyber Security"
   ]
  ],
  "stem5": true,
