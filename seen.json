@@ -1141,6 +1141,7 @@
   "https://linkedin.com/jobs/view/4478710592": "2026-10-13",
   "https://linkedin.com/jobs/view/4478717202": "2026-11-04",
   "https://linkedin.com/jobs/view/4478807758": "2026-11-06",
+  "https://linkedin.com/jobs/view/4478814005": "2026-11-09",
   "https://linkedin.com/jobs/view/4478818519": "2026-11-06",
   "https://linkedin.com/jobs/view/4478842083": "2026-10-16",
   "https://linkedin.com/jobs/view/4478847469": "2026-10-16",
@@ -1900,6 +1901,7 @@
   "t:drape|classifiedcybersecurityitintern": "2026-10-20",
   "t:drape|classifiedcybersecurityitinternshipsummer2027": "2026-10-28",
   "t:dtcc|cybersecurityriskintern2027internshipprogram": "2026-10-30",
+  "t:dualn|underwritinginterncyber": "2026-11-09",
   "t:ducha|cybersecurityintern": "2026-11-09",
   "t:ducha|cybersecurityinternsummer2027": "2026-11-09",
   "t:dukee|nuclearcybersecurity2027summerinternship": "2026-10-31",
@@ -5113,15 +5115,20 @@
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
-   "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478294739",
+   "https://www.linkedin.com/jobs/view/4478814005",
    "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
+   "https://www.linkedin.com/jobs/view/4487943332",
    "https://www.linkedin.com/jobs/view/4488869871",
    "https://www.linkedin.com/jobs/view/4488878593",
    "https://www.linkedin.com/jobs/view/4489120085"
@@ -8270,10 +8277,6 @@
  "heartbeat": "2026-11-09 14",
  "recent": [
   [
-   1794161717.7469718,
-   "Cedonix - Cybersecurity Intern"
-  ],
-  [
    1794185540.2282689,
    "Tesla - Internship, Environmental, Health, Safety & Security (Winter/Spring 2027)"
   ],
@@ -8364,6 +8367,10 @@
   [
    1794253760.7295113,
    "NY Creates - Cybersecurity Intern"
+  ],
+  [
+   1794255381.6893578,
+   "DUAL North America - Underwriting Intern, Cyber"
   ]
  ],
  "stem5": true,
