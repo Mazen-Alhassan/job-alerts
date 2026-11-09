@@ -241,6 +241,7 @@
   "https://careers-sentinel.icims.com/jobs/5132/job": "2026-10-11",
   "https://careers-sentinel.icims.com/jobs/5132/soc-intern/job": "2026-11-09",
   "https://careers-simventions.icims.com/jobs/1630/2027-cybersecurity-intern/job": "2026-11-09",
+  "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job": "2026-11-09",
   "https://careers-stifel.icims.com/jobs/9952/information-security-intern--summer-2027/job": "2026-10-31",
   "https://careers-stifel.icims.com/jobs/9952/job": "2026-10-23",
   "https://careers-thesilverlining.icims.com/jobs/3792/summer-2027-internship---information-security/job": "2026-11-04",
@@ -2297,6 +2298,7 @@
   "t:spect|2027summerinternsecurityengineer": "2026-10-31",
   "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-27",
   "t:steal|cybersecurityintern": "2026-10-31",
+  "t:steel|informationsecurityinternship": "2026-11-09",
   "t:stife|informationsecurityintern": "2026-10-28",
   "t:stife|informationsecurityinternsummer2027": "2026-10-31",
   "t:strac|cybersecuritystudent": "2026-10-19",
@@ -4512,7 +4514,9 @@
   "icims:careers-sscgp.icims.com": [],
   "icims:careers-ssoe.icims.com": [],
   "icims:careers-steampunk.icims.com": [],
-  "icims:careers-steeldynamics.icims.com": [],
+  "icims:careers-steeldynamics.icims.com": [
+   "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job"
+  ],
   "icims:careers-stellantsystems.icims.com": [],
   "icims:careers-stifel.icims.com": [],
   "icims:careers-stonex.icims.com": [],
@@ -5079,7 +5083,6 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -8293,9 +8296,19 @@
   [
    1794244607.2304177,
    "Langan Engineering & Environmental Services - Cyber Security Co-op"
+  ],
+  [
+   1794245731.3921893,
+   "Steel Dynamics - Information Security Internship"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794245657.5504115,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
