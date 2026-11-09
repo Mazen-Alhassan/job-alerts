@@ -870,7 +870,7 @@
   "https://linkedin.com/jobs/view/4454457076": "2026-10-21",
   "https://linkedin.com/jobs/view/4454813351": "2026-11-09",
   "https://linkedin.com/jobs/view/4454857439": "2026-11-09",
-  "https://linkedin.com/jobs/view/4454859407": "2026-10-19",
+  "https://linkedin.com/jobs/view/4454859407": "2026-11-09",
   "https://linkedin.com/jobs/view/4454870344": "2026-11-09",
   "https://linkedin.com/jobs/view/4454871309": "2026-11-09",
   "https://linkedin.com/jobs/view/4455264622": "2026-10-21",
@@ -5048,23 +5048,16 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451224632",
-   "https://www.linkedin.com/jobs/view/4451233573",
-   "https://www.linkedin.com/jobs/view/4451234612",
-   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451233573",
-   "https://www.linkedin.com/jobs/view/4451234612",
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454813351",
    "https://www.linkedin.com/jobs/view/4454857439",
    "https://www.linkedin.com/jobs/view/4454870344",
    "https://www.linkedin.com/jobs/view/4454871309",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4488770722"
@@ -5375,8 +5368,7 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01877633"
+   "https://careers.rtx.com/global/en/job/01874702"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
