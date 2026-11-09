@@ -3212,9 +3212,7 @@
    "https://jobs.ericsson.com/careers/job/563121777370331"
   ],
   "eightfold:johndeere.eightfold.ai": [],
-  "eightfold:lockheedmartin.eightfold.ai": [
-   "https://lockheedmartin.eightfold.ai/careers/job/996477502700"
-  ],
+  "eightfold:lockheedmartin.eightfold.ai": [],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [
    "https://paypal.eightfold.ai/careers/job/274922982812"
@@ -5075,7 +5073,6 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -5091,7 +5088,6 @@
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
    "https://www.linkedin.com/jobs/view/4488869871",
-   "https://www.linkedin.com/jobs/view/4488870843",
    "https://www.linkedin.com/jobs/view/4488878593"
   ],
   "linkedin": [
@@ -8233,7 +8229,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-09 10",
+ "heartbeat": "2026-11-09 12",
  "recent": [
   [
    1794161717.7469718,
