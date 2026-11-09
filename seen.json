@@ -679,6 +679,7 @@
   "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pa-working-at-home---pennsylvania/summer-2027-vulnerability-management-analyst-undergraduate-intern_j288015": "2026-11-09",
   "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/store-support-center-atlanta---9090/xmlname-2027-summer-internship---cybersecurity_req191938": "2026-10-26",
   "https://homeoffice-na-urbn.icims.com/jobs/32262/urbn-information-security-intern/job": "2026-10-30",
+  "https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5759?c=house": "2026-11-09",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-2": "2026-11-09",
   "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/spring-texas-united-states-of-america/software-product-security-engineer-intern_uni4740-1": "2026-10-12",
   "https://hp.wd5.myworkdayjobs.com/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-product-security-intern---hp-iq_uni4810-1": "2026-11-09",
@@ -2384,6 +2385,7 @@
   "t:ups|upsinformationsecuritysummer2027internshipky": "2026-11-09",
   "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-09",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
+  "t:ushou|hircybersecurityinternspring": "2026-11-09",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-11-08",
   "t:valle|itsecurityintern": "2026-11-09",
   "t:valle|studentinternitsecurityspring": "2026-11-06",
@@ -4653,6 +4655,7 @@
    "https://careers.viasat.com/jobs/6458"
   ],
   "jobspy": [
+   "https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5759?c=house",
    "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027",
    "https://recruiting.ultipro.com/ONE1003ONEA/JobBoard/02f5e999-587f-441c-83e0-b6effa8094b2/OpportunityDetail?opportunityId=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingId=647dfe3c-e45b-419d-a4a5-47a54180819d",
    "https://searchcareers.caci.com/careers/job/1443154443947",
@@ -5089,7 +5092,6 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -8316,6 +8318,10 @@
   [
    1794247362.4307544,
    "Sandia National Laboratories - Intern, Business Graduate Year-Round - Program Security Off"
+  ],
+  [
+   1794247627.2248862,
+   "U.S. House of Representatives - HIR Cybersecurity Intern, Spring"
   ]
  ],
  "stem5": true,
