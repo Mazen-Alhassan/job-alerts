@@ -557,6 +557,7 @@
   "https://go.vansh.nyc/1op": "2026-11-09",
   "https://go.vansh.nyc/1oq": "2026-11-09",
   "https://go.vansh.nyc/1ox": "2026-11-09",
+  "https://go.vansh.nyc/1pd": "2026-11-09",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2025,6 +2026,7 @@
   "t:hp|softwareproductsecurityinternhpiq": "2026-11-09",
   "t:hyvee|cybersecurityinternsummer2027": "2026-10-31",
   "t:hyvee|itsecuritylosspreventioninternsummer2027": "2026-10-31",
+  "t:i3|cybersecurityintern": "2026-11-09",
   "t:iatin|cybersecurityintern": "2026-11-07",
   "t:iatin|cybersecurityinternship": "2026-11-09",
   "t:ibm|ainativesecurityresearchintern2027": "2026-10-28",
@@ -5127,7 +5129,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
-   "https://www.linkedin.com/jobs/view/4460200734",
+   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -5709,11 +5711,11 @@
    "https://go.vansh.nyc/1oC",
    "https://go.vansh.nyc/1oK",
    "https://go.vansh.nyc/1oR",
-   "https://go.vansh.nyc/1oS",
    "https://go.vansh.nyc/1oX",
    "https://go.vansh.nyc/1op",
    "https://go.vansh.nyc/1oq",
-   "https://go.vansh.nyc/1ox"
+   "https://go.vansh.nyc/1ox",
+   "https://go.vansh.nyc/1pd"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8049,8 +8051,7 @@
   ],
   "wd:intel/External": [],
   "wd:leidos/External": [
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
-   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546"
+   "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764"
   ],
   "wd:lumentum/LITE": [],
   "wd:manulife/MFCJH_Jobs": [],
@@ -8389,6 +8390,10 @@
   [
    1794256955.343843,
    "Integration Innovation (i3) - Cybersecurity Internship"
+  ],
+  [
+   1794258821.6544704,
+   "i3 - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
