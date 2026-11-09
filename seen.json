@@ -546,6 +546,7 @@
   "https://go.vansh.nyc/1mv": "2026-11-09",
   "https://go.vansh.nyc/1op": "2026-11-09",
   "https://go.vansh.nyc/1oq": "2026-11-09",
+  "https://go.vansh.nyc/1ox": "2026-11-09",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -825,6 +826,7 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016610446": "2026-11-09",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160648454": "2026-11-09",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160649909": "2026-11-09",
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027": "2026-11-09",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160654878": "2026-11-09",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-09",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-09",
@@ -1123,7 +1125,7 @@
   "https://linkedin.com/jobs/view/4478145600": "2026-10-14",
   "https://linkedin.com/jobs/view/4478167943": "2026-10-14",
   "https://linkedin.com/jobs/view/4478179913": "2026-10-15",
-  "https://linkedin.com/jobs/view/4478294739": "2026-10-20",
+  "https://linkedin.com/jobs/view/4478294739": "2026-11-09",
   "https://linkedin.com/jobs/view/4478437995": "2026-11-06",
   "https://linkedin.com/jobs/view/4478537956": "2026-11-04",
   "https://linkedin.com/jobs/view/4478676751": "2026-10-21",
@@ -1406,6 +1408,7 @@
   "https://linkedin.com/jobs/view/4488788761": "2026-11-09",
   "https://linkedin.com/jobs/view/4488805647": "2026-11-09",
   "https://linkedin.com/jobs/view/4488869871": "2026-11-09",
+  "https://linkedin.com/jobs/view/4488870843": "2026-11-09",
   "https://linkedin.com/jobs/view/4488878593": "2026-11-09",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1784,6 +1787,7 @@
   "t:caci|cybersecurityintern": "2026-11-09",
   "t:caci|cybersecurityinternsummer2027": "2026-11-09",
   "t:cae|stagiairespcialistedelintgrationencyberscurit": "2026-11-09",
+  "t:cae|stagiairespcialistedelintgrationencyberscuriten": "2026-11-09",
   "t:caico|cybersecurityanalystintern": "2026-11-03",
   "t:cai|cybersecurityanalystintern": "2026-11-05",
   "t:calpo|securedwatchlicensedtrackstudentassistantsolanocampus": "2026-10-31",
@@ -4635,6 +4639,7 @@
    "https://careers.viasat.com/jobs/6458"
   ],
   "jobspy": [
+   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027",
    "https://www.indeed.com/viewjob?jk=89207edb53f554f7",
    "https://www.indeed.com/viewjob?jk=f6a5282db37d7e86"
   ],
@@ -5068,21 +5073,23 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806"
+   "https://www.linkedin.com/jobs/view/4451266806",
+   "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4451233573",
-   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
-   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
+   "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
    "https://www.linkedin.com/jobs/view/4488869871",
+   "https://www.linkedin.com/jobs/view/4488870843",
    "https://www.linkedin.com/jobs/view/4488878593"
   ],
   "linkedin": [
@@ -5651,7 +5658,8 @@
    "https://go.vansh.nyc/1lc",
    "https://go.vansh.nyc/1mv",
    "https://go.vansh.nyc/1op",
-   "https://go.vansh.nyc/1oq"
+   "https://go.vansh.nyc/1oq",
+   "https://go.vansh.nyc/1ox"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
