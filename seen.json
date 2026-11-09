@@ -921,7 +921,7 @@
   "https://linkedin.com/jobs/view/4461278537": "2026-10-15",
   "https://linkedin.com/jobs/view/4461369410": "2026-11-08",
   "https://linkedin.com/jobs/view/4461376946": "2026-11-07",
-  "https://linkedin.com/jobs/view/4461422323": "2026-10-19",
+  "https://linkedin.com/jobs/view/4461422323": "2026-11-09",
   "https://linkedin.com/jobs/view/4461513360": "2026-11-05",
   "https://linkedin.com/jobs/view/4461565157": "2026-10-14",
   "https://linkedin.com/jobs/view/4461568063": "2026-10-13",
@@ -5050,6 +5050,10 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451224632",
+   "https://www.linkedin.com/jobs/view/4451233573",
+   "https://www.linkedin.com/jobs/view/4451234612",
+   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -5060,7 +5064,9 @@
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460254050"
+   "https://www.linkedin.com/jobs/view/4460235483",
+   "https://www.linkedin.com/jobs/view/4460254050",
+   "https://www.linkedin.com/jobs/view/4461422323"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8219,12 +8225,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794226464.7002368,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
