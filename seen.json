@@ -1016,7 +1016,7 @@
   "https://linkedin.com/jobs/view/4472098666": "2026-11-09",
   "https://linkedin.com/jobs/view/4472206391": "2026-11-08",
   "https://linkedin.com/jobs/view/4472247698": "2026-10-18",
-  "https://linkedin.com/jobs/view/4472769079": "2026-10-20",
+  "https://linkedin.com/jobs/view/4472769079": "2026-11-09",
   "https://linkedin.com/jobs/view/4472992536": "2026-10-24",
   "https://linkedin.com/jobs/view/4473008825": "2026-10-21",
   "https://linkedin.com/jobs/view/4473166453": "2026-10-25",
@@ -1374,6 +1374,7 @@
   "https://linkedin.com/jobs/view/4487035975": "2026-11-04",
   "https://linkedin.com/jobs/view/4487053943": "2026-11-04",
   "https://linkedin.com/jobs/view/4487065317": "2026-11-04",
+  "https://linkedin.com/jobs/view/4487180316": "2026-11-09",
   "https://linkedin.com/jobs/view/4487211808": "2026-11-05",
   "https://linkedin.com/jobs/view/4487217538": "2026-11-05",
   "https://linkedin.com/jobs/view/4487226304": "2026-11-05",
@@ -1866,7 +1867,7 @@
   "t:crowe|cybersecurityintern": "2026-11-09",
   "t:crowe|incidentresponseintern": "2026-11-09",
   "t:crown|informationsecurityanalystcoopspring2027indefiniteworkauthorizationrequired": "2026-11-04",
-  "t:crypt|summer2027cyberengineeringinternship": "2026-10-20",
+  "t:crypt|summer2027cyberengineeringinternship": "2026-11-09",
   "t:crypt|summer2027cyberengineeringinternshipprogram": "2026-10-23",
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-09",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-09",
@@ -5084,13 +5085,14 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
-   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
+   "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478294739",
+   "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
    "https://www.linkedin.com/jobs/view/4488869871",
@@ -5619,11 +5621,9 @@
    "https://www.metacareers.com/jobs/1903232531024141"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/19y",
    "https://go.vansh.nyc/1b1",
    "https://go.vansh.nyc/1b8",
    "https://go.vansh.nyc/1bA",
-   "https://go.vansh.nyc/1bM",
    "https://go.vansh.nyc/1bS",
    "https://go.vansh.nyc/1bV",
    "https://go.vansh.nyc/1c6",
@@ -8296,12 +8296,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794244515.7078881,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
