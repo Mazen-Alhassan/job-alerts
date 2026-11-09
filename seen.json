@@ -3,6 +3,7 @@
   "gh:4430607009": "2026-11-09",
   "gh:4468040009": "2026-10-28",
   "gh:4469778009": "2026-10-31",
+  "gh:4477308009": "2026-11-09",
   "gh:4719593006": "2026-10-12",
   "gh:4743021005": "2026-11-09",
   "gh:4952609101": "2026-10-14",
@@ -2093,6 +2094,7 @@
   "t:leido|cybersecurityintern": "2026-11-04",
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-09",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-09",
+  "t:lilas|coopitotsecurityanalyst": "2026-11-09",
   "t:linds|cybersecurityintern": "2026-11-03",
   "t:littl|cyberitintern": "2026-11-09",
   "t:littl|interncyberit": "2026-11-09",
@@ -3777,7 +3779,9 @@
   "gh:liberis": [],
   "gh:lightmatter": [],
   "gh:lightspeedsystems": [],
-  "gh:lilasciences": [],
+  "gh:lilasciences": [
+   "https://job-boards.greenhouse.io/lilasciences/jobs/4477308009"
+  ],
   "gh:livescore9": [],
   "gh:locusrobotics": [],
   "gh:logicgate": [],
@@ -5104,7 +5108,9 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
@@ -8344,6 +8350,10 @@
   [
    1794248079.9593134,
    "Lockheed Martin - Cyber Intelligence Intern - Summer 2027"
+  ],
+  [
+   1794249240.4770818,
+   "Lila Sciences - Co-Op, IT/OT Security Analyst"
   ]
  ],
  "stem5": true,
