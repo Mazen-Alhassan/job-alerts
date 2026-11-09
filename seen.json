@@ -821,6 +821,8 @@
   "https://jobs.smartrecruiters.com/llnl/3743990016610426": "2026-11-09",
   "https://jobs.smartrecruiters.com/llnl/3743990016610436": "2026-11-09",
   "https://jobs.smartrecruiters.com/llnl/3743990016610446": "2026-11-09",
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000160648454": "2026-11-09",
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000160649909": "2026-11-09",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-09",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-09",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-09",
@@ -2135,6 +2137,7 @@
   "t:navyf|summerassociateinternshiptechnicalriskanalystsecurity": "2026-11-09",
   "t:navyf|summerassociateinternshiptechnicalriskanalystsecurityregulatorycompliance": "2026-11-09",
   "t:navyf|summerassociateinternshipzerotrustinformationsecurityanalyst": "2026-11-09",
+  "t:nbcun|globalsecurityintelligenceinternshipssummer2027": "2026-11-09",
   "t:netfl|softwareengineerinternsummer2027": "2026-11-09",
   "t:netsm|securityanalystfuturesummer2027internship": "2026-11-09",
   "t:netsm|securityanalystintern": "2026-11-02",
@@ -5064,9 +5067,9 @@
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454859407",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4487922479"
@@ -5377,8 +5380,7 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01877633"
+   "https://careers.rtx.com/global/en/job/01874702"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -5821,7 +5823,10 @@
   "sr:Mirantis": [],
   "sr:MissionCriticalGroup": [],
   "sr:MyriadGenetics1": [],
-  "sr:NBCUniversal3": [],
+  "sr:NBCUniversal3": [
+   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160648454",
+   "https://jobs.smartrecruiters.com/NBCUniversal3/744000160649909"
+  ],
   "sr:NCS3": [],
   "sr:NECSWS": [],
   "sr:NationalSoftwareManagement1": [],
@@ -8208,10 +8213,6 @@
  "heartbeat": "2026-11-09 10",
  "recent": [
   [
-   1794144865.5334773,
-   "IBM - Co-Op Security Consultant - Strategy, Risk & Compliance 2027"
-  ],
-  [
    1794161717.7469718,
    "Cedonix - Cybersecurity Intern"
   ],
@@ -8238,6 +8239,10 @@
   [
    1794237646.9205248,
    "CACI - Cyber Security Intern - Summer 2027"
+  ],
+  [
+   1794238989.4136782,
+   "NBCUniversal - Global Security & Intelligence Internships \u2013 Summer 2027"
   ]
  ],
  "stem5": true,
