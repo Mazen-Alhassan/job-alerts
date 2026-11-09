@@ -692,6 +692,8 @@
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-it_r9672": "2026-11-09",
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--cyber-security_r9669": "2026-11-09",
   "https://ilitch.wd5.myworkdayjobs.com/lc/job/detroit-mi/intern--department-cyber-it_r9670": "2026-11-09",
+  "https://indeed.com/viewjob?jk=89207edb53f554f7": "2026-11-09",
+  "https://indeed.com/viewjob?jk=f6a5282db37d7e86": "2026-11-09",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": "2026-10-21",
   "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": "2026-10-21",
@@ -2185,6 +2187,8 @@
   "t:plant|2027cybersecurityconsultantintern": "2026-11-09",
   "t:pplco|summer2027cybersecurityintern": "2026-10-24",
   "t:preci|cybersecurityoperationsintern": "2026-10-28",
+  "t:preci|securityanalystintern": "2026-11-09",
+  "t:preci|securityengineerintern": "2026-11-09",
   "t:price|interncybersecurityprivacyservicesdataprivacyfocus": "2026-11-09",
   "t:proct|itsecurityinternship": "2026-11-09",
   "t:prope|cybersecurityintern": "2026-10-28",
@@ -4611,7 +4615,9 @@
    "https://careers.viasat.com/jobs/6458"
   ],
   "jobspy": [
-   "https://careers.nypa.gov/job/White-Plains-Cybersecurity-Intern-NY-10601/1448789700/"
+   "https://careers.nypa.gov/job/White-Plains-Cybersecurity-Intern-NY-10601/1448789700/",
+   "https://www.indeed.com/viewjob?jk=89207edb53f554f7",
+   "https://www.indeed.com/viewjob?jk=f6a5282db37d7e86"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -5043,6 +5049,10 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451224632",
+   "https://www.linkedin.com/jobs/view/4451233573",
+   "https://www.linkedin.com/jobs/view/4451234612",
+   "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -5370,7 +5380,8 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702"
+   "https://careers.rtx.com/global/en/job/01874702",
+   "https://careers.rtx.com/global/en/job/01877633"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -8194,10 +8205,6 @@
  "heartbeat": "2026-11-08 22",
  "recent": [
   [
-   1794100581.2345893,
-   "Rockefeller Capital Management - Analyst Intern, Information Security"
-  ],
-  [
    1794121104.6299722,
    "New York Power Authority - Cybersecurity Intern"
   ],
@@ -8212,6 +8219,14 @@
   [
    1794185540.2282689,
    "Tesla - Internship, Environmental, Health, Safety & Security (Winter/Spring 2027)"
+  ],
+  [
+   1794195456.1960313,
+   "Preciselink - Security Engineer Intern"
+  ],
+  [
+   1794195456.1960337,
+   "Preciselink - Security Analyst Intern"
   ]
  ],
  "stem5": true,
