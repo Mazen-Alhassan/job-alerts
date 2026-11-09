@@ -1584,6 +1584,7 @@
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-19",
   "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/kalamazoo---kilgore-road/it-ot-security-intern_jr00021980-1": "2026-11-09",
+  "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/parsippany/information-security-intern_jr00021994-1": "2026-11-09",
   "t:1pass|developerinterndatasecurity": "2026-10-29",
   "t:1pass|developerinterndatasecuritywinter2027": "2026-11-02",
   "t:1pass|developerinternmachineidentity": "2026-10-29",
@@ -2396,6 +2397,7 @@
   "t:white|corporateinterninformationsecurity": "2026-11-09",
   "t:woodm|2027summercybersecurityintern": "2026-11-04",
   "t:zachr|cybersecurityspecialistiintern": "2026-11-09",
+  "t:zoeti|informationsecurityintern": "2026-11-09",
   "t:zoeti|itotsecurityintern": "2026-11-09"
  },
  "boards": {
@@ -5383,7 +5385,8 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702"
+   "https://careers.rtx.com/global/en/job/01874702",
+   "https://careers.rtx.com/global/en/job/01877633"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -7918,7 +7921,8 @@
   "wd+:zendesk/zendesk": [],
   "wd+:zillow/Zillow_Group_External": [],
   "wd+:zoetis/zoetis": [
-   "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Kilgore-Road/IT-OT-Security-Intern_JR00021980-1"
+   "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Kilgore-Road/IT-OT-Security-Intern_JR00021980-1",
+   "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/Information-Security-Intern_JR00021994-1"
   ],
   "wd+:zoll/ZOLLMedicalCorp": [],
   "wd+:zoom/zoom": [],
@@ -8250,6 +8254,10 @@
   [
    1794239176.983733,
    "CACI - Cyber Security Intern"
+  ],
+  [
+   1794239454.5961273,
+   "Zoetis - Information Security Intern"
   ]
  ],
  "stem5": true,
