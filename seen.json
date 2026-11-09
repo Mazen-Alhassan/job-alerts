@@ -1424,6 +1424,7 @@
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222848": "2026-10-14",
   "https://lockheedmartin.eightfold.ai/careers/job/996477335927": "2026-10-20",
+  "https://lockheedmartin.eightfold.ai/careers/job/996477410466": "2026-11-09",
   "https://lockheedmartin.eightfold.ai/careers/job/996477502700": "2026-11-09",
   "https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/mapletree-business-city-sg/cybersecurity-associate--intern--_jr05557": "2026-11-09",
   "https://lplfinancial.wd1.myworkdayjobs.com/university/job/fort-millcharlotte/new-grad---2027---cybersecurity_r-052501-1": "2026-11-09",
@@ -2098,6 +2099,7 @@
   "t:littl|interndepartmentcyberit": "2026-11-09",
   "t:llnl|cybersecurityundergraduateinterncyberandcriticalinfrastructure": "2026-11-09",
   "t:lockh|cyberengineerinternsummer2027": "2026-11-09",
+  "t:lockh|cyberintelligenceinternsummer2027": "2026-11-09",
   "t:lockh|systemsengineercyberintern": "2026-10-20",
   "t:logic|cybersecurityassociateintern": "2026-11-09",
   "t:louis|cwsecurityoperationcenterengineerinternfall2026startingindecember": "2026-10-26",
@@ -3230,7 +3232,9 @@
    "https://jobs.ericsson.com/careers/job/563121777370331"
   ],
   "eightfold:johndeere.eightfold.ai": [],
-  "eightfold:lockheedmartin.eightfold.ai": [],
+  "eightfold:lockheedmartin.eightfold.ai": [
+   "https://lockheedmartin.eightfold.ai/careers/job/996477410466"
+  ],
   "eightfold:morganstanley.eightfold.ai": [],
   "eightfold:paypal.eightfold.ai": [
    "https://paypal.eightfold.ai/careers/job/274922982812"
@@ -3544,9 +3548,7 @@
   "gh:enigmaio": [],
   "gh:ennoblecare": [],
   "gh:enova": [],
-  "gh:ensco": [
-   "https://job-boards.greenhouse.io/ensco/jobs/5467125008"
-  ],
+  "gh:ensco": [],
   "gh:ensemble": [],
   "gh:eosfitness": [],
   "gh:epicgames": [],
@@ -5096,6 +5098,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -8334,6 +8337,10 @@
   [
    1794247895.5862288,
    "Kudu Dynamics - Cybersecurity Analyst Intern"
+  ],
+  [
+   1794248079.9593134,
+   "Lockheed Martin - Cyber Intelligence Intern - Summer 2027"
   ]
  ],
  "stem5": true,
