@@ -1474,6 +1474,7 @@
   "https://nwis.wd12.myworkdayjobs.com/nw/job/indialantic-fl/vulnerability-researcher-intern---2026_jr101101": "2026-10-13",
   "https://nxp.wd3.myworkdayjobs.com/careers/job/brno/embedded-sw-developer-intern---security_r-10066538-1": "2026-11-03",
   "https://nxp.wd3.myworkdayjobs.com/careers/job/hamburg/working-student--f-m-d--npu-physical-security-testing_r-10066891": "2026-10-08",
+  "https://nycreates.interviewexchange.com/jobofferdetails.jsp?jobid=206535": "2026-11-09",
   "https://oneok.wd1.myworkdayjobs.com/oneok_early_careers/job/tulsa-ok/cyber-security-intern---tulsa--ok_r8449": "2026-10-19",
   "https://orillia.hiringplatform.ca/processes/90bdcead-af13-4bd9-bfb6-a98e980376a1": "2026-10-09",
   "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh/job/oshkosh-wisconsin-united-states/cyber-security-intern_r50267": "2026-11-09",
@@ -2202,6 +2203,7 @@
   "t:nucle|spring2027securityengineerintern": "2026-11-09",
   "t:nvidi|phdresearchinternsecurityandprivacy2027": "2026-11-09",
   "t:nxpse|embeddedswdeveloperinternsecurity": "2026-11-03",
+  "t:nycre|cybersecurityintern": "2026-11-09",
   "t:occ|yearroundinternapplicationsecurity": "2026-11-09",
   "t:occ|yearroundinterncyberoperations": "2026-11-05",
   "t:ocean|cybersecuritysocintern": "2026-11-09",
@@ -4669,6 +4671,7 @@
   "jobspy": [
    "https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5759?c=house",
    "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027",
+   "https://nycreates.interviewexchange.com/jobofferdetails.jsp?JOBID=206535",
    "https://recruiting.ultipro.com/ONE1003ONEA/JobBoard/02f5e999-587f-441c-83e0-b6effa8094b2/OpportunityDetail?opportunityId=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingId=647dfe3c-e45b-419d-a4a5-47a54180819d",
    "https://searchcareers.caci.com/careers/job/1443154443947",
    "https://www.indeed.com/viewjob?jk=89207edb53f554f7",
@@ -8362,6 +8365,10 @@
   [
    1794251601.9588273,
    "Lila Sciences - IT/OT Security Analyst Co-op"
+  ],
+  [
+   1794253760.7295113,
+   "NY Creates - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
