@@ -1522,6 +1522,7 @@
   "https://salesforce.wd12.myworkdayjobs.com/external_career_site/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911-1": "2026-11-03",
   "https://salesforce.wd12.myworkdayjobs.com/futureforce_internships/job/california---san-francisco/summer-2027-intern---software-engineer--security-government-_jr364911": "2026-11-09",
   "https://schoolspring.com/jobdetail?jobid=5982482": "2026-11-06",
+  "https://searchcareers.caci.com/careers/job/1443154443947": "2026-11-09",
   "https://seattleseahawks.applytojob.com/apply/l4gogetbhp/information-security-intern": "2026-11-01",
   "https://shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856": "2026-11-09",
   "https://shopify.com/careers/us-applied-machine-learning-engineering-internships-summer-2027_83c64a5b-6fb8-4785-a4b0-2e3e2f8b7e6e": "2026-10-14",
@@ -1785,6 +1786,7 @@
   "t:byted|softwareengineerprojectinternsecuritydata": "2026-11-08",
   "t:byted|softwareengineerprojectinternsecuritydata2026startbsms": "2026-10-25",
   "t:c3|socanalystinternshipprogramlsustudentsonly": "2026-10-27",
+  "t:cacii|cybersecurityinternsummer2027": "2026-11-09",
   "t:caci|cybersecurityintern": "2026-11-09",
   "t:caci|cybersecurityinternsummer2027": "2026-11-09",
   "t:cae|stagiairespcialistedelintgrationencyberscurit": "2026-11-09",
@@ -4640,6 +4642,7 @@
   ],
   "jobspy": [
    "https://jobs.smartrecruiters.com/NBCUniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027",
+   "https://searchcareers.caci.com/careers/job/1443154443947",
    "https://www.indeed.com/viewjob?jk=89207edb53f554f7",
    "https://www.indeed.com/viewjob?jk=f6a5282db37d7e86"
   ],
@@ -5073,6 +5076,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
@@ -8278,6 +8282,10 @@
   [
    1794242764.923347,
    "NBCUniversal - Cybersecurity, Governance & Security Engineering Intern, Media Tech"
+  ],
+  [
+   1794243877.594804,
+   "CACI International - Cyber Security Intern - Summer 2027"
   ]
  ],
  "stem5": true,
