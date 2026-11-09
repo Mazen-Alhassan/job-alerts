@@ -550,6 +550,7 @@
   "https://go.vansh.nyc/1oK": "2026-11-09",
   "https://go.vansh.nyc/1oR": "2026-11-09",
   "https://go.vansh.nyc/1oS": "2026-11-09",
+  "https://go.vansh.nyc/1oX": "2026-11-09",
   "https://go.vansh.nyc/1op": "2026-11-09",
   "https://go.vansh.nyc/1oq": "2026-11-09",
   "https://go.vansh.nyc/1ox": "2026-11-09",
@@ -2095,6 +2096,7 @@
   "t:liber|cybersecuritycoopjanuaryjune2027": "2026-11-09",
   "t:liber|cybersecuritytechnologyauditinternshipsummer2027": "2026-11-09",
   "t:lilas|coopitotsecurityanalyst": "2026-11-09",
+  "t:lilas|itotsecurityanalystcoop": "2026-11-09",
   "t:linds|cybersecurityintern": "2026-11-03",
   "t:littl|cyberitintern": "2026-11-09",
   "t:littl|interncyberit": "2026-11-09",
@@ -5114,6 +5116,7 @@
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4472769079",
@@ -5693,6 +5696,7 @@
    "https://go.vansh.nyc/1oK",
    "https://go.vansh.nyc/1oR",
    "https://go.vansh.nyc/1oS",
+   "https://go.vansh.nyc/1oX",
    "https://go.vansh.nyc/1op",
    "https://go.vansh.nyc/1oq",
    "https://go.vansh.nyc/1ox"
@@ -8267,7 +8271,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-09 12",
+ "heartbeat": "2026-11-09 14",
  "recent": [
   [
    1794161717.7469718,
@@ -8356,6 +8360,10 @@
   [
    1794249240.4770818,
    "Lila Sciences - Co-Op, IT/OT Security Analyst"
+  ],
+  [
+   1794251601.9588273,
+   "Lila Sciences - IT/OT Security Analyst Co-op"
   ]
  ],
  "stem5": true,
