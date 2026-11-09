@@ -1577,6 +1577,7 @@
   "https://whitecap.wd1.myworkdayjobs.com/careers/job/atlanta_30360/corporate-intern---information-security_wcjr-036638": "2026-11-09",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-19",
+  "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/kalamazoo---kilgore-road/it-ot-security-intern_jr00021980-1": "2026-11-09",
   "t:1pass|developerinterndatasecurity": "2026-10-29",
   "t:1pass|developerinterndatasecuritywinter2027": "2026-11-02",
   "t:1pass|developerinternmachineidentity": "2026-10-29",
@@ -2385,7 +2386,8 @@
   "t:westm|2027cybersecuritycloudandinfrastructureconsultingintern": "2026-11-02",
   "t:white|corporateinterninformationsecurity": "2026-11-09",
   "t:woodm|2027summercybersecurityintern": "2026-11-04",
-  "t:zachr|cybersecurityspecialistiintern": "2026-11-09"
+  "t:zachr|cybersecurityspecialistiintern": "2026-11-09",
+  "t:zoeti|itotsecurityintern": "2026-11-09"
  },
  "boards": {
   "amazon": [
@@ -5052,8 +5054,7 @@
   "li-companies": [
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451234612",
-   "https://www.linkedin.com/jobs/view/4451241553",
-   "https://www.linkedin.com/jobs/view/4488805647"
+   "https://www.linkedin.com/jobs/view/4451241553"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451233573",
@@ -5061,8 +5062,8 @@
    "https://www.linkedin.com/jobs/view/4451241553",
    "https://www.linkedin.com/jobs/view/4454859407",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4461422323"
   ],
   "linkedin": [
@@ -5588,7 +5589,6 @@
    "https://www.metacareers.com/jobs/1903232531024141"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/19i",
    "https://go.vansh.nyc/19y",
    "https://go.vansh.nyc/1b1",
    "https://go.vansh.nyc/1b8",
@@ -7902,7 +7902,9 @@
   "wd+:zekelman/Careers": [],
   "wd+:zendesk/zendesk": [],
   "wd+:zillow/Zillow_Group_External": [],
-  "wd+:zoetis/zoetis": [],
+  "wd+:zoetis/zoetis": [
+   "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Kilgore-Road/IT-OT-Security-Intern_JR00021980-1"
+  ],
   "wd+:zoll/ZOLLMedicalCorp": [],
   "wd+:zoom/zoom": [],
   "wd+:zrsmanagement/zrs_careers": [],
@@ -8194,7 +8196,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-09 08",
+ "heartbeat": "2026-11-09 10",
  "recent": [
   [
    1794144865.5334773,
@@ -8219,6 +8221,10 @@
   [
    1794223659.2706091,
    "Parsons - Cybersecurity Intern - Tamheer Program (Saudi National)"
+  ],
+  [
+   1794236803.4596531,
+   "Zoetis - IT/OT Security Intern"
   ]
  ],
  "stem5": true,
