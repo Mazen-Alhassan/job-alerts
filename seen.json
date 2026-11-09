@@ -1394,6 +1394,7 @@
   "https://linkedin.com/jobs/view/4488432783": "2026-11-07",
   "https://linkedin.com/jobs/view/4488770722": "2026-11-09",
   "https://linkedin.com/jobs/view/4488788761": "2026-11-09",
+  "https://linkedin.com/jobs/view/4488805647": "2026-11-09",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2283,6 +2284,7 @@
   "t:telil|hardwaresecurityengineerinternsummer2027": "2026-10-20",
   "t:tence|cybersecurityengineerintern": "2026-11-09",
   "t:tenso|securityengineerintern": "2026-11-02",
+  "t:tesla|internshipenvironmentalhealthsafetysecuritywinterspring2027": "2026-11-09",
   "t:tesla|redteamsecurityengineerinternvehiclesoftware": "2026-11-09",
   "t:tesla|softwareengineerinterninformationsecurity": "2026-11-09",
   "t:tevor|cybersecurityinternfederal": "2026-11-07",
@@ -5044,7 +5046,8 @@
    "https://www.linkedin.com/jobs/view/4451224632",
    "https://www.linkedin.com/jobs/view/4451233573",
    "https://www.linkedin.com/jobs/view/4451234612",
-   "https://www.linkedin.com/jobs/view/4451241553"
+   "https://www.linkedin.com/jobs/view/4451241553",
+   "https://www.linkedin.com/jobs/view/4488805647"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451224632",
@@ -5058,6 +5061,7 @@
    "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460233941",
+   "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4472098666",
    "https://www.linkedin.com/jobs/view/4488770722",
@@ -5369,8 +5373,7 @@
   "phenom:careers.roche.com": [],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
-   "https://careers.rtx.com/global/en/job/01874702",
-   "https://careers.rtx.com/global/en/job/01877633"
+   "https://careers.rtx.com/global/en/job/01874702"
   ],
   "phenom:careers.seattlechildrens.org": [],
   "phenom:careers.siemens-healthineers.com": [],
@@ -8210,6 +8213,10 @@
   [
    1794161717.7469718,
    "Cedonix - Cybersecurity Intern"
+  ],
+  [
+   1794185540.2282689,
+   "Tesla - Internship, Environmental, Health, Safety & Security (Winter/Spring 2027)"
   ]
  ],
  "stem5": true,
