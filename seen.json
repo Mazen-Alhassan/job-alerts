@@ -1439,6 +1439,7 @@
   "https://linkedin.com/jobs/view/4489148678": "2026-11-10",
   "https://linkedin.com/jobs/view/4489159882": "2026-11-10",
   "https://linkedin.com/jobs/view/4489194777": "2026-11-10",
+  "https://linkedin.com/jobs/view/4489427294": "2026-11-10",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1773,6 +1774,7 @@
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-30",
   "t:biosp|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-11-01",
   "t:biosp|2027summerinternitdigitalenablementinformationsecurity": "2026-10-31",
+  "t:biosp|summerinterncybersecurityoperationsaiautomation": "2026-11-10",
   "t:bmo|juniorcybersecurityinternwinter2027coopinternship4months": "2026-11-05",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
   "t:boein|boeingsummer2027internshipprogrampaidsecurityfireoperationsfo": "2026-11-10",
@@ -5132,12 +5134,11 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451266806"
+  ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4451266806",
-   "https://www.linkedin.com/jobs/view/4454859407",
    "https://www.linkedin.com/jobs/view/4461422323",
-   "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487428087",
@@ -5145,12 +5146,9 @@
    "https://www.linkedin.com/jobs/view/4487922479",
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
-   "https://www.linkedin.com/jobs/view/4487962065",
-   "https://www.linkedin.com/jobs/view/4488869871",
-   "https://www.linkedin.com/jobs/view/4488878593",
    "https://www.linkedin.com/jobs/view/4489148678",
-   "https://www.linkedin.com/jobs/view/4489159882",
-   "https://www.linkedin.com/jobs/view/4489194777"
+   "https://www.linkedin.com/jobs/view/4489194777",
+   "https://www.linkedin.com/jobs/view/4489427294"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8274,14 +8272,6 @@
  "heartbeat": "2026-11-10 02",
  "recent": [
   [
-   1794195456.1960313,
-   "Preciselink - Security Engineer Intern"
-  ],
-  [
-   1794195456.1960337,
-   "Preciselink - Security Analyst Intern"
-  ],
-  [
    1794223659.2706091,
    "Parsons - Cybersecurity Intern - Tamheer Program (Saudi National)"
   ],
@@ -8396,9 +8386,19 @@
   [
    1794284157.6298912,
    "Aerospace Corporation - Defensive Cyber Operations Grad Intern"
+  ],
+  [
+   1794295226.7818935,
+   "BioSpace - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794295175.5079525,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
