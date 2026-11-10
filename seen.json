@@ -1606,6 +1606,7 @@
   "https://upbound.wd501.myworkdayjobs.com/upbound/job/plano-tx/cybersecurity-intern_r-100776": "2026-10-13",
   "https://upboundcareers.com/cybersecurity-intern/job/8ee414ab38bfc41e6a28474463caa885": "2026-10-09",
   "https://us-careers-rivian.icims.com/jobs/34316/job": "2026-10-10",
+  "https://usajobs.gov:443/job/892231800": "2026-11-10",
   "https://uscareers-idemia.icims.com/jobs/8663/cybersecurity-internship/job": "2026-11-10",
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-operations--hybrid--onsite---remote-_r282117": "2026-10-20",
   "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersexternal/job/rosemont-il/intern---cybersecurity-risk--hybrid--onsite---remote-_r282118": "2026-10-12",
@@ -4718,7 +4719,7 @@
    "https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
    "https://nycreates.interviewexchange.com/jobofferdetails.jsp?JOBID=206535",
    "https://recruiting.ultipro.com/ONE1003ONEA/JobBoard/02f5e999-587f-441c-83e0-b6effa8094b2/OpportunityDetail?opportunityId=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingId=647dfe3c-e45b-419d-a4a5-47a54180819d",
-   "https://searchcareers.caci.com/careers/job/1443154443947",
+   "https://www.usajobs.gov:443/job/892231800",
    "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Kilgore-Road/IT-OT-Security-Intern_JR00021980-1",
    "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/Information-Security-Intern_JR00021994-1"
   ],
@@ -5151,9 +5152,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806"
-  ],
+  "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478294739",
@@ -5168,7 +5167,6 @@
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
    "https://www.linkedin.com/jobs/view/4488367341",
-   "https://www.linkedin.com/jobs/view/4488878593",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
@@ -8432,12 +8430,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   2,
-   1794327450.1175876,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
