@@ -1613,6 +1613,7 @@
   "https://tmx.wd3.myworkdayjobs.com/tmx_careers/job/toronto---100-adelaide-st-w/junior-grc-analyst-intern_r-6672": "2026-11-10",
   "https://tmx.wd3.myworkdayjobs.com/tmx_careers/job/toronto---100-adelaide-st-w/security-engineering-intern_r-6656": "2026-11-10",
   "https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewrequisition": "2026-10-14",
+  "https://tsys.wd1.myworkdayjobs.com/tsys/job/columbus-georgia/cybersecurity-intern_r0077068": "2026-11-10",
   "https://uhg.taleo.net/careersection/10000/jobdetail.ftl?job=2384462": "2026-11-06",
   "https://upbound.wd501.myworkdayjobs.com/upbound/job/plano-tx/cybersecurity-intern_r-100776": "2026-10-13",
   "https://upboundcareers.com/cybersecurity-intern/job/8ee414ab38bfc41e6a28474463caa885": "2026-10-09",
@@ -2014,6 +2015,7 @@
   "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-11-07",
   "t:georg|wirelesssecurityengineeringstudentassistantspring2027cipher": "2026-10-31",
+  "t:globa|cybersecurityintern": "2026-11-10",
   "t:gmfin|interncybersecurity": "2026-11-10",
   "t:gordo|identityanalystitinternship": "2026-11-10",
   "t:graco|cybersecurityintern": "2026-11-10",
@@ -5184,9 +5186,7 @@
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
    "https://www.linkedin.com/jobs/view/4488029401",
-   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
-   "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
@@ -7841,7 +7841,9 @@
   "wd+:trustage/TruStage": [],
   "wd+:trwd/TRWDCareers": [],
   "wd+:tsc/TSC-Careers": [],
-  "wd+:tsys/tsys": [],
+  "wd+:tsys/tsys": [
+   "https://tsys.wd1.myworkdayjobs.com/en-US/tsys/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068"
+  ],
   "wd+:ttc/Toro_External_Careers": [],
   "wd+:tti/Milwaukee": [],
   "wd+:tti/tti_pe": [],
@@ -8313,46 +8315,6 @@
  "heartbeat": "2026-11-10 14",
  "recent": [
   [
-   1794243877.594804,
-   "CACI International - Cyber Security Intern - Summer 2027"
-  ],
-  [
-   1794244607.2304177,
-   "Langan Engineering & Environmental Services - Cyber Security Co-op"
-  ],
-  [
-   1794245731.3921893,
-   "Steel Dynamics - Information Security Internship"
-  ],
-  [
-   1794247136.8662567,
-   "OneAmerica Financial Partners, Inc - 2027 Summer Intern - Cyber Security"
-  ],
-  [
-   1794247362.4307544,
-   "Sandia National Laboratories - Intern, Business Graduate Year-Round - Program Security Off"
-  ],
-  [
-   1794247627.2248862,
-   "U.S. House of Representatives - HIR Cybersecurity Intern, Spring"
-  ],
-  [
-   1794247895.5862272,
-   "Citizens Energy Group - IT Security Intern"
-  ],
-  [
-   1794247895.5862288,
-   "Kudu Dynamics - Cybersecurity Analyst Intern"
-  ],
-  [
-   1794248079.9593134,
-   "Lockheed Martin - Cyber Intelligence Intern - Summer 2027"
-  ],
-  [
-   1794249240.4770818,
-   "Lila Sciences - Co-Op, IT/OT Security Analyst"
-  ],
-  [
    1794251601.9588273,
    "Lila Sciences - IT/OT Security Analyst Co-op"
   ],
@@ -8451,6 +8413,10 @@
   [
    1794337080.338125,
    "Cyber Skyline - Professional Services Pathfinder Intern - Red Team - Summer 2027 CrowdStri"
+  ],
+  [
+   1794343384.309437,
+   "Global Payments - CyberSecurity Intern"
   ]
  ],
  "stem5": true,
