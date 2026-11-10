@@ -13,6 +13,7 @@
   "gh:5236035007": "2026-11-10",
   "gh:5238469007": "2026-11-04",
   "gh:5238471007": "2026-11-04",
+  "gh:5270839007": "2026-11-10",
   "gh:5421861008": "2026-10-16",
   "gh:5445236008": "2026-10-28",
   "gh:5448019008": "2026-11-10",
@@ -793,6 +794,7 @@
   "https://jobs.lever.co/crestoperations/c0be0317-9219-454b-bb32-f2cd471a3efd": "2026-10-13",
   "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370": "2026-11-10",
   "https://jobs.lever.co/geocomply-2/0c7660a9-a200-4dd0-9452-f0b87c536fcd": "2026-11-10",
+  "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483": "2026-11-10",
   "https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb": "2026-11-10",
   "https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968": "2026-11-10",
   "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d": "2026-11-10",
@@ -1750,6 +1752,7 @@
   "t:ameri|threatandvulnerabilitymanagementintern": "2026-10-23",
   "t:ameri|undergraduateprogramcybersecurityaiengineerinternenterprisetechnologyservices": "2026-11-09",
   "t:amtra|summer2027dtphysicalsecuritysystemsintern90413063": "2026-11-03",
+  "t:andur|2027newgradinformationsecurityengineer": "2026-11-10",
   "t:appia|informationsecurityengineerintern": "2026-11-10",
   "t:apple|2027summerinterninformationsecurity": "2026-11-10",
   "t:apple|engineeringprogrammanagementmastersinternships": "2026-11-10",
@@ -2169,6 +2172,7 @@
   "t:lplfi|intern2027cybersecurityanalyst": "2026-11-10",
   "t:lplfi|newgrad2027cybersecurityanalyst": "2026-11-10",
   "t:lubri|informationsecuritycoopsummer2027": "2026-10-24",
+  "t:magne|informationsecurityanalystcoopwinter2027": "2026-11-10",
   "t:manit|summer2027interncybersecurity": "2026-10-29",
   "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-11-10",
   "t:marsh|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-31",
@@ -3373,7 +3377,9 @@
   "gh:amperesand": [],
   "gh:ampsortation": [],
   "gh:anaplan": [],
-  "gh:andurilindustries": [],
+  "gh:andurilindustries": [
+   "https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007"
+  ],
   "gh:anthropic": [],
   "gh:antora": [],
   "gh:aperaaiinc": [],
@@ -4974,7 +4980,9 @@
   "lever:lumafield": [],
   "lever:lumotive": [],
   "lever:mactores": [],
-  "lever:magnetforensics": [],
+  "lever:magnetforensics": [
+   "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483"
+  ],
   "lever:make-rain": [],
   "lever:margo-group": [],
   "lever:masterborn-2": [],
@@ -5186,7 +5194,9 @@
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
    "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
+   "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
@@ -8417,9 +8427,23 @@
   [
    1794343384.309437,
    "Global Payments - CyberSecurity Intern"
+  ],
+  [
+   1794344010.185379,
+   "Andurilindustries - 2027 New Grad Information Security Engineer"
+  ],
+  [
+   1794344010.1853814,
+   "Magnet Forensics - Information Security Analyst Co-op (Winter 2027)"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794343955.5961912,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
