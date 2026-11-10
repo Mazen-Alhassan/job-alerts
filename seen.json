@@ -1436,6 +1436,7 @@
   "https://linkedin.com/jobs/view/4488108609": "2026-11-07",
   "https://linkedin.com/jobs/view/4488119176": "2026-11-07",
   "https://linkedin.com/jobs/view/4488183482": "2026-11-07",
+  "https://linkedin.com/jobs/view/4488367341": "2026-11-10",
   "https://linkedin.com/jobs/view/4488432783": "2026-11-07",
   "https://linkedin.com/jobs/view/4488770722": "2026-11-09",
   "https://linkedin.com/jobs/view/4488788761": "2026-11-09",
@@ -2435,6 +2436,7 @@
   "t:ups|upsinformationsecuritysummer2027internshipnj": "2026-11-09",
   "t:usfoo|interncybersecurityoperationshybridonsiteremote": "2026-10-20",
   "t:ushou|hircybersecurityinternspring": "2026-11-10",
+  "t:uwadv|studentassistantitservicessecurity": "2026-11-10",
   "t:v2xin|systemssecurityengineerinternsummer2027": "2026-11-08",
   "t:valle|itsecurityintern": "2026-11-10",
   "t:valle|studentinternitsecurityspring": "2026-11-06",
@@ -5165,6 +5167,7 @@
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488878593",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
@@ -8422,9 +8425,19 @@
   [
    1794327357.9751134,
    "Zebra Technologies - 2027 Summer Internship (US) - Security"
+  ],
+  [
+   1794327643.838973,
+   "UW Advancement Careers - Student Assistant - IT Services Security"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1794327450.1175876,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
