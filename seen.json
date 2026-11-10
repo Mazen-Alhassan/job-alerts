@@ -558,6 +558,7 @@
   "https://go.vansh.nyc/1op": "2026-11-10",
   "https://go.vansh.nyc/1oq": "2026-11-10",
   "https://go.vansh.nyc/1ox": "2026-11-10",
+  "https://go.vansh.nyc/1pP": "2026-11-10",
   "https://go.vansh.nyc/1pd": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
@@ -2333,6 +2334,7 @@
   "t:spect|2027summerinternsecurityengineer": "2026-10-31",
   "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-27",
   "t:steal|cybersecurityintern": "2026-10-31",
+  "t:steel|informationsecurityintern": "2026-11-10",
   "t:steel|informationsecurityinternship": "2026-11-10",
   "t:stife|informationsecurityintern": "2026-10-28",
   "t:stife|informationsecurityinternsummer2027": "2026-10-31",
@@ -5126,9 +5128,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806"
-  ],
+  "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
@@ -5139,6 +5139,7 @@
    "https://www.linkedin.com/jobs/view/4487428087",
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
+   "https://www.linkedin.com/jobs/view/4487943332",
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
@@ -5709,6 +5710,7 @@
    "https://go.vansh.nyc/1op",
    "https://go.vansh.nyc/1oq",
    "https://go.vansh.nyc/1ox",
+   "https://go.vansh.nyc/1pP",
    "https://go.vansh.nyc/1pd"
   ],
   "sr:3SBusinessCorporationInc1": [],
@@ -8398,6 +8400,10 @@
   [
    1794268960.6924863,
    "Lockheed Martin - Cybersecurity Intern"
+  ],
+  [
+   1794277062.414657,
+   "Steel Dynamics - Information Security Intern"
   ]
  ],
  "stem5": true,
