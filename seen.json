@@ -82,6 +82,7 @@
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-11-10",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-11-10",
+  "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-defensive-cyber-operations-grad-intern_r017106": "2026-11-10",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-defensive-cyber-operations-undergrad-intern_r017011": "2026-11-10",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-grad-intern_r016953": "2026-11-10",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-undergrad--intern_r016954": "2026-11-10",
@@ -1644,6 +1645,7 @@
   "t:adp|summer2027globalsecurityofficegsointernship": "2026-11-04",
   "t:adt|cybersecurityriskintern": "2026-11-10",
   "t:adt|cybersecurityriskinternjobid3022588": "2026-10-28",
+  "t:aeros|2027defensivecyberoperationsgradintern": "2026-11-10",
   "t:aeros|2027defensivecyberoperationsundergradintern": "2026-11-10",
   "t:aeros|2027hardwaresecurityengineeringgradintern": "2026-11-10",
   "t:aeros|2027hardwaresecurityengineeringundergradintern": "2026-11-10",
@@ -4694,7 +4696,6 @@
    "https://nycreates.interviewexchange.com/jobofferdetails.jsp?JOBID=206535",
    "https://recruiting.ultipro.com/ONE1003ONEA/JobBoard/02f5e999-587f-441c-83e0-b6effa8094b2/OpportunityDetail?opportunityId=eb6ad0cd-49ea-4144-93f9-e8bb7c8f89d3&postingId=647dfe3c-e45b-419d-a4a5-47a54180819d",
    "https://searchcareers.caci.com/careers/job/1443154443947",
-   "https://www.indeed.com/viewjob?jk=f6a5282db37d7e86",
    "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Kilgore-Road/IT-OT-Security-Intern_JR00021980-1",
    "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/Information-Security-Intern_JR00021994-1"
   ],
@@ -5127,9 +5128,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806"
-  ],
+  "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4454859407",
@@ -7999,6 +7998,7 @@
    "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001"
   ],
   "wd:aero/external": [
+   "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Grad-Intern_R016953",
    "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Hardware-Security-Engineering-Undergrad--Intern_R016954"
@@ -8284,12 +8284,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-09 20",
+ "heartbeat": "2026-11-09 22",
  "recent": [
-  [
-   1794185540.2282689,
-   "Tesla - Internship, Environmental, Health, Safety & Security (Winter/Spring 2027)"
-  ],
   [
    1794195456.1960313,
    "Preciselink - Security Engineer Intern"
@@ -8405,6 +8401,10 @@
   [
    1794277062.414657,
    "Steel Dynamics - Information Security Intern"
+  ],
+  [
+   1794280109.4763288,
+   "Aerospace Corp - 2027 Defensive Cyber Operations Grad Intern"
   ]
  ],
  "stem5": true,
