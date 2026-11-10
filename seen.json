@@ -575,6 +575,7 @@
   "https://go.vansh.nyc/1r5": "2026-11-10",
   "https://go.vansh.nyc/1rI": "2026-11-10",
   "https://go.vansh.nyc/1s5": "2026-11-10",
+  "https://go.vansh.nyc/1se": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2179,6 +2180,7 @@
   "t:lplfi|intern2027cybersecurityanalyst": "2026-11-10",
   "t:lplfi|newgrad2027cybersecurityanalyst": "2026-11-10",
   "t:lubri|informationsecuritycoopsummer2027": "2026-10-24",
+  "t:magne|informationsecurityanalystcoop": "2026-11-10",
   "t:magne|informationsecurityanalystcoopwinter2027": "2026-11-10",
   "t:manit|summer2027interncybersecurity": "2026-10-29",
   "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-11-10",
@@ -5201,17 +5203,13 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
-   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487836191",
-   "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4488029401",
-   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
-   "https://www.linkedin.com/jobs/view/4488635050",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
@@ -5769,7 +5767,8 @@
    "https://go.vansh.nyc/1qC",
    "https://go.vansh.nyc/1qx",
    "https://go.vansh.nyc/1rI",
-   "https://go.vansh.nyc/1s5"
+   "https://go.vansh.nyc/1s5",
+   "https://go.vansh.nyc/1se"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8430,15 +8429,13 @@
   [
    1794352241.55456,
    "Minitab - Cybersecurity Intern (Summer 2027)"
+  ],
+  [
+   1794352421.2838025,
+   "Magnet Forensics - Information Security Analyst Co-op"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794352188.103437,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
