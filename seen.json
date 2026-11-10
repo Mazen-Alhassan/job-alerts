@@ -565,6 +565,7 @@
   "https://go.vansh.nyc/1pP": "2026-11-10",
   "https://go.vansh.nyc/1pU": "2026-11-10",
   "https://go.vansh.nyc/1pd": "2026-11-10",
+  "https://go.vansh.nyc/1qx": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1632,6 +1633,7 @@
   "https://whitecap.wd1.myworkdayjobs.com/careers/job/atlanta_30360/corporate-intern---information-security_wcjr-036638": "2026-11-10",
   "https://wilcoxflegel.recruitee.com/o/cybersecurity-compliance-intern": "2026-10-10",
   "https://xboxgaming.wd1.myworkdayjobs.com/external/job/sherman-oaks/activision-2027-summer-internships---information-security_r028044": "2026-10-19",
+  "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/lincolnshire-illinois/xmlname-2027-summer-internship--us----security_jr103608": "2026-11-10",
   "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/kalamazoo---kilgore-road/it-ot-security-intern_jr00021980-1": "2026-11-10",
   "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/parsippany/information-security-intern_jr00021994-1": "2026-11-10",
   "t:1pass|developerinterndatasecurity": "2026-10-29",
@@ -2243,6 +2245,7 @@
   "t:ocean|itsecurityarchitectureintern": "2026-11-10",
   "t:olin|informationsecurity6monthcoop2027": "2026-11-08",
   "t:oneam|2027summerinterncybersecurity": "2026-11-10",
+  "t:oneam|cybersecurityintern": "2026-11-10",
   "t:opens|securityanalystinternship": "2026-10-28",
   "t:optio|yearroundinternapplicationsecurity": "2026-11-01",
   "t:optio|yearroundinterncyberoperations": "2026-11-01",
@@ -2467,6 +2470,7 @@
   "t:white|corporateinterninformationsecurity": "2026-11-10",
   "t:woodm|2027summercybersecurityintern": "2026-11-04",
   "t:zachr|cybersecurityspecialistiintern": "2026-11-10",
+  "t:zebra|2027summerinternshipussecurity": "2026-11-10",
   "t:zoeti|informationsecurityintern": "2026-11-10",
   "t:zoeti|itotsecurityintern": "2026-11-10"
  },
@@ -5157,6 +5161,7 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
+   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
@@ -5717,7 +5722,8 @@
    "https://go.vansh.nyc/1ox",
    "https://go.vansh.nyc/1pP",
    "https://go.vansh.nyc/1pU",
-   "https://go.vansh.nyc/1pd"
+   "https://go.vansh.nyc/1pd",
+   "https://go.vansh.nyc/1qx"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -7978,7 +7984,9 @@
   "wd+:yale/terminated_layoff_external_career_site": [],
   "wd+:ymcaatlanta/ymca-careers": [],
   "wd+:zayo/zayo_careers": [],
-  "wd+:zebra/Zebra_careers": [],
+  "wd+:zebra/Zebra_careers": [
+   "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608"
+  ],
   "wd+:zeissgroup/External": [],
   "wd+:zekelman/Careers": [],
   "wd+:zendesk/zendesk": [],
@@ -8406,6 +8414,14 @@
   [
    1794317956.9329605,
    "General Dynamics Mission Systems - Systems Intern (Cybersecurity And Linux Administration)"
+  ],
+  [
+   1794327357.975112,
+   "OneAmerica Financial - Cyber Security Intern"
+  ],
+  [
+   1794327357.9751134,
+   "Zebra Technologies - 2027 Summer Internship (US) - Security"
   ]
  ],
  "stem5": true,
