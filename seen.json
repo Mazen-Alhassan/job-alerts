@@ -1456,6 +1456,7 @@
   "https://linkedin.com/jobs/view/4488616917": "2026-11-10",
   "https://linkedin.com/jobs/view/4488621729": "2026-11-10",
   "https://linkedin.com/jobs/view/4488631168": "2026-11-10",
+  "https://linkedin.com/jobs/view/4488634537": "2026-11-10",
   "https://linkedin.com/jobs/view/4488635050": "2026-11-10",
   "https://linkedin.com/jobs/view/4488770722": "2026-11-09",
   "https://linkedin.com/jobs/view/4488788761": "2026-11-09",
@@ -1749,6 +1750,7 @@
   "t:ameri|interncybersecuritysummer2027": "2026-11-10",
   "t:ameri|itinterninformationsecurity": "2026-10-31",
   "t:ameri|itinternsapsecurity": "2026-11-01",
+  "t:ameri|securityoperationsintern": "2026-11-10",
   "t:ameri|skillbridgecybersecurityinterntransitioningmilitary": "2026-11-10",
   "t:ameri|springinternasiansecurityandtechnology": "2026-11-10",
   "t:ameri|springinterncriticalthreatsprojectafrica": "2026-10-26",
@@ -5203,14 +5205,16 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
+   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487836191",
    "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
-   "https://www.linkedin.com/jobs/view/4489148678",
+   "https://www.linkedin.com/jobs/view/4488634537",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
    "https://www.linkedin.com/jobs/view/4489427294",
@@ -8335,10 +8339,6 @@
  "heartbeat": "2026-11-10 18",
  "recent": [
   [
-   1794258821.6544704,
-   "i3 - Cybersecurity Intern"
-  ],
-  [
    1794262928.0204203,
    "Hypertherm - Graduate Intern - Software Security"
   ],
@@ -8433,9 +8433,19 @@
   [
    1794352421.2838025,
    "Magnet Forensics - Information Security Analyst Co-op"
+  ],
+  [
+   1794352891.7161956,
+   "American National - Security Operations Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794352818.104295,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
