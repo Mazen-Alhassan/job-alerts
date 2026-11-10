@@ -1213,7 +1213,7 @@
   "https://linkedin.com/jobs/view/4481204489": "2026-10-20",
   "https://linkedin.com/jobs/view/4481207401": "2026-10-19",
   "https://linkedin.com/jobs/view/4481236931": "2026-10-19",
-  "https://linkedin.com/jobs/view/4481250158": "2026-10-20",
+  "https://linkedin.com/jobs/view/4481250158": "2026-11-10",
   "https://linkedin.com/jobs/view/4481252240": "2026-11-10",
   "https://linkedin.com/jobs/view/4481254414": "2026-10-19",
   "https://linkedin.com/jobs/view/4481286741": "2026-10-20",
@@ -1455,6 +1455,7 @@
   "https://linkedin.com/jobs/view/4489194777": "2026-11-10",
   "https://linkedin.com/jobs/view/4489427294": "2026-11-10",
   "https://linkedin.com/jobs/view/4489602771": "2026-11-10",
+  "https://linkedin.com/jobs/view/4489619551": "2026-11-10",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1888,6 +1889,7 @@
   "t:citiz|itsecurityintern": "2026-11-10",
   "t:cityo|administrativeinternnoncareersecurity": "2026-11-01",
   "t:cityo|springinternpolicesafetysecurityoperations": "2026-11-02",
+  "t:clark|itriskcybersecurityintern": "2026-11-10",
   "t:cleco|interncybersecurity": "2026-11-10",
   "t:close|contentinternbillingtoncybersecurity": "2026-11-07",
   "t:cnain|cybersecurityinterntechnology": "2026-11-10",
@@ -4726,7 +4728,6 @@
    "https://careers-i3-corps.icims.com/jobs/5489/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job",
    "https://careers.leidos.com/jobs/18462509-cybersecurity-analyst-intern?tm_job=R-00196546&tm_event=view&tm_company=2502",
-   "https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5759?c=house",
    "https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
    "https://lockheedmartin.eightfold.ai/careers/job/996477848074",
@@ -5168,6 +5169,7 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4480494475",
+   "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240",
    "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487428087",
@@ -5185,7 +5187,8 @@
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
    "https://www.linkedin.com/jobs/view/4489427294",
-   "https://www.linkedin.com/jobs/view/4489602771"
+   "https://www.linkedin.com/jobs/view/4489602771",
+   "https://www.linkedin.com/jobs/view/4489619551"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8311,26 +8314,6 @@
  "heartbeat": "2026-11-10 12",
  "recent": [
   [
-   1794236803.4596531,
-   "Zoetis - IT/OT Security Intern"
-  ],
-  [
-   1794237646.9205248,
-   "CACI - Cyber Security Intern - Summer 2027"
-  ],
-  [
-   1794238989.4136782,
-   "NBCUniversal - Global Security & Intelligence Internships \u2013 Summer 2027"
-  ],
-  [
-   1794239176.983733,
-   "CACI - Cyber Security Intern"
-  ],
-  [
-   1794239454.5961273,
-   "Zoetis - Information Security Intern"
-  ],
-  [
    1794239839.4454005,
    "NBCUniversal - Media Tech: Cybersecurity, Governance & Security Engineering Internships \u2013 "
   ],
@@ -8465,6 +8448,10 @@
   [
    1794329958.9270437,
    "EllisDon - Student Security Administrator"
+  ],
+  [
+   1794333192.4979722,
+   "Clark Schaefer Hackett - IT Risk & Cybersecurity Intern"
   ]
  ],
  "stem5": true,
