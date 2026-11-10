@@ -4700,7 +4700,6 @@
   "jobspy": [
    "https://careers-citizensenergygroup.icims.com/jobs/3472/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://careers-i3-corps.icims.com/jobs/5489/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
-   "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job",
    "https://careers-steeldynamics.icims.com/jobs/8490/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://careers.leidos.com/jobs/18462509-cybersecurity-analyst-intern?tm_job=R-00196546&tm_event=view&tm_company=2502",
    "https://house.csodfed.com/ux/ats/careersite/1/home/requisition/5759?c=house",
@@ -5141,9 +5140,29 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4451266806"
+  ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4478294739"
+   "https://www.linkedin.com/jobs/view/4451266806",
+   "https://www.linkedin.com/jobs/view/4461422323",
+   "https://www.linkedin.com/jobs/view/4472769079",
+   "https://www.linkedin.com/jobs/view/4478294739",
+   "https://www.linkedin.com/jobs/view/4487180316",
+   "https://www.linkedin.com/jobs/view/4487428087",
+   "https://www.linkedin.com/jobs/view/4487462387",
+   "https://www.linkedin.com/jobs/view/4487465100",
+   "https://www.linkedin.com/jobs/view/4487920639",
+   "https://www.linkedin.com/jobs/view/4487922479",
+   "https://www.linkedin.com/jobs/view/4487945941",
+   "https://www.linkedin.com/jobs/view/4487957703",
+   "https://www.linkedin.com/jobs/view/4487962065",
+   "https://www.linkedin.com/jobs/view/4488869871",
+   "https://www.linkedin.com/jobs/view/4488878593",
+   "https://www.linkedin.com/jobs/view/4489148678",
+   "https://www.linkedin.com/jobs/view/4489159882",
+   "https://www.linkedin.com/jobs/view/4489194777",
+   "https://www.linkedin.com/jobs/view/4489427294"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8392,12 +8411,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794302462.2463484,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
