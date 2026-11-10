@@ -5136,24 +5136,7 @@
    "https://www.linkedin.com/jobs/view/4451266806"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4451266806",
-   "https://www.linkedin.com/jobs/view/4454859407",
-   "https://www.linkedin.com/jobs/view/4461422323",
-   "https://www.linkedin.com/jobs/view/4472769079",
-   "https://www.linkedin.com/jobs/view/4478294739",
-   "https://www.linkedin.com/jobs/view/4487180316",
-   "https://www.linkedin.com/jobs/view/4487428087",
-   "https://www.linkedin.com/jobs/view/4487920639",
-   "https://www.linkedin.com/jobs/view/4487922479",
-   "https://www.linkedin.com/jobs/view/4487945941",
-   "https://www.linkedin.com/jobs/view/4487957703",
-   "https://www.linkedin.com/jobs/view/4487962065",
-   "https://www.linkedin.com/jobs/view/4488869871",
-   "https://www.linkedin.com/jobs/view/4488878593",
-   "https://www.linkedin.com/jobs/view/4489120085",
-   "https://www.linkedin.com/jobs/view/4489148678",
-   "https://www.linkedin.com/jobs/view/4489159882",
-   "https://www.linkedin.com/jobs/view/4489194777"
+   "https://www.linkedin.com/jobs/view/4478294739"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5303,9 +5286,7 @@
   "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
-  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [
-   "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588"
-  ],
+  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/CX_2001": [],
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/CX_2": [],
   "oracle:fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
@@ -5675,10 +5656,6 @@
    "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
   ],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1cN",
-   "https://go.vansh.nyc/1cR",
-   "https://go.vansh.nyc/1cZ",
-   "https://go.vansh.nyc/1cy",
    "https://go.vansh.nyc/1dI",
    "https://go.vansh.nyc/1e9",
    "https://go.vansh.nyc/1ei",
@@ -8408,6 +8385,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   3,
+   1794290495.5021312,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
