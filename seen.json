@@ -5134,25 +5134,17 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4451266806",
-   "https://www.linkedin.com/jobs/view/4454859407",
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4472769079",
    "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4487180316",
-   "https://www.linkedin.com/jobs/view/4487428087",
    "https://www.linkedin.com/jobs/view/4487920639",
    "https://www.linkedin.com/jobs/view/4487922479",
-   "https://www.linkedin.com/jobs/view/4487943332",
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
-   "https://www.linkedin.com/jobs/view/4487962065",
-   "https://www.linkedin.com/jobs/view/4488869871",
    "https://www.linkedin.com/jobs/view/4488878593",
-   "https://www.linkedin.com/jobs/view/4489120085",
    "https://www.linkedin.com/jobs/view/4489148678",
-   "https://www.linkedin.com/jobs/view/4489159882",
-   "https://www.linkedin.com/jobs/view/4489194777"
+   "https://www.linkedin.com/jobs/view/4489159882"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -6265,7 +6257,6 @@
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Cyber-Security-Intern---Lexington--MA_R0252278",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071",
-   "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077",
    "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085"
@@ -7937,12 +7928,8 @@
   "wd+:westernunion/WesternUnionJobs": [],
   "wd+:westlake/westlake": [],
   "wd+:wexinc/WEXInc": [],
-  "wd+:wf/WellsFargoJobs": [
-   "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
-  ],
-  "wd+:wf/wellsfargojobs": [
-   "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417"
-  ],
+  "wd+:wf/WellsFargoJobs": [],
+  "wd+:wf/wellsfargojobs": [],
   "wd+:wfscorp/wfscareers": [],
   "wd+:wgl/altagas": [],
   "wd+:wgu/External": [],
@@ -8287,7 +8274,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-09 22",
+ "heartbeat": "2026-11-10 00",
  "recent": [
   [
    1794195456.1960313,
@@ -8415,6 +8402,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1794286895.4976602,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
