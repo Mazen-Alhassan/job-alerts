@@ -560,6 +560,7 @@
   "https://go.vansh.nyc/1oq": "2026-11-10",
   "https://go.vansh.nyc/1ox": "2026-11-10",
   "https://go.vansh.nyc/1pP": "2026-11-10",
+  "https://go.vansh.nyc/1pU": "2026-11-10",
   "https://go.vansh.nyc/1pd": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
@@ -1650,6 +1651,7 @@
   "t:aeros|2027hardwaresecurityengineeringgradintern": "2026-11-10",
   "t:aeros|2027hardwaresecurityengineeringundergradintern": "2026-11-10",
   "t:aeros|cybersecurityinternsummer2027": "2026-11-10",
+  "t:aeros|defensivecyberoperationsgradintern": "2026-11-10",
   "t:aeros|defensivecyberoperationsintern": "2026-10-30",
   "t:aeros|hardwaresecurityengineeringintern": "2026-10-28",
   "t:aeros|softwareengineerinternsoftwareprocessandarchitecturedepartmentinformationsystemsandcyberdivision": "2026-11-08",
@@ -5711,6 +5713,7 @@
    "https://go.vansh.nyc/1oq",
    "https://go.vansh.nyc/1ox",
    "https://go.vansh.nyc/1pP",
+   "https://go.vansh.nyc/1pU",
    "https://go.vansh.nyc/1pd"
   ],
   "sr:3SBusinessCorporationInc1": [],
@@ -8405,9 +8408,19 @@
   [
    1794280109.4763288,
    "Aerospace Corp - 2027 Defensive Cyber Operations Grad Intern"
+  ],
+  [
+   1794284157.6298912,
+   "Aerospace Corporation - Defensive Cyber Operations Grad Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "li-companies": [
+   1,
+   1794283745.4937117,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
+  ]
+ },
  "urlkey2": true
 }
