@@ -680,6 +680,7 @@
   "https://grnh.se/3rzsdnsm9us": "2026-10-23",
   "https://grnh.se/bng9sqd88us": "2026-10-29",
   "https://grnh.se/fy78hwlm8us": "2026-10-31",
+  "https://grnh.se/ujybf1ks3us": "2026-11-10",
   "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/new-york/xmlname-2027-guardian-summer-intern--digital---technology--cybersecurity_r000110211": "2026-11-10",
   "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040171": "2026-10-30",
   "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040172": "2026-11-06",
@@ -2204,6 +2205,7 @@
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-11-10",
   "t:midla|securityanalystintern": "2026-11-06",
+  "t:minit|cybersecurityinternsummer2027": "2026-11-10",
   "t:missi|2027cybersecurityengineeringinternsophomorejuniorsenior": "2026-11-01",
   "t:mitli|securitydepartmentcoopjan2027june2027group1200": "2026-11-07",
   "t:mitli|summerresearchprogramintern2027cicybersecurityenergysystemsgroup47": "2026-10-29",
@@ -4749,6 +4751,7 @@
    "https://careers-steeldynamics.icims.com/jobs/8490/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://cyberskyline.com/jobs/6af322d13132318cd9b37b54",
    "https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9&postingId=2bffa838-eeef-41c4-aef8-25386098b2f2",
+   "https://grnh.se/ujybf1ks3us",
    "https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
    "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
@@ -8330,28 +8333,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 16",
+ "heartbeat": "2026-11-10 18",
  "recent": [
-  [
-   1794251601.9588273,
-   "Lila Sciences - IT/OT Security Analyst Co-op"
-  ],
-  [
-   1794253760.7295113,
-   "NY Creates - Cybersecurity Intern"
-  ],
-  [
-   1794255381.6893578,
-   "DUAL North America - Underwriting Intern, Cyber"
-  ],
-  [
-   1794256955.3438413,
-   "Amazon - Software Development Engineer Intern - Summer 2027"
-  ],
-  [
-   1794256955.343843,
-   "Integration Innovation (i3) - Cybersecurity Internship"
-  ],
   [
    1794258821.6544704,
    "i3 - Cybersecurity Intern"
@@ -8443,9 +8426,19 @@
   [
    1794344010.1853814,
    "Magnet Forensics - Information Security Analyst Co-op (Winter 2027)"
+  ],
+  [
+   1794352241.55456,
+   "Minitab - Cybersecurity Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794352188.103437,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
