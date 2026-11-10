@@ -7136,9 +7136,7 @@
   "wd+:kyndryl/KyndrylEarlyCareers": [
    "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304-1"
   ],
-  "wd+:kyndryl/KyndrylProfessionalCareers": [
-   "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Cybersecurity-Engineer_R-67304"
-  ],
+  "wd+:kyndryl/KyndrylProfessionalCareers": [],
   "wd+:labcorp/external": [],
   "wd+:lambweston/CTE": [],
   "wd+:landolakes/landolakes": [],
@@ -8314,7 +8312,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 12",
+ "heartbeat": "2026-11-10 14",
  "recent": [
   [
    1794243877.594804,
