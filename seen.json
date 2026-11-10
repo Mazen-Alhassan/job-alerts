@@ -574,6 +574,7 @@
   "https://go.vansh.nyc/1qx": "2026-11-10",
   "https://go.vansh.nyc/1r5": "2026-11-10",
   "https://go.vansh.nyc/1rI": "2026-11-10",
+  "https://go.vansh.nyc/1s5": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -4748,7 +4749,8 @@
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
    "https://lockheedmartin.eightfold.ai/careers/job/996477848074",
    "https://www.cshco.com/jobs-listing?gnk=job&gni=8a7887a8a18473d601a1c5ef426e1fac&gns=Indeed+Free",
-   "https://www.usajobs.gov:443/job/892231800"
+   "https://www.usajobs.gov:443/job/892231800",
+   "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608"
   ],
   "jobvite:aarete": [],
   "jobvite:acpm": [],
@@ -5190,8 +5192,10 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
+   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4489148678",
@@ -5752,7 +5756,8 @@
    "https://go.vansh.nyc/1pd",
    "https://go.vansh.nyc/1qC",
    "https://go.vansh.nyc/1qx",
-   "https://go.vansh.nyc/1rI"
+   "https://go.vansh.nyc/1rI",
+   "https://go.vansh.nyc/1s5"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8434,12 +8439,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794346483.0022244,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
