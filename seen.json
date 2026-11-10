@@ -388,7 +388,9 @@
   "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/usa---arlington-va/professional-services-pathfinder-intern---red-team---summer-2027_r30780": "2026-11-10",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/chicago-il-usa/cybersecurity-intern_r-71031": "2026-11-10",
   "https://crowe.wd12.myworkdayjobs.com/external_careers/job/sarasota-fl-usa/incident-response-intern_r-71609": "2026-11-10",
+  "https://cshco.com/jobs-listing?gni=8a7887a8a18473d601a1c5ef426e1fac&gnk=job&gns=Indeed+Free": "2026-11-10",
   "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/innovation---technology-internship---technology---security---summer-2027--undergraduate-_r1081237": "2026-11-10",
+  "https://cyberskyline.com/jobs/6af322d13132318cd9b37b54": "2026-11-10",
   "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/coralville-iowa-united-states/it-security-intern_r1316663": "2026-11-10",
   "https://desjardins.wd10.myworkdayjobs.com/desjardins/job/montral/stage-au-bureau-de-la-scurit-desjardins--hiver-2027_r2610591-1": "2026-11-10",
   "https://dickssportinggoods.wd1.myworkdayjobs.com/dsg/job/customer-support-center/cybersecurity---summer-2027-corporate-internship_202608793-1": "2026-11-10",
@@ -570,6 +572,7 @@
   "https://go.vansh.nyc/1qP": "2026-11-10",
   "https://go.vansh.nyc/1qx": "2026-11-10",
   "https://go.vansh.nyc/1r5": "2026-11-10",
+  "https://go.vansh.nyc/1rI": "2026-11-10",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1428,7 +1431,7 @@
   "https://linkedin.com/jobs/view/4487957703": "2026-11-10",
   "https://linkedin.com/jobs/view/4487962065": "2026-11-10",
   "https://linkedin.com/jobs/view/4488010550": "2026-11-06",
-  "https://linkedin.com/jobs/view/4488029401": "2026-11-06",
+  "https://linkedin.com/jobs/view/4488029401": "2026-11-10",
   "https://linkedin.com/jobs/view/4488049949": "2026-11-06",
   "https://linkedin.com/jobs/view/4488054641": "2026-11-06",
   "https://linkedin.com/jobs/view/4488056629": "2026-11-06",
@@ -1924,6 +1927,7 @@
   "t:crypt|summer2027cyberengineeringinternship": "2026-11-10",
   "t:crypt|summer2027cyberengineeringinternshipprogram": "2026-10-23",
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-10",
+  "t:cyber|professionalservicespathfinderinternredteamsummer2027crowdstrike": "2026-11-10",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-10",
   "t:daiic|itrisksecuritygovernanceintern": "2026-11-06",
   "t:danah|itsecurityintern": "2026-11-10",
@@ -4730,11 +4734,13 @@
    "https://careers-i3-corps.icims.com/jobs/5489/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://careers-steeldynamics.icims.com/jobs/8490/information-security-internship/job",
    "https://careers.leidos.com/jobs/18462509-cybersecurity-analyst-intern?tm_job=R-00196546&tm_event=view&tm_company=2502",
+   "https://cyberskyline.com/jobs/6af322d13132318cd9b37b54",
    "https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9&postingId=2bffa838-eeef-41c4-aef8-25386098b2f2",
    "https://hypertherm.wd503.myworkdayjobs.com/en-US/hypertherm-careers/job/Kent-WA/Graduate-Intern---Software-Security_R4136",
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
    "https://lockheedmartin.eightfold.ai/careers/job/996477848074",
    "https://nycreates.interviewexchange.com/jobofferdetails.jsp?JOBID=206535",
+   "https://www.cshco.com/jobs-listing?gnk=job&gni=8a7887a8a18473d601a1c5ef426e1fac&gns=Indeed+Free",
    "https://www.usajobs.gov:443/job/892231800"
   ],
   "jobvite:aarete": [],
@@ -5179,8 +5185,9 @@
    "https://www.linkedin.com/jobs/view/4487945941",
    "https://www.linkedin.com/jobs/view/4487957703",
    "https://www.linkedin.com/jobs/view/4487962065",
-   "https://www.linkedin.com/jobs/view/4488367341",
+   "https://www.linkedin.com/jobs/view/4488029401",
    "https://www.linkedin.com/jobs/view/4488391566",
+   "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4489148678",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
@@ -5740,7 +5747,8 @@
    "https://go.vansh.nyc/1pU",
    "https://go.vansh.nyc/1pd",
    "https://go.vansh.nyc/1qC",
-   "https://go.vansh.nyc/1qx"
+   "https://go.vansh.nyc/1qx",
+   "https://go.vansh.nyc/1rI"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8309,10 +8317,6 @@
  "heartbeat": "2026-11-10 12",
  "recent": [
   [
-   1794242764.923347,
-   "NBCUniversal - Cybersecurity, Governance & Security Engineering Intern, Media Tech"
-  ],
-  [
    1794243877.594804,
    "CACI International - Cyber Security Intern - Summer 2027"
   ],
@@ -8447,6 +8451,10 @@
   [
    1794336160.696904,
    "Green Bay Packaging - Cybersecurity Intern"
+  ],
+  [
+   1794337080.338125,
+   "Cyber Skyline - Professional Services Pathfinder Intern - Red Team - Summer 2027 CrowdStri"
   ]
  ],
  "stem5": true,
