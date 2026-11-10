@@ -5134,9 +5134,7 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4451266806"
-  ],
+  "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4461422323",
    "https://www.linkedin.com/jobs/view/4478294739",
@@ -8394,10 +8392,10 @@
  ],
  "stem5": true,
  "streaks": {
-  "netflix": [
+  "li-companies": [
    1,
-   1794295175.5079525,
-   "HTTP Error 429: TOO MANY REQUESTS"
+   1794295895.508851,
+   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
   ]
  },
  "urlkey2": true
