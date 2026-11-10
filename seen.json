@@ -5215,6 +5215,7 @@
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
    "https://www.linkedin.com/jobs/view/4488634537",
+   "https://www.linkedin.com/jobs/view/4488635050",
    "https://www.linkedin.com/jobs/view/4489159882",
    "https://www.linkedin.com/jobs/view/4489194777",
    "https://www.linkedin.com/jobs/view/4489427294",
@@ -5735,9 +5736,7 @@
   "shopify-page": [
    "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
-  "simplify": [
-   "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065"
-  ],
+  "simplify": [],
   "simplify-vansh": [
    "https://go.vansh.nyc/1fR",
    "https://go.vansh.nyc/1fU",
@@ -8440,12 +8439,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794352818.104295,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
