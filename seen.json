@@ -228,6 +228,7 @@
   "https://careers-gdms.icims.com/jobs/75514/job": "2026-10-15",
   "https://careers-gdms.icims.com/jobs/75667/cybersecurity-systems-engineer-intern/job": "2026-10-30",
   "https://careers-gdms.icims.com/jobs/75667/job": "2026-10-29",
+  "https://careers-gdms.icims.com/jobs/76103/systems-intern-%28cybersecurity-and-linux-administration%29/job": "2026-11-10",
   "https://careers-i3-corps.icims.com/jobs/5489/cybersecurity-internship/job": "2026-11-10",
   "https://careers-i3-corps.icims.com/jobs/5489/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-11-10",
   "https://careers-ice.icims.com/jobs/14063/job": "2026-10-25",
@@ -1984,6 +1985,7 @@
   "t:gener|informationsecurityengineerintern": "2026-10-22",
   "t:gener|security2027summerinternship": "2026-10-24",
   "t:gener|summer2027internshipinformationsecurityengineer": "2026-11-10",
+  "t:gener|systemsinterncybersecurityandlinuxadministration": "2026-11-10",
   "t:genui|grccybersecurityanalystintern": "2026-11-10",
   "t:geoco|browsersecurityengineerinternwinter2027": "2026-11-10",
   "t:georg|embeddedsystemscybersecuritycoopspring2027cipher": "2026-10-29",
@@ -4427,7 +4429,9 @@
   "icims:careers-gd-ots.icims.com": [],
   "icims:careers-gdbiw.icims.com": [],
   "icims:careers-gdeb.icims.com": [],
-  "icims:careers-gdms.icims.com": [],
+  "icims:careers-gdms.icims.com": [
+   "https://careers-gdms.icims.com/jobs/76103/systems-intern-%28cybersecurity-and-linux-administration%29/job"
+  ],
   "icims:careers-geosyntec.icims.com": [],
   "icims:careers-gilbaneco.icims.com": [],
   "icims:careers-goldbeltapex.icims.com": [],
@@ -5148,7 +5152,6 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4451266806",
    "https://www.linkedin.com/jobs/view/4472769079",
-   "https://www.linkedin.com/jobs/view/4478294739",
    "https://www.linkedin.com/jobs/view/4481252240",
    "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487428087",
@@ -8286,12 +8289,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 06",
+ "heartbeat": "2026-11-10 08",
  "recent": [
-  [
-   1794223659.2706091,
-   "Parsons - Cybersecurity Intern - Tamheer Program (Saudi National)"
-  ],
   [
    1794236803.4596531,
    "Zoetis - IT/OT Security Intern"
@@ -8411,15 +8410,13 @@
   [
    1794298920.0993083,
    "Sumitomo Mitsui Trust Bank Limited New York Branch - ADC/RSD Information/Cybersecurity Int"
+  ],
+  [
+   1794317956.9329605,
+   "General Dynamics Mission Systems - Systems Intern (Cybersecurity And Linux Administration)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794315368.1957572,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
