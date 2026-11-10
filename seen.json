@@ -1199,7 +1199,7 @@
   "https://linkedin.com/jobs/view/4480280222": "2026-10-20",
   "https://linkedin.com/jobs/view/4480318514": "2026-10-17",
   "https://linkedin.com/jobs/view/4480489820": "2026-10-21",
-  "https://linkedin.com/jobs/view/4480494475": "2026-10-21",
+  "https://linkedin.com/jobs/view/4480494475": "2026-11-10",
   "https://linkedin.com/jobs/view/4480540269": "2026-10-17",
   "https://linkedin.com/jobs/view/4480566386": "2026-10-17",
   "https://linkedin.com/jobs/view/4480682789": "2026-10-24",
@@ -2107,7 +2107,7 @@
   "t:johns|2027internshipcybersoftwareengineercapabilitiesdevelopment": "2026-10-29",
   "t:johns|2027internshipengineerorscientistoffensivecybercapabilities": "2026-11-10",
   "t:johns|2027internshipmilitarysystemscybersecurityengineer": "2026-11-10",
-  "t:johns|2027internshipreverseengineeroffensivecybercapabilities": "2026-10-27",
+  "t:johns|2027internshipreverseengineeroffensivecybercapabilities": "2026-11-10",
   "t:johns|2027internshipwirelesscommunicationsengineerwirelesscybercapabilities": "2026-11-10",
   "t:johns|cybersecuritysoftwaredeveloperintern": "2026-11-03",
   "t:johns|informationtechnologysecurityrotationalinternship2027": "2026-10-25",
@@ -2349,7 +2349,7 @@
   "t:senti|socintern": "2026-11-10",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-10",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-11-10",
-  "t:sieme|cybersecurityinternsummer2027": "2026-10-21",
+  "t:sieme|cybersecurityinternsummer2027": "2026-11-10",
   "t:sierr|cybersecurityanalystintern": "2026-11-03",
   "t:sierr|securityspecialistinternsummer2027": "2026-10-29",
   "t:sierr|systemssecurityengineerinternsummer2027forsncsummer2026internsonly": "2026-10-26",
@@ -5166,6 +5166,7 @@
   "li-companies": [],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4472769079",
+   "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4481252240",
    "https://www.linkedin.com/jobs/view/4487180316",
    "https://www.linkedin.com/jobs/view/4487428087",
@@ -8305,7 +8306,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 10",
+ "heartbeat": "2026-11-10 12",
  "recent": [
   [
    1794236803.4596531,
