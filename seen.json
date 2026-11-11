@@ -4776,6 +4776,7 @@
   "jobspy": [
    "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
    "https://careers.international.com/jobs/60661",
+   "https://careers.international.com/jobs/60661/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://grnh.se/ujybf1ks3us",
    "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
@@ -5755,8 +5756,6 @@
   ],
   "simplify": [],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1gV",
-   "https://go.vansh.nyc/1gW",
    "https://go.vansh.nyc/1hR",
    "https://go.vansh.nyc/1iJ",
    "https://go.vansh.nyc/1iL",
@@ -8084,8 +8083,7 @@
    "https://cibc.wd3.myworkdayjobs.com/en-US/search/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551-1"
   ],
   "wd:ciena/Careers": [
-   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066"
+   "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
   "wd:cleco/ClecoJobs": [
    "https://cleco.wd5.myworkdayjobs.com/en-US/ClecoJobs/job/Pineville-LA/Intern---Cybersecurity_13331"
@@ -8342,7 +8340,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-11 12",
+ "heartbeat": "2026-11-11 14",
  "recent": [
   [
    1794329383.692356,
