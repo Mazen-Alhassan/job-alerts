@@ -1485,6 +1485,7 @@
   "https://linkedin.com/jobs/view/4488869871": "2026-11-10",
   "https://linkedin.com/jobs/view/4488870843": "2026-11-09",
   "https://linkedin.com/jobs/view/4488878593": "2026-11-10",
+  "https://linkedin.com/jobs/view/4489042219": "2026-11-11",
   "https://linkedin.com/jobs/view/4489120085": "2026-11-10",
   "https://linkedin.com/jobs/view/4489148678": "2026-11-10",
   "https://linkedin.com/jobs/view/4489159882": "2026-11-11",
@@ -2136,6 +2137,7 @@
   "t:insme|summerinterncloudapplicationsecurity": "2026-11-03",
   "t:insme|summerinterncybersecurityoperationsaiautomation": "2026-11-04",
   "t:integ|cybersecurityinternship": "2026-11-11",
+  "t:integ|cybersecurityinternshipwithsecurityclearance": "2026-11-11",
   "t:integ|itsecurityintern": "2026-10-24",
   "t:intel|backendengineeringsecurityintern": "2026-11-10",
   "t:intel|cyberanalystinternshipdowskillbridgewithsecurityclearance": "2026-11-04",
@@ -5242,6 +5244,7 @@
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
    "https://www.linkedin.com/jobs/view/4488634537",
+   "https://www.linkedin.com/jobs/view/4489042219",
    "https://www.linkedin.com/jobs/view/4489654673",
    "https://www.linkedin.com/jobs/view/4489910273",
    "https://www.linkedin.com/jobs/view/4490005015"
@@ -8349,10 +8352,6 @@
  "heartbeat": "2026-11-11 14",
  "recent": [
   [
-   1794333192.4979722,
-   "Clark Schaefer Hackett - IT Risk & Cybersecurity Intern"
-  ],
-  [
    1794336160.696904,
    "Green Bay Packaging - Cybersecurity Intern"
   ],
@@ -8443,6 +8442,10 @@
   [
    1794425460.5883381,
    "Grant Thornton - Cybersecurity and Privacy Intern - Summer 2027"
+  ],
+  [
+   1794429622.8862693,
+   "Integration Innovation, Inc. - Cybersecurity Internship with Security Clearance"
   ]
  ],
  "stem5": true,
