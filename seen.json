@@ -1490,6 +1490,7 @@
   "https://linkedin.com/jobs/view/4489619551": "2026-11-11",
   "https://linkedin.com/jobs/view/4489654673": "2026-11-11",
   "https://linkedin.com/jobs/view/4489910273": "2026-11-11",
+  "https://linkedin.com/jobs/view/4489954988": "2026-11-11",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2203,6 +2204,7 @@
   "t:magne|informationsecurityanalystcoop": "2026-11-11",
   "t:magne|informationsecurityanalystcoopwinter2027": "2026-11-11",
   "t:manit|summer2027interncybersecurity": "2026-10-29",
+  "t:mansf|interninfrastructurecybersecuritysummer2027": "2026-11-11",
   "t:marsh|2027summerinternshipprogramcyberriskmanagement": "2026-11-11",
   "t:marsh|cyberanalyticsactuarialspringcoopcollegeprogram2027": "2026-10-31",
   "t:marve|securityverificationvalidationengineerintern": "2026-11-09",
@@ -4773,8 +4775,6 @@
    "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
    "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477848074",
    "https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
    "https://www.cshco.com/jobs-listing?gnk=job&gni=8a7887a8a18473d601a1c5ef426e1fac&gns=Indeed+Free",
    "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Security_JR103608"
@@ -5237,7 +5237,8 @@
    "https://www.linkedin.com/jobs/view/4489602771",
    "https://www.linkedin.com/jobs/view/4489619551",
    "https://www.linkedin.com/jobs/view/4489654673",
-   "https://www.linkedin.com/jobs/view/4489910273"
+   "https://www.linkedin.com/jobs/view/4489910273",
+   "https://www.linkedin.com/jobs/view/4489954988"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8346,10 +8347,6 @@
  "heartbeat": "2026-11-11 10",
  "recent": [
   [
-   1794317956.9329605,
-   "General Dynamics Mission Systems - Systems Intern (Cybersecurity And Linux Administration)"
-  ],
-  [
    1794327357.975112,
    "OneAmerica Financial - Cyber Security Intern"
   ],
@@ -8460,6 +8457,10 @@
   [
    1794411195.8966944,
    "Austal USA - Cybersecurity Intern"
+  ],
+  [
+   1794414270.7618656,
+   "Mansfield Energy Corp - Intern, Infrastructure Cybersecurity - Summer 2027"
   ]
  ],
  "stem5": true,
