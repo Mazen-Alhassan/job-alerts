@@ -579,6 +579,9 @@
   "https://go.vansh.nyc/1s5": "2026-11-11",
   "https://go.vansh.nyc/1sN": "2026-11-11",
   "https://go.vansh.nyc/1se": "2026-11-11",
+  "https://go.vansh.nyc/1uo": "2026-11-11",
+  "https://go.vansh.nyc/1uu": "2026-11-11",
+  "https://go.vansh.nyc/1uw": "2026-11-11",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -1955,6 +1958,7 @@
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-11",
   "t:daiic|itrisksecuritygovernanceintern": "2026-11-06",
   "t:daiml|cybersecurityinterngovernanceriskandcompliancegrcanalyst": "2026-11-11",
+  "t:daiml|governanceriskandcompliancegrcanalystinterncybersecurity": "2026-11-11",
   "t:danah|itsecurityintern": "2026-11-11",
   "t:dcuni|eventsecurityintern": "2026-11-05",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
@@ -2384,6 +2388,7 @@
   "t:sierr|securityspecialistinternsummer2027": "2026-10-29",
   "t:sierr|systemssecurityengineerinternsummer2027forsncsummer2026internsonly": "2026-10-26",
   "t:simve|2027cybersecurityintern": "2026-11-11",
+  "t:simve|cybersecurityintern": "2026-11-11",
   "t:snap|securityengineerinternsummer2026": "2026-10-26",
   "t:socie|cybersecurityintern": "2026-10-22",
   "t:softw|cyberrangedevelopmentintern": "2026-10-31",
@@ -2502,6 +2507,7 @@
   "t:wellm|cybersecurityinternship": "2026-11-11",
   "t:wellm|securityanalystinternship": "2026-11-11",
   "t:wells|2027technologysummerinternshipearlycareerscybersecurity": "2026-11-10",
+  "t:wellt|cybersecurityintern": "2026-11-11",
   "t:wellt|summer27interncybersecurity": "2026-11-06",
   "t:werne|informationsecurityintern": "2026-10-21",
   "t:westb|summer2027internshipinformationsecurity": "2026-11-04",
@@ -5206,10 +5212,12 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
+   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487836191",
    "https://www.linkedin.com/jobs/view/4487857838",
    "https://www.linkedin.com/jobs/view/4487894319",
    "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
@@ -5736,7 +5744,6 @@
   ],
   "simplify": [],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1g5",
    "https://go.vansh.nyc/1gM",
    "https://go.vansh.nyc/1gV",
    "https://go.vansh.nyc/1gW",
@@ -5766,7 +5773,10 @@
    "https://go.vansh.nyc/1rI",
    "https://go.vansh.nyc/1s5",
    "https://go.vansh.nyc/1sN",
-   "https://go.vansh.nyc/1se"
+   "https://go.vansh.nyc/1se",
+   "https://go.vansh.nyc/1uo",
+   "https://go.vansh.nyc/1uu",
+   "https://go.vansh.nyc/1uw"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8437,15 +8447,21 @@
   [
    1794376913.3419738,
    "BioSpace - Summer Intern \u2013 Cloud/Application Security"
+  ],
+  [
+   1794377514.831084,
+   "Daimler Truck - Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity"
+  ],
+  [
+   1794377514.831086,
+   "SimVentions - Cybersecurity Intern"
+  ],
+  [
+   1794377514.8310864,
+   "Welltower - Cyber Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794376826.0288706,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
