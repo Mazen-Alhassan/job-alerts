@@ -581,6 +581,7 @@
   "https://go.vansh.nyc/1s5": "2026-11-11",
   "https://go.vansh.nyc/1sN": "2026-11-11",
   "https://go.vansh.nyc/1se": "2026-11-11",
+  "https://go.vansh.nyc/1uZ": "2026-11-11",
   "https://go.vansh.nyc/1uo": "2026-11-11",
   "https://go.vansh.nyc/1uu": "2026-11-11",
   "https://go.vansh.nyc/1uw": "2026-11-11",
@@ -1969,6 +1970,7 @@
   "t:crypt|summer2027cyberengineeringinternship": "2026-11-10",
   "t:crypt|summer2027cyberengineeringinternshipprogram": "2026-10-23",
   "t:cvshe|innovationtechnologyinternshiptechnologysecuritysummer2027undergraduate": "2026-11-11",
+  "t:cyber|cybersecurityintern": "2026-11-11",
   "t:cyber|professionalservicespathfinderinternredteamsummer2027crowdstrike": "2026-11-11",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-11",
   "t:daiic|itrisksecuritygovernanceintern": "2026-11-06",
@@ -5783,6 +5785,7 @@
    "https://go.vansh.nyc/1s5",
    "https://go.vansh.nyc/1sN",
    "https://go.vansh.nyc/1se",
+   "https://go.vansh.nyc/1uZ",
    "https://go.vansh.nyc/1uo",
    "https://go.vansh.nyc/1uu",
    "https://go.vansh.nyc/1uw"
@@ -6555,8 +6558,7 @@
    "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Corporate-Security-Coordinator-Co-op_2622551"
   ],
   "wd+:ciena/careers": [
-   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926",
-   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Ottawa/Embedded-Security-Software-Developer---New-Grad_R032066"
+   "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
   ],
   "wd+:cigna/cignacareers": [],
   "wd+:cincinnatichildrens/careersatcincinnatichildrens": [],
@@ -8343,26 +8345,6 @@
  "heartbeat": "2026-11-11 14",
  "recent": [
   [
-   1794329383.692356,
-   "Zebra Technologies - Security Intern"
-  ],
-  [
-   1794329383.6923585,
-   "Intelura - Backend Engineering & Security Intern"
-  ],
-  [
-   1794329383.6923592,
-   "Metasys - Security Engineer Intern"
-  ],
-  [
-   1794329958.9270418,
-   "Ingersoll Rand - Cybersecurity Intern"
-  ],
-  [
-   1794329958.9270437,
-   "EllisDon - Student Security Administrator"
-  ],
-  [
    1794333192.4979722,
    "Clark Schaefer Hackett - IT Risk & Cybersecurity Intern"
   ],
@@ -8449,6 +8431,10 @@
   [
    1794422570.905774,
    "Lockheed Martin - Cyber Software Engineer Intern - Summer 2027"
+  ],
+  [
+   1794424556.7114704,
+   "Cyberix - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
