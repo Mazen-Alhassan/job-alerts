@@ -424,6 +424,7 @@
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/requisitions/preview/26016065": "2026-11-06",
   "https://ehpv.fa.em2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/27404": "2026-11-11",
   "https://ehpv.fa.em2.oraclecloud.com:443/hcmui/candidateexperience/en/job/27404": "2026-10-22",
+  "https://ehzq.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/115637": "2026-11-11",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/20249": "2026-11-11",
   "https://ejof.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/21006": "2026-11-11",
   "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/in-indianapolis-220-virginia-ave/information-security-co-op-internship---2027_jr205939": "2026-11-07",
@@ -2060,6 +2061,7 @@
   "t:gordo|identityanalystitinternship": "2026-11-11",
   "t:graco|cybersecurityintern": "2026-11-11",
   "t:grain|gtginterncybersecurity": "2026-10-21",
+  "t:grant|cybersecurityandprivacyinternsummer2027": "2026-11-11",
   "t:green|cybersecurityintern": "2026-11-11",
   "t:guard|2027guardiansummerinterndigitaltechnologycybersecurity": "2026-11-11",
   "t:guard|cybersecurityinterndigitaltechnology": "2026-11-10",
@@ -5233,7 +5235,6 @@
    "https://www.linkedin.com/jobs/view/4487857838",
    "https://www.linkedin.com/jobs/view/4487893419",
    "https://www.linkedin.com/jobs/view/4487894319",
-   "https://www.linkedin.com/jobs/view/4488029401",
    "https://www.linkedin.com/jobs/view/4488203890",
    "https://www.linkedin.com/jobs/view/4488233898",
    "https://www.linkedin.com/jobs/view/4488616917",
@@ -5324,7 +5325,9 @@
   "oracle:ehth.fa.em2.oraclecloud.com/CX_2001": [],
   "oracle:ehtl.fa.us6.oraclecloud.com/CX": [],
   "oracle:ehtv.fa.em2.oraclecloud.com/CX_1": [],
-  "oracle:ehzq.fa.us2.oraclecloud.com/CX_1": [],
+  "oracle:ehzq.fa.us2.oraclecloud.com/CX_1": [
+   "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637"
+  ],
   "oracle:eihu.fa.us8.oraclecloud.com/CX": [],
   "oracle:eimy.fa.us6.oraclecloud.com/CX_1": [],
   "oracle:ejcu.fa.us6.oraclecloud.com/CX_1033": [],
@@ -8435,6 +8438,10 @@
   [
    1794424556.7114704,
    "Cyberix - Cybersecurity Intern"
+  ],
+  [
+   1794425460.5883381,
+   "Grant Thornton - Cybersecurity and Privacy Intern - Summer 2027"
   ]
  ],
  "stem5": true,
