@@ -466,6 +466,7 @@
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---code-security---spring-2027_r71575": "2026-10-09",
   "https://fifththird.wd5.myworkdayjobs.com/53careers/job/cincinnati-oh/information-security-co-op---identity---access-management---spring-2027_r71590": "2026-10-09",
   "https://fis.wd5.myworkdayjobs.com/searchjobs/job/us-fl-jax-347/intern--risk-and-cybersecurity--fis-university-program_jr0309680": "2026-10-23",
+  "https://fticonsulting.wd108.myworkdayjobs.com/fticonsultingcareersprivate/job/united-states/xmlname-2027-intern---forensic---litigation-consulting_jr260337-1": "2026-11-11",
   "https://gbpackaging.rec.pro.ukg.net/gre1063greb/jobboard/886bda0f-8c06-4d54-af26-414b5292e820/opportunitydetail?opportunityid=145b8d4b-f766-41f4-9b9d-ce045aa237e9&postingid=2bffa838-eeef-41c4-aef8-25386098b2f2": "2026-11-11",
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-cybersecurity-associate-internship_rq228929-2": "2026-11-11",
   "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/usa-va-falls-church/xmlname-2027-summer-intern---defense-agencies--cybersecurity-_rq230273": "2026-10-15",
@@ -2035,6 +2036,7 @@
   "t:filev|securityspecialistintern": "2026-11-11",
   "t:fortu|productmanagementinternb2bsecurity": "2026-11-09",
   "t:found|spring2027cyberandtechnologyinnovationinternship": "2026-10-26",
+  "t:ftico|2027internforensiclitigationconsulting": "2026-11-11",
   "t:galax|cybersecurityintern": "2026-10-27",
   "t:galax|offcycle2026cybersecurityinternship": "2026-11-11",
   "t:garmi|cybersecurityengineerintern": "2026-11-11",
@@ -4782,6 +4784,7 @@
   ],
   "jobspy": [
    "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
+   "https://careers.international.com/jobs/60661",
    "https://careers.international.com/jobs/60661/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
@@ -6863,7 +6866,9 @@
   "wd+:freudenberg/freudenberg-group": [],
   "wd+:frostbank/External": [],
   "wd+:fticonsulting/FTIConsultingCareers": [],
-  "wd+:fticonsulting/FTIConsultingCareersPrivate": [],
+  "wd+:fticonsulting/FTIConsultingCareersPrivate": [
+   "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337-1"
+  ],
   "wd+:fullsteam/external": [],
   "wd+:gables/Gables_Careers": [],
   "wd+:gafsgi/GAF_Careers": [],
@@ -8349,14 +8354,6 @@
  "heartbeat": "2026-11-11 16",
  "recent": [
   [
-   1794336160.696904,
-   "Green Bay Packaging - Cybersecurity Intern"
-  ],
-  [
-   1794337080.338125,
-   "Cyber Skyline - Professional Services Pathfinder Intern - Red Team - Summer 2027 CrowdStri"
-  ],
-  [
    1794343384.309437,
    "Global Payments - CyberSecurity Intern"
   ],
@@ -8443,6 +8440,10 @@
   [
    1794429622.8862693,
    "Integration Innovation, Inc. - Cybersecurity Internship with Security Clearance"
+  ],
+  [
+   1794432371.1044624,
+   "FTI Consulting - 2027 Intern - Forensic & Litigation Consulting"
   ]
  ],
  "stem5": true,
