@@ -799,6 +799,7 @@
   "https://jobs.dayforcehcm.com/pcg/entrylevelandinternships/jobs/11150": "2026-11-07",
   "https://jobs.dayforcehcm.com/texasfarm/candidateportal/jobs/1526": "2026-11-07",
   "https://jobs.dayforcehcm.com/woodmenlife/candidateportal/jobs/2917": "2026-11-04",
+  "https://jobs.encoreglobal.com/job/-/-/6228/103160641152": "2026-11-11",
   "https://jobs.ericsson.com/careers/job/563121777363423": "2026-11-11",
   "https://jobs.ericsson.com/careers/job/563121777370331": "2026-11-11",
   "https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192": "2026-11-11",
@@ -2008,6 +2009,7 @@
   "t:ellis|studentsecurityadministrator": "2026-11-11",
   "t:emcin|cybersecurityintern": "2026-11-11",
   "t:encom|itsecuritystudentinternsummer2027": "2026-11-04",
+  "t:encor|itsecurityinternsummer2027": "2026-11-11",
   "t:ensco|informationsecurityintern": "2026-11-09",
   "t:ensig|internvulnerabilityresearch": "2026-11-11",
   "t:enteg|cybersecurityengineercoop": "2026-10-28",
@@ -4786,6 +4788,7 @@
    "https://careers.international.com/jobs/60661/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
    "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
+   "https://jobs.encoreglobal.com/job/-/-/6228/103160641152",
    "https://portal.dynamicsats.com/JobListing/Details/94b0f36c-1730-4f72-95af-317a3f5c0c20/0f1bd9bc-e8dd-f111-84ea-0022480c16e2",
    "https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068"
   ],
@@ -8441,6 +8444,10 @@
   [
    1794432371.1044624,
    "FTI Consulting - 2027 Intern - Forensic & Litigation Consulting"
+  ],
+  [
+   1794435348.3559444,
+   "Encore Global - IT Security Intern \u2013 Summer 2027"
   ]
  ],
  "stem5": true,
