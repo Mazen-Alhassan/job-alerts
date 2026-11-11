@@ -994,6 +994,7 @@
   "https://linkedin.com/jobs/view/4463925611": "2026-10-24",
   "https://linkedin.com/jobs/view/4464593731": "2026-10-24",
   "https://linkedin.com/jobs/view/4464766855": "2026-10-27",
+  "https://linkedin.com/jobs/view/4464917263": "2026-11-11",
   "https://linkedin.com/jobs/view/4465248410": "2026-10-28",
   "https://linkedin.com/jobs/view/4465309408": "2026-10-24",
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
@@ -1061,6 +1062,7 @@
   "https://linkedin.com/jobs/view/4472992536": "2026-10-24",
   "https://linkedin.com/jobs/view/4473008825": "2026-11-11",
   "https://linkedin.com/jobs/view/4473166453": "2026-10-25",
+  "https://linkedin.com/jobs/view/4473200961": "2026-11-11",
   "https://linkedin.com/jobs/view/4473433988": "2026-10-15",
   "https://linkedin.com/jobs/view/4473450194": "2026-10-15",
   "https://linkedin.com/jobs/view/4473505428": "2026-10-22",
@@ -1929,6 +1931,7 @@
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-11",
   "t:cnofi|cybersecurityitinternremote": "2026-11-03",
   "t:cohen|associateinterninformationsecurity": "2026-11-02",
+  "t:colli|2027summerfallcoopsecuresystemsonsite": "2026-11-11",
   "t:colli|cyberresearchinternshipsummer2027onsite": "2026-11-11",
   "t:colli|securesystemengineeringinternsummer2027": "2026-11-04",
   "t:concu|technicalinterncybersecurity": "2026-10-25",
@@ -2395,6 +2398,7 @@
   "t:socie|cybersecurityintern": "2026-10-22",
   "t:softw|cyberrangedevelopmentintern": "2026-10-31",
   "t:sotal|cybersecurityintern": "2026-10-27",
+  "t:south|cybersecurityintern": "2026-11-11",
   "t:space|newgraduateengineersecuritysoftwarestarshield": "2026-11-11",
   "t:space|newgraduateengineersoftwaresecurity2627starlink": "2026-11-11",
   "t:spect|2027summerinternsecurityengineer": "2026-10-31",
@@ -5206,7 +5210,9 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4464917263",
    "https://www.linkedin.com/jobs/view/4473008825",
+   "https://www.linkedin.com/jobs/view/4473200961",
    "https://www.linkedin.com/jobs/view/4480489820",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4481250158",
@@ -8345,14 +8351,6 @@
  "heartbeat": "2026-11-11 04",
  "recent": [
   [
-   1794284157.6298912,
-   "Aerospace Corporation - Defensive Cyber Operations Grad Intern"
-  ],
-  [
-   1794295226.7818935,
-   "BioSpace - Summer Intern \u2013 Cybersecurity Operations & AI Automation"
-  ],
-  [
    1794298920.0993083,
    "Sumitomo Mitsui Trust Bank Limited New York Branch - ADC/RSD Information/Cybersecurity Int"
   ],
@@ -8459,6 +8457,14 @@
   [
    1794377514.8310864,
    "Welltower - Cyber Security Intern"
+  ],
+  [
+   1794392245.481409,
+   "Southern Farm Bureau Life Insurance Company - Cyber Security Intern"
+  ],
+  [
+   1794392245.4814105,
+   "Collins Aerospace - 2027 Summer/Fall Co-op - Secure Systems (Onsite)"
   ]
  ],
  "stem5": true,
