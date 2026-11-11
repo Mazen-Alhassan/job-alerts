@@ -159,7 +159,7 @@
   "https://apply.careers.microsoft.com/careers/job/1970393557044769": "2026-11-02",
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": "2026-10-30",
   "https://apply.ukg.com/careers/job/893398050384": "2026-11-07",
-  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-10",
+  "https://apply.workable.com/securityriskadvisors/j/5ec3a66237": "2026-11-11",
   "https://appone.com/applinkportal.asp": "2026-10-17",
   "https://archgroup.wd1.myworkdayjobs.com/careers/job/greensboro-nc-united-states-of-america/security-operations-intern_r26_1016": "2026-10-28",
   "https://asmglobal.wd1.myworkdayjobs.com/careers/job/west-conshohocken-pa/security-intern_r100121611": "2026-11-11",
@@ -2361,7 +2361,7 @@
   "t:scotf|itcybersecurityinternsummer2027": "2026-11-04",
   "t:seatg|securityengineerinternship": "2026-10-24",
   "t:seatt|informationsecurityintern": "2026-11-07",
-  "t:secur|cybersoccoop2027usgreenshift": "2026-11-10",
+  "t:secur|cybersoccoop2027usgreenshift": "2026-11-11",
   "t:senti|cybersecurityintern": "2026-11-11",
   "t:senti|socintern": "2026-11-11",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-11",
@@ -5185,28 +5185,11 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4480489820",
-   "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4481250158",
-   "https://www.linkedin.com/jobs/view/4481252240",
-   "https://www.linkedin.com/jobs/view/4487462387",
-   "https://www.linkedin.com/jobs/view/4487465100",
-   "https://www.linkedin.com/jobs/view/4487467884",
-   "https://www.linkedin.com/jobs/view/4487488567",
-   "https://www.linkedin.com/jobs/view/4487836191",
-   "https://www.linkedin.com/jobs/view/4488029401",
-   "https://www.linkedin.com/jobs/view/4488367341",
-   "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
-   "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
-   "https://www.linkedin.com/jobs/view/4488634537",
-   "https://www.linkedin.com/jobs/view/4489194777",
-   "https://www.linkedin.com/jobs/view/4489427294",
-   "https://www.linkedin.com/jobs/view/4489602771",
-   "https://www.linkedin.com/jobs/view/4489619551",
-   "https://www.linkedin.com/jobs/view/4489654673"
+   "https://www.linkedin.com/jobs/view/4488635050"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8319,7 +8302,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 18",
+ "heartbeat": "2026-11-10 20",
  "recent": [
   [
    1794262928.0204203,
@@ -8423,12 +8406,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794358219.7490087,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
