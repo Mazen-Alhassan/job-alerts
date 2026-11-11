@@ -1479,6 +1479,7 @@
   "https://linkedin.com/jobs/view/4489602771": "2026-11-11",
   "https://linkedin.com/jobs/view/4489619551": "2026-11-11",
   "https://linkedin.com/jobs/view/4489654673": "2026-11-11",
+  "https://linkedin.com/jobs/view/4489910273": "2026-11-11",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -1818,6 +1819,7 @@
   "t:beume|cybersecurityinternshipcitiscustomeritinfastructuresolutionsspring2027": "2026-10-30",
   "t:biosp|2027businesstechnologysolutionsinterncybersecurityundergraduate": "2026-11-01",
   "t:biosp|2027summerinternitdigitalenablementinformationsecurity": "2026-10-31",
+  "t:biosp|summerinterncloudapplicationsecurity": "2026-11-11",
   "t:biosp|summerinterncybersecurityoperationsaiautomation": "2026-11-11",
   "t:bmo|juniorcybersecurityinternwinter2027coopinternship4months": "2026-11-05",
   "t:boein|boeingsummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-23",
@@ -5204,12 +5206,10 @@
    "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
-   "https://www.linkedin.com/jobs/view/4487488567",
    "https://www.linkedin.com/jobs/view/4487836191",
    "https://www.linkedin.com/jobs/view/4487857838",
    "https://www.linkedin.com/jobs/view/4487894319",
    "https://www.linkedin.com/jobs/view/4488029401",
-   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
    "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
@@ -5219,7 +5219,8 @@
    "https://www.linkedin.com/jobs/view/4489427294",
    "https://www.linkedin.com/jobs/view/4489602771",
    "https://www.linkedin.com/jobs/view/4489619551",
-   "https://www.linkedin.com/jobs/view/4489654673"
+   "https://www.linkedin.com/jobs/view/4489654673",
+   "https://www.linkedin.com/jobs/view/4489910273"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8334,10 +8335,6 @@
  "heartbeat": "2026-11-11 00",
  "recent": [
   [
-   1794280109.4763288,
-   "Aerospace Corp - 2027 Defensive Cyber Operations Grad Intern"
-  ],
-  [
    1794284157.6298912,
    "Aerospace Corporation - Defensive Cyber Operations Grad Intern"
   ],
@@ -8436,9 +8433,19 @@
   [
    1794373548.3678126,
    "Daimler Truck - Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst"
+  ],
+  [
+   1794376913.3419738,
+   "BioSpace - Summer Intern \u2013 Cloud/Application Security"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794376826.0288706,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
