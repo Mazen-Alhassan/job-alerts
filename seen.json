@@ -140,7 +140,7 @@
   "https://amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services": "2026-11-11",
   "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027": "2026-11-11",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-11-02",
-  "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-11-09",
+  "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-11-11",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-11-01",
   "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern---cybersecurity_r39605": "2026-10-19",
   "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern---it-cybersecurity_r39512": "2026-10-19",
@@ -1737,7 +1737,7 @@
   "t:amazo|mlsystemssoftwaredevelopmentengineerinternannapurnalabs2027": "2026-11-11",
   "t:amazo|networkdevelopmentengineerintern2027summer": "2026-11-11",
   "t:amazo|operationsengineeringfieldexecutioninternspringandsummer2027cactfltx": "2026-11-11",
-  "t:amazo|roboticshardwaredevelopmentengineerinterncoop2026roboticsmechanicalelectricalhardwaretestreliabilityfailureanalysisoperationsandmore": "2026-11-09",
+  "t:amazo|roboticshardwaredevelopmentengineerinterncoop2026roboticsmechanicalelectricalhardwaretestreliabilityfailureanalysisoperationsandmore": "2026-11-11",
   "t:amazo|roboticssoftwaredevelopmentengineerintern2026toronto": "2026-11-02",
   "t:amazo|softwaredevelopmentengineerembeddedsystemsinternamazonleosummer2027usa": "2026-11-11",
   "t:amazo|softwaredevelopmentengineerinternamazonleosummer2027usa": "2026-11-11",
@@ -2543,7 +2543,6 @@
    "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
    "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
    "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
-   "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
    "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
    "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-intern-summer-2027-usa",
    "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
@@ -2566,7 +2565,8 @@
    "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
    "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
-   "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027"
+   "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
@@ -8065,9 +8065,7 @@
   "wd:aig/aig": [],
   "wd:archgroup/careers": [],
   "wd:arcticwolf/External": [],
-  "wd:atcllc/atcllc": [
-   "https://atcllc.wd5.myworkdayjobs.com/en-US/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
-  ],
+  "wd:atcllc/atcllc": [],
   "wd:bb/BlackBerry": [],
   "wd:bdo/bdo": [],
   "wd:bmo/External": [],
