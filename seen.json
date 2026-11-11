@@ -775,6 +775,7 @@
   "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582": "2026-11-11",
   "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260": "2026-11-11",
   "https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d": "2026-11-11",
+  "https://jobs.ashbyhq.com/regent/dfdbb28f-f289-45b9-a2e5-158d81b93524": "2026-11-11",
   "https://jobs.ashbyhq.com/tensorwave/8ec8b715-f9ad-48a7-869e-ed9d455119a5": "2026-11-02",
   "https://jobs.battelle.org/us/en/job/76282": "2026-10-15",
   "https://jobs.battelle.org/us/en/job/76524": "2026-11-11",
@@ -2321,6 +2322,7 @@
   "t:rayth|securesoftwareinternsummer2027": "2026-10-28",
   "t:rayth|systemssecurityengineeringinternsummer2027": "2026-11-04",
   "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-11-11",
+  "t:regen|cybersecurityitoperationsinternsummer": "2026-11-11",
   "t:regen|itdigitalenablementinformationsecurityintern": "2026-11-04",
   "t:rivia|cybersecuritysummer2027internships": "2026-11-01",
   "t:rivia|earlycareercybersecurityapplicationsecurityengineer": "2026-10-29",
@@ -4750,6 +4752,7 @@
    "https://cyberskyline.com/jobs/6af322d13132318cd9b37b54",
    "https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9&postingId=2bffa838-eeef-41c4-aef8-25386098b2f2",
    "https://grnh.se/ujybf1ks3us",
+   "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
    "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
@@ -8330,10 +8333,6 @@
  "heartbeat": "2026-11-10 22",
  "recent": [
   [
-   1794277062.414657,
-   "Steel Dynamics - Information Security Intern"
-  ],
-  [
    1794280109.4763288,
    "Aerospace Corp - 2027 Defensive Cyber Operations Grad Intern"
   ],
@@ -8428,6 +8427,10 @@
   [
    1794363342.0034592,
    "Minitab - Cybersecurity Intern"
+  ],
+  [
+   1794373060.0548496,
+   "REGENT Craft, Inc. - Cybersecurity & IT Operations Intern (Summer)"
   ]
  ],
  "stem5": true,
