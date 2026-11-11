@@ -901,6 +901,7 @@
   "https://linkedin.com/jobs/view/4366561915": "2026-10-23",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
   "https://linkedin.com/jobs/view/4393994090": "2026-10-30",
+  "https://linkedin.com/jobs/view/4407968215": "2026-11-11",
   "https://linkedin.com/jobs/view/4414643630": "2026-10-23",
   "https://linkedin.com/jobs/view/4435857047": "2026-10-22",
   "https://linkedin.com/jobs/view/4447213336": "2026-10-25",
@@ -5210,6 +5211,7 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4407968215",
    "https://www.linkedin.com/jobs/view/4452407941",
    "https://www.linkedin.com/jobs/view/4464917263",
    "https://www.linkedin.com/jobs/view/4473008825",
@@ -5752,7 +5754,6 @@
   ],
   "simplify": [],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1gM",
    "https://go.vansh.nyc/1gV",
    "https://go.vansh.nyc/1gW",
    "https://go.vansh.nyc/1hR",
@@ -8342,7 +8343,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-11 10",
+ "heartbeat": "2026-11-11 12",
  "recent": [
   [
    1794327357.975112,
@@ -8465,7 +8466,7 @@
  "streaks": {
   "netflix": [
    1,
-   1794414921.9824743,
+   1794416927.0198877,
    "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
