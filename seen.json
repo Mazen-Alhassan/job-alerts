@@ -576,6 +576,7 @@
   "https://go.vansh.nyc/1r5": "2026-11-10",
   "https://go.vansh.nyc/1rI": "2026-11-11",
   "https://go.vansh.nyc/1s5": "2026-11-11",
+  "https://go.vansh.nyc/1sN": "2026-11-11",
   "https://go.vansh.nyc/1se": "2026-11-11",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
@@ -2206,6 +2207,7 @@
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-11-11",
   "t:midla|securityanalystintern": "2026-11-06",
+  "t:minit|cybersecurityintern": "2026-11-11",
   "t:minit|cybersecurityinternsummer2027": "2026-11-11",
   "t:missi|2027cybersecurityengineeringinternsophomorejuniorsenior": "2026-11-01",
   "t:mitli|securitydepartmentcoopjan2027june2027group1200": "2026-11-07",
@@ -5189,19 +5191,30 @@
   "lever:zushealth": [],
   "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4480489820",
    "https://www.linkedin.com/jobs/view/4480494475",
    "https://www.linkedin.com/jobs/view/4481250158",
    "https://www.linkedin.com/jobs/view/4481252240",
+   "https://www.linkedin.com/jobs/view/4487462387",
    "https://www.linkedin.com/jobs/view/4487465100",
    "https://www.linkedin.com/jobs/view/4487467884",
+   "https://www.linkedin.com/jobs/view/4487488567",
+   "https://www.linkedin.com/jobs/view/4487836191",
+   "https://www.linkedin.com/jobs/view/4487857838",
+   "https://www.linkedin.com/jobs/view/4488029401",
+   "https://www.linkedin.com/jobs/view/4488367341",
    "https://www.linkedin.com/jobs/view/4488391566",
+   "https://www.linkedin.com/jobs/view/4488399270",
    "https://www.linkedin.com/jobs/view/4488616917",
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
+   "https://www.linkedin.com/jobs/view/4488634537",
    "https://www.linkedin.com/jobs/view/4488635050",
    "https://www.linkedin.com/jobs/view/4489194777",
    "https://www.linkedin.com/jobs/view/4489427294",
-   "https://www.linkedin.com/jobs/view/4489602771"
+   "https://www.linkedin.com/jobs/view/4489602771",
+   "https://www.linkedin.com/jobs/view/4489619551",
+   "https://www.linkedin.com/jobs/view/4489654673"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -5750,6 +5763,7 @@
    "https://go.vansh.nyc/1qx",
    "https://go.vansh.nyc/1rI",
    "https://go.vansh.nyc/1s5",
+   "https://go.vansh.nyc/1sN",
    "https://go.vansh.nyc/1se"
   ],
   "sr:3SBusinessCorporationInc1": [],
@@ -8317,10 +8331,6 @@
  "heartbeat": "2026-11-10 20",
  "recent": [
   [
-   1794268960.6924863,
-   "Lockheed Martin - Cybersecurity Intern"
-  ],
-  [
    1794277062.414657,
    "Steel Dynamics - Information Security Intern"
   ],
@@ -8415,6 +8425,10 @@
   [
    1794362246.3658469,
    "International - IT Security Intern"
+  ],
+  [
+   1794363342.0034592,
+   "Minitab - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
