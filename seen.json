@@ -401,6 +401,7 @@
   "https://dmainc.wd5.myworkdayjobs.com/dma/job/fort-wayne-in/cybersecurity-intern---summer-2027_req742": "2026-11-11",
   "https://draper.wd5.myworkdayjobs.com/draper_careers/job/cambridge-ma/classified-cybersecurity-it-internship--summer-2027-_jr003021": "2026-10-28",
   "https://dsp.prng.co/eimvxfb": "2026-10-16",
+  "https://dtna.wd5.myworkdayjobs.com/dtna_external/job/detroit-mi-us/cybersecurity-intern--governance--risk--and-compliance--grc--analyst_dt-20656": "2026-11-11",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/hartsville-sc/nuclear-cybersecurity-2027-summer-internship_r42099": "2026-10-31",
   "https://dukeenergy.wd1.myworkdayjobs.com/search/job/lake-mary-fl/pgo-cybersecurity-spring-2027-co-op_r41837": "2026-10-09",
   "https://easyapply.co/job/cybersecurity-student": "2026-10-15",
@@ -1950,6 +1951,7 @@
   "t:cyber|professionalservicespathfinderinternredteamsummer2027crowdstrike": "2026-11-11",
   "t:cylak|securityresearchintern2027mastersphd": "2026-11-11",
   "t:daiic|itrisksecuritygovernanceintern": "2026-11-06",
+  "t:daiml|cybersecurityinterngovernanceriskandcompliancegrcanalyst": "2026-11-11",
   "t:danah|itsecurityintern": "2026-11-11",
   "t:dcuni|eventsecurityintern": "2026-11-05",
   "t:deepn|aicybersecurityengineeringintern": "2026-10-26",
@@ -4752,7 +4754,6 @@
    "https://cyberskyline.com/jobs/6af322d13132318cd9b37b54",
    "https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9&postingId=2bffa838-eeef-41c4-aef8-25386098b2f2",
    "https://grnh.se/ujybf1ks3us",
-   "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
    "https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3599",
    "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
    "https://lockheedmartin.eightfold.ai/careers/job/996477410466",
@@ -5212,8 +5213,6 @@
    "https://www.linkedin.com/jobs/view/4488621729",
    "https://www.linkedin.com/jobs/view/4488631168",
    "https://www.linkedin.com/jobs/view/4488634537",
-   "https://www.linkedin.com/jobs/view/4488635050",
-   "https://www.linkedin.com/jobs/view/4489194777",
    "https://www.linkedin.com/jobs/view/4489427294",
    "https://www.linkedin.com/jobs/view/4489602771",
    "https://www.linkedin.com/jobs/view/4489619551",
@@ -6701,7 +6700,9 @@
   "wd+:drivetime/DriveTime": [],
   "wd+:dssmith/dss_internal": [],
   "wd+:dtna/dtna_affiliate": [],
-  "wd+:dtna/dtna_external": [],
+  "wd+:dtna/dtna_external": [
+   "https://dtna.wd5.myworkdayjobs.com/en-US/dtna_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"
+  ],
   "wd+:duboischemicals/external": [],
   "wd+:dukeenergy/nosearch": [],
   "wd+:dutchbros/DBShops": [],
@@ -8330,7 +8331,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-10 22",
+ "heartbeat": "2026-11-11 00",
  "recent": [
   [
    1794280109.4763288,
@@ -8431,6 +8432,10 @@
   [
    1794373060.0548496,
    "REGENT Craft, Inc. - Cybersecurity & IT Operations Intern (Summer)"
+  ],
+  [
+   1794373548.3678126,
+   "Daimler Truck - Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst"
   ]
  ],
  "stem5": true,
