@@ -139,7 +139,7 @@
   "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027": "2026-11-11",
   "https://amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services": "2026-11-11",
   "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027": "2026-11-11",
-  "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-11-02",
+  "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-11-11",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-11-11",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-11-01",
   "https://amfam.wd1.myworkdayjobs.com/amfamgroupinterncareers/job/ma-boston/summer-2027-intern---cybersecurity_r39605": "2026-10-19",
@@ -166,6 +166,7 @@
   "https://atcllc.wd5.myworkdayjobs.com/atcllc/job/pewaukee-wi/intern---cyber-security-summer-2027_r0003307": "2026-11-11",
   "https://ats.rippling.com/bound/jobs/379531ae-64b1-45cb-811b-197ecb8fbd89": "2026-11-11",
   "https://ats.rippling.com/studyfetch/jobs/5dd7523c-deae-47bd-ab34-f2fa06110892": "2026-11-11",
+  "https://austalusa.wd1.myworkdayjobs.com/austal/job/mobile-al/cybersecurity-intern_r0012221": "2026-11-11",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/annapolis-junction-md/university---2027-summer-games-cyber-security-intern---annapolis-junction--md_r0248414": "2026-10-30",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/atlanta-ga/university---2027-summer-games-cyber-security-intern---atlanta--ga_r0248139": "2026-11-06",
   "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/charleston-sc/university---2027-summer-games-cyber-security-intern---charleston--sc_r0248136": "2026-10-30",
@@ -1738,7 +1739,7 @@
   "t:amazo|networkdevelopmentengineerintern2027summer": "2026-11-11",
   "t:amazo|operationsengineeringfieldexecutioninternspringandsummer2027cactfltx": "2026-11-11",
   "t:amazo|roboticshardwaredevelopmentengineerinterncoop2026roboticsmechanicalelectricalhardwaretestreliabilityfailureanalysisoperationsandmore": "2026-11-11",
-  "t:amazo|roboticssoftwaredevelopmentengineerintern2026toronto": "2026-11-02",
+  "t:amazo|roboticssoftwaredevelopmentengineerintern2026toronto": "2026-11-11",
   "t:amazo|softwaredevelopmentengineerembeddedsystemsinternamazonleosummer2027usa": "2026-11-11",
   "t:amazo|softwaredevelopmentengineerinternamazonleosummer2027usa": "2026-11-11",
   "t:amazo|softwaredevelopmentengineerinternannapurnalabs2027": "2026-11-11",
@@ -1810,6 +1811,7 @@
   "t:atc|cybersecurityintern": "2026-11-10",
   "t:atlas|securityengineerintern2027summerus": "2026-11-08",
   "t:atric|itsecurityanalystcoop": "2026-10-28",
+  "t:austa|cybersecurityintern": "2026-11-11",
   "t:autom|cybersecurityinternspring2027": "2026-10-23",
   "t:autoo|itsecurityengineerintern": "2026-11-10",
   "t:autoo|itsecurityengineerinternshipsummer2027": "2026-11-11",
@@ -2565,7 +2567,7 @@
    "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
    "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
-   "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
@@ -6296,7 +6298,9 @@
   "wd+:att/ATTGeneral": [],
   "wd+:att/attcollege": [],
   "wd+:auroragov/careers": [],
-  "wd+:austalusa/austal": [],
+  "wd+:austalusa/austal": [
+   "https://austalusa.wd1.myworkdayjobs.com/en-US/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221"
+  ],
   "wd+:austincc/external": [],
   "wd+:austintexas/COA_Careers": [],
   "wd+:autodesk/Ext": [],
@@ -8342,10 +8346,6 @@
  "heartbeat": "2026-11-11 10",
  "recent": [
   [
-   1794298920.0993083,
-   "Sumitomo Mitsui Trust Bank Limited New York Branch - ADC/RSD Information/Cybersecurity Int"
-  ],
-  [
    1794317956.9329605,
    "General Dynamics Mission Systems - Systems Intern (Cybersecurity And Linux Administration)"
   ],
@@ -8456,6 +8456,10 @@
   [
    1794392245.4814105,
    "Collins Aerospace - 2027 Summer/Fall Co-op - Secure Systems (Onsite)"
+  ],
+  [
+   1794411195.8966944,
+   "Austal USA - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
