@@ -1625,6 +1625,7 @@
   "https://redhat.wd5.myworkdayjobs.com/jobs/job/brno---tech-park-brno---c/software-engineering-intern---developer-hub-security-team--brno--czech-republic-_r-059219": "2026-10-08",
   "https://regeneron.wd1.myworkdayjobs.com/careers/job/tarrytown/xmlname-2027-summer-intern-it--digital-enablement---information-security_r52561-1": "2026-11-11",
   "https://richemont.wd3.myworkdayjobs.com/richemont/job/le-sentier/stagiaire-ingnieur-cyberscurit_jr133458-1": "2026-10-08",
+  "https://roche.wd3.myworkdayjobs.com/roche-ext/job/kuwait/cybersecurity---digital-solution-assistant-engineer-intern--12-months-_202611-128979": "2026-11-12",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-1": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514": "2026-11-03",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-2": "2026-10-08",
@@ -2067,6 +2068,7 @@
   "t:garmi|cybersecurityengineerintern": "2026-11-11",
   "t:gcmgr|2027cybersecuritysummerintern": "2026-11-12",
   "t:gcmgr|cybersecurityintern": "2026-11-06",
+  "t:genen|cybersecuritydigitalsolutionassistantengineerintern12months": "2026-11-12",
   "t:gener|2027summerinterncybersecurityitoperations": "2026-10-31",
   "t:gener|cybersecurity2027summerinternship": "2026-10-24",
   "t:gener|cybersecurityassociateintern": "2026-11-12",
@@ -5260,21 +5262,14 @@
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479426397",
-   "https://www.linkedin.com/jobs/view/4479431204",
-   "https://www.linkedin.com/jobs/view/4479434038"
+   "https://www.linkedin.com/jobs/view/4479431204"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4366561915",
    "https://www.linkedin.com/jobs/view/4407968215",
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4435857047",
-   "https://www.linkedin.com/jobs/view/4447905376",
-   "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4473927780",
-   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479434038",
@@ -7681,7 +7676,9 @@
   "wd+:roberthalf/protivitiexperiencedcareers": [],
   "wd+:roberthalf/roberthalfcareers": [],
   "wd+:roche/ROG-A2O-GENE": [],
-  "wd+:roche/roche-ext": [],
+  "wd+:roche/roche-ext": [
+   "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kuwait/Cybersecurity---Digital-Solution-Assistant-Engineer-Intern--12-months-_202611-128979"
+  ],
   "wd+:rochester/UR_Staff": [],
   "wd+:rocket/rocket_careers": [],
   "wd+:rockwellautomation/External-Rockwell-Automation-Early-Careers": [],
@@ -8479,15 +8476,13 @@
   [
    1794488968.2646613,
    "Meta - Enterprise Security Engineer, Intern (Summer 2027)"
+  ],
+  [
+   1794493580.2658236,
+   "Genentech - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "li-companies": [
-   1,
-   1794492524.2412183,
-   "LinkedIn returned nothing: HTTP Error 429: Too Many Requests"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
