@@ -1214,8 +1214,11 @@
   "https://linkedin.com/jobs/view/4479329949": "2026-10-17",
   "https://linkedin.com/jobs/view/4479331560": "2026-10-17",
   "https://linkedin.com/jobs/view/4479391384": "2026-10-17",
+  "https://linkedin.com/jobs/view/4479412980": "2026-11-12",
   "https://linkedin.com/jobs/view/4479421552": "2026-11-12",
-  "https://linkedin.com/jobs/view/4479425405": "2026-10-22",
+  "https://linkedin.com/jobs/view/4479425405": "2026-11-12",
+  "https://linkedin.com/jobs/view/4479426397": "2026-11-12",
+  "https://linkedin.com/jobs/view/4479431204": "2026-11-12",
   "https://linkedin.com/jobs/view/4479432755": "2026-10-22",
   "https://linkedin.com/jobs/view/4479434038": "2026-11-12",
   "https://linkedin.com/jobs/view/4479438675": "2026-10-22",
@@ -2256,9 +2259,11 @@
   "t:merce|cybersecurityintern": "2026-10-28",
   "t:metas|securityengineerintern": "2026-11-10",
   "t:meta|detectionresponsesecurityengineerinternsummer2027": "2026-11-12",
+  "t:meta|enterprisesecurityengineerinternsummer2027": "2026-11-12",
   "t:meta|productsecurityengineerinternsummer2027": "2026-11-12",
   "t:meta|researchscientistinternparsafetyevalsandredteaming": "2026-11-10",
   "t:meta|researchscientistinternphdparsafetyevalsandredteaming": "2026-11-07",
+  "t:meta|securityengineerposturemanagementinternsummer2027": "2026-11-12",
   "t:micro|researchinternsecurityresearchgroupmicrosoftresearchredmond": "2026-11-12",
   "t:micro|securityassuranceinternctjts": "2026-11-11",
   "t:micro|securityresearchintern": "2026-11-02",
@@ -5251,7 +5256,11 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4479421552"
+   "https://www.linkedin.com/jobs/view/4479412980",
+   "https://www.linkedin.com/jobs/view/4479421552",
+   "https://www.linkedin.com/jobs/view/4479425405",
+   "https://www.linkedin.com/jobs/view/4479426397",
+   "https://www.linkedin.com/jobs/view/4479431204"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4366561915",
@@ -8394,14 +8403,6 @@
  "heartbeat": "2026-11-12 08",
  "recent": [
   [
-   1794392245.481409,
-   "Southern Farm Bureau Life Insurance Company - Cyber Security Intern"
-  ],
-  [
-   1794392245.4814105,
-   "Collins Aerospace - 2027 Summer/Fall Co-op - Secure Systems (Onsite)"
-  ],
-  [
    1794411195.8966944,
    "Austal USA - Cybersecurity Intern"
   ],
@@ -8472,6 +8473,10 @@
   [
    1794482294.541971,
    "Medpace - Information Security Intern"
+  ],
+  [
+   1794488968.2646613,
+   "Meta - Enterprise Security Engineer, Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
