@@ -5812,7 +5812,6 @@
   ],
   "simplify": [],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1iJ",
    "https://go.vansh.nyc/1iL",
    "https://go.vansh.nyc/1k7",
    "https://go.vansh.nyc/1kY",
@@ -8491,6 +8490,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1794499404.018945,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
