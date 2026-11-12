@@ -5249,7 +5249,9 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4479421552"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4366561915",
    "https://www.linkedin.com/jobs/view/4407968215",
@@ -5793,7 +5795,6 @@
   "simplify-vansh": [
    "https://go.vansh.nyc/1iJ",
    "https://go.vansh.nyc/1iL",
-   "https://go.vansh.nyc/1iu",
    "https://go.vansh.nyc/1k7",
    "https://go.vansh.nyc/1kN",
    "https://go.vansh.nyc/1kY",
