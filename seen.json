@@ -882,6 +882,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161204235": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161209600": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161209810": "2026-11-12",
+  "https://jobs.smartrecruiters.com/servicenow/744000161210069": "2026-11-12",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-12",
@@ -2412,6 +2413,7 @@
   "t:senti|cybersecurityintern": "2026-11-12",
   "t:senti|socintern": "2026-11-12",
   "t:servi|assocaiengineeringcloudsecurityautomationintern": "2026-11-12",
+  "t:servi|assocdetectionengineeringintern": "2026-11-12",
   "t:servi|associnformationsecurityengineerintern": "2026-11-12",
   "t:servi|assocsecurityengineeringautomationintern": "2026-11-12",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-12",
@@ -6044,7 +6046,8 @@
   "sr:ServiceNow": [
    "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161209810"
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161210069"
   ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
@@ -8449,6 +8452,10 @@
   [
    1794448956.355381,
    "ServiceNow - Assoc Security Engineering & Automation Intern"
+  ],
+  [
+   1794449223.178747,
+   "ServiceNow - Assoc Detection Engineering Intern"
   ]
  ],
  "stem5": true,
