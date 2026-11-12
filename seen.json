@@ -1515,6 +1515,7 @@
   "https://linkedin.com/jobs/view/4488551593": "2026-11-12",
   "https://linkedin.com/jobs/view/4488567738": "2026-11-12",
   "https://linkedin.com/jobs/view/4488570118": "2026-11-12",
+  "https://linkedin.com/jobs/view/4488581313": "2026-11-12",
   "https://linkedin.com/jobs/view/4488616917": "2026-11-11",
   "https://linkedin.com/jobs/view/4488621729": "2026-11-11",
   "https://linkedin.com/jobs/view/4488631168": "2026-11-11",
@@ -1543,6 +1544,7 @@
   "https://linkedin.com/jobs/view/4490073725": "2026-11-12",
   "https://linkedin.com/jobs/view/4490074741": "2026-11-12",
   "https://linkedin.com/jobs/view/4490378093": "2026-11-12",
+  "https://linkedin.com/jobs/view/4490512968": "2026-11-12",
   "https://linkedin.com/jobs/view/4490529074": "2026-11-12",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
@@ -1925,6 +1927,7 @@
   "t:brain|aisecurityengineerinternsummer2027": "2026-10-31",
   "t:brigh|coopsecurity": "2026-11-03",
   "t:brigh|cybersecurityintern": "2026-11-11",
+  "t:brigh|securitycoop": "2026-11-12",
   "t:burli|securityoperationsinternsummer2027": "2026-11-12",
   "t:bxpin|cybersecuritycoop": "2026-10-28",
   "t:byted|appliedresearchinternaisafetysecurityglobalfrontiertechrecruitmentprogram2027startphd": "2026-10-25",
@@ -5297,8 +5300,6 @@
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4447905376",
-   "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
@@ -5318,10 +5319,12 @@
    "https://www.linkedin.com/jobs/view/4488551593",
    "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488570118",
+   "https://www.linkedin.com/jobs/view/4488581313",
    "https://www.linkedin.com/jobs/view/4489045636",
    "https://www.linkedin.com/jobs/view/4489094110",
    "https://www.linkedin.com/jobs/view/4490073725",
    "https://www.linkedin.com/jobs/view/4490074741",
+   "https://www.linkedin.com/jobs/view/4490512968",
    "https://www.linkedin.com/jobs/view/4490529074"
   ],
   "linkedin": [
@@ -8438,12 +8441,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 16",
+ "heartbeat": "2026-11-12 18",
  "recent": [
-  [
-   1794429622.8862693,
-   "Integration Innovation, Inc. - Cybersecurity Internship with Security Clearance"
-  ],
   [
    1794432371.1044624,
    "FTI Consulting - 2027 Intern - Forensic & Litigation Consulting"
@@ -8539,9 +8538,19 @@
   [
    1794521150.2382357,
    "Idaho National Laboratory - Cybersecurity Vulnerability Assessment Internship - Summer 202"
+  ],
+  [
+   1794524537.0424976,
+   "Brigham and Women's Hospital - Security Co-op"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794524434.7117853,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
