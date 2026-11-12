@@ -5274,20 +5274,14 @@
    "https://www.linkedin.com/jobs/view/4447905376",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
-   "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4473505428",
    "https://www.linkedin.com/jobs/view/4473927780",
    "https://www.linkedin.com/jobs/view/4473967974",
-   "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479434038",
-   "https://www.linkedin.com/jobs/view/4480709263",
    "https://www.linkedin.com/jobs/view/4480729402",
-   "https://www.linkedin.com/jobs/view/4480733321",
    "https://www.linkedin.com/jobs/view/4482176819",
    "https://www.linkedin.com/jobs/view/4482459824",
    "https://www.linkedin.com/jobs/view/4488233898",
@@ -5825,9 +5819,7 @@
    "https://go.vansh.nyc/1oK",
    "https://go.vansh.nyc/1oR",
    "https://go.vansh.nyc/1oX",
-   "https://go.vansh.nyc/1op",
    "https://go.vansh.nyc/1oq",
-   "https://go.vansh.nyc/1ox",
    "https://go.vansh.nyc/1pP",
    "https://go.vansh.nyc/1pU",
    "https://go.vansh.nyc/1pd",
@@ -8407,7 +8399,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 08",
+ "heartbeat": "2026-11-12 10",
  "recent": [
   [
    1794411195.8966944,
@@ -8491,6 +8483,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1794496252.2650352,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
