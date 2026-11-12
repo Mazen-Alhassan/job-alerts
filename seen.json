@@ -600,6 +600,9 @@
   "https://go.vansh.nyc/1wY": "2026-11-12",
   "https://go.vansh.nyc/1wn": "2026-11-12",
   "https://go.vansh.nyc/1x6": "2026-11-12",
+  "https://go.vansh.nyc/1xM": "2026-11-12",
+  "https://go.vansh.nyc/1xX": "2026-11-12",
+  "https://go.vansh.nyc/1xY": "2026-11-12",
   "https://go.vansh.nyc/1xa": "2026-11-12",
   "https://go.vansh.nyc/1xi": "2026-11-12",
   "https://go.vansh.nyc/1xr": "2026-11-12",
@@ -1994,6 +1997,7 @@
   "t:clark|itriskcybersecurityintern": "2026-11-11",
   "t:cleco|interncybersecurity": "2026-11-12",
   "t:close|contentinternbillingtoncybersecurity": "2026-11-12",
+  "t:clyde|cybersecurityintern": "2026-11-12",
   "t:cnain|cybersecurityinterntechnology": "2026-11-10",
   "t:cnain|technologyinternshipprogramcybersecurity": "2026-11-12",
   "t:cnh|itcyberoperationscoop": "2026-11-12",
@@ -2184,6 +2188,7 @@
   "t:ibott|informationsecurityintern": "2026-11-12",
   "t:icd|cybersecurityintern": "2026-11-10",
   "t:idaho|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
+  "t:idaho|cybersecurityvulnerabilityassessmentintern": "2026-11-12",
   "t:idaho|cybersecurityvulnerabilityassessmentinternshipsummer2027": "2026-11-12",
   "t:idemi|cybersecurityintern": "2026-11-06",
   "t:idemi|cybersecurityinternship": "2026-11-12",
@@ -5304,8 +5309,6 @@
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4447905376",
-   "https://www.linkedin.com/jobs/view/4460235483",
-   "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
@@ -5878,6 +5881,9 @@
    "https://go.vansh.nyc/1wY",
    "https://go.vansh.nyc/1wn",
    "https://go.vansh.nyc/1x6",
+   "https://go.vansh.nyc/1xM",
+   "https://go.vansh.nyc/1xX",
+   "https://go.vansh.nyc/1xY",
    "https://go.vansh.nyc/1xa",
    "https://go.vansh.nyc/1xi",
    "https://go.vansh.nyc/1xr",
@@ -8550,6 +8556,14 @@
   [
    1794524875.6166682,
    "Muon Space - Security Engineering Intern (Summer 2027)"
+  ],
+  [
+   1794525233.6803126,
+   "Idaho National Laboratory - Cybersecurity Vulnerability Assessment Intern"
+  ],
+  [
+   1794525233.680314,
+   "Clyde Companies - Cybersecurity Intern"
   ]
  ],
  "stem5": true,
