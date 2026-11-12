@@ -334,6 +334,7 @@
   "https://careers.regeneron.com/en/jobs/r52561/2027-summer-intern-it-digital-enablement-information-security": "2026-11-05",
   "https://careers.rivian.com/jobs/31067/job": "2026-10-29",
   "https://careers.rivian.com/jobs/31067/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f": "2026-10-29",
+  "https://careers.roche.com/global/en/job/202611-128979": "2026-11-12",
   "https://careers.rtx.com/global/en/job/01872177": "2026-11-12",
   "https://careers.rtx.com/global/en/job/01874702": "2026-11-12",
   "https://careers.rtx.com/global/en/job/01874703": "2026-11-05",
@@ -2393,6 +2394,7 @@
   "t:regen|itdigitalenablementinformationsecurityintern": "2026-11-04",
   "t:rivia|cybersecuritysummer2027internships": "2026-11-01",
   "t:rivia|earlycareercybersecurityapplicationsecurityengineer": "2026-10-29",
+  "t:roche|cybersecuritydigitalsolutionassistantengineerintern12months": "2026-11-12",
   "t:roche|ritcoopidentityaccessmanagement": "2026-10-22",
   "t:roche|ritcoopsecurityengineering": "2026-10-29",
   "t:rocke|analystinterninformationsecurity": "2026-11-12",
@@ -5263,7 +5265,8 @@
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479426397",
-   "https://www.linkedin.com/jobs/view/4479431204"
+   "https://www.linkedin.com/jobs/view/4479431204",
+   "https://www.linkedin.com/jobs/view/4479434038"
   ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4366561915",
@@ -5278,6 +5281,7 @@
    "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4473973646",
    "https://www.linkedin.com/jobs/view/4479421552",
+   "https://www.linkedin.com/jobs/view/4479425405",
    "https://www.linkedin.com/jobs/view/4479434038",
    "https://www.linkedin.com/jobs/view/4480729402",
    "https://www.linkedin.com/jobs/view/4482176819",
@@ -5591,7 +5595,9 @@
   "phenom:careers.opentext.com": [],
   "phenom:careers.quest-global.com": [],
   "phenom:careers.rbi.com": [],
-  "phenom:careers.roche.com": [],
+  "phenom:careers.roche.com": [
+   "https://careers.roche.com/global/en/job/202611-128979"
+  ],
   "phenom:careers.rtx.com": [
    "https://careers.rtx.com/global/en/job/01872177",
    "https://careers.rtx.com/global/en/job/01874702"
@@ -8478,15 +8484,13 @@
   [
    1794493580.2658236,
    "Genentech - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
+  ],
+  [
+   1794498853.4120727,
+   "Roche - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794498144.0172782,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
