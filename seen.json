@@ -879,6 +879,8 @@
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160654870-media-tech-cybersecurity-governance-security-engineering-internships-summer-2027": "2026-11-10",
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000160654878": "2026-11-12",
   "https://jobs.smartrecruiters.com/northwesternmutual/85751642": "2026-11-12",
+  "https://jobs.smartrecruiters.com/servicenow/744000161204235": "2026-11-12",
+  "https://jobs.smartrecruiters.com/servicenow/744000161209600": "2026-11-12",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-12",
@@ -2408,6 +2410,8 @@
   "t:secur|cybersoccoop2027usgreenshift": "2026-11-11",
   "t:senti|cybersecurityintern": "2026-11-12",
   "t:senti|socintern": "2026-11-12",
+  "t:servi|assocaiengineeringcloudsecurityautomationintern": "2026-11-12",
+  "t:servi|associnformationsecurityengineerintern": "2026-11-12",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-12",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-11-12",
   "t:sieme|cybersecurityinternsummer2027": "2026-11-11",
@@ -5223,7 +5227,6 @@
   "li-search": [
    "https://www.linkedin.com/jobs/view/4407968215",
    "https://www.linkedin.com/jobs/view/4452407941",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
@@ -6035,7 +6038,10 @@
   "sr:SaxonGlobal": [],
   "sr:Schrder": [],
   "sr:SeniorPlc1": [],
-  "sr:ServiceNow": [],
+  "sr:ServiceNow": [
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161209600"
+  ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
   "sr:SightCall": [],
@@ -8353,30 +8359,6 @@
  "heartbeat": "2026-11-11 20",
  "recent": [
   [
-   1794343384.309437,
-   "Global Payments - CyberSecurity Intern"
-  ],
-  [
-   1794344010.185379,
-   "Andurilindustries - 2027 New Grad Information Security Engineer"
-  ],
-  [
-   1794344010.1853814,
-   "Magnet Forensics - Information Security Analyst Co-op (Winter 2027)"
-  ],
-  [
-   1794352241.55456,
-   "Minitab - Cybersecurity Intern (Summer 2027)"
-  ],
-  [
-   1794352421.2838025,
-   "Magnet Forensics - Information Security Analyst Co-op"
-  ],
-  [
-   1794352891.7161956,
-   "American National - Security Operations Intern"
-  ],
-  [
    1794362246.3658469,
    "International - IT Security Intern"
   ],
@@ -8451,6 +8433,14 @@
   [
    1794435809.8570395,
    "HUB International - Security Architect Intern"
+  ],
+  [
+   1794448680.9299798,
+   "ServiceNow - Assoc AI Engineering (Cloud Security Automation) Intern"
+  ],
+  [
+   1794448680.9299817,
+   "ServiceNow - Assoc Information Security Engineer Intern"
   ]
  ],
  "stem5": true,
