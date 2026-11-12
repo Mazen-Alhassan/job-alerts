@@ -1526,6 +1526,7 @@
   "https://linkedin.com/jobs/view/4490005015": "2026-11-12",
   "https://linkedin.com/jobs/view/4490073725": "2026-11-12",
   "https://linkedin.com/jobs/view/4490074741": "2026-11-12",
+  "https://linkedin.com/jobs/view/4490378093": "2026-11-12",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2087,6 +2088,7 @@
   "t:georg|generalcybersecurityinternspring2027cipher": "2026-10-29",
   "t:georg|generalcybersecuritystudentassistantspring2027cipher": "2026-11-01",
   "t:georg|hardwaresecurityandtrustcoopspring2027cipher": "2026-10-28",
+  "t:georg|insiderthreatstudentassistantotaaospring2027": "2026-11-12",
   "t:georg|undergraduatecybersecurityinternspring2027elsys": "2026-11-07",
   "t:georg|wirelesssecurityengineeringstudentassistantspring2027cipher": "2026-10-31",
   "t:globa|cybersecurityintern": "2026-11-12",
@@ -5271,9 +5273,9 @@
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4447905376",
+   "https://www.linkedin.com/jobs/view/4460200734",
    "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460204642",
-   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
@@ -5294,7 +5296,8 @@
    "https://www.linkedin.com/jobs/view/4489094110",
    "https://www.linkedin.com/jobs/view/4490005015",
    "https://www.linkedin.com/jobs/view/4490073725",
-   "https://www.linkedin.com/jobs/view/4490074741"
+   "https://www.linkedin.com/jobs/view/4490074741",
+   "https://www.linkedin.com/jobs/view/4490378093"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8400,7 +8403,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 10",
+ "heartbeat": "2026-11-12 12",
  "recent": [
   [
    1794411195.8966944,
@@ -8485,6 +8488,10 @@
   [
    1794498853.4120727,
    "Roche - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
+  ],
+  [
+   1794503366.5345738,
+   "Georgia Tech Research Institute - Insider Threat Student Assistant-OTAAO-Spring 2027"
   ]
  ],
  "stem5": true,
