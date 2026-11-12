@@ -901,6 +901,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161209810": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161209838-assoc-security-engineering-automation-intern-": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161210069": "2026-11-12",
+  "https://jobs.smartrecruiters.com/servicenow/744000161385429-product-security-intern": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161385779": "2026-11-12",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-12",
@@ -1512,6 +1513,7 @@
   "https://linkedin.com/jobs/view/4488432783": "2026-11-07",
   "https://linkedin.com/jobs/view/4488539846": "2026-11-12",
   "https://linkedin.com/jobs/view/4488551593": "2026-11-12",
+  "https://linkedin.com/jobs/view/4488567738": "2026-11-12",
   "https://linkedin.com/jobs/view/4488570118": "2026-11-12",
   "https://linkedin.com/jobs/view/4488616917": "2026-11-11",
   "https://linkedin.com/jobs/view/4488621729": "2026-11-11",
@@ -2177,6 +2179,7 @@
   "t:ibott|informationsecurityintern": "2026-11-12",
   "t:icd|cybersecurityintern": "2026-11-10",
   "t:idaho|cybersecurityindustrialcontrolsinternshipsummer2027": "2026-10-23",
+  "t:idaho|cybersecurityvulnerabilityassessmentinternshipsummer2027": "2026-11-12",
   "t:idemi|cybersecurityintern": "2026-11-06",
   "t:idemi|cybersecurityinternship": "2026-11-12",
   "t:idme|productsecurityengineeringintern": "2026-11-09",
@@ -4845,6 +4848,7 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209628-assoc-ai-engineering-cloud-security-automation-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209679-assoc-detection-engineering-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209838-assoc-security-engineering-automation-intern-",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
    "https://lockheedmartin.eightfold.ai/careers/job/996477642584"
   ],
   "jobvite:aarete": [],
@@ -5292,8 +5296,8 @@
    "https://www.linkedin.com/jobs/view/4414643630",
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4447905376",
-   "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
+   "https://www.linkedin.com/jobs/view/4460204642",
+   "https://www.linkedin.com/jobs/view/4460233941",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
@@ -5311,6 +5315,7 @@
    "https://www.linkedin.com/jobs/view/4482483140",
    "https://www.linkedin.com/jobs/view/4488255550",
    "https://www.linkedin.com/jobs/view/4488551593",
+   "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488570118",
    "https://www.linkedin.com/jobs/view/4489045636",
    "https://www.linkedin.com/jobs/view/4489094110",
@@ -8528,9 +8533,19 @@
   [
    1794519480.7512536,
    "ServiceNow - Product Security Intern"
+  ],
+  [
+   1794521150.2382357,
+   "Idaho National Laboratory - Cybersecurity Vulnerability Assessment Internship - Summer 202"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794521055.015305,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
