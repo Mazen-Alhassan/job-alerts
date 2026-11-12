@@ -603,6 +603,7 @@
   "https://go.vansh.nyc/1xM": "2026-11-12",
   "https://go.vansh.nyc/1xX": "2026-11-12",
   "https://go.vansh.nyc/1xY": "2026-11-12",
+  "https://go.vansh.nyc/1xZ": "2026-11-12",
   "https://go.vansh.nyc/1xa": "2026-11-12",
   "https://go.vansh.nyc/1xi": "2026-11-12",
   "https://go.vansh.nyc/1xr": "2026-11-12",
@@ -2335,6 +2336,7 @@
   "t:motor|softwareengineerinterncybersecurityservices": "2026-11-05",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-11-04",
+  "t:muons|securityengineeringintern": "2026-11-12",
   "t:muons|securityengineeringinternsummer2027": "2026-11-12",
   "t:natio|graduate1012weeksinternaimlforcybersecurity": "2026-11-12",
   "t:natio|interninformationsecuritycybersecurity": "2026-11-12",
@@ -5882,6 +5884,7 @@
    "https://go.vansh.nyc/1xM",
    "https://go.vansh.nyc/1xX",
    "https://go.vansh.nyc/1xY",
+   "https://go.vansh.nyc/1xZ",
    "https://go.vansh.nyc/1xa",
    "https://go.vansh.nyc/1xi",
    "https://go.vansh.nyc/1xr",
@@ -8452,10 +8455,6 @@
  "heartbeat": "2026-11-12 18",
  "recent": [
   [
-   1794432371.1044624,
-   "FTI Consulting - 2027 Intern - Forensic & Litigation Consulting"
-  ],
-  [
    1794435348.3559444,
    "Encore Global - IT Security Intern \u2013 Summer 2027"
   ],
@@ -8562,6 +8561,10 @@
   [
    1794525233.680314,
    "Clyde Companies - Cybersecurity Intern"
+  ],
+  [
+   1794527316.6949418,
+   "Muon Space - Security Engineering Intern"
   ]
  ],
  "stem5": true,
