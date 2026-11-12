@@ -593,6 +593,7 @@
   "https://go.vansh.nyc/1vY": "2026-11-12",
   "https://go.vansh.nyc/1vZ": "2026-11-12",
   "https://go.vansh.nyc/1w0": "2026-11-12",
+  "https://go.vansh.nyc/1wn": "2026-11-12",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2249,6 +2250,7 @@
   "t:mativ|cybersecurityintern": "2026-11-05",
   "t:mbda|cybersecurityanalystlevel6degreeapprenticeship2027": "2026-10-26",
   "t:mda|studentcybersecurityanalystintern": "2026-11-11",
+  "t:medpa|informationsecurityintern": "2026-11-12",
   "t:medpa|informationsecurityinternspring2027": "2026-11-05",
   "t:memx|informationsecurityinternsummer2027hybridnyc": "2026-10-28",
   "t:merce|cybersecurityintern": "2026-10-28",
@@ -5821,7 +5823,8 @@
    "https://go.vansh.nyc/1vX",
    "https://go.vansh.nyc/1vY",
    "https://go.vansh.nyc/1vZ",
-   "https://go.vansh.nyc/1w0"
+   "https://go.vansh.nyc/1w0",
+   "https://go.vansh.nyc/1wn"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8385,38 +8388,6 @@
  "heartbeat": "2026-11-12 06",
  "recent": [
   [
-   1794362246.3658469,
-   "International - IT Security Intern"
-  ],
-  [
-   1794363342.0034592,
-   "Minitab - Cybersecurity Intern"
-  ],
-  [
-   1794373060.0548496,
-   "REGENT Craft, Inc. - Cybersecurity & IT Operations Intern (Summer)"
-  ],
-  [
-   1794373548.3678126,
-   "Daimler Truck - Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst"
-  ],
-  [
-   1794376913.3419738,
-   "BioSpace - Summer Intern \u2013 Cloud/Application Security"
-  ],
-  [
-   1794377514.831084,
-   "Daimler Truck - Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity"
-  ],
-  [
-   1794377514.831086,
-   "SimVentions - Cybersecurity Intern"
-  ],
-  [
-   1794377514.8310864,
-   "Welltower - Cyber Security Intern"
-  ],
-  [
    1794392245.481409,
    "Southern Farm Bureau Life Insurance Company - Cyber Security Intern"
   ],
@@ -8491,6 +8462,10 @@
   [
    1794453216.8483274,
    "ServiceNow - Associate Detection Engineering Intern"
+  ],
+  [
+   1794482294.541971,
+   "Medpace - Information Security Intern"
   ]
  ],
  "stem5": true,
