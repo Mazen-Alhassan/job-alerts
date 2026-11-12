@@ -589,6 +589,10 @@
   "https://go.vansh.nyc/1uw": "2026-11-12",
   "https://go.vansh.nyc/1vD": "2026-11-12",
   "https://go.vansh.nyc/1vR": "2026-11-12",
+  "https://go.vansh.nyc/1vX": "2026-11-12",
+  "https://go.vansh.nyc/1vY": "2026-11-12",
+  "https://go.vansh.nyc/1vZ": "2026-11-12",
+  "https://go.vansh.nyc/1w0": "2026-11-12",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2418,6 +2422,10 @@
   "t:senti|socintern": "2026-11-12",
   "t:servi|assocaiengineeringcloudsecurityautomationintern": "2026-11-12",
   "t:servi|assocdetectionengineeringintern": "2026-11-12",
+  "t:servi|associateaiengineeringinterncloudsecurityautomation": "2026-11-12",
+  "t:servi|associatedetectionengineeringintern": "2026-11-12",
+  "t:servi|associateinformationsecurityengineerintern": "2026-11-12",
+  "t:servi|associatesecurityengineeringautomationintern": "2026-11-12",
   "t:servi|associnformationsecurityengineerintern": "2026-11-12",
   "t:servi|assocsecurityengineeringautomationintern": "2026-11-12",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-12",
@@ -5805,7 +5813,11 @@
    "https://go.vansh.nyc/1uu",
    "https://go.vansh.nyc/1uw",
    "https://go.vansh.nyc/1vD",
-   "https://go.vansh.nyc/1vR"
+   "https://go.vansh.nyc/1vR",
+   "https://go.vansh.nyc/1vX",
+   "https://go.vansh.nyc/1vY",
+   "https://go.vansh.nyc/1vZ",
+   "https://go.vansh.nyc/1w0"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8461,6 +8473,22 @@
   [
    1794449223.178747,
    "ServiceNow - Assoc Detection Engineering Intern"
+  ],
+  [
+   1794453216.8483238,
+   "ServiceNow - Associate Security Engineering & Automation Intern"
+  ],
+  [
+   1794453216.8483257,
+   "ServiceNow - Associate Information Security Engineer Intern"
+  ],
+  [
+   1794453216.8483267,
+   "ServiceNow - Associate AI Engineering Intern, Cloud Security Automation"
+  ],
+  [
+   1794453216.8483274,
+   "ServiceNow - Associate Detection Engineering Intern"
   ]
  ],
  "stem5": true,
