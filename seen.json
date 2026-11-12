@@ -596,7 +596,13 @@
   "https://go.vansh.nyc/1vZ": "2026-11-12",
   "https://go.vansh.nyc/1w0": "2026-11-12",
   "https://go.vansh.nyc/1wO": "2026-11-12",
+  "https://go.vansh.nyc/1wY": "2026-11-12",
   "https://go.vansh.nyc/1wn": "2026-11-12",
+  "https://go.vansh.nyc/1x6": "2026-11-12",
+  "https://go.vansh.nyc/1xa": "2026-11-12",
+  "https://go.vansh.nyc/1xi": "2026-11-12",
+  "https://go.vansh.nyc/1xr": "2026-11-12",
+  "https://go.vansh.nyc/1xs": "2026-11-12",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2046,6 +2052,7 @@
   "t:ellis|studentsecurityadministrator": "2026-11-11",
   "t:emcin|cybersecurityintern": "2026-11-12",
   "t:encom|itsecuritystudentinternsummer2027": "2026-11-04",
+  "t:encor|itsecurityintern": "2026-11-12",
   "t:encor|itsecurityinternsummer2027": "2026-11-12",
   "t:ensco|informationsecurityintern": "2026-11-09",
   "t:ensig|internvulnerabilityresearch": "2026-11-12",
@@ -2175,7 +2182,7 @@
   "t:idme|summerintern2027productsecurityengineeringintern": "2026-11-12",
   "t:illum|engineeringinternproductsecurity": "2026-11-12",
   "t:illum|securityresearchintern": "2026-11-12",
-  "t:inger|cybersecurityintern": "2026-11-11",
+  "t:inger|cybersecurityintern": "2026-11-12",
   "t:inmar|informationsecurityinternshipssummer2027": "2026-11-12",
   "t:insme|summerinterncloudapplicationsecurity": "2026-11-03",
   "t:insme|summerinterncybersecurityoperationsaiautomation": "2026-11-04",
@@ -2194,6 +2201,7 @@
   "t:intui|summer2027cybersecuritycomplianceintern": "2026-11-12",
   "t:intui|summer2027softwareengineeringinterncybersecurity": "2026-11-12",
   "t:irvin|securityanalyststudentwinter2027": "2026-11-12",
+  "t:isone|cyberadversarydefenseoptimizationintern": "2026-11-12",
   "t:jacob|vdsvoicedatasecurityengineeringinternsummer2027": "2026-10-30",
   "t:janus|identitysecurityintern": "2026-11-12",
   "t:jeffe|cybersecuritystudentintern": "2026-10-31",
@@ -2211,6 +2219,7 @@
   "t:johns|2027internshipwirelesscommunicationsengineerwirelesscybercapabilities": "2026-11-12",
   "t:johns|cybersecuritysoftwaredeveloperintern": "2026-11-03",
   "t:johns|informationtechnologysecurityrotationalinternship2027": "2026-10-25",
+  "t:johns|reverseengineerinternoffensivecybercapabilities": "2026-11-12",
   "t:jshel|juniorforensicengineeringinternship6monthcontract": "2026-11-04",
   "t:kimba|cybersecurityintern": "2026-11-10",
   "t:kinax|coopinternapplicationsecurityanalyst": "2026-10-27",
@@ -5852,7 +5861,13 @@
    "https://go.vansh.nyc/1vZ",
    "https://go.vansh.nyc/1w0",
    "https://go.vansh.nyc/1wO",
-   "https://go.vansh.nyc/1wn"
+   "https://go.vansh.nyc/1wY",
+   "https://go.vansh.nyc/1wn",
+   "https://go.vansh.nyc/1x6",
+   "https://go.vansh.nyc/1xa",
+   "https://go.vansh.nyc/1xi",
+   "https://go.vansh.nyc/1xr",
+   "https://go.vansh.nyc/1xs"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8508,6 +8523,18 @@
   [
    1794510308.2965863,
    "Rolls-Royce - Security Operations Intern"
+  ],
+  [
+   1794513495.470743,
+   "ISO New England - Cyber Adversary Defense Optimization Intern"
+  ],
+  [
+   1794513495.4707446,
+   "Johns Hopkins Applied Physics Laboratory - Reverse Engineer Intern, Offensive Cyber Capabi"
+  ],
+  [
+   1794513495.4707453,
+   "Encore Global - IT Security Intern"
   ]
  ],
  "stem5": true,
