@@ -1638,6 +1638,7 @@
   "https://rockwellautomation.wd1.myworkdayjobs.com/external-rockwell-automation-early-careers/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514": "2026-11-03",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/mayfield-heights-ohio-united-states/intern--cyber-professional-services--lcs-_r26-5042-2": "2026-10-08",
   "https://rockwellautomation.wd1.myworkdayjobs.com/external_rockwell_automation/job/united-states-of-america-milwaukee-south-2nd-street/intern--cybersecurity_r26-8514-1": "2026-11-03",
+  "https://rollsroyce.wd3.myworkdayjobs.com/intern_graduate/job/indianapolis/security-operations-intern_jr6163223": "2026-11-12",
   "https://rr.jobsyn.org/48e9318abfb64044b08dbf0e9f001ae21554": "2026-10-24",
   "https://rr.jobsyn.org/f979eca1ebcf46c5a9857784504202271554": "2026-10-24",
   "https://rrhs.wd5.myworkdayjobs.com/rrh/job/riedman---remote/rit-co-op--cybersecurity--governance---risk_req_243186-1": "2026-10-20",
@@ -2414,6 +2415,7 @@
   "t:rockl|securityoperationsintern": "2026-11-03",
   "t:rockw|cybersecurityintern": "2026-11-03",
   "t:rockw|interncybersecurity": "2026-11-03",
+  "t:rolls|securityoperationsintern": "2026-11-12",
   "t:rtxco|2027summerfallcoopsecuresystemsonsite": "2026-11-09",
   "t:rtxco|cyberresearchinternshipsummer2027onsite": "2026-11-12",
   "t:rtxco|internshipraytheonsystemssecurityengineeronsite": "2026-11-12",
@@ -7698,7 +7700,9 @@
   "wd+:rockwoolgroup/ROCKWOOL": [],
   "wd+:rogersbh/rbhcareer": [],
   "wd+:roguefitness/RogueFitness_External_Careers": [],
-  "wd+:rollsroyce/Intern_Graduate": [],
+  "wd+:rollsroyce/Intern_Graduate": [
+   "https://rollsroyce.wd3.myworkdayjobs.com/en-US/Intern_Graduate/job/Indianapolis/Security-Operations-Intern_JR6163223"
+  ],
   "wd+:rollsroyce/professional": [],
   "wd+:roswellpark/ExternalCareers": [],
   "wd+:rrhs/RRH": [],
@@ -8406,7 +8410,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 12",
+ "heartbeat": "2026-11-12 14",
  "recent": [
   [
    1794422570.905774,
@@ -8495,6 +8499,10 @@
   [
    1794509982.35704,
    "Mass General Brigham - Security Co-op"
+  ],
+  [
+   1794510308.2965863,
+   "Rolls-Royce - Security Operations Intern"
   ]
  ],
  "stem5": true,
