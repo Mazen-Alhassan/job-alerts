@@ -83,6 +83,7 @@
   "https://accenture.wd103.myworkdayjobs.com/avanadecareers/job/assago-via-del-mulino-11a/intelligence-cyber-defense-intern_r00311701": "2026-10-21",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/lehi/xmlname-2027-intern---security-engineer_r173000": "2026-11-12",
   "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/san-jose/xmlname-2027-intern---security-engineer_r173001": "2026-11-12",
+  "https://aep.wd1.myworkdayjobs.com/aepcareersite/job/columbus-oh/cybersecurity-intern---summer-2027_r21158": "2026-11-12",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-defensive-cyber-operations-grad-intern_r017106": "2026-11-12",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-defensive-cyber-operations-undergrad-intern_r017011": "2026-11-12",
   "https://aero.wd5.myworkdayjobs.com/external/job/el-segundo-ca/xmlname-2027-hardware-security-engineering-grad-intern_r016953": "2026-11-12",
@@ -1807,6 +1808,7 @@
   "t:ameri|campusundergraduatesummerinternshipprogram2027cybersecurityaiengineerenterprisetechnologyservicesphoenixaz": "2026-11-11",
   "t:ameri|cybersecurityaiengineerinternenterprisetechnologyservices": "2026-11-10",
   "t:ameri|cybersecurityintern": "2026-11-03",
+  "t:ameri|cybersecurityinternsummer2027": "2026-11-12",
   "t:ameri|interncybersecuritypolicyanalyst": "2026-11-12",
   "t:ameri|interncybersecuritysummer2027": "2026-11-11",
   "t:ameri|itinterninformationsecurity": "2026-10-31",
@@ -5272,7 +5274,6 @@
    "https://www.linkedin.com/jobs/view/4435857047",
    "https://www.linkedin.com/jobs/view/4447905376",
    "https://www.linkedin.com/jobs/view/4460200734",
-   "https://www.linkedin.com/jobs/view/4460202658",
    "https://www.linkedin.com/jobs/view/4460235483",
    "https://www.linkedin.com/jobs/view/4460254050",
    "https://www.linkedin.com/jobs/view/4465079029",
@@ -6218,7 +6219,9 @@
   "wd+:adtran/adtran": [],
   "wd+:advanceauto/advanceexternalcareers": [],
   "wd+:advisorgroup/advisor_career_site": [],
-  "wd+:aep/AEPCareerSite": [],
+  "wd+:aep/AEPCareerSite": [
+   "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158"
+  ],
   "wd+:aes/AES_US": [],
   "wd+:aes/aes_clean_energy": [],
   "wd+:ag/Airbus": [],
@@ -8402,14 +8405,6 @@
  "heartbeat": "2026-11-12 12",
  "recent": [
   [
-   1794411195.8966944,
-   "Austal USA - Cybersecurity Intern"
-  ],
-  [
-   1794414270.7618656,
-   "Mansfield Energy Corp - Intern, Infrastructure Cybersecurity - Summer 2027"
-  ],
-  [
    1794422570.905774,
    "Lockheed Martin - Cyber Software Engineer Intern - Summer 2027"
   ],
@@ -8488,6 +8483,10 @@
   [
    1794503366.5345738,
    "Georgia Tech Research Institute - Insider Threat Student Assistant-OTAAO-Spring 2027"
+  ],
+  [
+   1794509365.518954,
+   "American Electric Power - Cybersecurity Intern - Summer 2027"
   ]
  ],
  "stem5": true,
