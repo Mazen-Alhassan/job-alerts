@@ -901,6 +901,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161209810": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161209838-assoc-security-engineering-automation-intern-": "2026-11-12",
   "https://jobs.smartrecruiters.com/servicenow/744000161210069": "2026-11-12",
+  "https://jobs.smartrecruiters.com/servicenow/744000161385779": "2026-11-12",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-12",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-12",
@@ -2470,6 +2471,7 @@
   "t:servi|associatesecurityengineeringautomationintern": "2026-11-12",
   "t:servi|associnformationsecurityengineerintern": "2026-11-12",
   "t:servi|assocsecurityengineeringautomationintern": "2026-11-12",
+  "t:servi|productsecurityintern": "2026-11-12",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-12",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-11-12",
   "t:sieme|cybersecurityinternsummer2027": "2026-11-11",
@@ -6113,7 +6115,8 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161210069"
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161385779"
   ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
@@ -8432,18 +8435,6 @@
  "heartbeat": "2026-11-12 16",
  "recent": [
   [
-   1794422570.905774,
-   "Lockheed Martin - Cyber Software Engineer Intern - Summer 2027"
-  ],
-  [
-   1794424556.7114704,
-   "Cyberix - Cybersecurity Intern"
-  ],
-  [
-   1794425460.5883381,
-   "Grant Thornton - Cybersecurity and Privacy Intern - Summer 2027"
-  ],
-  [
    1794429622.8862693,
    "Integration Innovation, Inc. - Cybersecurity Internship with Security Clearance"
   ],
@@ -8534,15 +8525,13 @@
   [
    1794513495.4707453,
    "Encore Global - IT Security Intern"
+  ],
+  [
+   1794519480.7512536,
+   "ServiceNow - Product Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794518784.898933,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
