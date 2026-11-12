@@ -1543,6 +1543,7 @@
   "https://linkedin.com/jobs/view/4490073725": "2026-11-12",
   "https://linkedin.com/jobs/view/4490074741": "2026-11-12",
   "https://linkedin.com/jobs/view/4490378093": "2026-11-12",
+  "https://linkedin.com/jobs/view/4490529074": "2026-11-12",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -5320,7 +5321,8 @@
    "https://www.linkedin.com/jobs/view/4489045636",
    "https://www.linkedin.com/jobs/view/4489094110",
    "https://www.linkedin.com/jobs/view/4490073725",
-   "https://www.linkedin.com/jobs/view/4490074741"
+   "https://www.linkedin.com/jobs/view/4490074741",
+   "https://www.linkedin.com/jobs/view/4490529074"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8540,12 +8542,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794521055.015305,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
