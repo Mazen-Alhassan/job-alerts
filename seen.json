@@ -14,6 +14,7 @@
   "gh:5238469007": "2026-11-04",
   "gh:5238471007": "2026-11-04",
   "gh:5270839007": "2026-11-12",
+  "gh:5294028007": "2026-11-12",
   "gh:5421861008": "2026-10-16",
   "gh:5445236008": "2026-10-28",
   "gh:5448019008": "2026-11-12",
@@ -2329,6 +2330,7 @@
   "t:motor|softwareengineerinterncybersecurityservices": "2026-11-05",
   "t:mottm|cybersecurityinternship2027": "2026-10-31",
   "t:msufe|identityandaccessmanagementinternwinterspring2027": "2026-11-04",
+  "t:muons|securityengineeringinternsummer2027": "2026-11-12",
   "t:natio|graduate1012weeksinternaimlforcybersecurity": "2026-11-12",
   "t:natio|interninformationsecuritycybersecurity": "2026-11-12",
   "t:natio|undergraduategraduatespringsummerinterncybersecurityresearch5g": "2026-11-12",
@@ -4022,7 +4024,9 @@
   "gh:mozilla": [],
   "gh:msfcareers": [],
   "gh:mthreerecruitingportal": [],
-  "gh:muonspace": [],
+  "gh:muonspace": [
+   "https://job-boards.greenhouse.io/muonspace/jobs/5294028007"
+  ],
   "gh:murj": [],
   "gh:mw-tech-grad": [],
   "gh:mwinternshipprogram": [],
@@ -8542,15 +8546,13 @@
   [
    1794524537.0424976,
    "Brigham and Women's Hospital - Security Co-op"
+  ],
+  [
+   1794524875.6166682,
+   "Muon Space - Security Engineering Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794524434.7117853,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
