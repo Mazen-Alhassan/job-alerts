@@ -1694,6 +1694,7 @@
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228866": "2026-10-17",
   "https://spectrumhealth.wd5.myworkdayjobs.com/corewellhealthcareers/job/grand-rapids-mi/digital-services-information-security-internship-summer-2027_r228867": "2026-10-17",
   "https://standoutforgood.wd12.myworkdayjobs.com/standoutforgood/job/knoxville-tn/spring-2027-it-security-analyst-intern_sosj12501": "2026-11-09",
+  "https://statestreet.wd1.myworkdayjobs.com/global/job/quincy-massachusetts/cyber-security-operations-center-analyst--full-time-internship--jan---june-2027-_r-801091": "2026-11-13",
   "https://sunlife.wd3.myworkdayjobs.com/campus/job/toronto-ontario/student--software-engineer---security--winter-2027-_jr00129065": "2026-11-02",
   "https://swa.wd1.myworkdayjobs.com/external/job/tx-dallas/summer-2027-cybersecurity-engineer-internship_r-2026-73269": "2026-10-08",
   "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/san-antonio-tx/application-security-intern_r0015572-2": "2026-11-04",
@@ -2509,6 +2510,7 @@
   "t:space|newgraduateengineersoftwaresecurity2627starlink": "2026-11-13",
   "t:spect|2027summerinternsecurityengineer": "2026-10-31",
   "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-27",
+  "t:state|cybersecurityoperationscenteranalystfulltimeinternshipjanjune2027": "2026-11-13",
   "t:steal|cybersecurityintern": "2026-10-31",
   "t:steel|informationsecurityintern": "2026-11-13",
   "t:steel|informationsecurityinternship": "2026-11-13",
@@ -8247,7 +8249,9 @@
   "wd:selinc/SEL": [],
   "wd:snapchat/sourced": [],
   "wd:spe/sonypicturesentertainment": [],
-  "wd:statestreet/Global": [],
+  "wd:statestreet/Global": [
+   "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
+  ],
   "wd:swbc/swbccareers": [],
   "wd:target/targetcareers": [],
   "wd:td/TD_Bank_Careers": [],
@@ -8542,6 +8546,10 @@
   [
    1794550338.8559682,
    "Jobs at UHS - Information Security Analyst Intern"
+  ],
+  [
+   1794551722.9989328,
+   "State Street - Cyber Security Operations Center Analyst, Full-time Internship (Jan - June "
   ]
  ],
  "stem5": true,
