@@ -932,6 +932,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161549893-information-security-analyst-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161550869": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161592679": "2026-11-13",
+  "https://jobs.smartrecruiters.com/servicenow/744000161594249": "2026-11-13",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-13",
@@ -2559,6 +2560,7 @@
   "t:secur|cybersoccoop2027usgreenshift": "2026-11-13",
   "t:senti|cybersecurityintern": "2026-11-13",
   "t:senti|socintern": "2026-11-13",
+  "t:servi|aiidentityintern": "2026-11-13",
   "t:servi|aisecurityengineerintern": "2026-11-13",
   "t:servi|assocaiengineeringcloudsecurityautomationintern": "2026-11-13",
   "t:servi|assocdetectionengineeringintern": "2026-11-13",
@@ -5398,9 +5400,11 @@
    "https://www.linkedin.com/jobs/view/4490712583"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4409456704",
    "https://www.linkedin.com/jobs/view/4457049227",
    "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
+   "https://www.linkedin.com/jobs/view/4464699873",
    "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465318343",
    "https://www.linkedin.com/jobs/view/4474340478",
@@ -5410,10 +5414,14 @@
    "https://www.linkedin.com/jobs/view/4482770298",
    "https://www.linkedin.com/jobs/view/4482799147",
    "https://www.linkedin.com/jobs/view/4482875555",
+   "https://www.linkedin.com/jobs/view/4488955925",
    "https://www.linkedin.com/jobs/view/4488959804",
+   "https://www.linkedin.com/jobs/view/4488968968",
+   "https://www.linkedin.com/jobs/view/4488973606",
    "https://www.linkedin.com/jobs/view/4488986319",
    "https://www.linkedin.com/jobs/view/4489824880",
    "https://www.linkedin.com/jobs/view/4489845053",
+   "https://www.linkedin.com/jobs/view/4490546766",
    "https://www.linkedin.com/jobs/view/4490552169",
    "https://www.linkedin.com/jobs/view/4490563000",
    "https://www.linkedin.com/jobs/view/4490711552",
@@ -5423,6 +5431,9 @@
    "https://www.linkedin.com/jobs/view/4490738814",
    "https://www.linkedin.com/jobs/view/4490761461",
    "https://www.linkedin.com/jobs/view/4490774379",
+   "https://www.linkedin.com/jobs/view/4490789438",
+   "https://www.linkedin.com/jobs/view/4490791290",
+   "https://www.linkedin.com/jobs/view/4490798164",
    "https://www.linkedin.com/jobs/view/4491000019",
    "https://www.linkedin.com/jobs/view/4491000021"
   ],
@@ -6233,7 +6244,8 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548289",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548528",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161550869",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161592679"
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161592679",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161594249"
   ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
@@ -8707,6 +8719,10 @@
   [
    1794612117.4148068,
    "ServiceNow - Security Engineer Intern"
+  ],
+  [
+   1794612971.0178401,
+   "ServiceNow - AI Identity Intern"
   ]
  ],
  "stem5": true,
