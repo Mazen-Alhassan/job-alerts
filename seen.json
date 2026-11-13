@@ -833,6 +833,7 @@
   "https://jobs.dayforcehcm.com/anico/candidateportal/jobs/3599": "2026-11-12",
   "https://jobs.dayforcehcm.com/cna/candidateportal/jobs/7148": "2026-10-08",
   "https://jobs.dayforcehcm.com/ibcp/candidateportal/jobs/481": "2026-10-10",
+  "https://jobs.dayforcehcm.com/kingston/candidateportal/jobs/575": "2026-11-13",
   "https://jobs.dayforcehcm.com/pcg/entrylevelandinternships/jobs/11150": "2026-11-07",
   "https://jobs.dayforcehcm.com/texasfarm/candidateportal/jobs/1526": "2026-11-07",
   "https://jobs.dayforcehcm.com/woodmenlife/candidateportal/jobs/2917": "2026-11-04",
@@ -2311,6 +2312,7 @@
   "t:jshel|juniorforensicengineeringinternship6monthcontract": "2026-11-04",
   "t:kimba|cybersecurityintern": "2026-11-10",
   "t:kinax|coopinternapplicationsecurityanalyst": "2026-10-27",
+  "t:kings|istcybersecuritycoopstudent": "2026-11-13",
   "t:knowb|securityawarenesscontentspecialistsummerinternshiphybrid": "2026-11-13",
   "t:kodia|winter2027internsecurity": "2026-11-13",
   "t:kudud|cybersecurityanalystintern": "2026-11-09",
@@ -4947,6 +4949,7 @@
    "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
    "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
    "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347",
+   "https://jobs.dayforcehcm.com/en-CA/kingston/CANDIDATEPORTAL/jobs/575",
    "https://jobs.hollister.com/Hollister/job/Libertyville-Cybersecurity-Intern-%282027%29-IL-60048-3781/1450580400/",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548298-ai-security-engineer-intern",
@@ -5421,7 +5424,6 @@
    "https://www.linkedin.com/jobs/view/4490719151",
    "https://www.linkedin.com/jobs/view/4490735822",
    "https://www.linkedin.com/jobs/view/4490738814",
-   "https://www.linkedin.com/jobs/view/4490745338",
    "https://www.linkedin.com/jobs/view/4490761461",
    "https://www.linkedin.com/jobs/view/4490774379",
    "https://www.linkedin.com/jobs/view/4490789438",
@@ -8699,6 +8701,10 @@
   [
    1794608020.9245381,
    "Federal Reserve Board - Year-Round Graduate Intern, Technology, Cybersecurity, & Incident "
+  ],
+  [
+   1794609600.7099516,
+   "Kingston Midstream - IS&T Cybersecurity Co-op Student"
   ]
  ],
  "stem5": true,
