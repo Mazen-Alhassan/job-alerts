@@ -612,6 +612,8 @@
   "https://go.vansh.nyc/1xs": "2026-11-13",
   "https://go.vansh.nyc/1yN": "2026-11-13",
   "https://go.vansh.nyc/1yP": "2026-11-13",
+  "https://go.vansh.nyc/1yU": "2026-11-13",
+  "https://go.vansh.nyc/1yV": "2026-11-13",
   "https://go.vansh.nyc/1yr": "2026-11-13",
   "https://go.vansh.nyc/1yv": "2026-11-13",
   "https://go.vansh.nyc/1yy": "2026-11-13",
@@ -1999,7 +2001,9 @@
   "t:caree|interndepartmentcyberit": "2026-11-06",
   "t:cares|2027summerinternshipprogramcybersecurity": "2026-11-10",
   "t:cares|cybersecurityintern": "2026-11-10",
+  "t:carne|cyberaiengineeringintern": "2026-11-13",
   "t:carne|cyberrangedevelopmentintern": "2026-11-06",
+  "t:carne|cybersecurityengineerintern": "2026-11-13",
   "t:carol|securityguestexperienceintern": "2026-11-04",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
   "t:cbcte|itsupportcybersecurityintern": "2026-11-02",
@@ -5364,7 +5368,6 @@
    "https://www.linkedin.com/jobs/view/4464699873",
    "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465318343",
-   "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474557191",
@@ -5942,6 +5945,8 @@
    "https://go.vansh.nyc/1xs",
    "https://go.vansh.nyc/1yN",
    "https://go.vansh.nyc/1yP",
+   "https://go.vansh.nyc/1yU",
+   "https://go.vansh.nyc/1yV",
    "https://go.vansh.nyc/1yr",
    "https://go.vansh.nyc/1yv",
    "https://go.vansh.nyc/1yy"
@@ -8508,10 +8513,6 @@
  "heartbeat": "2026-11-13 14",
  "recent": [
   [
-   1794503366.5345738,
-   "Georgia Tech Research Institute - Insider Threat Student Assistant-OTAAO-Spring 2027"
-  ],
-  [
    1794509365.518954,
    "American Electric Power - Cybersecurity Intern - Summer 2027"
   ],
@@ -8646,6 +8647,14 @@
   [
    1794596697.6950843,
    "The Lubrizol Corporation - Information Security Co-op (Spring 2027)"
+  ],
+  [
+   1794597221.367893,
+   "Carnegie Mellon University - Cybersecurity Engineer Intern"
+  ],
+  [
+   1794597221.3678951,
+   "Carnegie Mellon University - Cyber AI Engineering Intern"
   ]
  ],
  "stem5": true,
