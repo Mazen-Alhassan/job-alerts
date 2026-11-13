@@ -1036,6 +1036,7 @@
   "https://linkedin.com/jobs/view/4463558430": "2026-10-23",
   "https://linkedin.com/jobs/view/4463573184": "2026-10-22",
   "https://linkedin.com/jobs/view/4463925611": "2026-10-24",
+  "https://linkedin.com/jobs/view/4464119093": "2026-11-13",
   "https://linkedin.com/jobs/view/4464593731": "2026-10-24",
   "https://linkedin.com/jobs/view/4464766855": "2026-10-27",
   "https://linkedin.com/jobs/view/4464917263": "2026-11-12",
@@ -2154,6 +2155,7 @@
   "t:hcsc|earlycareersvulnerabilitymanagementintern": "2026-10-26",
   "t:hdr|ictsecurityintern": "2026-11-08",
   "t:hdr|informationcommunicationtechnologyictsecurityintern": "2026-11-06",
+  "t:hdr|informationcommunicationtechnologyictsecurityinternsummer2027": "2026-11-13",
   "t:healt|earlycareerscybersecurityoperationsintern": "2026-11-01",
   "t:healt|earlycareersidentifyaccessmanagementiamintern": "2026-11-01",
   "t:healt|earlycareersidentifyaccessmanagementiamseniorintern": "2026-10-31",
@@ -5312,9 +5314,8 @@
    "https://www.linkedin.com/jobs/view/4482483140"
   ],
   "li-search": [
-   "https://www.linkedin.com/jobs/view/4366561915",
    "https://www.linkedin.com/jobs/view/4414643630",
-   "https://www.linkedin.com/jobs/view/4435857047",
+   "https://www.linkedin.com/jobs/view/4464119093",
    "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
@@ -8556,6 +8557,10 @@
   [
    1794557745.4548686,
    "State Street - Cyber Security Operations Center Analyst Intern"
+  ],
+  [
+   1794565244.1981404,
+   "HDR - Information Communication Technology (ICT)/Security Intern (Summer 2027)"
   ]
  ],
  "stem5": true,
