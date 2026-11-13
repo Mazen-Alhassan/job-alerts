@@ -611,6 +611,7 @@
   "https://go.vansh.nyc/1xr": "2026-11-13",
   "https://go.vansh.nyc/1xs": "2026-11-13",
   "https://go.vansh.nyc/1yN": "2026-11-13",
+  "https://go.vansh.nyc/1yP": "2026-11-13",
   "https://go.vansh.nyc/1yr": "2026-11-13",
   "https://go.vansh.nyc/1yv": "2026-11-13",
   "https://go.vansh.nyc/1yy": "2026-11-13",
@@ -918,6 +919,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161548289": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548298-ai-security-engineer-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548528": "2026-11-13",
+  "https://jobs.smartrecruiters.com/servicenow/744000161549893-information-security-analyst-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161550869": "2026-11-13",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-13",
@@ -2471,6 +2473,7 @@
   "t:regen|2027summerinternitdigitalenablementinformationsecurity": "2026-11-11",
   "t:regen|cybersecurityitoperationsinternsummer": "2026-11-12",
   "t:regen|itdigitalenablementinformationsecurityintern": "2026-11-04",
+  "t:regsc|cybersecurityintern": "2026-11-13",
   "t:rivia|cybersecuritysummer2027internships": "2026-11-01",
   "t:rivia|earlycareercybersecurityapplicationsecurityengineer": "2026-10-29",
   "t:roche|cybersecuritydigitalsolutionassistantengineerintern12months": "2026-11-13",
@@ -4908,6 +4911,7 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548298-ai-security-engineer-intern",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161549893-information-security-analyst-intern",
    "https://originbank.wd1.myworkdayjobs.com/en-US/Careers/job/Ruston-LA/Cybersecurity-Intern_R-2564-2",
    "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
   ],
@@ -5343,6 +5347,7 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
+   "https://www.linkedin.com/jobs/view/4474742399",
    "https://www.linkedin.com/jobs/view/4490712583"
   ],
   "li-search": [
@@ -5355,7 +5360,6 @@
    "https://www.linkedin.com/jobs/view/4465309401",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
-   "https://www.linkedin.com/jobs/view/4465327252",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474557191",
@@ -5931,6 +5935,7 @@
    "https://go.vansh.nyc/1xr",
    "https://go.vansh.nyc/1xs",
    "https://go.vansh.nyc/1yN",
+   "https://go.vansh.nyc/1yP",
    "https://go.vansh.nyc/1yr",
    "https://go.vansh.nyc/1yv",
    "https://go.vansh.nyc/1yy"
@@ -8622,9 +8627,19 @@
   [
    1794593644.5122197,
    "ServiceNow - Information Security Analyst Intern"
+  ],
+  [
+   1794595633.1841183,
+   "RegScale - Cyber Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   2,
+   1794595488.7186255,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
