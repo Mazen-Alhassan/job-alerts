@@ -382,6 +382,8 @@
   "https://click2apply.net/xdnljztve5kpotxjxc6zb6": "2026-11-08",
   "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200": "2026-10-10",
+  "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/cyber-ai-engineering-intern--spring-2027-_2025346-1": "2026-11-13",
+  "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/cybersecurity-engineer-intern--spring-2027-_2025347": "2026-11-13",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199-1": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200-1": "2026-10-10",
   "https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--cybersecurity-_r-8130-1": "2026-11-13",
@@ -2011,8 +2013,10 @@
   "t:cares|2027summerinternshipprogramcybersecurity": "2026-11-10",
   "t:cares|cybersecurityintern": "2026-11-10",
   "t:carne|cyberaiengineeringintern": "2026-11-13",
+  "t:carne|cyberaiengineeringinternspring2027": "2026-11-13",
   "t:carne|cyberrangedevelopmentintern": "2026-11-06",
   "t:carne|cybersecurityengineerintern": "2026-11-13",
+  "t:carne|cybersecurityengineerinternspring2027": "2026-11-13",
   "t:carol|securityguestexperienceintern": "2026-11-04",
   "t:cater|securetechnologyapprenticecybersecurityapprenticeship": "2026-10-30",
   "t:cbcte|itsupportcybersecurityintern": "2026-11-02",
@@ -4928,8 +4932,9 @@
   ],
   "jobspy": [
    "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
+   "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
+   "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347",
    "https://jobs.hollister.com/Hollister/job/Libertyville-Cybersecurity-Intern-%282027%29-IL-60048-3781/1450580400/",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548298-ai-security-engineer-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161549893-information-security-analyst-intern",
@@ -5391,7 +5396,6 @@
    "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488581313",
    "https://www.linkedin.com/jobs/view/4488955925",
-   "https://www.linkedin.com/jobs/view/4488959804",
    "https://www.linkedin.com/jobs/view/4488973606",
    "https://www.linkedin.com/jobs/view/4490529074",
    "https://www.linkedin.com/jobs/view/4490546766",
@@ -8529,18 +8533,6 @@
  "heartbeat": "2026-11-13 16",
  "recent": [
   [
-   1794509365.518954,
-   "American Electric Power - Cybersecurity Intern - Summer 2027"
-  ],
-  [
-   1794509982.35704,
-   "Mass General Brigham - Security Co-op"
-  ],
-  [
-   1794510308.2965863,
-   "Rolls-Royce - Security Operations Intern"
-  ],
-  [
    1794513495.470743,
    "ISO New England - Cyber Adversary Defense Optimization Intern"
   ],
@@ -8679,15 +8671,17 @@
   [
    1794602855.0294616,
    "Cohesity - Security Governance & Risk Intern"
+  ],
+  [
+   1794606426.8034942,
+   "Carnegie Mellon University - Cybersecurity Engineer Intern (Spring 2027)"
+  ],
+  [
+   1794606426.8034954,
+   "Carnegie Mellon University - Cyber AI Engineering Intern (Spring 2027)"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794604191.5598464,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
