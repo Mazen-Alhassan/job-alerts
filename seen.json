@@ -914,6 +914,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161210069": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161385429-product-security-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161385779": "2026-11-13",
+  "https://jobs.smartrecruiters.com/servicenow/744000161548289": "2026-11-13",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-13",
@@ -2508,6 +2509,7 @@
   "t:secur|cybersoccoop2027usgreenshift": "2026-11-13",
   "t:senti|cybersecurityintern": "2026-11-13",
   "t:senti|socintern": "2026-11-13",
+  "t:servi|aisecurityengineerintern": "2026-11-13",
   "t:servi|assocaiengineeringcloudsecurityautomationintern": "2026-11-13",
   "t:servi|assocdetectionengineeringintern": "2026-11-13",
   "t:servi|associateaiengineeringinterncloudsecurityautomation": "2026-11-13",
@@ -6164,7 +6166,8 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161385779"
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161385779",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161548289"
   ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
@@ -8592,6 +8595,10 @@
   [
    1794589383.5813699,
    "St. Luke's Health System - Intern-Cyber Security (On-site)   -   156068"
+  ],
+  [
+   1794592290.484833,
+   "ServiceNow - AI Security Engineer Intern"
   ]
  ],
  "stem5": true,
