@@ -7864,7 +7864,9 @@
   "wd+:starrcompanies/careers": [],
   "wd+:starz/Starz": [],
   "wd+:statestreet/equest": [],
-  "wd+:statestreet/global": [],
+  "wd+:statestreet/global": [
+   "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
+  ],
   "wd+:stbancorp/ST_Bank_Careers": [],
   "wd+:stblaw/careers": [],
   "wd+:sterlingmets/Mets": [],
@@ -8248,7 +8250,9 @@
   "wd:selinc/SEL": [],
   "wd:snapchat/sourced": [],
   "wd:spe/sonypicturesentertainment": [],
-  "wd:statestreet/Global": [],
+  "wd:statestreet/Global": [
+   "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
+  ],
   "wd:swbc/swbccareers": [],
   "wd:target/targetcareers": [],
   "wd:td/TD_Bank_Careers": [],
@@ -8454,7 +8458,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-13 00",
+ "heartbeat": "2026-11-13 02",
  "recent": [
   [
    1794482294.541971,
