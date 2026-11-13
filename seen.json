@@ -5312,12 +5312,14 @@
    "https://www.linkedin.com/jobs/view/4447905376",
    "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4465323302",
+   "https://www.linkedin.com/jobs/view/4465324343",
    "https://www.linkedin.com/jobs/view/4465327252",
    "https://www.linkedin.com/jobs/view/4473505428",
    "https://www.linkedin.com/jobs/view/4473927780",
    "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4479421552",
    "https://www.linkedin.com/jobs/view/4479425405",
+   "https://www.linkedin.com/jobs/view/4479434038",
    "https://www.linkedin.com/jobs/view/4482176819",
    "https://www.linkedin.com/jobs/view/4482459824",
    "https://www.linkedin.com/jobs/view/4482483140",
@@ -5328,6 +5330,9 @@
    "https://www.linkedin.com/jobs/view/4489094110",
    "https://www.linkedin.com/jobs/view/4490073725",
    "https://www.linkedin.com/jobs/view/4490074741",
+   "https://www.linkedin.com/jobs/view/4490512968",
+   "https://www.linkedin.com/jobs/view/4490529074",
+   "https://www.linkedin.com/jobs/view/4490546766",
    "https://www.linkedin.com/jobs/view/4490552169",
    "https://www.linkedin.com/jobs/view/4490563000"
   ],
@@ -6963,9 +6968,7 @@
   "wd+:freudenberg/freudenberg-group": [],
   "wd+:frostbank/External": [],
   "wd+:fticonsulting/FTIConsultingCareers": [],
-  "wd+:fticonsulting/FTIConsultingCareersPrivate": [
-   "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareersPrivate/job/United-States/XMLNAME-2027-Intern---Forensic---Litigation-Consulting_JR260337-1"
-  ],
+  "wd+:fticonsulting/FTIConsultingCareersPrivate": [],
   "wd+:fullsteam/external": [],
   "wd+:gables/Gables_Careers": [],
   "wd+:gafsgi/GAF_Careers": [],
@@ -8450,7 +8453,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 22",
+ "heartbeat": "2026-11-13 00",
  "recent": [
   [
    1794448680.9299798,
