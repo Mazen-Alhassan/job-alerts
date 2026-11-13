@@ -5341,7 +5341,6 @@
    "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488570118",
    "https://www.linkedin.com/jobs/view/4488581313",
-   "https://www.linkedin.com/jobs/view/4488942278",
    "https://www.linkedin.com/jobs/view/4490512968",
    "https://www.linkedin.com/jobs/view/4490529074",
    "https://www.linkedin.com/jobs/view/4490546766",
@@ -7599,7 +7598,9 @@
   ],
   "wd+:papernest/external_careers_global": [],
   "wd+:parexel/Parexel_External_Careers": [],
-  "wd+:parsons/search": [],
+  "wd+:parsons/search": [
+   "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377"
+  ],
   "wd+:patientfirst/patientfirst": [],
   "wd+:pattersoncompanies/PDCO": [],
   "wd+:pattersoncompanies/pdco": [],
