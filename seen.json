@@ -213,6 +213,7 @@
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/tx-client-state/cybersecurity-analyst-intern_r8893": "2026-11-03",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/cybersecurity-analyst-intern_r8892": "2026-11-03",
   "https://cai.wd5.myworkdayjobs.com/computer_aid/job/va-client-state/internet-storm-center-intern_r8704": "2026-10-13",
+  "https://campingworld.wd5.myworkdayjobs.com/jobs/job/chicago-il/ai-security-intern_26_09083": "2026-11-13",
   "https://campus-libertymutual.icims.com/jobs/126990/cybersecurity-%26-technology-audit-internship-%28summer-2027%29/job": "2026-11-13",
   "https://campus-libertymutual.icims.com/jobs/226276/cybersecurity-co-op-%28january---june-2027%29/job": "2026-11-13",
   "https://career17.sapsf.com/career?_s.crb=2M3i1Vz7fo7T96RKNrFWyoL9a4cYFn3mPPM7za7000s%3D&browsertimezone=America%2FChicago&career_job_req_id=42505&career_ns=job_listing&company=Cameco&navbarlevel=JOB_SEARCH&rcm_site_locale=en_US&selected_lang=en_US": "2026-11-06",
@@ -2000,6 +2001,7 @@
   "t:cai|cybersecurityanalystintern": "2026-11-05",
   "t:calpo|securedwatchlicensedtrackstudentassistantsolanocampus": "2026-10-31",
   "t:camec|studentitsecurity": "2026-11-06",
+  "t:campi|aisecurityintern": "2026-11-13",
   "t:caree|interncyberit": "2026-11-06",
   "t:caree|interncybersecurity": "2026-11-06",
   "t:caree|interndepartmentcyberit": "2026-11-06",
@@ -6675,7 +6677,9 @@
   "wd+:cambridgeassociates/Handshake": [],
   "wd+:campaignmonitor/marigold": [],
   "wd+:campbellsoup/externalcareers_globalsite": [],
-  "wd+:campingworld/Jobs": [],
+  "wd+:campingworld/Jobs": [
+   "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083"
+  ],
   "wd+:canadiansolar/CanadianSolar": [],
   "wd+:canadiantirecorporation/Enterprise_External_Careers_Site": [],
   "wd+:candescent/Hiring": [],
@@ -8661,15 +8665,13 @@
   [
    1794597221.3678951,
    "Carnegie Mellon University - Cyber AI Engineering Intern"
+  ],
+  [
+   1794602475.9728422,
+   "Camping World - AI Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794601757.5894525,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
