@@ -1570,6 +1570,7 @@
   "https://linkedin.com/jobs/view/4488959804": "2026-11-13",
   "https://linkedin.com/jobs/view/4488968968": "2026-11-13",
   "https://linkedin.com/jobs/view/4488973606": "2026-11-13",
+  "https://linkedin.com/jobs/view/4488986319": "2026-11-13",
   "https://linkedin.com/jobs/view/4489042219": "2026-11-12",
   "https://linkedin.com/jobs/view/4489045636": "2026-11-12",
   "https://linkedin.com/jobs/view/4489094110": "2026-11-13",
@@ -1581,6 +1582,7 @@
   "https://linkedin.com/jobs/view/4489602771": "2026-11-11",
   "https://linkedin.com/jobs/view/4489619551": "2026-11-11",
   "https://linkedin.com/jobs/view/4489654673": "2026-11-12",
+  "https://linkedin.com/jobs/view/4489818743": "2026-11-13",
   "https://linkedin.com/jobs/view/4489910273": "2026-11-12",
   "https://linkedin.com/jobs/view/4489954988": "2026-11-11",
   "https://linkedin.com/jobs/view/4490005015": "2026-11-12",
@@ -1600,6 +1602,11 @@
   "https://linkedin.com/jobs/view/4490745338": "2026-11-13",
   "https://linkedin.com/jobs/view/4490761461": "2026-11-13",
   "https://linkedin.com/jobs/view/4490774379": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490789438": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490791290": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490798164": "2026-11-13",
+  "https://linkedin.com/jobs/view/4491000019": "2026-11-13",
+  "https://linkedin.com/jobs/view/4491000021": "2026-11-13",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2148,6 +2155,7 @@
   "t:feder|summerinternshipcybersecurity": "2026-11-03",
   "t:feder|supervisionregulationinterncybersecurity": "2026-11-09",
   "t:feder|tsapplicationsecurityintern2027": "2026-10-31",
+  "t:feder|yearroundgraduateinterntechnologycybersecurityincidentresponsedivisionofsupervisionregulation": "2026-11-13",
   "t:fedex|globalsecurityinternsummer2027": "2026-10-29",
   "t:fenne|itcybersecurityanalystinternsummer2027": "2026-10-30",
   "t:fhlba|cybersecurityintern": "2026-11-10",
@@ -2221,6 +2229,7 @@
   "t:highm|summer2027cyberriskmanagementanalystundergraduateintern": "2026-11-13",
   "t:highm|summer2027vulnerabilitymanagementanalystundergraduateintern": "2026-11-13",
   "t:highm|vulnerabilitymanagementanalystundergraduateintern": "2026-11-10",
+  "t:holli|cybersecurityintern": "2026-11-13",
   "t:holli|cybersecurityintern2027": "2026-11-13",
   "t:homed|2027summerinternshipcybersecurity": "2026-10-26",
   "t:homeo|urbninformationsecurityintern": "2026-10-30",
@@ -5397,12 +5406,13 @@
    "https://www.linkedin.com/jobs/view/4482770298",
    "https://www.linkedin.com/jobs/view/4482799147",
    "https://www.linkedin.com/jobs/view/4482875555",
-   "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488581313",
    "https://www.linkedin.com/jobs/view/4488955925",
    "https://www.linkedin.com/jobs/view/4488959804",
+   "https://www.linkedin.com/jobs/view/4488968968",
    "https://www.linkedin.com/jobs/view/4488973606",
-   "https://www.linkedin.com/jobs/view/4490529074",
+   "https://www.linkedin.com/jobs/view/4488986319",
+   "https://www.linkedin.com/jobs/view/4489818743",
    "https://www.linkedin.com/jobs/view/4490546766",
    "https://www.linkedin.com/jobs/view/4490552169",
    "https://www.linkedin.com/jobs/view/4490563000",
@@ -5413,7 +5423,12 @@
    "https://www.linkedin.com/jobs/view/4490738814",
    "https://www.linkedin.com/jobs/view/4490745338",
    "https://www.linkedin.com/jobs/view/4490761461",
-   "https://www.linkedin.com/jobs/view/4490774379"
+   "https://www.linkedin.com/jobs/view/4490774379",
+   "https://www.linkedin.com/jobs/view/4490789438",
+   "https://www.linkedin.com/jobs/view/4490791290",
+   "https://www.linkedin.com/jobs/view/4490798164",
+   "https://www.linkedin.com/jobs/view/4491000019",
+   "https://www.linkedin.com/jobs/view/4491000021"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8676,6 +8691,14 @@
   [
    1794607655.4827707,
    "Apple - Apple Music Intern"
+  ],
+  [
+   1794608020.924537,
+   "Hollister Incorporated - Cybersecurity Intern"
+  ],
+  [
+   1794608020.9245381,
+   "Federal Reserve Board - Year-Round Graduate Intern, Technology, Cybersecurity, & Incident "
   ]
  ],
  "stem5": true,
