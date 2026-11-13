@@ -915,6 +915,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161385429-product-security-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161385779": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548289": "2026-11-13",
+  "https://jobs.smartrecruiters.com/servicenow/744000161548528": "2026-11-13",
   "https://jobs.smartrecruiters.com/wavestone1/744000151373865": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000148918178": "2026-11-13",
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-13",
@@ -2519,6 +2520,7 @@
   "t:servi|associnformationsecurityengineerintern": "2026-11-13",
   "t:servi|assocsecurityengineeringautomationintern": "2026-11-13",
   "t:servi|productsecurityintern": "2026-11-13",
+  "t:servi|securityengineeringautomationintern": "2026-11-13",
   "t:shopi|softwareengineeringinternshipswinter2027": "2026-11-13",
   "t:shure|informationsecuritygovernanceriskcomplianceintern": "2026-11-13",
   "t:sieme|cybersecurityinternsummer2027": "2026-11-11",
@@ -6167,7 +6169,8 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385779",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161548289"
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161548289",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161548528"
   ],
   "sr:Shawbrook": [],
   "sr:Sia": [],
@@ -8481,10 +8484,6 @@
  "heartbeat": "2026-11-13 12",
  "recent": [
   [
-   1794498853.4120727,
-   "Roche - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
-  ],
-  [
    1794503366.5345738,
    "Georgia Tech Research Institute - Insider Threat Student Assistant-OTAAO-Spring 2027"
   ],
@@ -8599,6 +8598,10 @@
   [
    1794592290.484833,
    "ServiceNow - AI Security Engineer Intern"
+  ],
+  [
+   1794592570.4357688,
+   "ServiceNow - Security Engineering & Automation Intern"
   ]
  ],
  "stem5": true,
