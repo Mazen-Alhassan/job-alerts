@@ -610,6 +610,7 @@
   "https://go.vansh.nyc/1xr": "2026-11-13",
   "https://go.vansh.nyc/1xs": "2026-11-13",
   "https://go.vansh.nyc/1yr": "2026-11-13",
+  "https://go.vansh.nyc/1yv": "2026-11-13",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2227,6 +2228,7 @@
   "t:jeffe|cybersecuritystudentintern": "2026-10-31",
   "t:jewel|grcanalystinternsummerof2027": "2026-11-01",
   "t:jmfam|offensivesecurityintern": "2026-11-12",
+  "t:jobsa|informationsecurityanalystintern": "2026-11-13",
   "t:johns|2027internshipcyberphysicalsystems": "2026-11-13",
   "t:johns|2027internshipcybersecuritycyberdominance": "2026-11-13",
   "t:johns|2027internshipcybersecurityengineercriticalinfrastructureprotection": "2026-11-13",
@@ -5863,7 +5865,6 @@
    "https://go.vansh.nyc/1pP",
    "https://go.vansh.nyc/1pU",
    "https://go.vansh.nyc/1pd",
-   "https://go.vansh.nyc/1qC",
    "https://go.vansh.nyc/1qx",
    "https://go.vansh.nyc/1rI",
    "https://go.vansh.nyc/1s5",
@@ -5891,7 +5892,8 @@
    "https://go.vansh.nyc/1xi",
    "https://go.vansh.nyc/1xr",
    "https://go.vansh.nyc/1xs",
-   "https://go.vansh.nyc/1yr"
+   "https://go.vansh.nyc/1yr",
+   "https://go.vansh.nyc/1yv"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8454,38 +8456,6 @@
  "heartbeat": "2026-11-13 00",
  "recent": [
   [
-   1794448680.9299798,
-   "ServiceNow - Assoc AI Engineering (Cloud Security Automation) Intern"
-  ],
-  [
-   1794448680.9299817,
-   "ServiceNow - Assoc Information Security Engineer Intern"
-  ],
-  [
-   1794448956.355381,
-   "ServiceNow - Assoc Security Engineering & Automation Intern"
-  ],
-  [
-   1794449223.178747,
-   "ServiceNow - Assoc Detection Engineering Intern"
-  ],
-  [
-   1794453216.8483238,
-   "ServiceNow - Associate Security Engineering & Automation Intern"
-  ],
-  [
-   1794453216.8483257,
-   "ServiceNow - Associate Information Security Engineer Intern"
-  ],
-  [
-   1794453216.8483267,
-   "ServiceNow - Associate AI Engineering Intern, Cloud Security Automation"
-  ],
-  [
-   1794453216.8483274,
-   "ServiceNow - Associate Detection Engineering Intern"
-  ],
-  [
    1794482294.541971,
    "Medpace - Information Security Intern"
   ],
@@ -8568,6 +8538,10 @@
   [
    1794531824.9370582,
    "UHS - Information Security Analyst Intern*"
+  ],
+  [
+   1794550338.8559682,
+   "Jobs at UHS - Information Security Analyst Intern"
   ]
  ],
  "stem5": true,
