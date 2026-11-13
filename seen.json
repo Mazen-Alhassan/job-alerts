@@ -945,7 +945,7 @@
   "https://lifeattiktok.com/search/7600536394771564853": "2026-11-02",
   "https://lifeattiktok.com/search/7667935739300317493": "2026-11-13",
   "https://lifeattiktok.com/search/7670729943510829317": "2026-11-13",
-  "https://lifeattiktok.com/search/7691158108957641013": "2026-11-01",
+  "https://lifeattiktok.com/search/7691158108957641013": "2026-11-13",
   "https://linkedin.com/jobs/view/4320542994": "2026-11-05",
   "https://linkedin.com/jobs/view/4366561915": "2026-11-13",
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
@@ -2603,7 +2603,7 @@
   "t:thorn|electronicsecurityintern": "2026-11-05",
   "t:thriv|commercialmortgagesandsecuritizedrealestateassetsinternsummer2027": "2026-10-26",
   "t:tikto|backendsoftwareengineerinterntiktokprivacyandsecurity2027summer": "2026-11-13",
-  "t:tikto|physicalsecuritysystemstechnologyprojectinternpsst2027start": "2026-11-01",
+  "t:tikto|physicalsecuritysystemstechnologyprojectinternpsst2027start": "2026-11-13",
   "t:tikto|searchsecuritystrategyoperationsinterntiktokplatformresponsibilitysearch2027summer": "2026-11-13",
   "t:tikto|securityengineerinternsecurityprivacy2027summer": "2026-11-05",
   "t:tikto|securitysoftwareengineerprojectinternproductsecurity2026startbsms": "2026-11-13",
@@ -4908,6 +4908,7 @@
   "jibe:careers.viasat.com": [],
   "jobspy": [
    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
+   "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548298-ai-security-engineer-intern",
@@ -5360,6 +5361,7 @@
    "https://www.linkedin.com/jobs/view/4465309401",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
+   "https://www.linkedin.com/jobs/view/4465327252",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474557191",
@@ -6276,7 +6278,8 @@
   "tiktok": [
    "https://lifeattiktok.com/search/7600535181632457013",
    "https://lifeattiktok.com/search/7667935739300317493",
-   "https://lifeattiktok.com/search/7670729943510829317"
+   "https://lifeattiktok.com/search/7670729943510829317",
+   "https://lifeattiktok.com/search/7691158108957641013"
   ],
   "wd+:2020companies/external_careers": [],
   "wd+:23andme/23": [],
@@ -8498,7 +8501,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-13 12",
+ "heartbeat": "2026-11-13 14",
  "recent": [
   [
    1794503366.5345738,
@@ -8637,7 +8640,7 @@
  "streaks": {
   "netflix": [
    2,
-   1794595488.7186255,
+   1794596402.7982461,
    "HTTP Error 429: TOO MANY REQUESTS"
   ]
  },
