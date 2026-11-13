@@ -52,6 +52,7 @@
   "gh:8191987": "2026-11-13",
   "gh:8207970": "2026-10-14",
   "gh:8234670": "2026-11-13",
+  "gh:8274792": "2026-11-13",
   "gh:8287886": "2026-10-28",
   "gh:8696143002": "2026-11-13",
   "gh:8696156002": "2026-11-13",
@@ -2592,6 +2593,7 @@
   "t:toget|hardwaresecurityengineerintern": "2026-10-23",
   "t:toget|hardwaresecurityengineerinternsummer2027": "2026-11-04",
   "t:toget|hardwaresecurityengineernewgrad2027": "2026-11-04",
+  "t:trace|securityintern": "2026-11-13",
   "t:trade|summer2027cybersecurityinternship": "2026-11-13",
   "t:twosi|securityoperationsintern": "2026-11-13",
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
@@ -2686,7 +2688,6 @@
    "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
    "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
-   "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
    "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
   ],
   "apple": [
@@ -4381,7 +4382,9 @@
   "gh:torcrobotics": [],
   "gh:toshibaglobalcommercesolutions": [],
   "gh:tpcengineeringholdingsllc": [],
-  "gh:trace3": [],
+  "gh:trace3": [
+   "https://job-boards.greenhouse.io/trace3/jobs/8274792"
+  ],
   "gh:tradingacademy2025": [],
   "gh:transcendinc": [],
   "gh:transmarketgroup": [],
@@ -4882,7 +4885,6 @@
   "jobspy": [
    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
-   "https://lockheedmartin.eightfold.ai/careers/job/996477642584",
    "https://originbank.wd1.myworkdayjobs.com/en-US/Careers/job/Ruston-LA/Cybersecurity-Intern_R-2564-2",
    "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
   ],
@@ -7597,9 +7599,7 @@
   ],
   "wd+:papernest/external_careers_global": [],
   "wd+:parexel/Parexel_External_Careers": [],
-  "wd+:parsons/search": [
-   "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377"
-  ],
+  "wd+:parsons/search": [],
   "wd+:patientfirst/patientfirst": [],
   "wd+:pattersoncompanies/PDCO": [],
   "wd+:pattersoncompanies/pdco": [],
@@ -8464,10 +8464,6 @@
  "heartbeat": "2026-11-13 10",
  "recent": [
   [
-   1794488968.2646613,
-   "Meta - Enterprise Security Engineer, Intern (Summer 2027)"
-  ],
-  [
    1794493580.2658236,
    "Genentech - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
   ],
@@ -8570,15 +8566,13 @@
   [
    1794579315.7492526,
    "Mobile Communications America - Security Technician - DoD SkillBridge Intern"
+  ],
+  [
+   1794587099.3576946,
+   "Trace3 - Security Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794585616.7760572,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
