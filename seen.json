@@ -1035,7 +1035,7 @@
   "https://linkedin.com/jobs/view/4463556460": "2026-10-22",
   "https://linkedin.com/jobs/view/4463558430": "2026-10-23",
   "https://linkedin.com/jobs/view/4463573184": "2026-10-22",
-  "https://linkedin.com/jobs/view/4463925611": "2026-10-24",
+  "https://linkedin.com/jobs/view/4463925611": "2026-11-13",
   "https://linkedin.com/jobs/view/4464119093": "2026-11-13",
   "https://linkedin.com/jobs/view/4464593731": "2026-10-24",
   "https://linkedin.com/jobs/view/4464766855": "2026-10-27",
@@ -1561,6 +1561,8 @@
   "https://linkedin.com/jobs/view/4490546766": "2026-11-13",
   "https://linkedin.com/jobs/view/4490552169": "2026-11-13",
   "https://linkedin.com/jobs/view/4490563000": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490712583": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490719151": "2026-11-13",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2215,7 +2217,7 @@
   "t:insme|summerinterncybersecurityoperationsaiautomation": "2026-11-04",
   "t:integ|cybersecurityinternship": "2026-11-13",
   "t:integ|cybersecurityinternshipwithsecurityclearance": "2026-11-12",
-  "t:integ|itsecurityintern": "2026-10-24",
+  "t:integ|itsecurityintern": "2026-11-13",
   "t:intel|backendengineeringsecurityintern": "2026-11-10",
   "t:intel|cyberanalystinternshipdowskillbridgewithsecurityclearance": "2026-11-04",
   "t:intel|informationsecurityengineerintern": "2026-10-29",
@@ -5307,19 +5309,17 @@
   "lever:zopa": [],
   "lever:zushealth": [],
   "li-companies": [
-   "https://www.linkedin.com/jobs/view/4479412980",
-   "https://www.linkedin.com/jobs/view/4479425405",
-   "https://www.linkedin.com/jobs/view/4479426397",
    "https://www.linkedin.com/jobs/view/4479431204",
    "https://www.linkedin.com/jobs/view/4479434038",
-   "https://www.linkedin.com/jobs/view/4482483140"
+   "https://www.linkedin.com/jobs/view/4482483140",
+   "https://www.linkedin.com/jobs/view/4490712583"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
    "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
-   "https://www.linkedin.com/jobs/view/4465327252",
    "https://www.linkedin.com/jobs/view/4473505428",
    "https://www.linkedin.com/jobs/view/4473967974",
    "https://www.linkedin.com/jobs/view/4474557191",
@@ -5339,7 +5339,9 @@
    "https://www.linkedin.com/jobs/view/4490529074",
    "https://www.linkedin.com/jobs/view/4490546766",
    "https://www.linkedin.com/jobs/view/4490552169",
-   "https://www.linkedin.com/jobs/view/4490563000"
+   "https://www.linkedin.com/jobs/view/4490563000",
+   "https://www.linkedin.com/jobs/view/4490712583",
+   "https://www.linkedin.com/jobs/view/4490719151"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
