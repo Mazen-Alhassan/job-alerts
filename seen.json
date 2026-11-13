@@ -805,6 +805,7 @@
   "https://jobs.apple.com/details/200664419/hardware-masters-engineering-internships": "2026-11-13",
   "https://jobs.apple.com/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships": "2026-11-13",
   "https://jobs.apple.com/details/200664785/software-undergrad-engineering-internships": "2026-11-13",
+  "https://jobs.apple.com/details/200694171/apple-music-intern": "2026-11-13",
   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f": "2026-11-02",
   "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application": "2026-10-29",
   "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1": "2026-11-02",
@@ -1903,6 +1904,7 @@
   "t:andur|2027newgradinformationsecurityengineer": "2026-11-13",
   "t:appia|informationsecurityengineerintern": "2026-11-13",
   "t:apple|2027summerinterninformationsecurity": "2026-11-13",
+  "t:apple|applemusicintern": "2026-11-13",
   "t:apple|engineeringprogrammanagementmastersinternships": "2026-11-13",
   "t:apple|engineeringprogrammanagementundergradinternships": "2026-11-13",
   "t:apple|hardwaremastersengineeringinternships": "2026-11-13",
@@ -2747,7 +2749,8 @@
    "https://jobs.apple.com/en-us/details/200664383/hardware-technologies-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664419/hardware-masters-engineering-internships",
    "https://jobs.apple.com/en-us/details/200664780/machine-learning-and-artificial-intelligence-undergrad-internships",
-   "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
+   "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships",
+   "https://jobs.apple.com/en-us/details/200694171/apple-music-intern"
   ],
   "ashby:1password": [],
   "ashby:1x": [],
@@ -5398,7 +5401,6 @@
    "https://www.linkedin.com/jobs/view/4488581313",
    "https://www.linkedin.com/jobs/view/4488955925",
    "https://www.linkedin.com/jobs/view/4488959804",
-   "https://www.linkedin.com/jobs/view/4488968968",
    "https://www.linkedin.com/jobs/view/4488973606",
    "https://www.linkedin.com/jobs/view/4490529074",
    "https://www.linkedin.com/jobs/view/4490546766",
@@ -8536,18 +8538,6 @@
  "heartbeat": "2026-11-13 16",
  "recent": [
   [
-   1794513495.470743,
-   "ISO New England - Cyber Adversary Defense Optimization Intern"
-  ],
-  [
-   1794513495.4707446,
-   "Johns Hopkins Applied Physics Laboratory - Reverse Engineer Intern, Offensive Cyber Capabi"
-  ],
-  [
-   1794513495.4707453,
-   "Encore Global - IT Security Intern"
-  ],
-  [
    1794519480.7512536,
    "ServiceNow - Product Security Intern"
   ],
@@ -8682,15 +8672,13 @@
   [
    1794606426.8034954,
    "Carnegie Mellon University - Cyber AI Engineering Intern (Spring 2027)"
+  ],
+  [
+   1794607655.4827707,
+   "Apple - Apple Music Intern"
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794606981.7174618,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
