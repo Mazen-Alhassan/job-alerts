@@ -914,6 +914,7 @@
   "https://jobs.smartrecruiters.com/servicenow/744000161210069": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161385429-product-security-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161385779": "2026-11-13",
+  "https://jobs.smartrecruiters.com/servicenow/744000161547661-security-engineering-automation-intern-": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548289": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548298-ai-security-engineer-intern": "2026-11-13",
   "https://jobs.smartrecruiters.com/servicenow/744000161548528": "2026-11-13",
@@ -4905,6 +4906,7 @@
   "jobspy": [
    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
+   "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161548298-ai-security-engineer-intern",
    "https://originbank.wd1.myworkdayjobs.com/en-US/Careers/job/Ruston-LA/Cybersecurity-Intern_R-2564-2",
    "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
@@ -7574,9 +7576,7 @@
   "wd+:nshe/unlv-external": [],
   "wd+:nshs/ns-eeh": [],
   "wd+:ntrs/northerntrust": [],
-  "wd+:ntst/careers": [
-   "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Security-Analyst-Future--Summer-2027-Internship-_R015669"
-  ],
+  "wd+:ntst/careers": [],
   "wd+:nvent/nVent": [],
   "wd+:nwis/NW": [],
   "wd+:nxp/careers": [],
