@@ -611,6 +611,7 @@
   "https://go.vansh.nyc/1xs": "2026-11-13",
   "https://go.vansh.nyc/1yr": "2026-11-13",
   "https://go.vansh.nyc/1yv": "2026-11-13",
+  "https://go.vansh.nyc/1yy": "2026-11-13",
   "https://go.vansh.nyc/SC": "2026-11-02",
   "https://go.vansh.nyc/SD": "2026-11-02",
   "https://go.vansh.nyc/SE": "2026-11-02",
@@ -2511,6 +2512,7 @@
   "t:spect|2027summerinternsecurityengineer": "2026-10-31",
   "t:spiri|spiritdefensesummer2027internshipprogrampaidinformationdigitaltechnologysecurityidts": "2026-10-27",
   "t:state|cybersecurityoperationscenteranalystfulltimeinternshipjanjune2027": "2026-11-13",
+  "t:state|cybersecurityoperationscenteranalystintern": "2026-11-13",
   "t:steal|cybersecurityintern": "2026-10-31",
   "t:steel|informationsecurityintern": "2026-11-13",
   "t:steel|informationsecurityinternship": "2026-11-13",
@@ -5894,7 +5896,8 @@
    "https://go.vansh.nyc/1xr",
    "https://go.vansh.nyc/1xs",
    "https://go.vansh.nyc/1yr",
-   "https://go.vansh.nyc/1yv"
+   "https://go.vansh.nyc/1yv",
+   "https://go.vansh.nyc/1yy"
   ],
   "sr:3SBusinessCorporationInc1": [],
   "sr:4DSCorp": [],
@@ -8551,6 +8554,10 @@
   [
    1794551722.9989328,
    "State Street - Cyber Security Operations Center Analyst, Full-time Internship (Jan - June "
+  ],
+  [
+   1794557745.4548686,
+   "State Street - Cyber Security Operations Center Analyst Intern"
   ]
  ],
  "stem5": true,
