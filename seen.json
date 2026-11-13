@@ -5316,11 +5316,9 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [
-   "https://www.linkedin.com/jobs/view/4482483140",
-   "https://www.linkedin.com/jobs/view/4490712583"
-  ],
+  "li-companies": [],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4409456704",
    "https://www.linkedin.com/jobs/view/4457049227",
    "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
@@ -5525,9 +5523,7 @@
   "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/CX_2": [],
-  "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [
-   "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11186"
-  ],
+  "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/ULSolutionsCareers": [],
   "oracle:fa-euud-saasfaprod1.fa.ocs.oraclecloud.com/CX_1001": [],
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
   "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/CX_1": [],
@@ -5864,8 +5860,6 @@
   ],
   "simplify": [],
   "simplify-vansh": [
-   "https://go.vansh.nyc/1k7",
-   "https://go.vansh.nyc/1kg",
    "https://go.vansh.nyc/1lc",
    "https://go.vansh.nyc/1mv",
    "https://go.vansh.nyc/1oC",
