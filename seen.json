@@ -4860,7 +4860,6 @@
   "jobspy": [
    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
    "https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
-   "https://jobs.smartrecruiters.com/ServiceNow/744000161209679-assoc-detection-engineering-intern-",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161385429-product-security-intern",
    "https://lockheedmartin.eightfold.ai/careers/job/996477642584"
   ],
@@ -8573,12 +8572,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794535193.0136223,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
