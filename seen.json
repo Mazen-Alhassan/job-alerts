@@ -350,6 +350,7 @@
   "https://careers.rtx.com/global/en/job/01886260": "2026-11-05",
   "https://careers.t-mobile.com/summer-2027-software-engineer-cloud-security-summer-internship/job/c6fb4492b2f0b714c04b07335a78fb35": "2026-10-22",
   "https://careers.thalesgroup.com/global/en/job/r0337751": "2026-11-13",
+  "https://careers.viasat.com/jobs/10148": "2026-11-13",
   "https://careers.viasat.com/jobs/6458": "2026-11-12",
   "https://careers.westinghousenuclear.com/job/warrendale-summer-intern-ics-cyber-security-or/1448123600": "2026-11-06",
   "https://careers.wexinc.com/us/en/job/r22589": "2026-10-13",
@@ -2657,7 +2658,7 @@
   "t:varda|cybersecurityinternshipspring2027": "2026-11-03",
   "t:varda|cybersecurityinternshipsummer2027": "2026-11-13",
   "t:verka|securitysoftwareengineeringintern2027": "2026-11-13",
-  "t:viasa|informationsecurityspecialistearlycareer": "2026-11-12",
+  "t:viasa|informationsecurityspecialistearlycareer": "2026-11-13",
   "t:visa|networkandsecurityengineeringintern": "2026-11-02",
   "t:visa|networkandsecurityengineeringintern2027ashburnva": "2026-11-06",
   "t:visa|networkandsecurityengineeringintern2027highlandsranchco": "2026-11-05",
@@ -4916,7 +4917,9 @@
    "https://careers.jhuapl.edu/jobs/60431"
   ],
   "jibe:careers.kpmg.ca": [],
-  "jibe:careers.viasat.com": [],
+  "jibe:careers.viasat.com": [
+   "https://careers.viasat.com/jobs/10148"
+  ],
   "jobspy": [
    "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158",
    "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
@@ -8661,6 +8664,12 @@
   ]
  ],
  "stem5": true,
- "streaks": {},
+ "streaks": {
+  "netflix": [
+   1,
+   1794601757.5894525,
+   "HTTP Error 429: TOO MANY REQUESTS"
+  ]
+ },
  "urlkey2": true
 }
