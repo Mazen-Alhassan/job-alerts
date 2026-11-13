@@ -113,6 +113,7 @@
   "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us": "2026-11-13",
   "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us": "2026-11-13",
   "https://amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can": "2026-11-13",
+  "https://amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us": "2026-11-13",
   "https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc": "2026-11-13",
   "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa": "2026-10-23",
   "https://amazon.jobs/en/jobs/10564598/2027-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting": "2026-10-08",
@@ -1809,6 +1810,7 @@
   "t:amazo|operationsengineeringfieldexecutioninternspringandsummer2027cactfltx": "2026-11-13",
   "t:amazo|roboticshardwaredevelopmentengineerinterncoop2026roboticsmechanicalelectricalhardwaretestreliabilityfailureanalysisoperationsandmore": "2026-11-13",
   "t:amazo|roboticssoftwaredevelopmentengineerintern2026toronto": "2026-11-13",
+  "t:amazo|securityengineerinternship2027us": "2026-11-13",
   "t:amazo|softwaredevelopmentengineerembeddedsystemsinternamazonleosummer2027usa": "2026-11-13",
   "t:amazo|softwaredevelopmentengineerinternamazonleosummer2027usa": "2026-11-13",
   "t:amazo|softwaredevelopmentengineerinternannapurnalabs2027": "2026-11-13",
@@ -2642,6 +2644,7 @@
    "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
    "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
    "https://www.amazon.jobs/en/jobs/10553947/software-development-engineer-intern-summer-2027-can",
+   "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
    "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
    "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
    "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
@@ -8558,6 +8561,10 @@
   [
    1794529996.8958132,
    "Origin Bank - Cybersecurity Intern"
+  ],
+  [
+   1794530973.0693634,
+   "Amazon - Security Engineer Internship \u2013 2027 (US)"
   ]
  ],
  "stem5": true,
