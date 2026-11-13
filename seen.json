@@ -1046,6 +1046,7 @@
   "https://linkedin.com/jobs/view/4465079029": "2026-11-13",
   "https://linkedin.com/jobs/view/4465248410": "2026-10-28",
   "https://linkedin.com/jobs/view/4465306472": "2026-11-13",
+  "https://linkedin.com/jobs/view/4465309401": "2026-11-13",
   "https://linkedin.com/jobs/view/4465309408": "2026-10-24",
   "https://linkedin.com/jobs/view/4465318343": "2026-10-23",
   "https://linkedin.com/jobs/view/4465323302": "2026-11-13",
@@ -1329,6 +1330,7 @@
   "https://linkedin.com/jobs/view/4482713555": "2026-10-23",
   "https://linkedin.com/jobs/view/4482714601": "2026-10-23",
   "https://linkedin.com/jobs/view/4482770298": "2026-11-13",
+  "https://linkedin.com/jobs/view/4482799147": "2026-11-13",
   "https://linkedin.com/jobs/view/4482869637": "2026-10-24",
   "https://linkedin.com/jobs/view/4482875555": "2026-11-13",
   "https://linkedin.com/jobs/view/4483088272": "2026-10-30",
@@ -1569,6 +1571,9 @@
   "https://linkedin.com/jobs/view/4490711552": "2026-11-13",
   "https://linkedin.com/jobs/view/4490712583": "2026-11-13",
   "https://linkedin.com/jobs/view/4490719151": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490735822": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490738814": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490745338": "2026-11-13",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165636": "2026-10-17",
   "https://lockheedmartin.eightfold.ai/careers/job/996477222668": "2026-10-14",
@@ -2337,6 +2342,7 @@
   "t:midco|2027summerinterncybersecurityundergraduate": "2026-10-23",
   "t:midla|internsecurityanalyst": "2026-11-13",
   "t:midla|securityanalystintern": "2026-11-06",
+  "t:midre|itcybersecurityintern": "2026-11-13",
   "t:minit|cybersecurityintern": "2026-11-13",
   "t:minit|cybersecurityinternsummer2027": "2026-11-12",
   "t:missi|2027cybersecurityengineeringinternsophomorejuniorsenior": "2026-11-01",
@@ -2533,6 +2539,8 @@
   "t:steel|informationsecurityinternship": "2026-11-13",
   "t:stife|informationsecurityintern": "2026-10-28",
   "t:stife|informationsecurityinternsummer2027": "2026-10-31",
+  "t:stluk|interncybersecurityonsite155453": "2026-11-13",
+  "t:stluk|interncybersecurityonsite156068": "2026-11-13",
   "t:strat|securityinternsummer2027": "2026-11-13",
   "t:stude|studentworkerinformationsecurityinternbc": "2026-11-13",
   "t:stude|studentworkersummercampcybersecuritysummercampcounselorbc": "2026-11-13",
@@ -5329,6 +5337,7 @@
    "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
    "https://www.linkedin.com/jobs/view/4465306472",
+   "https://www.linkedin.com/jobs/view/4465309401",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
    "https://www.linkedin.com/jobs/view/4465327252",
@@ -5336,19 +5345,22 @@
    "https://www.linkedin.com/jobs/view/4474557191",
    "https://www.linkedin.com/jobs/view/4482483140",
    "https://www.linkedin.com/jobs/view/4482770298",
+   "https://www.linkedin.com/jobs/view/4482799147",
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4488551593",
    "https://www.linkedin.com/jobs/view/4488567738",
    "https://www.linkedin.com/jobs/view/4488570118",
    "https://www.linkedin.com/jobs/view/4488581313",
-   "https://www.linkedin.com/jobs/view/4490512968",
    "https://www.linkedin.com/jobs/view/4490529074",
    "https://www.linkedin.com/jobs/view/4490546766",
    "https://www.linkedin.com/jobs/view/4490552169",
    "https://www.linkedin.com/jobs/view/4490563000",
    "https://www.linkedin.com/jobs/view/4490711552",
    "https://www.linkedin.com/jobs/view/4490712583",
-   "https://www.linkedin.com/jobs/view/4490719151"
+   "https://www.linkedin.com/jobs/view/4490719151",
+   "https://www.linkedin.com/jobs/view/4490735822",
+   "https://www.linkedin.com/jobs/view/4490738814",
+   "https://www.linkedin.com/jobs/view/4490745338"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8462,12 +8474,8 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-13 10",
+ "heartbeat": "2026-11-13 12",
  "recent": [
-  [
-   1794493580.2658236,
-   "Genentech - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
-  ],
   [
    1794498853.4120727,
    "Roche - Cybersecurity & Digital Solution Assistant Engineer Intern (12 months)"
@@ -8571,6 +8579,18 @@
   [
    1794587099.3576946,
    "Trace3 - Security Intern"
+  ],
+  [
+   1794589383.5813665,
+   "St. Luke's Health System - Intern-Cyber Security (On-site)   -   155453"
+  ],
+  [
+   1794589383.581369,
+   "Midrex Technologies, Inc. - IT Cyber Security Intern"
+  ],
+  [
+   1794589383.5813699,
+   "St. Luke's Health System - Intern-Cyber Security (On-site)   -   156068"
   ]
  ],
  "stem5": true,
