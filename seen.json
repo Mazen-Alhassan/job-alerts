@@ -942,6 +942,7 @@
   "https://linkedin.com/jobs/view/4369879280": "2026-10-23",
   "https://linkedin.com/jobs/view/4393994090": "2026-10-30",
   "https://linkedin.com/jobs/view/4407968215": "2026-11-12",
+  "https://linkedin.com/jobs/view/4409456704": "2026-11-13",
   "https://linkedin.com/jobs/view/4414643630": "2026-11-13",
   "https://linkedin.com/jobs/view/4435857047": "2026-11-13",
   "https://linkedin.com/jobs/view/4447213336": "2026-10-25",
@@ -2346,6 +2347,7 @@
   "t:mitre|embeddedsecurityinternelectronicsprototype": "2026-11-13",
   "t:mitre|embeddedsecurityphdintern": "2026-11-05",
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-11-13",
+  "t:mobil|securitytechniciandodskillbridgeintern": "2026-11-13",
   "t:molin|cybersecurityinternshipremotesummer2027undergraduate": "2026-11-06",
   "t:molin|cybersecurityinternshipremoteundergraduate": "2026-11-05",
   "t:monol|securityanalystintern": "2026-11-13",
@@ -5319,6 +5321,7 @@
    "https://www.linkedin.com/jobs/view/4490712583"
   ],
   "li-search": [
+   "https://www.linkedin.com/jobs/view/4409456704",
    "https://www.linkedin.com/jobs/view/4457049227",
    "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
@@ -8466,10 +8469,6 @@
  "heartbeat": "2026-11-13 08",
  "recent": [
   [
-   1794482294.541971,
-   "Medpace - Information Security Intern"
-  ],
-  [
    1794488968.2646613,
    "Meta - Enterprise Security Engineer, Intern (Summer 2027)"
   ],
@@ -8572,6 +8571,10 @@
   [
    1794573849.3450363,
    "Fujitsu - Research Intern, AI Security - FRA"
+  ],
+  [
+   1794579315.7492526,
+   "Mobile Communications America - Security Technician - DoD SkillBridge Intern"
   ]
  ],
  "stem5": true,
