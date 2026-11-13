@@ -610,6 +610,7 @@
   "https://go.vansh.nyc/1xi": "2026-11-13",
   "https://go.vansh.nyc/1xr": "2026-11-13",
   "https://go.vansh.nyc/1xs": "2026-11-13",
+  "https://go.vansh.nyc/1yN": "2026-11-13",
   "https://go.vansh.nyc/1yr": "2026-11-13",
   "https://go.vansh.nyc/1yv": "2026-11-13",
   "https://go.vansh.nyc/1yy": "2026-11-13",
@@ -5913,6 +5914,7 @@
    "https://go.vansh.nyc/1xi",
    "https://go.vansh.nyc/1xr",
    "https://go.vansh.nyc/1xs",
+   "https://go.vansh.nyc/1yN",
    "https://go.vansh.nyc/1yr",
    "https://go.vansh.nyc/1yv",
    "https://go.vansh.nyc/1yy"
@@ -6436,7 +6438,9 @@
   "wd+:att/ATTGeneral": [],
   "wd+:att/attcollege": [],
   "wd+:auroragov/careers": [],
-  "wd+:austalusa/austal": [],
+  "wd+:austalusa/austal": [
+   "https://austalusa.wd1.myworkdayjobs.com/en-US/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221"
+  ],
   "wd+:austincc/external": [],
   "wd+:austintexas/COA_Careers": [],
   "wd+:autodesk/Ext": [],
@@ -7610,9 +7614,7 @@
   ],
   "wd+:papernest/external_careers_global": [],
   "wd+:parexel/Parexel_External_Careers": [],
-  "wd+:parsons/search": [
-   "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/SA---Riyadh/Cybersecurity-Intern--Saudi-National-_R188377"
-  ],
+  "wd+:parsons/search": [],
   "wd+:patientfirst/patientfirst": [],
   "wd+:pattersoncompanies/PDCO": [],
   "wd+:pattersoncompanies/pdco": [],
