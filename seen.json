@@ -1552,6 +1552,7 @@
   "https://linkedin.com/jobs/view/4490378093": "2026-11-12",
   "https://linkedin.com/jobs/view/4490512968": "2026-11-13",
   "https://linkedin.com/jobs/view/4490529074": "2026-11-13",
+  "https://linkedin.com/jobs/view/4490546766": "2026-11-13",
   "https://linkedin.com/jobs/view/4490552169": "2026-11-13",
   "https://linkedin.com/jobs/view/4490563000": "2026-11-13",
   "https://llnl.gov/join-our-team/careers/find-your-job/all/all/3743990016165586": "2026-10-17",
@@ -2572,6 +2573,7 @@
   "t:trade|summer2027cybersecurityinternship": "2026-11-13",
   "t:twosi|securityoperationsintern": "2026-11-13",
   "t:uhsph|informationsecurityanalystintern": "2026-10-28",
+  "t:uhs|informationsecurityanalystintern": "2026-11-13",
   "t:ukg|globalsecurityinternshipsummer2027": "2026-11-07",
   "t:ulsol|2027summerinterncybersecurityintern": "2026-11-13",
   "t:unite|cybersecuritydevelopmentprograminternship": "2026-11-07",
@@ -5332,7 +5334,9 @@
    "https://www.linkedin.com/jobs/view/4490074741",
    "https://www.linkedin.com/jobs/view/4490512968",
    "https://www.linkedin.com/jobs/view/4490529074",
-   "https://www.linkedin.com/jobs/view/4490552169"
+   "https://www.linkedin.com/jobs/view/4490546766",
+   "https://www.linkedin.com/jobs/view/4490552169",
+   "https://www.linkedin.com/jobs/view/4490563000"
   ],
   "linkedin": [
    "https://www.linkedin.com/jobs/view/4466490279",
@@ -8452,7 +8456,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-12 18",
+ "heartbeat": "2026-11-12 20",
  "recent": [
   [
    1794448680.9299798,
@@ -8565,6 +8569,10 @@
   [
    1794530973.0693634,
    "Amazon - Security Engineer Internship \u2013 2027 (US)"
+  ],
+  [
+   1794531824.9370582,
+   "UHS - Information Security Analyst Intern*"
   ]
  ],
  "stem5": true,
