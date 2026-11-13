@@ -1128,7 +1128,7 @@
   "https://linkedin.com/jobs/view/4474322897": "2026-10-24",
   "https://linkedin.com/jobs/view/4474338050": "2026-10-24",
   "https://linkedin.com/jobs/view/4474340478": "2026-10-23",
-  "https://linkedin.com/jobs/view/4474355810": "2026-10-24",
+  "https://linkedin.com/jobs/view/4474355810": "2026-11-13",
   "https://linkedin.com/jobs/view/4474360100": "2026-10-24",
   "https://linkedin.com/jobs/view/4474456431": "2026-10-17",
   "https://linkedin.com/jobs/view/4474496328": "2026-10-27",
@@ -5316,18 +5316,19 @@
   "lever:zoox": [],
   "lever:zopa": [],
   "lever:zushealth": [],
-  "li-companies": [],
+  "li-companies": [
+   "https://www.linkedin.com/jobs/view/4482483140",
+   "https://www.linkedin.com/jobs/view/4490712583"
+  ],
   "li-search": [
    "https://www.linkedin.com/jobs/view/4409456704",
    "https://www.linkedin.com/jobs/view/4457049227",
    "https://www.linkedin.com/jobs/view/4463925611",
    "https://www.linkedin.com/jobs/view/4464119093",
-   "https://www.linkedin.com/jobs/view/4465079029",
    "https://www.linkedin.com/jobs/view/4465323302",
    "https://www.linkedin.com/jobs/view/4465324343",
    "https://www.linkedin.com/jobs/view/4465327252",
-   "https://www.linkedin.com/jobs/view/4473505428",
-   "https://www.linkedin.com/jobs/view/4473967974",
+   "https://www.linkedin.com/jobs/view/4474355810",
    "https://www.linkedin.com/jobs/view/4474557191",
    "https://www.linkedin.com/jobs/view/4482483140",
    "https://www.linkedin.com/jobs/view/4482770298",
@@ -8459,7 +8460,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-13 08",
+ "heartbeat": "2026-11-13 10",
  "recent": [
   [
    1794488968.2646613,
