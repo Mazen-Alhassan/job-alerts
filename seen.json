@@ -388,6 +388,7 @@
   "https://cmu.wd115.myworkdayjobs.com/cmu/job/pittsburgh-pa/cybersecurity-engineer-intern--spring-2027-_2025347": "2026-11-14",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199-1": "2026-10-10",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200-1": "2026-10-10",
+  "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/cyber-ai-engineering-intern--spring-2027-_2025346-2": "2026-11-14",
   "https://cmu.wd115.myworkdayjobs.com/sei/job/pittsburgh-pa/cybersecurity-engineer-intern--spring-2027-_2025347-1": "2026-11-14",
   "https://cna.wd1.myworkdayjobs.com/cna_careers/job/chicago-il-usa/technology-internship-program--cybersecurity-_r-8130-1": "2026-11-14",
   "https://cnoinc.wd5.myworkdayjobs.com/careers/job/carmel-in/cyber-security-it-intern---remote_jr170419": "2026-11-03",
@@ -2034,6 +2035,7 @@
   "t:cares|cybersecurityintern": "2026-11-10",
   "t:carne|cyberaiengineeringintern": "2026-11-14",
   "t:carne|cyberaiengineeringinternspring2027": "2026-11-14",
+  "t:carne|cyberaiengineerintern": "2026-11-14",
   "t:carne|cyberrangedevelopmentintern": "2026-11-06",
   "t:carne|cybersecurityengineerintern": "2026-11-14",
   "t:carne|cybersecurityengineerinternspring2027": "2026-11-14",
@@ -5415,6 +5417,7 @@
    "https://www.linkedin.com/jobs/view/4482799147",
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4487894319",
+   "https://www.linkedin.com/jobs/view/4488955925",
    "https://www.linkedin.com/jobs/view/4488959804",
    "https://www.linkedin.com/jobs/view/4488968968",
    "https://www.linkedin.com/jobs/view/4488973606",
@@ -5948,7 +5951,9 @@
   "shopify-page": [
    "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856"
   ],
-  "simplify": [],
+  "simplify": [
+   "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2"
+  ],
   "simplify-vansh": [
    "https://go.vansh.nyc/1oC",
    "https://go.vansh.nyc/1oR",
@@ -8561,22 +8566,6 @@
  "heartbeat": "2026-11-14 02",
  "recent": [
   [
-   1794527316.6949418,
-   "Muon Space - Security Engineering Intern"
-  ],
-  [
-   1794529996.8958132,
-   "Origin Bank - Cybersecurity Intern"
-  ],
-  [
-   1794530973.0693634,
-   "Amazon - Security Engineer Internship \u2013 2027 (US)"
-  ],
-  [
-   1794531824.9370582,
-   "UHS - Information Security Analyst Intern*"
-  ],
-  [
    1794550338.8559682,
    "Jobs at UHS - Information Security Analyst Intern"
   ],
@@ -8711,6 +8700,10 @@
   [
    1794618953.6092265,
    "Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - East"
+  ],
+  [
+   1794643579.6561437,
+   "Carnegie Mellon University - Cyber AI Engineer Intern"
   ]
  ],
  "stem5": true,
