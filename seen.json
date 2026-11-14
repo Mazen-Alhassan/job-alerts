@@ -143,6 +143,7 @@
   "https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027": "2026-11-14",
   "https://amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services": "2026-11-14",
   "https://amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027": "2026-11-11",
+  "https://amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast": "2026-11-14",
   "https://amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto": "2026-11-13",
   "https://amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more": "2026-11-14",
   "https://americancentury.wd5.myworkdayjobs.com/americancenturyinvestments/job/kansas-city-missouri/cybersecurity-intern_r0005729": "2026-11-01",
@@ -1864,6 +1865,7 @@
   "t:amazo|databaseengineerinternsummer2027": "2026-11-14",
   "t:amazo|datacenterengineeringoperationstechnicianinternship": "2026-11-11",
   "t:amazo|datacenterinfrastructureengineerinternsummer2027midwestsoutheast": "2026-11-14",
+  "t:amazo|datacenterinfrastructureengineerinternsummer2027westcoast": "2026-11-14",
   "t:amazo|dataengineerinternship2027us": "2026-11-14",
   "t:amazo|hardwaredevelopmentengineerinterncooprobotics2027": "2026-11-14",
   "t:amazo|hardwaredevelopmentengineerinternsummer2027": "2026-11-14",
@@ -2747,7 +2749,7 @@
    "https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast",
    "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
    "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
-   "https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more"
+   "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast"
   ],
   "apple": [
    "https://jobs.apple.com/en-us/details/200663968/hardware-technologies-undergrad-engineering-internships",
@@ -8719,6 +8721,10 @@
   [
    1794615664.7502563,
    "Software Engineering Institute | Carnegie Mellon University - Cyber AI Engineering Intern "
+  ],
+  [
+   1794617775.0696094,
+   "Amazon - Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast"
   ]
  ],
  "stem5": true,
