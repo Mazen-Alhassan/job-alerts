@@ -1589,6 +1589,7 @@
   "https://linkedin.com/jobs/view/4489148678": "2026-11-10",
   "https://linkedin.com/jobs/view/4489159882": "2026-11-11",
   "https://linkedin.com/jobs/view/4489194777": "2026-11-11",
+  "https://linkedin.com/jobs/view/4489336455": "2026-11-14",
   "https://linkedin.com/jobs/view/4489427294": "2026-11-11",
   "https://linkedin.com/jobs/view/4489602771": "2026-11-11",
   "https://linkedin.com/jobs/view/4489619551": "2026-11-11",
@@ -2415,6 +2416,7 @@
   "t:mitre|embeddedsecurityphdintern": "2026-11-05",
   "t:mitre|internshipsincybersecurityandinformationsecurity": "2026-11-14",
   "t:mobil|securitytechniciandodskillbridgeintern": "2026-11-14",
+  "t:mohel|itsecurityintern": "2026-11-14",
   "t:molin|cybersecurityinternshipremotesummer2027undergraduate": "2026-11-14",
   "t:molin|cybersecurityinternshipremoteundergraduate": "2026-11-05",
   "t:monol|securityanalystintern": "2026-11-14",
@@ -5425,9 +5427,9 @@
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4487894319",
    "https://www.linkedin.com/jobs/view/4488955925",
-   "https://www.linkedin.com/jobs/view/4488959804",
-   "https://www.linkedin.com/jobs/view/4488973606",
+   "https://www.linkedin.com/jobs/view/4488968968",
    "https://www.linkedin.com/jobs/view/4488986319",
+   "https://www.linkedin.com/jobs/view/4489336455",
    "https://www.linkedin.com/jobs/view/4489824880",
    "https://www.linkedin.com/jobs/view/4489845053",
    "https://www.linkedin.com/jobs/view/4490711552",
@@ -8572,10 +8574,6 @@
  "heartbeat": "2026-11-14 06",
  "recent": [
   [
-   1794557745.4548686,
-   "State Street - Cyber Security Operations Center Analyst Intern"
-  ],
-  [
    1794565244.1981404,
    "HDR - Information Communication Technology (ICT)/Security Intern (Summer 2027)"
   ],
@@ -8710,6 +8708,10 @@
   [
    1794649987.681343,
    "Amway - ISR Vulnerability Management Intern, Summer 2027 (REQ#43466)"
+  ],
+  [
+   1794657635.3876376,
+   "MOHELA - IT Security Intern"
   ]
  ],
  "stem5": true,
