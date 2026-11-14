@@ -944,6 +944,7 @@
   "https://jobs.smartrecruiters.com/wellmarkinc/744000152694203": "2026-11-14",
   "https://jobs.valleychildrens.org/student-intern-it-security-spring/job/9e4d33ce05548c5567d1347d614aa8f3": "2026-11-06",
   "https://joinbytedance.com/search/7625759034518128901": "2026-11-01",
+  "https://kaiserpermanentejobs.org/job/-/-/641/103276809584": "2026-11-14",
   "https://kei.wd1.myworkdayjobs.com/globalkimballcareers/job/kimball-electronics-corporate-headquarters/cybersecurity-intern_r20261495": "2026-10-15",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-defense-associate_r-67301-1": "2026-11-10",
   "https://kyndryl.wd5.myworkdayjobs.com/kyndrylearlycareers/job/dallas-usdalfri-frisco-ai-hub/early-career-consult-program---cybersecurity-engineer_r-67304-1": "2026-11-13",
@@ -2318,6 +2319,7 @@
   "t:johns|informationtechnologysecurityrotationalinternship2027": "2026-10-25",
   "t:johns|reverseengineerinternoffensivecybercapabilities": "2026-11-14",
   "t:jshel|juniorforensicengineeringinternship6monthcontract": "2026-11-04",
+  "t:kaise|cybersecuritymastersintern": "2026-11-14",
   "t:kimba|cybersecurityintern": "2026-11-10",
   "t:kinax|coopinternapplicationsecurityanalyst": "2026-10-27",
   "t:kings|istcybersecuritycoopstudent": "2026-11-14",
@@ -4964,6 +4966,7 @@
    "https://jobs.smartrecruiters.com/ServiceNow/744000161592688-security-engineer-intern",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161594258-ai-identity-intern",
    "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091",
+   "https://www.kaiserpermanentejobs.org/job/-/-/641/103276809584",
    "https://www.paycomonline.net/v4/ats/web.php/portal/28CB68680890F39122801E347795B90C/jobs/227244"
   ],
   "jobvite:aarete": [],
@@ -8704,6 +8707,10 @@
   [
    1794643579.6561437,
    "Carnegie Mellon University - Cyber AI Engineer Intern"
+  ],
+  [
+   1794643771.690405,
+   "Kaiser Permanente - Cybersecurity Master's Intern"
   ]
  ],
  "stem5": true,
