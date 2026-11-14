@@ -4958,6 +4958,7 @@
    "https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Chicago-IL/AI-Security-Intern_26_09083",
    "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
    "https://cmu.wd115.myworkdayjobs.com/en-US/CMU/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347",
+   "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Cybersecurity-Engineer-Intern--Spring-2027-_2025347-1",
    "https://jobs.dayforcehcm.com/en-CA/kingston/CANDIDATEPORTAL/jobs/575",
    "https://jobs.hollister.com/Hollister/job/Libertyville-Cybersecurity-Intern-%282027%29-IL-60048-3781/1450580400/",
    "https://jobs.smartrecruiters.com/ServiceNow/744000161547661-security-engineering-automation-intern-",
@@ -8566,7 +8567,7 @@
    "t:sunli|studentsoftwareengineersecuritywinter2027"
   ]
  },
- "heartbeat": "2026-11-14 02",
+ "heartbeat": "2026-11-14 04",
  "recent": [
   [
    1794550338.8559682,
@@ -8714,12 +8715,6 @@
   ]
  ],
  "stem5": true,
- "streaks": {
-  "netflix": [
-   1,
-   1794646314.6302462,
-   "HTTP Error 429: TOO MANY REQUESTS"
-  ]
- },
+ "streaks": {},
  "urlkey2": true
 }
