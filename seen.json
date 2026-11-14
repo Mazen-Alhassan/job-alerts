@@ -1085,6 +1085,7 @@
   "https://linkedin.com/jobs/view/4465513920": "2026-10-29",
   "https://linkedin.com/jobs/view/4465527875": "2026-10-29",
   "https://linkedin.com/jobs/view/4465593711": "2026-10-29",
+  "https://linkedin.com/jobs/view/4465809781": "2026-11-14",
   "https://linkedin.com/jobs/view/4465811689": "2026-10-24",
   "https://linkedin.com/jobs/view/4465893840": "2026-10-12",
   "https://linkedin.com/jobs/view/4465896716": "2026-10-15",
@@ -1924,6 +1925,7 @@
   "t:ameri|summer2027internshipphoenixazitsecurity": "2026-11-05",
   "t:ameri|undergraduateprogramcybersecurityaiengineerinternenterprisetechnologyservices": "2026-11-09",
   "t:amtra|summer2027dtphysicalsecuritysystemsintern90413063": "2026-11-03",
+  "t:amway|isrvulnerabilitymanagementinternsummer2027req43466": "2026-11-14",
   "t:andur|2027newgradinformationsecurityengineer": "2026-11-14",
   "t:appia|informationsecurityengineerintern": "2026-11-14",
   "t:apple|2027summerinterninformationsecurity": "2026-11-13",
@@ -5413,6 +5415,7 @@
    "https://www.linkedin.com/jobs/view/4464699873",
    "https://www.linkedin.com/jobs/view/4465309408",
    "https://www.linkedin.com/jobs/view/4465318343",
+   "https://www.linkedin.com/jobs/view/4465809781",
    "https://www.linkedin.com/jobs/view/4474322897",
    "https://www.linkedin.com/jobs/view/4474340478",
    "https://www.linkedin.com/jobs/view/4474355810",
@@ -5424,8 +5427,6 @@
    "https://www.linkedin.com/jobs/view/4482875555",
    "https://www.linkedin.com/jobs/view/4487894319",
    "https://www.linkedin.com/jobs/view/4488955925",
-   "https://www.linkedin.com/jobs/view/4488959804",
-   "https://www.linkedin.com/jobs/view/4488968968",
    "https://www.linkedin.com/jobs/view/4488973606",
    "https://www.linkedin.com/jobs/view/4488986319",
    "https://www.linkedin.com/jobs/view/4489824880",
@@ -8572,14 +8573,6 @@
  "heartbeat": "2026-11-14 04",
  "recent": [
   [
-   1794550338.8559682,
-   "Jobs at UHS - Information Security Analyst Intern"
-  ],
-  [
-   1794551722.9989328,
-   "State Street - Cyber Security Operations Center Analyst, Full-time Internship (Jan - June "
-  ],
-  [
    1794557745.4548686,
    "State Street - Cyber Security Operations Center Analyst Intern"
   ],
@@ -8714,6 +8707,10 @@
   [
    1794643771.690405,
    "Kaiser Permanente - Cybersecurity Master's Intern"
+  ],
+  [
+   1794649987.681343,
+   "Amway - ISR Vulnerability Management Intern, Summer 2027 (REQ#43466)"
   ]
  ],
  "stem5": true,
